@@ -1,0 +1,119 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[hidelinks]{hyperref}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage[utf8]{inputenc}
+\usepackage{etoolbox}
+\usepackage{fullpage}
+\renewcommand*\contentsname{Indice}
+\renewcommand*\figurename{Fig.}
+\usepackage{setspace}
+\usepackage{parskip}
+\usepackage{subfigure}
+\usepackage{amsmath}
+
+
+\makeatletter
+\patchcmd\l@section{%
+  \nobreak\hfil\nobreak
+}{%
+  \nobreak
+  \leaders\hbox{%
+    $\m@th \mkern \@dotsep mu\hbox{.}\mkern \@dotsep mu$%
+  }%
+  \hfill
+  \nobreak
+}{}{\errmessage{\noexpand\l@section could not be patched}}
+\makeatother
+
+\setcounter{secnumdepth}{0}
+
+% un po' di estetica...
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\setlength{\headsep}{0.35in}
+\let\MakeUppercase\relax
+
+% blocchi di codice
+\usepackage{listings}
+\lstset{
+	breaklines=true, 
+	frame=single, 
+	numbers=left,
+	tabsize=2,
+	basicstyle=\scriptsize,
+	showstringspaces=false
+}
+
+\setlength{\parindent}{2em}
+\setlength{\parskip}{0.5em}
+\renewcommand{\baselinestretch}{1.5}
+
+\fancyhf{} % clear all fields
+\fancyfoot[C]{\thepage}
+
+\frenchspacing
+
+\begin{document}
+
+\begin{titlepage}
+\noindent
+    \vspace*{5mm}
+	\begin{minipage}[t]{0.15\textwidth}
+	    \vspace*{5mm}
+		\vspace{-3.5mm}{\includegraphics[scale=1.8]{img/logo_bicocca.png}}
+	\end{minipage}
+	\hspace{1cm}
+	\begin{minipage}[t]{0.9\textwidth}
+	      \vspace*{5mm}
+		{
+			\setstretch{1.42}
+			{\textsc{Università degli Studi di Milano - Bicocca} } \\
+			\textbf{Scuola di Scienze} \\
+			\textbf{Dipartimento di Informatica, Sistemistica e Comunicazione} \\
+			\textbf{Corso di Laurea Magistrale in Informatica} \\
+			\par
+		}
+	\end{minipage}
+	
+	\vspace{42mm}
+
+\begin{center}
+    {\LARGE{
+	    	\setstretch{2}
+            \textbf{
+            	Tecniche di Record Linkage \\ }
+    }}        
+\end{center}
+
+\vspace{40mm}
+	
+	
+	\begin{flushright}
+		\setstretch{1.3}
+		\large{Alberici Federico - 808058\\} 
+		\large{Bettini Ivo Junior - 806878\\} 
+		\large{Cocca Umberto - 807191\\} 
+		\large{Traversa Silvia - 816435} 
+	\end{flushright}
+	
+	\vspace{15mm}
+	\begin{center}
+		{\large{\bf Anno Accademico 2019 - 2020}}
+	\end{center}
+
+
+\renewcommand{\baselinestretch}{1.5}
+
+\end{titlepage}
+
+\tableofcontents
+
+\newpage
+
+\section{Stato dell'arte} %va bene chiamarlo così? ahah
+
+\section{Esperimenti}
+
+\end{document}
