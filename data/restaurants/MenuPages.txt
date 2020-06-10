@@ -644,7 +644,7 @@ MenuPages	Brasserie 	8 1/29 W 57th St | Btwn 5th & 6th Ave
 MenuPages	Brasserie 	360200 E 60th St | At 3rd Ave							
 MenuPages	Brasserie 	4444 W 44th St | Btwn 5th & 6th Ave							
 MenuPages	Brasserie at Cafe Gray	10 Columbus Circle | At 60th St							
-MenuPages	Brasserie Athenée	300 W 46th St | At 8th Ave							
+MenuPages	Brasserie AthenÃ©e	300 W 46th St | At 8th Ave							
 MenuPages	Brasserie Cognac	1740 Broadway | At 55th St							
 MenuPages	Brasserie Julien	1422 3rd Ave | Btwn 80th & 81st St							
 MenuPages	Brasserie Ruhlmann	45 Rockefeller Plaza | At 50th St Btwn 5th & 6th Ave							
@@ -6533,7 +6533,7 @@ MenuPages	Brasserie 	4444 W 44th St | Btwn 5th & 6th Ave
 MenuPages	Brasserie 	52772 9th Ave | Btwn 51st & 52nd St
 MenuPages	Brasserie 	8 1/29 W 57th St | Btwn 5th & 6th Ave
 MenuPages	Brasserie at Cafe Gray	10 Columbus Circle | At 60th St
-MenuPages	Brasserie Athenée	300 W 46th St | At 8th Ave
+MenuPages	Brasserie AthenÃ©e	300 W 46th St | At 8th Ave
 MenuPages	Brasserie Cognac	1740 Broadway | At 55th St
 MenuPages	Brasserie Julien	1422 3rd Ave | Btwn 80th & 81st St
 MenuPages	Brasserie Ruhlmann	45 Rockefeller Plaza | At 50th St Btwn 5th & 6th Ave
@@ -12336,7 +12336,7 @@ MenuPages	Brasserie 	8 1/29 W 57th St 0 Btwn 5th & 6th Ave
 MenuPages	Brasserie 	360200 E 60th St 0 At 3rd Ave	
 MenuPages	Brasserie 	4444 W 44th St 0 Btwn 5th & 6th Ave	
 MenuPages	Brasserie at Cafe Gray	10 Columbus Circle 0 At 60th St	
-MenuPages	Brasserie Athenée	300 W 46th St 0 At 8th Ave	
+MenuPages	Brasserie AthenÃ©e	300 W 46th St 0 At 8th Ave	
 MenuPages	Brasserie Cognac	1740 Broadway 0 At 55th St	
 MenuPages	Brasserie Julien	1422 3rd Ave 0 Btwn 80th & 81st St	
 MenuPages	Brasserie Ruhlmann	45 Rockefeller Plaza 0 At 50th St Btwn 5th & 6th Ave	
@@ -18192,7 +18192,7 @@ MenuPages	Brasserie 	8 1/29 W 57th St 0 Btwn 5th & 6th Ave
 MenuPages	Brasserie 	4444 W 44th St 0 Btwn 5th & 6th Ave		
 MenuPages	Brasserie 	52772 9th Ave 0 Btwn 51st & 52nd St		
 MenuPages	Brasserie at Cafe Gray	10 Columbus Circle 0 At 60th St		
-MenuPages	Brasserie Athenée	300 W 46th St 0 At 8th Ave		
+MenuPages	Brasserie AthenÃ©e	300 W 46th St 0 At 8th Ave		
 MenuPages	Brasserie Cognac	1740 Broadway 0 At 55th St		
 MenuPages	Brasserie Julien	1422 3rd Ave 0 Btwn 80th & 81st St		
 MenuPages	Brasserie Ruhlmann	45 Rockefeller Plaza 0 At 50th St Btwn 5th & 6th Ave		

@@ -78,7 +78,7 @@ VillageVoice	Annisa
 VillageVoice	Anthos
 VillageVoice	AOC
 VillageVoice	Apiary
-VillageVoice	AQ Caf, Scandinavia House
+VillageVoice	AQ Café, Scandinavia House
 VillageVoice	Aquagrill
 VillageVoice	Arka Lounge
 VillageVoice	Arno Ristorante
@@ -95,7 +95,7 @@ VillageVoice	August
 VillageVoice	Avra
 VillageVoice	Awash
 VillageVoice	Azuri Cafe
-VillageVoice	Azuri Caf
+VillageVoice	Azuri Café
 VillageVoice	B & H Dairy Restaurant
 VillageVoice	B. Smith Restaurant
 VillageVoice	Babbo
@@ -168,7 +168,7 @@ VillageVoice	Blue Ribbon Bakery
 VillageVoice	Blue Ribbon Brasserie
 VillageVoice	Blue Ribbon Sushi
 VillageVoice	Blue Smoke
-VillageVoice	Boat Basin Caf
+VillageVoice	Boat Basin Café
 VillageVoice	Bocca
 VillageVoice	Boi To Go
 VillageVoice	Boka
@@ -207,27 +207,27 @@ VillageVoice	C & F Restaurant
 VillageVoice	Cabrito
 VillageVoice	Cacio e Pepe
 VillageVoice	Cafe Addis
-VillageVoice	Caf Boulud
-VillageVoice	Caf Centosette
-VillageVoice	Caf con Leche
-VillageVoice	Caf con Leche
+VillageVoice	Café Boulud
+VillageVoice	Café Centosette
+VillageVoice	Café con Leche
+VillageVoice	Café con Leche
 VillageVoice	Cafe des Artistes
-VillageVoice	Caf DeVille
-VillageVoice	Caf Edison
-VillageVoice	Caf el Portal
+VillageVoice	Café DeVille
+VillageVoice	Café Edison
+VillageVoice	Café el Portal
 VillageVoice	Cafe Gitane
 VillageVoice	Cafe Habana
-VillageVoice	Caf Loup
-VillageVoice	Caf Mogador
+VillageVoice	Café Loup
+VillageVoice	Café Mogador
 VillageVoice	Cafe Orlin
-VillageVoice	Caf Rakka
+VillageVoice	Café Rakka
 VillageVoice	Cafe Sabarsky
-VillageVoice	Caf Spice
-VillageVoice	Caf Spice
-VillageVoice	Caf Spice Express
+VillageVoice	Café Spice
+VillageVoice	Café Spice
+VillageVoice	Café Spice Express
 VillageVoice	Cafe Zaiya
 VillageVoice	Cafe Zaiya
-VillageVoice	Caf Zaiya
+VillageVoice	Café Zaiya
 VillageVoice	Cafecito
 VillageVoice	Cafetasia
 VillageVoice	Caffe Emilia
@@ -240,7 +240,7 @@ VillageVoice	CamaJe
 VillageVoice	Cambodian Cuisine
 VillageVoice	Cantinetta
 VillageVoice	Cantoon Garden
-VillageVoice	Captain's Caf
+VillageVoice	Captain's Café
 VillageVoice	Caracas Arepa Bar
 VillageVoice	Caridad
 VillageVoice	Caridad La Original
@@ -255,7 +255,7 @@ VillageVoice	Casa Havana
 VillageVoice	Casa Mono
 VillageVoice	Celeste
 VillageVoice	Centovini
-VillageVoice	Centro Espaol La Nacional
+VillageVoice	Centro Español La Nacional
 VillageVoice	Centro Vinoteca
 VillageVoice	'Cesca
 VillageVoice	Cha-An
@@ -297,7 +297,7 @@ VillageVoice	Convivio
 VillageVoice	Cookout Grill
 VillageVoice	Cookshop
 VillageVoice	Copper Chimney
-VillageVoice	Cornelia Street Caf
+VillageVoice	Cornelia Street Café
 VillageVoice	Corner Shop
 VillageVoice	Cosette
 VillageVoice	Cosi
@@ -415,7 +415,7 @@ VillageVoice	El Paso
 VillageVoice	El Quijote
 VillageVoice	El Quinto Pino
 VillageVoice	El Rancho Jubilee
-VillageVoice	El Salvadoreo
+VillageVoice	El Salvadoreño
 VillageVoice	Elephant & Castle
 VillageVoice	Elettaria
 VillageVoice	eleven B.
@@ -476,7 +476,7 @@ VillageVoice	Flor de Mayo
 VillageVoice	Flor de Sol
 VillageVoice	Florence's
 VillageVoice	Food Sing 88 Corp.
-VillageVoice	Forlinis Restaurant
+VillageVoice	Forlini’s Restaurant
 VillageVoice	Franchia
 VillageVoice	Frank
 VillageVoice	Freemans
@@ -542,7 +542,7 @@ VillageVoice	Heartland Brewery
 VillageVoice	Heartland Brewery
 VillageVoice	Heartland Brewery
 VillageVoice	Hill Country
-VillageVoice	Hirokos Place
+VillageVoice	Hiroko’s Place
 VillageVoice	Hong Kong Station
 VillageVoice	House of Seafood
 VillageVoice	Hsin Wong
@@ -561,7 +561,7 @@ VillageVoice	'Ino
 VillageVoice	Ino Cafe & Wine Bar
 VillageVoice	'Inoteca
 VillageVoice	Insieme
-VillageVoice	Isabellas
+VillageVoice	Isabella’s
 VillageVoice	Ishikura Sushi
 VillageVoice	Ithaka
 VillageVoice	Ivo & Lulu
@@ -647,14 +647,14 @@ VillageVoice	Kyoto Sushi
 VillageVoice	Kyotofu
 VillageVoice	L&L Hawaiian Barbecue
 VillageVoice	L.E.S. Sushi
-VillageVoice	LArtusi
+VillageVoice	L‘Artusi
 VillageVoice	La Belle Vie
 VillageVoice	La Bergamote
 VillageVoice	La Bergamote
 VillageVoice	La Boite en Bois
 VillageVoice	La Bonne Soupe
 VillageVoice	La Bottega
-VillageVoice	La Cabana Salvadorea
+VillageVoice	La Cabana Salvadoreña
 VillageVoice	La Cantina Toscana
 VillageVoice	La Caridad 78
 VillageVoice	La Casa de Los Tacos
@@ -730,7 +730,7 @@ VillageVoice	Lucy
 VillageVoice	Lumi
 VillageVoice	Lunch Box Buffet
 VillageVoice	Lunetta
-VillageVoice	Lupes East L.A. Kitchen
+VillageVoice	Lupe’s East L.A. Kitchen
 VillageVoice	Lure Fishbar
 VillageVoice	Lusardi's
 VillageVoice	Luxee
@@ -742,7 +742,7 @@ VillageVoice	Madaleine Mae
 VillageVoice	Madangsui
 VillageVoice	Madison & Vine
 VillageVoice	Madison Bistro
-VillageVoice	Madras Caf
+VillageVoice	Madras Café
 VillageVoice	Madras Mahal
 VillageVoice	Maffei Pizza
 VillageVoice	Malatesta
@@ -765,7 +765,7 @@ VillageVoice	March
 VillageVoice	Marchi's
 VillageVoice	Maremma
 VillageVoice	Mark Joseph
-VillageVoice	Market Caf
+VillageVoice	Market Café
 VillageVoice	Market Table
 VillageVoice	Markt
 VillageVoice	Marquet Patisserie
@@ -817,7 +817,7 @@ VillageVoice	Momofuku Ko
 VillageVoice	Momofuku Milk Bar and Bakery
 VillageVoice	Momofuku Noodle Bar
 VillageVoice	Momofuku Ssam Bar
-VillageVoice	Momofuku Ssm Bar
+VillageVoice	Momofuku Ssäm Bar
 VillageVoice	Momoya
 VillageVoice	Mon Petit Cafe
 VillageVoice	Monck's Corner
@@ -833,7 +833,7 @@ VillageVoice	Mr. K's
 VillageVoice	Mr. Skewer & Co.
 VillageVoice	Mr. Tang
 VillageVoice	Mughlai
-VillageVoice	
+VillageVoice	Ñ
 VillageVoice	Naima
 VillageVoice	Nam
 VillageVoice	Nam Zhaou Hand Made Noodle and Dumpling Place
@@ -926,7 +926,7 @@ VillageVoice	Pampano
 VillageVoice	Pampano Taqueria
 VillageVoice	Pancho Magico
 VillageVoice	Panino Sportivo Roma
-VillageVoice	Po!
+VillageVoice	Pão!
 VillageVoice	Paola's
 VillageVoice	Papatzul
 VillageVoice	Paradou
@@ -1083,7 +1083,7 @@ VillageVoice	Serendipity 3
 VillageVoice	Servants of God/A Taste of Seafood
 VillageVoice	Shabu-Tatsu Downtown
 VillageVoice	Shake Shack
-VillageVoice	Shanghai Caf
+VillageVoice	Shanghai Café
 VillageVoice	Shanghai Cuisine
 VillageVoice	Sharaku
 VillageVoice	Sheng Wang
@@ -1092,7 +1092,7 @@ VillageVoice	Shinbashi
 VillageVoice	Sigiri
 VillageVoice	Silver Spurs
 VillageVoice	Silver Spurs
-VillageVoice	Singapore Caf
+VillageVoice	Singapore Café
 VillageVoice	Singas Famous Pizza
 VillageVoice	Sirtaj
 VillageVoice	Skylight Diner
@@ -1126,7 +1126,7 @@ VillageVoice	Steak Frites
 VillageVoice	Stout NYC
 VillageVoice	Strip House
 VillageVoice	Suba
-VillageVoice	Sueos
+VillageVoice	Sueños
 VillageVoice	Sugar Sweet Sunshine Bakery
 VillageVoice	Sukhadia's Gokul Indian Gourmet
 VillageVoice	Sumile
@@ -1221,7 +1221,7 @@ VillageVoice	Ulysses
 VillageVoice	Una Pizza Napoletana
 VillageVoice	Uncle Nick's
 VillageVoice	Union Square Cafe
-VillageVoice	Urea
+VillageVoice	Ureña
 VillageVoice	Ushiwakamaru
 VillageVoice	Vanessa's Dumplings
 VillageVoice	Vegetarian Dim Sum House
@@ -1230,7 +1230,7 @@ VillageVoice	Veritas
 VillageVoice	Veselka
 VillageVoice	Via Emilia
 VillageVoice	Viceroy
-VillageVoice	Viet Caf
+VillageVoice	Viet Café
 VillageVoice	Village Mingala
 VillageVoice	Village Yokocho
 VillageVoice	Vintage Irving
@@ -1264,7 +1264,7 @@ VillageVoice	Xai Xai
 VillageVoice	XO Kitchen
 VillageVoice	Xunta
 VillageVoice	Yaffa Cafe
-VillageVoice	Yaffa Caf
+VillageVoice	Yaffa Café
 VillageVoice	Yakiniku West
 VillageVoice	Yakitori Taisho
 VillageVoice	Yakitori Totto
@@ -1369,7 +1369,7 @@ VillageVoice	Annisa	13 Barrow St.	Greenwich Village
 VillageVoice	Anthos	36 W 52nd St.	West 50s
 VillageVoice	AOC	314 Bleecker St.	West Village
 VillageVoice	Apiary	60 Third Ave.	East Village
-VillageVoice	AQ Caf, Scandinavia House	58 Park Ave.	Murray Hill
+VillageVoice	AQ Café, Scandinavia House	58 Park Ave.	Murray Hill
 VillageVoice	Aquagrill	210 Spring St.	Soho
 VillageVoice	Arka Lounge	4488 Broadway	Washington Heights
 VillageVoice	Arno Ristorante	141 W 38th St.	Garment District
@@ -1386,7 +1386,7 @@ VillageVoice	August	359 Bleecker St.	West Village
 VillageVoice	Avra	141 E 48th St.	East 40s
 VillageVoice	Awash	338 E 6th St.	East Village
 VillageVoice	Azuri Cafe	465 W 51st St.	West 50s
-VillageVoice	Azuri Caf	465 W 51st St.	West 50s
+VillageVoice	Azuri Café	465 W 51st St.	West 50s
 VillageVoice	B & H Dairy Restaurant	127 Seconnd Ave.	East Village
 VillageVoice	B Bar & Grill	40 E 4th St.	East Village
 VillageVoice	B. Smith Restaurant	8th Ave. & 48th St.	West 40s
@@ -1461,10 +1461,10 @@ VillageVoice	Blue Ribbon Brasserie	97 Sullivan St.	Soho
 VillageVoice	Blue Ribbon Sushi	119 Sullivan St.	Soho
 VillageVoice	Blue Smoke	116 E 27th St.	Murray Hill
 VillageVoice	Blue Water Grill	31 Union Sq W	Union Square
-VillageVoice	Boat Basin Caf	79th St.	West 70s
+VillageVoice	Boat Basin Café	79th St.	West 70s
 VillageVoice	Bocca	39 E 19th St.	Greenwich Village
 VillageVoice	Boi To Go	800 Second Avenue	East 40s
-VillageVoice	Boka	9 St. Marks Place	East Village
+VillageVoice	Boka	9 St. Mark’s Place	East Village
 VillageVoice	Bombay Talkie	189 9th Ave.	Chelsea
 VillageVoice	BonBon Chicken	98 Chambers St.	Financial District
 VillageVoice	BonChon Chicken	314 5th Ave. | 2nd Fl	Chelsea
@@ -1503,24 +1503,24 @@ VillageVoice	Cafe Addis	435 W 125th St.	Morningside Heights
 VillageVoice	Cafe Boulud	20 E 76th St.	East 70s
 VillageVoice	Cafe Centosette	160 2nd Ave.	East Village
 VillageVoice	Cafe con Leche	424 Amsterdam Ave.	West 90s
-VillageVoice	Caf con Leche	726 Amsterdam Ave.	West 90s
+VillageVoice	Café con Leche	726 Amsterdam Ave.	West 90s
 VillageVoice	Cafe des Artistes	1 W67th St.	West 60s
-VillageVoice	Caf DeVille	103 3rd Ave.	East Village
-VillageVoice	Caf Edison	228 W 47th St.	West 40s
-VillageVoice	Caf el Portal	174 Elizabeth St.	Nolita
+VillageVoice	Café DeVille	103 3rd Ave.	East Village
+VillageVoice	Café Edison	228 W 47th St.	West 40s
+VillageVoice	Café el Portal	174 Elizabeth St.	Nolita
 VillageVoice	Cafe Gitane	242 Mott St.	Little Italy
 VillageVoice	Cafe Habana	229 Elizabeth St.	Little Italy
-VillageVoice	Caf Loup	105 W 13th St.	West Village
-VillageVoice	Caf Mogador	101 St. Marks Pl.	East Village
+VillageVoice	Café Loup	105 W 13th St.	West Village
+VillageVoice	Café Mogador	101 St. Marks Pl.	East Village
 VillageVoice	Cafe Orlin	41 St. Marks Pl.	East Village
-VillageVoice	Caf Rakka	38 Ave. B	East Village
+VillageVoice	Café Rakka	38 Ave. B	East Village
 VillageVoice	Cafe Sabarsky	1048 5th Ave.	East 80s
-VillageVoice	Caf Spice	54 W 55th St.	West 50s
-VillageVoice	Caf Spice	72 University Place	Greenwich Village
-VillageVoice	Caf Spice Express	Grand Central Terminal	East 40s
+VillageVoice	Café Spice	54 W 55th St.	West 50s
+VillageVoice	Café Spice	72 University Place	Greenwich Village
+VillageVoice	Café Spice Express	Grand Central Terminal	East 40s
 VillageVoice	Cafe Zaiya	18 E 41st St.	East 40s
 VillageVoice	Cafe Zaiya	69 Cooper Square	East Village
-VillageVoice	Caf Zaiya	69 Cooper Square	East Village
+VillageVoice	Café Zaiya	69 Cooper Square	East Village
 VillageVoice	Cafecito	185 Ave. C	East Village
 VillageVoice	Cafetasia	38 E 8th St.	Greenwich Village
 VillageVoice	Cafeteria	119 7th Ave.	Chelsea
@@ -1534,7 +1534,7 @@ VillageVoice	CamaJe	85 MacDougal St.	Greenwich Village
 VillageVoice	Cambodian Cuisine	1664 Third Ave.	East 90s
 VillageVoice	Cantinetta	260 6th Ave.	West Village
 VillageVoice	Cantoon Garden	22 Elizabeth St.	Chinatown
-VillageVoice	Captain's Caf	34 East 32nd Street	Murray Hill
+VillageVoice	Captain's Café	34 East 32nd Street	Murray Hill
 VillageVoice	Caracas Arepa Bar	91 E 7th St.	East Village
 VillageVoice	Caridad	4799 Broadway	Inwood
 VillageVoice	Caridad La Original	588 Amsterdam Ave.	West 80s
@@ -1549,7 +1549,7 @@ VillageVoice	Casa Havana	190 Eighth Ave.	West Village
 VillageVoice	Casa Mono	52 Irving Pl.	Flatiron
 VillageVoice	Celeste	502 Amsterdam Ave.	West 80s
 VillageVoice	Centovini	25 W Houston St.	Soho
-VillageVoice	Centro Espaol La Nacional	239 W 14th St.	Chelsea
+VillageVoice	Centro Español La Nacional	239 W 14th St.	Chelsea
 VillageVoice	Centro Vinoteca	74 Seventh Ave. S.	West Village
 VillageVoice	'Cesca	164 W 75th St.	West 70s
 VillageVoice	Cha-An	230 E 9th St.	East Village
@@ -1714,7 +1714,7 @@ VillageVoice	El Paso	134 W. Houston St.	Greenwich Village
 VillageVoice	El Quijote	226 W. 23rd St.	Chelsea
 VillageVoice	El Quinto Pino	401 W.24th St.	Greenwich Village
 VillageVoice	El Rancho Jubilee	10 Hillside Ave.	Washington Heights
-VillageVoice	El Salvadoreo	1229 St. Nicholas Ave.	Washington Heights
+VillageVoice	El Salvadoreño	1229 St. Nicholas Ave.	Washington Heights
 VillageVoice	Elephant & Castle	68 Greenwich Ave.	West Village
 VillageVoice	Elettaria	33 W 8th St.	Chelsea
 VillageVoice	eleven B.	174 Ave. B.	East Village
@@ -1776,7 +1776,7 @@ VillageVoice	Flor de Mayo	2651 Broadway	West 100s
 VillageVoice	Flor de Sol	361 Greenwich St.	Tribeca
 VillageVoice	Florence's	2099 Frederick Douglass Blvd.	Harlem
 VillageVoice	Food Sing 88 Corp.	2 E Broadway	Financial District
-VillageVoice	Forlinis Restaurant	93 Baxter St.	Chinatown
+VillageVoice	Forlini’s Restaurant	93 Baxter St.	Chinatown
 VillageVoice	Franchia	12 Park Ave.	Murray Hill
 VillageVoice	Frank	88 Second Ave.	East Village
 VillageVoice	Freemans	Freeman Alley	Lower East Side
@@ -1842,7 +1842,7 @@ VillageVoice	Heartland Brewery	1285 Sixth Ave.	West 50s
 VillageVoice	Heartland Brewery	93 South St.	Financial District
 VillageVoice	Heartland Brewery	35 Union Square West	Union Square
 VillageVoice	Hill Country	30 W 26th St.	Chelsea
-VillageVoice	Hirokos Place	75 Thompson St.	Soho
+VillageVoice	Hiroko’s Place	75 Thompson St.	Soho
 VillageVoice	Hong Kong Station	128 Hester St.	Lower East Side
 VillageVoice	House of Seafood	2349 Eighth Ave.	Harlem
 VillageVoice	Hsin Wong	72 Bayard St.	Chinatown
@@ -1861,7 +1861,7 @@ VillageVoice	'Ino	21 Bedford St.	West Village
 VillageVoice	Ino Cafe & Wine Bar	21 Bedford St.	West Village
 VillageVoice	'Inoteca	98 Rivington St.	Lower East Side
 VillageVoice	Insieme	777 Seventh Avenue	West 50s
-VillageVoice	Isabellas	359 Columbus Ave.	West 70s
+VillageVoice	Isabella’s	359 Columbus Ave.	West 70s
 VillageVoice	Ishikura Sushi	67 First Ave.	East Village
 VillageVoice	Ithaka	308 E 86th St.	East 80s
 VillageVoice	Ivo & Lulu	558 Broome St.	Soho
@@ -1947,14 +1947,14 @@ VillageVoice	Kyoto Sushi	1240 Lexington Ave.	East 80s
 VillageVoice	Kyotofu	705 Ninth Ave.	West 40s
 VillageVoice	L&L Hawaiian Barbecue	64 Fulton St.	Financial District
 VillageVoice	L.E.S. Sushi	515 Grand St.	Lower East Side
-VillageVoice	LArtusi	228 W 10th St.	Greenwich Village
+VillageVoice	L‘Artusi	228 W 10th St.	Greenwich Village
 VillageVoice	La Belle Vie	184 Eighth Ave.	Chelsea
 VillageVoice	La Bergamote	515 W 52nd St.	West 50s
 VillageVoice	La Bergamote	169 Ninth Ave.	Chelsea
 VillageVoice	La Boite en Bois	75 W 68th St.	West 60s
 VillageVoice	La Bonne Soupe	48 W 55th St.	West 50s
 VillageVoice	La Bottega	88 Ninth Ave. | Maritime Hotel	Chelsea
-VillageVoice	La Cabana Salvadorea	4384 Broadway	Washington Heights
+VillageVoice	La Cabana Salvadoreña	4384 Broadway	Washington Heights
 VillageVoice	La Cantina Toscana	1109 First Ave.	East 60s
 VillageVoice	La Caridad 78	2199 Broadway	West 70s
 VillageVoice	La Casa de Los Tacos	2277 First Ave.	East Harlem
@@ -1979,7 +1979,7 @@ VillageVoice	La Taza de Oro	1459 Eighth Ave.	Chelsea
 VillageVoice	L'Absinthe	227 E 67th St.	East 60s
 VillageVoice	L'allegria Italian Restaurant	623 Ninth Ave.	West 40s
 VillageVoice	Landmarc	179 W Broadway	Tribeca
-VillageVoice	Lanskys Old World Deli	235 Columbus Ave.	West 70s
+VillageVoice	Lansky’s Old World Deli	235 Columbus Ave.	West 70s
 VillageVoice	Las Ramblas	170 W. Fourth St.	Greenwich Village
 VillageVoice	Lasani	15 W 29th St.	Chelsea
 VillageVoice	Lassi	28 Greenwich Ave.	West Village
@@ -2032,7 +2032,7 @@ VillageVoice	Lulu	235 Mulberry St.	Greenwich Village
 VillageVoice	Lumi	963 Lexington Ave.	East 70s
 VillageVoice	Lunch Box Buffet	195 Centre St.	Chinatown
 VillageVoice	Lunetta	920 Broadway	Flatiron
-VillageVoice	Lupes East L.A. Kitchen	110 Sixth Ave.	Tribeca
+VillageVoice	Lupe’s East L.A. Kitchen	110 Sixth Ave.	Tribeca
 VillageVoice	Lure Fishbar	142 Mercer St. | downstairs	Soho
 VillageVoice	Lusardi's	1494 Second Ave.	East 70s
 VillageVoice	Luxee	6 Clinton St.	Noho
@@ -2044,7 +2044,7 @@ VillageVoice	Madaleine Mae	461 Columbus Ave.	West 80s
 VillageVoice	Madangsui	35 W 35th St.	Garment District
 VillageVoice	Madison & Vine	299 Madison Ave. | Library Hotel	East 40s
 VillageVoice	Madison Bistro	238 Madison Ave.	Murray Hill
-VillageVoice	Madras Caf	79 2nd Ave.	East Village
+VillageVoice	Madras Café	79 2nd Ave.	East Village
 VillageVoice	Madras Mahal	104 Lexington Ave.	Murray Hill
 VillageVoice	Maffei Pizza	688 6th Ave.	Flatiron
 VillageVoice	Malatesta	649 Washington St.	West Village
@@ -2067,7 +2067,7 @@ VillageVoice	March	405 E 58th St.	East 50s
 VillageVoice	Marchi's	251 E 31st St.	Murray Hill
 VillageVoice	Maremma	228 W 10th St.	West Village
 VillageVoice	Mark Joseph	261 Water St.	Financial District
-VillageVoice	Market Caf	496 9th Ave.	Garment District
+VillageVoice	Market Café	496 9th Ave.	Garment District
 VillageVoice	Market Table	54 Carmine St.	West Village
 VillageVoice	Markt	676 6th Ave.	Chelsea
 VillageVoice	Marquet Patisserie	15 E 12th St.	East Village
@@ -2119,7 +2119,7 @@ VillageVoice	Momofuku Ko	163 1st Ave.	East Village
 VillageVoice	Momofuku Milk Bar and Bakery	207 Second Ave.	East Village
 VillageVoice	Momofuku Noodle Bar	171 1st Ave.	East Village
 VillageVoice	Momofuku Ssam Bar	207 2nd Ave.	East Village
-VillageVoice	Momofuku Ssm Bar	207 Second Ave.	East Village
+VillageVoice	Momofuku Ssäm Bar	207 Second Ave.	East Village
 VillageVoice	Momoya	185 Seventh Ave.	Chelsea
 VillageVoice	Mon Petit Cafe	801 Lexington Ave.	East 60s
 VillageVoice	Monck's Corner	644 9th Ave.	West 40s
@@ -2135,7 +2135,7 @@ VillageVoice	Mr. K's	570 Lexington Ave.	East 50s
 VillageVoice	Mr. Skewer & Co.	43 W 14th St.	Chelsea
 VillageVoice	Mr. Tang	50 Mott St.	Chinatown
 VillageVoice	Mughlai	320 Columbus Ave.	West 70s
-VillageVoice		33 Crosby St.	Tribeca
+VillageVoice	Ñ	33 Crosby St.	Tribeca
 VillageVoice	Naima	513 W 27th St.	Chelsea
 VillageVoice	Nam	110 Reade St.	Tribeca
 VillageVoice	Nam Zhaou Hand Made Noodle and Dumpling Place	144 E Broadway	Chinatown
@@ -2229,7 +2229,7 @@ VillageVoice	Pampano	209 E 49th St.	East 40s
 VillageVoice	Pampano Taqueria	805 Third Ave.	East 50s
 VillageVoice	Pancho Magico	213 Pearl St.	Financial District
 VillageVoice	Panino Sportivo Roma	1231 Amsterdam Ave.	Harlem
-VillageVoice	Po!	322 Spring St.	Soho
+VillageVoice	Pão!	322 Spring St.	Soho
 VillageVoice	Paola's	245 E 84th St.	East 80s
 VillageVoice	Papatzul	55 Grand St.	Chinatown
 VillageVoice	Paradou	8 Little W 12th St.	Meatpacking District
@@ -2388,7 +2388,7 @@ VillageVoice	Serendipity 3	225 E 60th St.	East 60s
 VillageVoice	Servants of God/A Taste of Seafood	50 E 125th St.	East Harlem
 VillageVoice	Shabu-Tatsu Downtown	216 E 10th St.	East Village
 VillageVoice	Shake Shack	23rd & Madison Ave.	Flatiron
-VillageVoice	Shanghai Caf	100 Mott St.	Chinatown
+VillageVoice	Shanghai Café	100 Mott St.	Chinatown
 VillageVoice	Shanghai Cuisine	89 Bayard St.	Chinatown
 VillageVoice	Sharaku	14 Stuyvesant St.	East Village
 VillageVoice	Sheng Wang	27 Eldridge St.	Chinatown
@@ -2397,7 +2397,7 @@ VillageVoice	Shinbashi	7 E 48th St.	East 40s
 VillageVoice	Sigiri	91 First Ave.	East Village
 VillageVoice	Silver Spurs	771 Broadway	Greenwich Village
 VillageVoice	Silver Spurs	494 La Guardia Place	Greenwich Village
-VillageVoice	Singapore Caf	69 Mott St.	Chinatown
+VillageVoice	Singapore Café	69 Mott St.	Chinatown
 VillageVoice	Singas Famous Pizza	176 Second Ave.	East Village
 VillageVoice	Sirtaj	36 W 26th St.	Flatiron
 VillageVoice	Skylight Diner	402 W 34th St.	Chelsea
@@ -2431,7 +2431,7 @@ VillageVoice	Steak Frites	225 Varick St.	Greenwich Village
 VillageVoice	Stout NYC	133 W 33rd St.	Chelsea
 VillageVoice	Strip House	13 E 12th St.	East Village
 VillageVoice	Suba	109 Ludlow St.	Lower East Side
-VillageVoice	Sueos	311 W 17th St.	Chelsea
+VillageVoice	Sueños	311 W 17th St.	Chelsea
 VillageVoice	Sugar Sweet Sunshine Bakery	126 Rivington St.	Lower East Side
 VillageVoice	Sukhadia's Gokul Indian Gourmet	17 W 45th St.	West 40s
 VillageVoice	Sumile	154 W 13th St.	West Village
@@ -2528,7 +2528,7 @@ VillageVoice	Ulysses	93 Pearl St.	Financial District
 VillageVoice	Una Pizza Napoletana	349 E 12th St.	East Village
 VillageVoice	Uncle Nick's	747 Ninth Ave.	West 50s
 VillageVoice	Union Square Cafe	21 E 16th St.	Union Square
-VillageVoice	Urea	37 E 28th St.	Murray Hill
+VillageVoice	Ureña	37 E 28th St.	Murray Hill
 VillageVoice	Ushiwakamaru	136 W Houston St.	Greenwich Village
 VillageVoice	Vanessa's Dumplings	220 E. 14th St.	East Village
 VillageVoice	Vegetarian Dim Sum House	24 Pell St.	Chinatown
@@ -2537,7 +2537,7 @@ VillageVoice	Veritas	43 E 20th St.	Flatiron
 VillageVoice	Veselka	144 2nd Ave.	East Village
 VillageVoice	Via Emilia	47 E 21st St.	Flatiron
 VillageVoice	Viceroy	160 8th Ave.	Chelsea
-VillageVoice	Viet Caf	345 Greenwich St.	Tribeca
+VillageVoice	Viet Café	345 Greenwich St.	Tribeca
 VillageVoice	Village Mingala	21 E 7th St.	East Village
 VillageVoice	Village Yokocho	8 Stuyvesant St.	East Village
 VillageVoice	Vintage Irving	120 E15th St.	Union Square
@@ -2572,7 +2572,7 @@ VillageVoice	Xai Xai	365 W. 51st St.	West 50s
 VillageVoice	XO Kitchen	148 Hester St.	Soho
 VillageVoice	Xunta	174 First Ave.	East Village
 VillageVoice	Yaffa Cafe	97 St. Marks Place	East Village
-VillageVoice	Yaffa Caf	97 St. Marks Pl.	East Village
+VillageVoice	Yaffa Café	97 St. Marks Pl.	East Village
 VillageVoice	Yakiniku West	218 E 9th St.	East Village
 VillageVoice	Yakitori Taisho	5 Saint Marks Pl.	East Village
 VillageVoice	Yakitori Totto	251 W 55th St.	West 50s
@@ -2678,7 +2678,7 @@ VillageVoice	Annisa	13 Barrow St.	Greenwich Village
 VillageVoice	Anthos	36 W 52nd St.	West 50s
 VillageVoice	AOC	314 Bleecker St.	West Village
 VillageVoice	Apiary	60 Third Ave.	East Village
-VillageVoice	AQ Caf, Scandinavia House	58 Park Ave.	Murray Hill
+VillageVoice	AQ Café, Scandinavia House	58 Park Ave.	Murray Hill
 VillageVoice	Aquagrill	210 Spring St.	Soho
 VillageVoice	Arka Lounge	4488 Broadway	Washington Heights
 VillageVoice	Arno Ristorante	141 W 38th St.	Garment District
@@ -2695,7 +2695,7 @@ VillageVoice	August	359 Bleecker St.	West Village
 VillageVoice	Avra	141 E 48th St.	East 40s
 VillageVoice	Awash	338 E 6th St.	East Village
 VillageVoice	Azuri Cafe	465 W 51st St.	West 50s
-VillageVoice	Azuri Caf	465 W 51st St.	West 50s
+VillageVoice	Azuri Café	465 W 51st St.	West 50s
 VillageVoice	B & H Dairy Restaurant	127 Seconnd Ave.	East Village
 VillageVoice	B Bar & Grill	40 E 4th St.	East Village
 VillageVoice	B. Smith Restaurant	8th Ave. & 48th St.	West 40s
@@ -2771,10 +2771,10 @@ VillageVoice	Blue Ribbon Brasserie	97 Sullivan St.	Soho
 VillageVoice	Blue Ribbon Sushi	119 Sullivan St.	Soho
 VillageVoice	Blue Smoke	116 E 27th St.	Murray Hill
 VillageVoice	Blue Water Grill	31 Union Sq W	Union Square
-VillageVoice	Boat Basin Caf	79th St.	West 70s
+VillageVoice	Boat Basin Café	79th St.	West 70s
 VillageVoice	Bocca	39 E 19th St.	Greenwich Village
 VillageVoice	Boi To Go	800 Second Avenue	East 40s
-VillageVoice	Boka	9 St. Marks Place	East Village
+VillageVoice	Boka	9 St. Mark’s Place	East Village
 VillageVoice	Bombay Talkie	189 9th Ave.	Chelsea
 VillageVoice	BonBon Chicken	98 Chambers St.	Financial District
 VillageVoice	BonChon Chicken	314 5th Ave. | 2nd Fl	Chelsea
@@ -2815,24 +2815,24 @@ VillageVoice	Cafe Boulud	20 E 76th St.	East 70s
 VillageVoice	Cafe Brama	157 2nd Ave.	East Village
 VillageVoice	Cafe Centosette	160 2nd Ave.	East Village
 VillageVoice	Cafe con Leche	424 Amsterdam Ave.	West 90s
-VillageVoice	Caf con Leche	726 Amsterdam Ave.	West 90s
+VillageVoice	Café con Leche	726 Amsterdam Ave.	West 90s
 VillageVoice	Cafe des Artistes	1 W67th St.	West 60s
-VillageVoice	Caf DeVille	103 3rd Ave.	East Village
-VillageVoice	Caf Edison	228 W 47th St.	West 40s
-VillageVoice	Caf el Portal	174 Elizabeth St.	Nolita
+VillageVoice	Café DeVille	103 3rd Ave.	East Village
+VillageVoice	Café Edison	228 W 47th St.	West 40s
+VillageVoice	Café el Portal	174 Elizabeth St.	Nolita
 VillageVoice	Cafe Gitane	242 Mott St.	Little Italy
 VillageVoice	Cafe Habana	229 Elizabeth St.	Little Italy
-VillageVoice	Caf Loup	105 W 13th St.	West Village
-VillageVoice	Caf Mogador	101 St. Marks Pl.	East Village
+VillageVoice	Café Loup	105 W 13th St.	West Village
+VillageVoice	Café Mogador	101 St. Marks Pl.	East Village
 VillageVoice	Cafe Orlin	41 St. Marks Pl.	East Village
-VillageVoice	Caf Rakka	38 Ave. B	East Village
+VillageVoice	Café Rakka	38 Ave. B	East Village
 VillageVoice	Cafe Sabarsky	1048 5th Ave.	East 80s
-VillageVoice	Caf Spice	54 W 55th St.	West 50s
-VillageVoice	Caf Spice	72 University Place	Greenwich Village
-VillageVoice	Caf Spice Express	Grand Central Terminal	East 40s
+VillageVoice	Café Spice	54 W 55th St.	West 50s
+VillageVoice	Café Spice	72 University Place	Greenwich Village
+VillageVoice	Café Spice Express	Grand Central Terminal	East 40s
 VillageVoice	Cafe Zaiya	18 E 41st St.	East 40s
 VillageVoice	Cafe Zaiya	69 Cooper Square	East Village
-VillageVoice	Caf Zaiya	69 Cooper Square	East Village
+VillageVoice	Café Zaiya	69 Cooper Square	East Village
 VillageVoice	Cafecito	185 Ave. C	East Village
 VillageVoice	Cafetasia	38 E 8th St.	Greenwich Village
 VillageVoice	Cafeteria	119 7th Ave.	Chelsea
@@ -2846,7 +2846,7 @@ VillageVoice	CamaJe	85 MacDougal St.	Greenwich Village
 VillageVoice	Cambodian Cuisine	1664 Third Ave.	East 90s
 VillageVoice	Cantinetta	260 6th Ave.	West Village
 VillageVoice	Cantoon Garden	22 Elizabeth St.	Chinatown
-VillageVoice	Captain's Caf	34 East 32nd Street	Murray Hill
+VillageVoice	Captain's Café	34 East 32nd Street	Murray Hill
 VillageVoice	Caracas Arepa Bar	91 E 7th St.	East Village
 VillageVoice	Caravan of Dreams	405 E. Sixth St.	East Village
 VillageVoice	Caridad	4799 Broadway	Inwood
@@ -2864,7 +2864,7 @@ VillageVoice	Casa Mono	52 Irving Pl.	Flatiron
 VillageVoice	Casimir	103-105 Ave. B	East Village
 VillageVoice	Celeste	502 Amsterdam Ave.	West 80s
 VillageVoice	Centovini	25 W Houston St.	Soho
-VillageVoice	Centro Espaol La Nacional	239 W 14th St.	Chelsea
+VillageVoice	Centro Español La Nacional	239 W 14th St.	Chelsea
 VillageVoice	Centro Vinoteca	74 Seventh Ave. S.	West Village
 VillageVoice	'Cesca	164 W 75th St.	West 70s
 VillageVoice	Cha-An	230 E 9th St.	East Village
@@ -3034,7 +3034,7 @@ VillageVoice	El Paso	134 W. Houston St.	Greenwich Village
 VillageVoice	El Quijote	226 W. 23rd St.	Chelsea
 VillageVoice	El Quinto Pino	401 W.24th St.	Greenwich Village
 VillageVoice	El Rancho Jubilee	10 Hillside Ave.	Washington Heights
-VillageVoice	El Salvadoreo	1229 St. Nicholas Ave.	Washington Heights
+VillageVoice	El Salvadoreño	1229 St. Nicholas Ave.	Washington Heights
 VillageVoice	Elephant & Castle	68 Greenwich Ave.	West Village
 VillageVoice	Elettaria	33 W 8th St.	Chelsea
 VillageVoice	eleven B.	174 Ave. B.	East Village
@@ -3096,7 +3096,7 @@ VillageVoice	Flor de Mayo	2651 Broadway	West 100s
 VillageVoice	Flor de Sol	361 Greenwich St.	Tribeca
 VillageVoice	Florence's	2099 Frederick Douglass Blvd.	Harlem
 VillageVoice	Food Sing 88 Corp.	2 E Broadway	Financial District
-VillageVoice	Forlinis Restaurant	93 Baxter St.	Chinatown
+VillageVoice	Forlini’s Restaurant	93 Baxter St.	Chinatown
 VillageVoice	Franchia	12 Park Ave.	Murray Hill
 VillageVoice	Frank	88 Second Ave.	East Village
 VillageVoice	Freemans	Freeman Alley	Lower East Side
@@ -3162,7 +3162,7 @@ VillageVoice	Heartland Brewery	1285 Sixth Ave.	West 50s
 VillageVoice	Heartland Brewery	93 South St.	Financial District
 VillageVoice	Heartland Brewery	35 Union Square West	Union Square
 VillageVoice	Hill Country	30 W 26th St.	Chelsea
-VillageVoice	Hirokos Place	75 Thompson St.	Soho
+VillageVoice	Hiroko’s Place	75 Thompson St.	Soho
 VillageVoice	Hong Kong Station	128 Hester St.	Lower East Side
 VillageVoice	House of Seafood	2349 Eighth Ave.	Harlem
 VillageVoice	Hsin Wong	72 Bayard St.	Chinatown
@@ -3181,7 +3181,7 @@ VillageVoice	'Ino	21 Bedford St.	West Village
 VillageVoice	Ino Cafe & Wine Bar	21 Bedford St.	West Village
 VillageVoice	'Inoteca	98 Rivington St.	Lower East Side
 VillageVoice	Insieme	777 Seventh Avenue	West 50s
-VillageVoice	Isabellas	359 Columbus Ave.	West 70s
+VillageVoice	Isabella’s	359 Columbus Ave.	West 70s
 VillageVoice	Ishikura Sushi	67 First Ave.	East Village
 VillageVoice	Ithaka	308 E 86th St.	East 80s
 VillageVoice	Ivo & Lulu	558 Broome St.	Soho
@@ -3267,14 +3267,14 @@ VillageVoice	Kyoto Sushi	1240 Lexington Ave.	East 80s
 VillageVoice	Kyotofu	705 Ninth Ave.	West 40s
 VillageVoice	L&L Hawaiian Barbecue	64 Fulton St.	Financial District
 VillageVoice	L.E.S. Sushi	515 Grand St.	Lower East Side
-VillageVoice	LArtusi	228 W 10th St.	Greenwich Village
+VillageVoice	L‘Artusi	228 W 10th St.	Greenwich Village
 VillageVoice	La Belle Vie	184 Eighth Ave.	Chelsea
 VillageVoice	La Bergamote	515 W 52nd St.	West 50s
 VillageVoice	La Bergamote	169 Ninth Ave.	Chelsea
 VillageVoice	La Boite en Bois	75 W 68th St.	West 60s
 VillageVoice	La Bonne Soupe	48 W 55th St.	West 50s
 VillageVoice	La Bottega	88 Ninth Ave. | Maritime Hotel	Chelsea
-VillageVoice	La Cabana Salvadorea	4384 Broadway	Washington Heights
+VillageVoice	La Cabana Salvadoreña	4384 Broadway	Washington Heights
 VillageVoice	La Cantina Toscana	1109 First Ave.	East 60s
 VillageVoice	La Caridad 78	2199 Broadway	West 70s
 VillageVoice	La Casa de Los Tacos	2277 First Ave.	East Harlem
@@ -3299,7 +3299,7 @@ VillageVoice	La Taza de Oro	1459 Eighth Ave.	Chelsea
 VillageVoice	L'Absinthe	227 E 67th St.	East 60s
 VillageVoice	L'allegria Italian Restaurant	623 Ninth Ave.	West 40s
 VillageVoice	Landmarc	179 W Broadway	Tribeca
-VillageVoice	Lanskys Old World Deli	235 Columbus Ave.	West 70s
+VillageVoice	Lansky’s Old World Deli	235 Columbus Ave.	West 70s
 VillageVoice	Las Ramblas	170 W. Fourth St.	Greenwich Village
 VillageVoice	Lasani	15 W 29th St.	Chelsea
 VillageVoice	Lassi	28 Greenwich Ave.	West Village
@@ -3352,7 +3352,7 @@ VillageVoice	Lulu	235 Mulberry St.	Greenwich Village
 VillageVoice	Lumi	963 Lexington Ave.	East 70s
 VillageVoice	Lunch Box Buffet	195 Centre St.	Chinatown
 VillageVoice	Lunetta	920 Broadway	Flatiron
-VillageVoice	Lupes East L.A. Kitchen	110 Sixth Ave.	Tribeca
+VillageVoice	Lupe’s East L.A. Kitchen	110 Sixth Ave.	Tribeca
 VillageVoice	Lure Fishbar	142 Mercer St. | downstairs	Soho
 VillageVoice	Lusardi's	1494 Second Ave.	East 70s
 VillageVoice	Lusso	331 W. Broadway	Soho
@@ -3365,7 +3365,7 @@ VillageVoice	Madaleine Mae	461 Columbus Ave.	West 80s
 VillageVoice	Madangsui	35 W 35th St.	Garment District
 VillageVoice	Madison & Vine	299 Madison Ave. | Library Hotel	East 40s
 VillageVoice	Madison Bistro	238 Madison Ave.	Murray Hill
-VillageVoice	Madras Caf	79 2nd Ave.	East Village
+VillageVoice	Madras Café	79 2nd Ave.	East Village
 VillageVoice	Madras Mahal	104 Lexington Ave.	Murray Hill
 VillageVoice	Maffei Pizza	688 6th Ave.	Flatiron
 VillageVoice	Malatesta	649 Washington St.	West Village
@@ -3388,7 +3388,7 @@ VillageVoice	March	405 E 58th St.	East 50s
 VillageVoice	Marchi's	251 E 31st St.	Murray Hill
 VillageVoice	Maremma	228 W 10th St.	West Village
 VillageVoice	Mark Joseph	261 Water St.	Financial District
-VillageVoice	Market Caf	496 9th Ave.	Garment District
+VillageVoice	Market Café	496 9th Ave.	Garment District
 VillageVoice	Market Table	54 Carmine St.	West Village
 VillageVoice	Markt	676 6th Ave.	Chelsea
 VillageVoice	Marquet Patisserie	15 E 12th St.	East Village
@@ -3440,7 +3440,7 @@ VillageVoice	Momofuku Ko	163 1st Ave.	East Village
 VillageVoice	Momofuku Milk Bar and Bakery	207 Second Ave.	East Village
 VillageVoice	Momofuku Noodle Bar	171 1st Ave.	East Village
 VillageVoice	Momofuku Ssam Bar	207 2nd Ave.	East Village
-VillageVoice	Momofuku Ssm Bar	207 Second Ave.	East Village
+VillageVoice	Momofuku Ssäm Bar	207 Second Ave.	East Village
 VillageVoice	Momoya	185 Seventh Ave.	Chelsea
 VillageVoice	Mon Petit Cafe	801 Lexington Ave.	East 60s
 VillageVoice	Monck's Corner	644 9th Ave.	West 40s
@@ -3456,7 +3456,7 @@ VillageVoice	Mr. K's	570 Lexington Ave.	East 50s
 VillageVoice	Mr. Skewer & Co.	43 W 14th St.	Chelsea
 VillageVoice	Mr. Tang	50 Mott St.	Chinatown
 VillageVoice	Mughlai	320 Columbus Ave.	West 70s
-VillageVoice		33 Crosby St.	Tribeca
+VillageVoice	Ñ	33 Crosby St.	Tribeca
 VillageVoice	Naima	513 W 27th St.	Chelsea
 VillageVoice	Nam	110 Reade St.	Tribeca
 VillageVoice	Nam Zhaou Hand Made Noodle and Dumpling Place	144 E Broadway	Chinatown
@@ -3550,7 +3550,7 @@ VillageVoice	Pampano	209 E 49th St.	East 40s
 VillageVoice	Pampano Taqueria	805 Third Ave.	East 50s
 VillageVoice	Pancho Magico	213 Pearl St.	Financial District
 VillageVoice	Panino Sportivo Roma	1231 Amsterdam Ave.	Harlem
-VillageVoice	Po!	322 Spring St.	Soho
+VillageVoice	Pão!	322 Spring St.	Soho
 VillageVoice	Paola's	245 E 84th St.	East 80s
 VillageVoice	Papatzul	55 Grand St.	Chinatown
 VillageVoice	Paradou	8 Little W 12th St.	Meatpacking District
@@ -3709,7 +3709,7 @@ VillageVoice	Serendipity 3	225 E 60th St.	East 60s
 VillageVoice	Servants of God/A Taste of Seafood	50 E 125th St.	East Harlem
 VillageVoice	Shabu-Tatsu Downtown	216 E 10th St.	East Village
 VillageVoice	Shake Shack	23rd & Madison Ave.	Flatiron
-VillageVoice	Shanghai Caf	100 Mott St.	Chinatown
+VillageVoice	Shanghai Café	100 Mott St.	Chinatown
 VillageVoice	Shanghai Cuisine	89 Bayard St.	Chinatown
 VillageVoice	Sharaku	14 Stuyvesant St.	East Village
 VillageVoice	Sheng Wang	27 Eldridge St.	Chinatown
@@ -3719,7 +3719,7 @@ VillageVoice	Sigiri	91 First Ave.	East Village
 VillageVoice	Silver Spurs	771 Broadway	Greenwich Village
 VillageVoice	Silver Spurs	494 La Guardia Place	Greenwich Village
 VillageVoice	Simon Sips Cafe	72 East 1st Street	Greenwich Village
-VillageVoice	Singapore Caf	69 Mott St.	Chinatown
+VillageVoice	Singapore Café	69 Mott St.	Chinatown
 VillageVoice	Singas Famous Pizza	176 Second Ave.	East Village
 VillageVoice	Sirtaj	36 W 26th St.	Flatiron
 VillageVoice	Skylight Diner	402 W 34th St.	Chelsea
@@ -3753,7 +3753,7 @@ VillageVoice	Steak Frites	225 Varick St.	Greenwich Village
 VillageVoice	Stout NYC	133 W 33rd St.	Chelsea
 VillageVoice	Strip House	13 E 12th St.	East Village
 VillageVoice	Suba	109 Ludlow St.	Lower East Side
-VillageVoice	Sueos	311 W 17th St.	Chelsea
+VillageVoice	Sueños	311 W 17th St.	Chelsea
 VillageVoice	Sugar Sweet Sunshine Bakery	126 Rivington St.	Lower East Side
 VillageVoice	Sukhadia's Gokul Indian Gourmet	17 W 45th St.	West 40s
 VillageVoice	Sumile	154 W 13th St.	West Village
@@ -3850,7 +3850,7 @@ VillageVoice	Ulysses	93 Pearl St.	Financial District
 VillageVoice	Una Pizza Napoletana	349 E 12th St.	East Village
 VillageVoice	Uncle Nick's	747 Ninth Ave.	West 50s
 VillageVoice	Union Square Cafe	21 E 16th St.	Union Square
-VillageVoice	Urea	37 E 28th St.	Murray Hill
+VillageVoice	Ureña	37 E 28th St.	Murray Hill
 VillageVoice	Ushiwakamaru	136 W Houston St.	Greenwich Village
 VillageVoice	Vanessa's Dumplings	220 E. 14th St.	East Village
 VillageVoice	Vegetarian Dim Sum House	24 Pell St.	Chinatown
@@ -3859,7 +3859,7 @@ VillageVoice	Veritas	43 E 20th St.	Flatiron
 VillageVoice	Veselka	144 2nd Ave.	East Village
 VillageVoice	Via Emilia	47 E 21st St.	Flatiron
 VillageVoice	Viceroy	160 8th Ave.	Chelsea
-VillageVoice	Viet Caf	345 Greenwich St.	Tribeca
+VillageVoice	Viet Café	345 Greenwich St.	Tribeca
 VillageVoice	Village Mingala	21 E 7th St.	East Village
 VillageVoice	Village Yokocho	8 Stuyvesant St.	East Village
 VillageVoice	Vintage Irving	120 E15th St.	Union Square
@@ -3894,7 +3894,7 @@ VillageVoice	Xai Xai	365 W. 51st St.	West 50s
 VillageVoice	XO Kitchen	148 Hester St.	Soho
 VillageVoice	Xunta	174 First Ave.	East Village
 VillageVoice	Yaffa Cafe	97 St. Marks Place	East Village
-VillageVoice	Yaffa Caf	97 St. Marks Pl.	East Village
+VillageVoice	Yaffa Café	97 St. Marks Pl.	East Village
 VillageVoice	Yakiniku West	218 E 9th St.	East Village
 VillageVoice	Yakitori Taisho	5 Saint Marks Pl.	East Village
 VillageVoice	Yakitori Totto	251 W 55th St.	West 50s
@@ -3999,7 +3999,7 @@ VillageVoice	Annisa	13 Barrow St.	Greenwich Village
 VillageVoice	Anthos	36 W 52nd St.	West 50s
 VillageVoice	AOC	314 Bleecker St.	West Village
 VillageVoice	Apiary	60 Third Ave.	East Village
-VillageVoice	AQ Caf, Scandinavia House	58 Park Ave.	Murray Hill
+VillageVoice	AQ Café, Scandinavia House	58 Park Ave.	Murray Hill
 VillageVoice	Aquagrill	210 Spring St.	Soho
 VillageVoice	Arka Lounge	4488 Broadway	Washington Heights
 VillageVoice	Arno Ristorante	141 W 38th St.	Garment District
@@ -4017,7 +4017,7 @@ VillageVoice	August	359 Bleecker St.	West Village
 VillageVoice	Avra	141 E 48th St.	East 40s
 VillageVoice	Awash	338 E 6th St.	East Village
 VillageVoice	Azuri Cafe	465 W 51st St.	West 50s
-VillageVoice	Azuri Caf	465 W 51st St.	West 50s
+VillageVoice	Azuri Café	465 W 51st St.	West 50s
 VillageVoice	B & H Dairy Restaurant	127 Seconnd Ave.	East Village
 VillageVoice	B. Cafe	240 E 75th St.	East 80s
 VillageVoice	B. Smith Restaurant	8th Ave. & 48th St.	West 40s
@@ -4094,10 +4094,10 @@ VillageVoice	Blue Ribbon Bakery	33 Downing St.	West Village
 VillageVoice	Blue Ribbon Brasserie	97 Sullivan St.	Soho
 VillageVoice	Blue Ribbon Sushi	119 Sullivan St.	Soho
 VillageVoice	Blue Smoke	116 E 27th St.	Murray Hill
-VillageVoice	Boat Basin Caf	79th St.	West 70s
+VillageVoice	Boat Basin Café	79th St.	West 70s
 VillageVoice	Bocca	39 E 19th St.	Greenwich Village
 VillageVoice	Boi To Go	800 Second Avenue	East 40s
-VillageVoice	Boka	9 St. Marks Place	East Village
+VillageVoice	Boka	9 St. Mark’s Place	East Village
 VillageVoice	Bombay Talkie	189 9th Ave.	Chelsea
 VillageVoice	BonBon Chicken	98 Chambers St.	Financial District
 VillageVoice	BonChon Chicken	314 5th Ave. | 2nd Fl	Chelsea
@@ -4138,24 +4138,24 @@ VillageVoice	Cafe Boulud	20 E 76th St.	East 70s
 VillageVoice	Cafe Brama	157 2nd Ave.	East Village
 VillageVoice	Cafe Centosette	160 2nd Ave.	East Village
 VillageVoice	Cafe con Leche	424 Amsterdam Ave.	West 90s
-VillageVoice	Caf con Leche	726 Amsterdam Ave.	West 90s
+VillageVoice	Café con Leche	726 Amsterdam Ave.	West 90s
 VillageVoice	Cafe des Artistes	1 W67th St.	West 60s
-VillageVoice	Caf DeVille	103 3rd Ave.	East Village
-VillageVoice	Caf Edison	228 W 47th St.	West 40s
-VillageVoice	Caf el Portal	174 Elizabeth St.	Nolita
+VillageVoice	Café DeVille	103 3rd Ave.	East Village
+VillageVoice	Café Edison	228 W 47th St.	West 40s
+VillageVoice	Café el Portal	174 Elizabeth St.	Nolita
 VillageVoice	Cafe Gitane	242 Mott St.	Little Italy
 VillageVoice	Cafe Habana	229 Elizabeth St.	Little Italy
-VillageVoice	Caf Loup	105 W 13th St.	West Village
-VillageVoice	Caf Mogador	101 St. Marks Pl.	East Village
+VillageVoice	Café Loup	105 W 13th St.	West Village
+VillageVoice	Café Mogador	101 St. Marks Pl.	East Village
 VillageVoice	Cafe Orlin	41 St. Marks Pl.	East Village
-VillageVoice	Caf Rakka	38 Ave. B	East Village
+VillageVoice	Café Rakka	38 Ave. B	East Village
 VillageVoice	Cafe Sabarsky	1048 5th Ave.	East 80s
-VillageVoice	Caf Spice	54 W 55th St.	West 50s
-VillageVoice	Caf Spice	72 University Place	Greenwich Village
-VillageVoice	Caf Spice Express	Grand Central Terminal	East 40s
+VillageVoice	Café Spice	54 W 55th St.	West 50s
+VillageVoice	Café Spice	72 University Place	Greenwich Village
+VillageVoice	Café Spice Express	Grand Central Terminal	East 40s
 VillageVoice	Cafe Zaiya	18 E 41st St.	East 40s
 VillageVoice	Cafe Zaiya	69 Cooper Square	East Village
-VillageVoice	Caf Zaiya	69 Cooper Square	East Village
+VillageVoice	Café Zaiya	69 Cooper Square	East Village
 VillageVoice	Cafecito	185 Ave. C	East Village
 VillageVoice	Cafetasia	38 E 8th St.	Greenwich Village
 VillageVoice	Caffe Emilia	139 1st Ave.	East Village
@@ -4168,7 +4168,7 @@ VillageVoice	CamaJe	85 MacDougal St.	Greenwich Village
 VillageVoice	Cambodian Cuisine	1664 Third Ave.	East 90s
 VillageVoice	Cantinetta	260 6th Ave.	West Village
 VillageVoice	Cantoon Garden	22 Elizabeth St.	Chinatown
-VillageVoice	Captain's Caf	34 East 32nd Street	Murray Hill
+VillageVoice	Captain's Café	34 East 32nd Street	Murray Hill
 VillageVoice	Caracas Arepa Bar	91 E 7th St.	East Village
 VillageVoice	Caravan of Dreams	405 E. Sixth St.	East Village
 VillageVoice	Caridad	4799 Broadway	Inwood
@@ -4186,7 +4186,7 @@ VillageVoice	Casa Mono	52 Irving Pl.	Flatiron
 VillageVoice	Casimir	103-105 Ave. B	East Village
 VillageVoice	Celeste	502 Amsterdam Ave.	West 80s
 VillageVoice	Centovini	25 W Houston St.	Soho
-VillageVoice	Centro Espaol La Nacional	239 W 14th St.	Chelsea
+VillageVoice	Centro Español La Nacional	239 W 14th St.	Chelsea
 VillageVoice	Centro Vinoteca	74 Seventh Ave. S.	West Village
 VillageVoice	'Cesca	164 W 75th St.	West 70s
 VillageVoice	Cha-An	230 E 9th St.	East Village
@@ -4357,7 +4357,7 @@ VillageVoice	El Paso	134 W. Houston St.	Greenwich Village
 VillageVoice	El Quijote	226 W. 23rd St.	Chelsea
 VillageVoice	El Quinto Pino	401 W.24th St.	Greenwich Village
 VillageVoice	El Rancho Jubilee	10 Hillside Ave.	Washington Heights
-VillageVoice	El Salvadoreo	1229 St. Nicholas Ave.	Washington Heights
+VillageVoice	El Salvadoreño	1229 St. Nicholas Ave.	Washington Heights
 VillageVoice	Elephant & Castle	68 Greenwich Ave.	West Village
 VillageVoice	Elettaria	33 W 8th St.	Chelsea
 VillageVoice	eleven B.	174 Ave. B.	East Village
@@ -4420,7 +4420,7 @@ VillageVoice	Flor de Mayo	2651 Broadway	West 100s
 VillageVoice	Flor de Sol	361 Greenwich St.	Tribeca
 VillageVoice	Florence's	2099 Frederick Douglass Blvd.	Harlem
 VillageVoice	Food Sing 88 Corp.	2 E Broadway	Financial District
-VillageVoice	Forlinis Restaurant	93 Baxter St.	Chinatown
+VillageVoice	Forlini’s Restaurant	93 Baxter St.	Chinatown
 VillageVoice	Franchia	12 Park Ave.	Murray Hill
 VillageVoice	Frank	88 Second Ave.	East Village
 VillageVoice	Freemans	Freeman Alley	Lower East Side
@@ -4488,7 +4488,7 @@ VillageVoice	Heartland Brewery	1285 Sixth Ave.	West 50s
 VillageVoice	Heartland Brewery	93 South St.	Financial District
 VillageVoice	Heartland Brewery	35 Union Square West	Union Square
 VillageVoice	Hill Country	30 W 26th St.	Chelsea
-VillageVoice	Hirokos Place	75 Thompson St.	Soho
+VillageVoice	Hiroko’s Place	75 Thompson St.	Soho
 VillageVoice	Hong Kong Station	128 Hester St.	Lower East Side
 VillageVoice	House of Seafood	2349 Eighth Ave.	Harlem
 VillageVoice	Hsin Wong	72 Bayard St.	Chinatown
@@ -4508,7 +4508,7 @@ VillageVoice	'Ino	21 Bedford St.	West Village
 VillageVoice	Ino Cafe & Wine Bar	21 Bedford St.	West Village
 VillageVoice	'Inoteca	98 Rivington St.	Lower East Side
 VillageVoice	Insieme	777 Seventh Avenue	West 50s
-VillageVoice	Isabellas	359 Columbus Ave.	West 70s
+VillageVoice	Isabella’s	359 Columbus Ave.	West 70s
 VillageVoice	Ishikura Sushi	67 First Ave.	East Village
 VillageVoice	Ithaka	308 E 86th St.	East 80s
 VillageVoice	Ivo & Lulu	558 Broome St.	Soho
@@ -4594,14 +4594,14 @@ VillageVoice	Kyoto Sushi	1240 Lexington Ave.	East 80s
 VillageVoice	Kyotofu	705 Ninth Ave.	West 40s
 VillageVoice	L&L Hawaiian Barbecue	64 Fulton St.	Financial District
 VillageVoice	L.E.S. Sushi	515 Grand St.	Lower East Side
-VillageVoice	LArtusi	228 W 10th St.	Greenwich Village
+VillageVoice	L‘Artusi	228 W 10th St.	Greenwich Village
 VillageVoice	La Belle Vie	184 Eighth Ave.	Chelsea
 VillageVoice	La Bergamote	515 W 52nd St.	West 50s
 VillageVoice	La Bergamote	169 Ninth Ave.	Chelsea
 VillageVoice	La Boite en Bois	75 W 68th St.	West 60s
 VillageVoice	La Bonne Soupe	48 W 55th St.	West 50s
 VillageVoice	La Bottega	88 Ninth Ave. | Maritime Hotel	Chelsea
-VillageVoice	La Cabana Salvadorea	4384 Broadway	Washington Heights
+VillageVoice	La Cabana Salvadoreña	4384 Broadway	Washington Heights
 VillageVoice	La Cantina Toscana	1109 First Ave.	East 60s
 VillageVoice	La Caridad 78	2199 Broadway	West 70s
 VillageVoice	La Casa de Los Tacos	2277 First Ave.	East Harlem
@@ -4677,7 +4677,7 @@ VillageVoice	Lucy	35 E 18th St. | ABC Carpet & Home	Flatiron
 VillageVoice	Lumi	963 Lexington Ave.	East 70s
 VillageVoice	Lunch Box Buffet	195 Centre St.	Chinatown
 VillageVoice	Lunetta	920 Broadway	Flatiron
-VillageVoice	Lupes East L.A. Kitchen	110 Sixth Ave.	Tribeca
+VillageVoice	Lupe’s East L.A. Kitchen	110 Sixth Ave.	Tribeca
 VillageVoice	Lure Fishbar	142 Mercer St. | downstairs	Soho
 VillageVoice	Lusardi's	1494 Second Ave.	East 70s
 VillageVoice	Lusso	331 W. Broadway	Soho
@@ -4690,7 +4690,7 @@ VillageVoice	Madaleine Mae	461 Columbus Ave.	West 80s
 VillageVoice	Madangsui	35 W 35th St.	Garment District
 VillageVoice	Madison & Vine	299 Madison Ave. | Library Hotel	East 40s
 VillageVoice	Madison Bistro	238 Madison Ave.	Murray Hill
-VillageVoice	Madras Caf	79 2nd Ave.	East Village
+VillageVoice	Madras Café	79 2nd Ave.	East Village
 VillageVoice	Madras Mahal	104 Lexington Ave.	Murray Hill
 VillageVoice	Maffei Pizza	688 6th Ave.	Flatiron
 VillageVoice	Malatesta	649 Washington St.	West Village
@@ -4713,7 +4713,7 @@ VillageVoice	March	405 E 58th St.	East 50s
 VillageVoice	Marchi's	251 E 31st St.	Murray Hill
 VillageVoice	Maremma	228 W 10th St.	West Village
 VillageVoice	Mark Joseph	261 Water St.	Financial District
-VillageVoice	Market Caf	496 9th Ave.	Garment District
+VillageVoice	Market Café	496 9th Ave.	Garment District
 VillageVoice	Market Table	54 Carmine St.	West Village
 VillageVoice	Markt	676 6th Ave.	Chelsea
 VillageVoice	Marquet Patisserie	15 E 12th St.	East Village
@@ -4765,7 +4765,7 @@ VillageVoice	Momofuku Ko	163 1st Ave.	East Village
 VillageVoice	Momofuku Milk Bar and Bakery	207 Second Ave.	East Village
 VillageVoice	Momofuku Noodle Bar	171 1st Ave.	East Village
 VillageVoice	Momofuku Ssam Bar	207 2nd Ave.	East Village
-VillageVoice	Momofuku Ssm Bar	207 Second Ave.	East Village
+VillageVoice	Momofuku Ssäm Bar	207 Second Ave.	East Village
 VillageVoice	Momoya	185 Seventh Ave.	Chelsea
 VillageVoice	Mon Petit Cafe	801 Lexington Ave.	East 60s
 VillageVoice	Monck's Corner	644 9th Ave.	West 40s
@@ -4783,7 +4783,7 @@ VillageVoice	Mr. K's	570 Lexington Ave.	East 50s
 VillageVoice	Mr. Skewer & Co.	43 W 14th St.	Chelsea
 VillageVoice	Mr. Tang	50 Mott St.	Chinatown
 VillageVoice	Mughlai	320 Columbus Ave.	West 70s
-VillageVoice		33 Crosby St.	Tribeca
+VillageVoice	Ñ	33 Crosby St.	Tribeca
 VillageVoice	Naima	513 W 27th St.	Chelsea
 VillageVoice	Nam	110 Reade St.	Tribeca
 VillageVoice	Nam Zhaou Hand Made Noodle and Dumpling Place	144 E Broadway	Chinatown
@@ -4877,7 +4877,7 @@ VillageVoice	Pampano	209 E 49th St.	East 40s
 VillageVoice	Pampano Taqueria	805 Third Ave.	East 50s
 VillageVoice	Pancho Magico	213 Pearl St.	Financial District
 VillageVoice	Panino Sportivo Roma	1231 Amsterdam Ave.	Harlem
-VillageVoice	Po!	322 Spring St.	Soho
+VillageVoice	Pão!	322 Spring St.	Soho
 VillageVoice	Paola's	245 E 84th St.	East 80s
 VillageVoice	Papatzul	55 Grand St.	Chinatown
 VillageVoice	Paradou	8 Little W 12th St.	Meatpacking District
@@ -5037,7 +5037,7 @@ VillageVoice	Servants of God/A Taste of Seafood	50 E 125th St.	East Harlem
 VillageVoice	Shabu-Tatsu Downtown	216 E 10th St.	East Village
 VillageVoice	Shake Shack	23rd & Madison Ave.	Flatiron
 VillageVoice	Shang	187 Orchard St.	Chinatown
-VillageVoice	Shanghai Caf	100 Mott St.	Chinatown
+VillageVoice	Shanghai Café	100 Mott St.	Chinatown
 VillageVoice	Shanghai Cuisine	89 Bayard St.	Chinatown
 VillageVoice	Sharaku	14 Stuyvesant St.	East Village
 VillageVoice	Sheng Wang	27 Eldridge St.	Chinatown
@@ -5047,7 +5047,7 @@ VillageVoice	Sigiri	91 First Ave.	East Village
 VillageVoice	Silver Spurs	771 Broadway	Greenwich Village
 VillageVoice	Silver Spurs	494 La Guardia Place	Greenwich Village
 VillageVoice	Simon Sips Cafe	72 East 1st Street	Greenwich Village
-VillageVoice	Singapore Caf	69 Mott St.	Chinatown
+VillageVoice	Singapore Café	69 Mott St.	Chinatown
 VillageVoice	Singas Famous Pizza	176 Second Ave.	East Village
 VillageVoice	Sirtaj	36 W 26th St.	Flatiron
 VillageVoice	Skylight Diner	402 W 34th St.	Chelsea
@@ -5082,7 +5082,7 @@ VillageVoice	Steak Frites	225 Varick St.	Greenwich Village
 VillageVoice	Stout NYC	133 W 33rd St.	Chelsea
 VillageVoice	Strip House	13 E 12th St.	East Village
 VillageVoice	Suba	109 Ludlow St.	Lower East Side
-VillageVoice	Sueos	311 W 17th St.	Chelsea
+VillageVoice	Sueños	311 W 17th St.	Chelsea
 VillageVoice	Sugar Sweet Sunshine Bakery	126 Rivington St.	Lower East Side
 VillageVoice	Sukhadia's Gokul Indian Gourmet	17 W 45th St.	West 40s
 VillageVoice	Sumile	154 W 13th St.	West Village
@@ -5183,7 +5183,7 @@ VillageVoice	Una Pizza Napoletana	349 E 12th St.	East Village
 VillageVoice	Uncle Nick's	747 Ninth Ave.	West 50s
 VillageVoice	Union Prime	9 E 16th St, New York	East Village
 VillageVoice	Union Square Cafe	21 E 16th St.	Union Square
-VillageVoice	Urea	37 E 28th St.	Murray Hill
+VillageVoice	Ureña	37 E 28th St.	Murray Hill
 VillageVoice	Ushiwakamaru	136 W Houston St.	Greenwich Village
 VillageVoice	Vanessa's Dumplings	220 E. 14th St.	East Village
 VillageVoice	Vegetarian Dim Sum House	24 Pell St.	Chinatown
@@ -5192,7 +5192,7 @@ VillageVoice	Veritas	43 E 20th St.	Flatiron
 VillageVoice	Veselka	144 2nd Ave.	East Village
 VillageVoice	Via Emilia	47 E 21st St.	Flatiron
 VillageVoice	Viceroy	160 8th Ave.	Chelsea
-VillageVoice	Viet Caf	345 Greenwich St.	Tribeca
+VillageVoice	Viet Café	345 Greenwich St.	Tribeca
 VillageVoice	Village Mingala	21 E 7th St.	East Village
 VillageVoice	Village Yokocho	8 Stuyvesant St.	East Village
 VillageVoice	Vintage Irving	120 E15th St.	Union Square
@@ -5226,7 +5226,7 @@ VillageVoice	Xai Xai	365 W. 51st St.	West 50s
 VillageVoice	XO Kitchen	148 Hester St.	Soho
 VillageVoice	Xunta	174 First Ave.	East Village
 VillageVoice	Yaffa Cafe	97 St. Marks Place	East Village
-VillageVoice	Yaffa Caf	97 St. Marks Pl.	East Village
+VillageVoice	Yaffa Café	97 St. Marks Pl.	East Village
 VillageVoice	Yakiniku West	218 E 9th St.	East Village
 VillageVoice	Yakitori Taisho	5 Saint Marks Pl.	East Village
 VillageVoice	Yakitori Totto	251 W 55th St.	West 50s
@@ -5331,7 +5331,7 @@ VillageVoice	Annisa	13 Barrow St.	Greenwich Village
 VillageVoice	Anthos	36 W 52nd St.	West 50s
 VillageVoice	AOC	314 Bleecker St.	West Village
 VillageVoice	Apiary	60 Third Ave.	East Village
-VillageVoice	AQ Caf, Scandinavia House	58 Park Ave.	Murray Hill
+VillageVoice	AQ Café, Scandinavia House	58 Park Ave.	Murray Hill
 VillageVoice	Aquagrill	210 Spring St.	Soho
 VillageVoice	Arka Lounge	4488 Broadway	Washington Heights
 VillageVoice	Arno Ristorante	141 W 38th St.	Garment District
@@ -5349,7 +5349,7 @@ VillageVoice	August	359 Bleecker St.	West Village
 VillageVoice	Avra	141 E 48th St.	East 40s
 VillageVoice	Awash	338 E 6th St.	East Village
 VillageVoice	Azuri Cafe	465 W 51st St.	West 50s
-VillageVoice	Azuri Caf	465 W 51st St.	West 50s
+VillageVoice	Azuri Café	465 W 51st St.	West 50s
 VillageVoice	B & H Dairy Restaurant	127 Seconnd Ave.	East Village
 VillageVoice	B Bar & Grill	40 E 4th St.	East Village
 VillageVoice	B. Cafe	240 E 75th St.	East 80s
@@ -5427,10 +5427,10 @@ VillageVoice	Blue Ribbon Brasserie	97 Sullivan St.	Soho
 VillageVoice	Blue Ribbon Sushi	119 Sullivan St.	Soho
 VillageVoice	Blue Smoke	116 E 27th St.	Murray Hill
 VillageVoice	Blue Water Grill	31 Union Sq W	Union Square
-VillageVoice	Boat Basin Caf	79th St.	West 70s
+VillageVoice	Boat Basin Café	79th St.	West 70s
 VillageVoice	Bocca	39 E 19th St.	Greenwich Village
 VillageVoice	Boi To Go	800 Second Avenue	East 40s
-VillageVoice	Boka	9 St. Marks Place	East Village
+VillageVoice	Boka	9 St. Mark’s Place	East Village
 VillageVoice	Bombay Talkie	189 9th Ave.	Chelsea
 VillageVoice	BonBon Chicken	98 Chambers St.	Financial District
 VillageVoice	BonChon Chicken	314 5th Ave. | 2nd Fl	Chelsea
@@ -5471,24 +5471,24 @@ VillageVoice	Cafe Boulud	20 E 76th St.	East 70s
 VillageVoice	Cafe Brama	157 2nd Ave.	East Village
 VillageVoice	Cafe Centosette	160 2nd Ave.	East Village
 VillageVoice	Cafe con Leche	424 Amsterdam Ave.	West 90s
-VillageVoice	Caf con Leche	726 Amsterdam Ave.	West 90s
+VillageVoice	Café con Leche	726 Amsterdam Ave.	West 90s
 VillageVoice	Cafe des Artistes	1 W67th St.	West 60s
-VillageVoice	Caf DeVille	103 3rd Ave.	East Village
-VillageVoice	Caf Edison	228 W 47th St.	West 40s
-VillageVoice	Caf el Portal	174 Elizabeth St.	Nolita
+VillageVoice	Café DeVille	103 3rd Ave.	East Village
+VillageVoice	Café Edison	228 W 47th St.	West 40s
+VillageVoice	Café el Portal	174 Elizabeth St.	Nolita
 VillageVoice	Cafe Gitane	242 Mott St.	Little Italy
 VillageVoice	Cafe Habana	229 Elizabeth St.	Little Italy
-VillageVoice	Caf Loup	105 W 13th St.	West Village
-VillageVoice	Caf Mogador	101 St. Marks Pl.	East Village
+VillageVoice	Café Loup	105 W 13th St.	West Village
+VillageVoice	Café Mogador	101 St. Marks Pl.	East Village
 VillageVoice	Cafe Orlin	41 St. Marks Pl.	East Village
-VillageVoice	Caf Rakka	38 Ave. B	East Village
+VillageVoice	Café Rakka	38 Ave. B	East Village
 VillageVoice	Cafe Sabarsky	1048 5th Ave.	East 80s
-VillageVoice	Caf Spice	54 W 55th St.	West 50s
-VillageVoice	Caf Spice	72 University Place	Greenwich Village
-VillageVoice	Caf Spice Express	Grand Central Terminal	East 40s
+VillageVoice	Café Spice	54 W 55th St.	West 50s
+VillageVoice	Café Spice	72 University Place	Greenwich Village
+VillageVoice	Café Spice Express	Grand Central Terminal	East 40s
 VillageVoice	Cafe Zaiya	18 E 41st St.	East 40s
 VillageVoice	Cafe Zaiya	69 Cooper Square	East Village
-VillageVoice	Caf Zaiya	69 Cooper Square	East Village
+VillageVoice	Café Zaiya	69 Cooper Square	East Village
 VillageVoice	Cafecito	185 Ave. C	East Village
 VillageVoice	Cafetasia	38 E 8th St.	Greenwich Village
 VillageVoice	Cafeteria	119 7th Ave.	Chelsea
@@ -5503,7 +5503,7 @@ VillageVoice	CamaJe	85 MacDougal St.	Greenwich Village
 VillageVoice	Cambodian Cuisine	1664 Third Ave.	East 90s
 VillageVoice	Cantinetta	260 6th Ave.	West Village
 VillageVoice	Cantoon Garden	22 Elizabeth St.	Chinatown
-VillageVoice	Captain's Caf	34 East 32nd Street	Murray Hill
+VillageVoice	Captain's Café	34 East 32nd Street	Murray Hill
 VillageVoice	Caracas Arepa Bar	91 E 7th St.	East Village
 VillageVoice	Caravan of Dreams	405 E. Sixth St.	East Village
 VillageVoice	Caridad	4799 Broadway	Inwood
@@ -5521,7 +5521,7 @@ VillageVoice	Casa Mono	52 Irving Pl.	Flatiron
 VillageVoice	Casimir	103-105 Ave. B	East Village
 VillageVoice	Celeste	502 Amsterdam Ave.	West 80s
 VillageVoice	Centovini	25 W Houston St.	Soho
-VillageVoice	Centro Espaol La Nacional	239 W 14th St.	Chelsea
+VillageVoice	Centro Español La Nacional	239 W 14th St.	Chelsea
 VillageVoice	Centro Vinoteca	74 Seventh Ave. S.	West Village
 VillageVoice	'Cesca	164 W 75th St.	West 70s
 VillageVoice	Cha-An	230 E 9th St.	East Village
@@ -5697,7 +5697,7 @@ VillageVoice	El Paso	134 W. Houston St.	Greenwich Village
 VillageVoice	El Quijote	226 W. 23rd St.	Chelsea
 VillageVoice	El Quinto Pino	401 W.24th St.	Greenwich Village
 VillageVoice	El Rancho Jubilee	10 Hillside Ave.	Washington Heights
-VillageVoice	El Salvadoreo	1229 St. Nicholas Ave.	Washington Heights
+VillageVoice	El Salvadoreño	1229 St. Nicholas Ave.	Washington Heights
 VillageVoice	Elephant & Castle	68 Greenwich Ave.	West Village
 VillageVoice	Elettaria	33 W 8th St.	Chelsea
 VillageVoice	eleven B.	174 Ave. B.	East Village
@@ -5761,7 +5761,7 @@ VillageVoice	Flor de Mayo	2651 Broadway	West 100s
 VillageVoice	Flor de Sol	361 Greenwich St.	Tribeca
 VillageVoice	Florence's	2099 Frederick Douglass Blvd.	Harlem
 VillageVoice	Food Sing 88 Corp.	2 E Broadway	Financial District
-VillageVoice	Forlinis Restaurant	93 Baxter St.	Chinatown
+VillageVoice	Forlini’s Restaurant	93 Baxter St.	Chinatown
 VillageVoice	Franchia	12 Park Ave.	Murray Hill
 VillageVoice	Frank	88 Second Ave.	East Village
 VillageVoice	Freemans	Freeman Alley	Lower East Side
@@ -5829,7 +5829,7 @@ VillageVoice	Heartland Brewery	1285 Sixth Ave.	West 50s
 VillageVoice	Heartland Brewery	93 South St.	Financial District
 VillageVoice	Heartland Brewery	35 Union Square West	Union Square
 VillageVoice	Hill Country	30 W 26th St.	Chelsea
-VillageVoice	Hirokos Place	75 Thompson St.	Soho
+VillageVoice	Hiroko’s Place	75 Thompson St.	Soho
 VillageVoice	Hong Kong Station	128 Hester St.	Lower East Side
 VillageVoice	House of Seafood	2349 Eighth Ave.	Harlem
 VillageVoice	Hsin Wong	72 Bayard St.	Chinatown
@@ -5849,7 +5849,7 @@ VillageVoice	'Ino	21 Bedford St.	West Village
 VillageVoice	Ino Cafe & Wine Bar	21 Bedford St.	West Village
 VillageVoice	'Inoteca	98 Rivington St.	Lower East Side
 VillageVoice	Insieme	777 Seventh Avenue	West 50s
-VillageVoice	Isabellas	359 Columbus Ave.	West 70s
+VillageVoice	Isabella’s	359 Columbus Ave.	West 70s
 VillageVoice	Ishikura Sushi	67 First Ave.	East Village
 VillageVoice	Ithaka	308 E 86th St.	East 80s
 VillageVoice	Ivo & Lulu	558 Broome St.	Soho
@@ -5935,14 +5935,14 @@ VillageVoice	Kyoto Sushi	1240 Lexington Ave.	East 80s
 VillageVoice	Kyotofu	705 Ninth Ave.	West 40s
 VillageVoice	L&L Hawaiian Barbecue	64 Fulton St.	Financial District
 VillageVoice	L.E.S. Sushi	515 Grand St.	Lower East Side
-VillageVoice	LArtusi	228 W 10th St.	Greenwich Village
+VillageVoice	L‘Artusi	228 W 10th St.	Greenwich Village
 VillageVoice	La Belle Vie	184 Eighth Ave.	Chelsea
 VillageVoice	La Bergamote	515 W 52nd St.	West 50s
 VillageVoice	La Bergamote	169 Ninth Ave.	Chelsea
 VillageVoice	La Boite en Bois	75 W 68th St.	West 60s
 VillageVoice	La Bonne Soupe	48 W 55th St.	West 50s
 VillageVoice	La Bottega	88 Ninth Ave. | Maritime Hotel	Chelsea
-VillageVoice	La Cabana Salvadorea	4384 Broadway	Washington Heights
+VillageVoice	La Cabana Salvadoreña	4384 Broadway	Washington Heights
 VillageVoice	La Cantina Toscana	1109 First Ave.	East 60s
 VillageVoice	La Caridad 78	2199 Broadway	West 70s
 VillageVoice	La Casa de Los Tacos	2277 First Ave.	East Harlem
@@ -5967,7 +5967,7 @@ VillageVoice	La Taza de Oro	1459 Eighth Ave.	Chelsea
 VillageVoice	L'Absinthe	227 E 67th St.	East 60s
 VillageVoice	L'allegria Italian Restaurant	623 Ninth Ave.	West 40s
 VillageVoice	Landmarc	179 W Broadway	Tribeca
-VillageVoice	Lanskys Old World Deli	235 Columbus Ave.	West 70s
+VillageVoice	Lansky’s Old World Deli	235 Columbus Ave.	West 70s
 VillageVoice	Las Ramblas	170 W. Fourth St.	Greenwich Village
 VillageVoice	Lasani	15 W 29th St.	Chelsea
 VillageVoice	Lassi	28 Greenwich Ave.	West Village
@@ -6018,7 +6018,7 @@ VillageVoice	Lucy	35 E 18th St. | ABC Carpet & Home	Flatiron
 VillageVoice	Lulu	235 Mulberry St.	Greenwich Village
 VillageVoice	Lumi	963 Lexington Ave.	East 70s
 VillageVoice	Lunch Box Buffet	195 Centre St.	Chinatown
-VillageVoice	Lupes East L.A. Kitchen	110 Sixth Ave.	Tribeca
+VillageVoice	Lupe’s East L.A. Kitchen	110 Sixth Ave.	Tribeca
 VillageVoice	Lure Fishbar	142 Mercer St. | downstairs	Soho
 VillageVoice	Lusardi's	1494 Second Ave.	East 70s
 VillageVoice	Lusso	331 W. Broadway	Soho
@@ -6031,7 +6031,7 @@ VillageVoice	Madaleine Mae	461 Columbus Ave.	West 80s
 VillageVoice	Madangsui	35 W 35th St.	Garment District
 VillageVoice	Madison & Vine	299 Madison Ave. | Library Hotel	East 40s
 VillageVoice	Madison Bistro	238 Madison Ave.	Murray Hill
-VillageVoice	Madras Caf	79 2nd Ave.	East Village
+VillageVoice	Madras Café	79 2nd Ave.	East Village
 VillageVoice	Madras Mahal	104 Lexington Ave.	Murray Hill
 VillageVoice	Maffei Pizza	688 6th Ave.	Flatiron
 VillageVoice	Malatesta	649 Washington St.	West Village
@@ -6054,7 +6054,7 @@ VillageVoice	March	405 E 58th St.	East 50s
 VillageVoice	Marchi's	251 E 31st St.	Murray Hill
 VillageVoice	Maremma	228 W 10th St.	West Village
 VillageVoice	Mark Joseph	261 Water St.	Financial District
-VillageVoice	Market Caf	496 9th Ave.	Garment District
+VillageVoice	Market Café	496 9th Ave.	Garment District
 VillageVoice	Market Table	54 Carmine St.	West Village
 VillageVoice	Markt	676 6th Ave.	Chelsea
 VillageVoice	Marquet Patisserie	15 E 12th St.	East Village
@@ -6105,7 +6105,7 @@ VillageVoice	Moco Global Dining	516A Third Ave.	Murray Hill
 VillageVoice	Momofuku Ko	163 1st Ave.	East Village
 VillageVoice	Momofuku Milk Bar and Bakery	207 Second Ave.	East Village
 VillageVoice	Momofuku Noodle Bar	171 1st Ave.	East Village
-VillageVoice	Momofuku Ssm Bar	207 Second Ave.	East Village
+VillageVoice	Momofuku Ssäm Bar	207 Second Ave.	East Village
 VillageVoice	Momoya	185 Seventh Ave.	Chelsea
 VillageVoice	Mon Petit Cafe	801 Lexington Ave.	East 60s
 VillageVoice	Monck's Corner	644 9th Ave.	West 40s
@@ -6123,7 +6123,7 @@ VillageVoice	Mr. K's	570 Lexington Ave.	East 50s
 VillageVoice	Mr. Skewer & Co.	43 W 14th St.	Chelsea
 VillageVoice	Mr. Tang	50 Mott St.	Chinatown
 VillageVoice	Mughlai	320 Columbus Ave.	West 70s
-VillageVoice		33 Crosby St.	Tribeca
+VillageVoice	Ñ	33 Crosby St.	Tribeca
 VillageVoice	Naima	513 W 27th St.	Chelsea
 VillageVoice	Nam	110 Reade St.	Tribeca
 VillageVoice	Nam Zhaou Hand Made Noodle and Dumpling Place	144 E Broadway	Chinatown
@@ -6218,7 +6218,7 @@ VillageVoice	Pampano	209 E 49th St.	East 40s
 VillageVoice	Pampano Taqueria	805 Third Ave.	East 50s
 VillageVoice	Pancho Magico	213 Pearl St.	Financial District
 VillageVoice	Panino Sportivo Roma	1231 Amsterdam Ave.	Harlem
-VillageVoice	Po!	322 Spring St.	Soho
+VillageVoice	Pão!	322 Spring St.	Soho
 VillageVoice	Paola's	245 E 84th St.	East 80s
 VillageVoice	Papatzul	55 Grand St.	Chinatown
 VillageVoice	Paradou	8 Little W 12th St.	Meatpacking District
@@ -6380,7 +6380,7 @@ VillageVoice	Servants of God/A Taste of Seafood	50 E 125th St.	East Harlem
 VillageVoice	Shabu-Tatsu Downtown	216 E 10th St.	East Village
 VillageVoice	Shake Shack	23rd & Madison Ave.	Flatiron
 VillageVoice	Shang	187 Orchard St.	Chinatown
-VillageVoice	Shanghai Caf	100 Mott St.	Chinatown
+VillageVoice	Shanghai Café	100 Mott St.	Chinatown
 VillageVoice	Shanghai Cuisine	89 Bayard St.	Chinatown
 VillageVoice	Sharaku	14 Stuyvesant St.	East Village
 VillageVoice	Sheng Wang	27 Eldridge St.	Chinatown
@@ -6390,7 +6390,7 @@ VillageVoice	Sigiri	91 First Ave.	East Village
 VillageVoice	Silver Spurs	771 Broadway	Greenwich Village
 VillageVoice	Silver Spurs	494 La Guardia Place	Greenwich Village
 VillageVoice	Simon Sips Cafe	72 East 1st Street	Greenwich Village
-VillageVoice	Singapore Caf	69 Mott St.	Chinatown
+VillageVoice	Singapore Café	69 Mott St.	Chinatown
 VillageVoice	Singas Famous Pizza	176 Second Ave.	East Village
 VillageVoice	Sirtaj	36 W 26th St.	Flatiron
 VillageVoice	Skylight Diner	402 W 34th St.	Chelsea
@@ -6425,7 +6425,7 @@ VillageVoice	Steak Frites	225 Varick St.	Greenwich Village
 VillageVoice	Stout NYC	133 W 33rd St.	Chelsea
 VillageVoice	Strip House	13 E 12th St.	East Village
 VillageVoice	Suba	109 Ludlow St.	Lower East Side
-VillageVoice	Sueos	311 W 17th St.	Chelsea
+VillageVoice	Sueños	311 W 17th St.	Chelsea
 VillageVoice	Sugar Sweet Sunshine Bakery	126 Rivington St.	Lower East Side
 VillageVoice	Sukhadia's Gokul Indian Gourmet	17 W 45th St.	West 40s
 VillageVoice	Sumile	154 W 13th St.	West Village
@@ -6527,7 +6527,7 @@ VillageVoice	Una Pizza Napoletana	349 E 12th St.	East Village
 VillageVoice	Uncle Nick's	747 Ninth Ave.	West 50s
 VillageVoice	Union Prime	9 E 16th St, New York	East Village
 VillageVoice	Union Square Cafe	21 E 16th St.	Union Square
-VillageVoice	Urea	37 E 28th St.	Murray Hill
+VillageVoice	Ureña	37 E 28th St.	Murray Hill
 VillageVoice	Ushiwakamaru	136 W Houston St.	Greenwich Village
 VillageVoice	Vanessa's Dumplings	220 E. 14th St.	East Village
 VillageVoice	Vegetarian Dim Sum House	24 Pell St.	Chinatown
@@ -6536,7 +6536,7 @@ VillageVoice	Veritas	43 E 20th St.	Flatiron
 VillageVoice	Veselka	144 2nd Ave.	East Village
 VillageVoice	Via Emilia	47 E 21st St.	Flatiron
 VillageVoice	Viceroy	160 8th Ave.	Chelsea
-VillageVoice	Viet Caf	345 Greenwich St.	Tribeca
+VillageVoice	Viet Café	345 Greenwich St.	Tribeca
 VillageVoice	Village Mingala	21 E 7th St.	East Village
 VillageVoice	Village Yokocho	8 Stuyvesant St.	East Village
 VillageVoice	Vintage Irving	120 E15th St.	Union Square
@@ -6571,7 +6571,7 @@ VillageVoice	Xai Xai	365 W. 51st St.	West 50s
 VillageVoice	XO Kitchen	148 Hester St.	Soho
 VillageVoice	Xunta	174 First Ave.	East Village
 VillageVoice	Yaffa Cafe	97 St. Marks Place	East Village
-VillageVoice	Yaffa Caf	97 St. Marks Pl.	East Village
+VillageVoice	Yaffa Café	97 St. Marks Pl.	East Village
 VillageVoice	Yakiniku West	218 E 9th St.	East Village
 VillageVoice	Yakitori Taisho	5 Saint Marks Pl.	East Village
 VillageVoice	Yakitori Totto	251 W 55th St.	West 50s
@@ -6697,7 +6697,7 @@ VillageVoice	Anyway Cafe	34 E 2nd St.	East Village
 VillageVoice	AOC	314 Bleecker St.	West Village
 VillageVoice	Apiary	60 Third Ave.	East Village
 VillageVoice	Apizz	217 Eldridge St.	East Village
-VillageVoice	AQ Caf, Scandinavia House	58 Park Ave.	Murray Hill
+VillageVoice	AQ Café, Scandinavia House	58 Park Ave.	Murray Hill
 VillageVoice	Aquagrill	210 Spring St.	Soho
 VillageVoice	Arka Lounge	4488 Broadway	Washington Heights
 VillageVoice	Arno Ristorante	141 W 38th St.	Garment District
@@ -6715,7 +6715,7 @@ VillageVoice	August	359 Bleecker St.	West Village
 VillageVoice	Avra	141 E 48th St.	East 40s
 VillageVoice	Awash	338 E 6th St.	East Village
 VillageVoice	Azuri Cafe	465 W 51st St.	West 50s
-VillageVoice	Azuri Caf	465 W 51st St.	West 50s
+VillageVoice	Azuri Café	465 W 51st St.	West 50s
 VillageVoice	B & H Dairy Restaurant	127 Seconnd Ave.	East Village
 VillageVoice	B Bar & Grill	40 E 4th St.	East Village
 VillageVoice	B. Cafe	240 E 75th St.	East 80s
@@ -6792,10 +6792,10 @@ VillageVoice	Blue Ribbon Brasserie	97 Sullivan St.	Soho
 VillageVoice	Blue Ribbon Sushi	119 Sullivan St.	Soho
 VillageVoice	Blue Smoke	116 E 27th St.	Murray Hill
 VillageVoice	Blue Water Grill	31 Union Sq W	Union Square
-VillageVoice	Boat Basin Caf	79th St.	West 70s
+VillageVoice	Boat Basin Café	79th St.	West 70s
 VillageVoice	Bocca	39 E 19th St.	Greenwich Village
 VillageVoice	Boi To Go	800 Second Avenue	East 40s
-VillageVoice	Boka	9 St. Marks Place	East Village
+VillageVoice	Boka	9 St. Mark’s Place	East Village
 VillageVoice	Bombay Talkie	189 9th Ave.	Chelsea
 VillageVoice	BonBon Chicken	98 Chambers St.	Financial District
 VillageVoice	BonChon Chicken	314 5th Ave. | 2nd Fl	Chelsea
@@ -6836,24 +6836,24 @@ VillageVoice	Cafe Boulud	20 E 76th St.	East 70s
 VillageVoice	Cafe Brama	157 2nd Ave.	East Village
 VillageVoice	Cafe Centosette	160 2nd Ave.	East Village
 VillageVoice	Cafe con Leche	424 Amsterdam Ave.	West 90s
-VillageVoice	Caf con Leche	726 Amsterdam Ave.	West 90s
+VillageVoice	Café con Leche	726 Amsterdam Ave.	West 90s
 VillageVoice	Cafe des Artistes	1 W67th St.	West 60s
-VillageVoice	Caf DeVille	103 3rd Ave.	East Village
-VillageVoice	Caf Edison	228 W 47th St.	West 40s
-VillageVoice	Caf el Portal	174 Elizabeth St.	Nolita
+VillageVoice	Café DeVille	103 3rd Ave.	East Village
+VillageVoice	Café Edison	228 W 47th St.	West 40s
+VillageVoice	Café el Portal	174 Elizabeth St.	Nolita
 VillageVoice	Cafe Gitane	242 Mott St.	Little Italy
 VillageVoice	Cafe Habana	229 Elizabeth St.	Little Italy
-VillageVoice	Caf Loup	105 W 13th St.	West Village
-VillageVoice	Caf Mogador	101 St. Marks Pl.	East Village
+VillageVoice	Café Loup	105 W 13th St.	West Village
+VillageVoice	Café Mogador	101 St. Marks Pl.	East Village
 VillageVoice	Cafe Orlin	41 St. Marks Pl.	East Village
-VillageVoice	Caf Rakka	38 Ave. B	East Village
+VillageVoice	Café Rakka	38 Ave. B	East Village
 VillageVoice	Cafe Sabarsky	1048 5th Ave.	East 80s
-VillageVoice	Caf Spice	54 W 55th St.	West 50s
-VillageVoice	Caf Spice	72 University Place	Greenwich Village
-VillageVoice	Caf Spice Express	Grand Central Terminal	East 40s
+VillageVoice	Café Spice	54 W 55th St.	West 50s
+VillageVoice	Café Spice	72 University Place	Greenwich Village
+VillageVoice	Café Spice Express	Grand Central Terminal	East 40s
 VillageVoice	Cafe Zaiya	18 E 41st St.	East 40s
 VillageVoice	Cafe Zaiya	69 Cooper Square	East Village
-VillageVoice	Caf Zaiya	69 Cooper Square	East Village
+VillageVoice	Café Zaiya	69 Cooper Square	East Village
 VillageVoice	Cafecito	185 Ave. C	East Village
 VillageVoice	Cafetasia	38 E 8th St.	Greenwich Village
 VillageVoice	Cafeteria	119 7th Ave.	Chelsea
@@ -6868,7 +6868,7 @@ VillageVoice	CamaJe	85 MacDougal St.	Greenwich Village
 VillageVoice	Cambodian Cuisine	1664 Third Ave.	East 90s
 VillageVoice	Cantinetta	260 6th Ave.	West Village
 VillageVoice	Cantoon Garden	22 Elizabeth St.	Chinatown
-VillageVoice	Captain's Caf	34 East 32nd Street	Murray Hill
+VillageVoice	Captain's Café	34 East 32nd Street	Murray Hill
 VillageVoice	Caracas Arepa Bar	91 E 7th St.	East Village
 VillageVoice	Caravan of Dreams	405 E. Sixth St.	East Village
 VillageVoice	Caridad	4799 Broadway	Inwood
@@ -6886,7 +6886,7 @@ VillageVoice	Casa Mono	52 Irving Pl.	Flatiron
 VillageVoice	Casimir	103-105 Ave. B	East Village
 VillageVoice	Celeste	502 Amsterdam Ave.	West 80s
 VillageVoice	Centovini	25 W Houston St.	Soho
-VillageVoice	Centro Espaol La Nacional	239 W 14th St.	Chelsea
+VillageVoice	Centro Español La Nacional	239 W 14th St.	Chelsea
 VillageVoice	Centro Vinoteca	74 Seventh Ave. S.	West Village
 VillageVoice	'Cesca	164 W 75th St.	West 70s
 VillageVoice	Cha-An	230 E 9th St.	East Village
@@ -7063,7 +7063,7 @@ VillageVoice	El Paso	134 W. Houston St.	Greenwich Village
 VillageVoice	El Quijote	226 W. 23rd St.	Chelsea
 VillageVoice	El Quinto Pino	401 W.24th St.	Greenwich Village
 VillageVoice	El Rancho Jubilee	10 Hillside Ave.	Washington Heights
-VillageVoice	El Salvadoreo	1229 St. Nicholas Ave.	Washington Heights
+VillageVoice	El Salvadoreño	1229 St. Nicholas Ave.	Washington Heights
 VillageVoice	Elephant & Castle	68 Greenwich Ave.	West Village
 VillageVoice	Elettaria	33 W 8th St.	Chelsea
 VillageVoice	eleven B.	174 Ave. B.	East Village
@@ -7128,7 +7128,7 @@ VillageVoice	Flor de Mayo	2651 Broadway	West 100s
 VillageVoice	Flor de Sol	361 Greenwich St.	Tribeca
 VillageVoice	Florence's	2099 Frederick Douglass Blvd.	Harlem
 VillageVoice	Food Sing 88 Corp.	2 E Broadway	Financial District
-VillageVoice	Forlinis Restaurant	93 Baxter St.	Chinatown
+VillageVoice	Forlini’s Restaurant	93 Baxter St.	Chinatown
 VillageVoice	Franchia	12 Park Ave.	Murray Hill
 VillageVoice	Frank	88 Second Ave.	East Village
 VillageVoice	Freemans	Freeman Alley	Lower East Side
@@ -7196,7 +7196,7 @@ VillageVoice	Heartland Brewery	1285 Sixth Ave.	West 50s
 VillageVoice	Heartland Brewery	93 South St.	Financial District
 VillageVoice	Heartland Brewery	35 Union Square West	Union Square
 VillageVoice	Hill Country	30 W 26th St.	Chelsea
-VillageVoice	Hirokos Place	75 Thompson St.	Soho
+VillageVoice	Hiroko’s Place	75 Thompson St.	Soho
 VillageVoice	Hong Kong Station	128 Hester St.	Lower East Side
 VillageVoice	House of Seafood	2349 Eighth Ave.	Harlem
 VillageVoice	Hsin Wong	72 Bayard St.	Chinatown
@@ -7217,7 +7217,7 @@ VillageVoice	Ino Cafe & Wine Bar	21 Bedford St.	West Village
 VillageVoice	'Inoteca	323 3rd Ave.	Chelsea
 VillageVoice	'Inoteca	98 Rivington St.	Lower East Side
 VillageVoice	Insieme	777 Seventh Avenue	West 50s
-VillageVoice	Isabellas	359 Columbus Ave.	West 70s
+VillageVoice	Isabella’s	359 Columbus Ave.	West 70s
 VillageVoice	Ishikura Sushi	67 First Ave.	East Village
 VillageVoice	Ithaka	308 E 86th St.	East 80s
 VillageVoice	Ivo & Lulu	558 Broome St.	Soho
@@ -7304,14 +7304,14 @@ VillageVoice	Kyoto Sushi	1240 Lexington Ave.	East 80s
 VillageVoice	Kyotofu	705 Ninth Ave.	West 40s
 VillageVoice	L&L Hawaiian Barbecue	64 Fulton St.	Financial District
 VillageVoice	L.E.S. Sushi	515 Grand St.	Lower East Side
-VillageVoice	LArtusi	228 W 10th St.	Greenwich Village
+VillageVoice	L‘Artusi	228 W 10th St.	Greenwich Village
 VillageVoice	La Belle Vie	184 Eighth Ave.	Chelsea
 VillageVoice	La Bergamote	515 W 52nd St.	West 50s
 VillageVoice	La Bergamote	169 Ninth Ave.	Chelsea
 VillageVoice	La Boite en Bois	75 W 68th St.	West 60s
 VillageVoice	La Bonne Soupe	48 W 55th St.	West 50s
 VillageVoice	La Bottega	88 Ninth Ave. | Maritime Hotel	Chelsea
-VillageVoice	La Cabana Salvadorea	4384 Broadway	Washington Heights
+VillageVoice	La Cabana Salvadoreña	4384 Broadway	Washington Heights
 VillageVoice	La Cantina Toscana	1109 First Ave.	East 60s
 VillageVoice	La Caridad 78	2199 Broadway	West 70s
 VillageVoice	La Casa de Los Tacos	2277 First Ave.	East Harlem
@@ -7336,7 +7336,7 @@ VillageVoice	La Taza de Oro	1459 Eighth Ave.	Chelsea
 VillageVoice	L'Absinthe	227 E 67th St.	East 60s
 VillageVoice	L'allegria Italian Restaurant	623 Ninth Ave.	West 40s
 VillageVoice	Landmarc	179 W Broadway	Tribeca
-VillageVoice	Lanskys Old World Deli	235 Columbus Ave.	West 70s
+VillageVoice	Lansky’s Old World Deli	235 Columbus Ave.	West 70s
 VillageVoice	Las Ramblas	170 W. Fourth St.	Greenwich Village
 VillageVoice	Lasani	15 W 29th St.	Chelsea
 VillageVoice	Lassi	28 Greenwich Ave.	West Village
@@ -7387,7 +7387,7 @@ VillageVoice	Lucy	35 E 18th St. | ABC Carpet & Home	Flatiron
 VillageVoice	Lulu	235 Mulberry St.	Greenwich Village
 VillageVoice	Lumi	963 Lexington Ave.	East 70s
 VillageVoice	Lunch Box Buffet	195 Centre St.	Chinatown
-VillageVoice	Lupes East L.A. Kitchen	110 Sixth Ave.	Tribeca
+VillageVoice	Lupe’s East L.A. Kitchen	110 Sixth Ave.	Tribeca
 VillageVoice	Lure Fishbar	142 Mercer St. | downstairs	Soho
 VillageVoice	Lusardi's	1494 Second Ave.	East 70s
 VillageVoice	Lusso	331 W. Broadway	Soho
@@ -7400,7 +7400,7 @@ VillageVoice	Madaleine Mae	461 Columbus Ave.	West 80s
 VillageVoice	Madangsui	35 W 35th St.	Garment District
 VillageVoice	Madison & Vine	299 Madison Ave. | Library Hotel	East 40s
 VillageVoice	Madison Bistro	238 Madison Ave.	Murray Hill
-VillageVoice	Madras Caf	79 2nd Ave.	East Village
+VillageVoice	Madras Café	79 2nd Ave.	East Village
 VillageVoice	Madras Mahal	104 Lexington Ave.	Murray Hill
 VillageVoice	Maffei Pizza	688 6th Ave.	Flatiron
 VillageVoice	Malatesta	649 Washington St.	West Village
@@ -7423,7 +7423,7 @@ VillageVoice	March	405 E 58th St.	East 50s
 VillageVoice	Marchi's	251 E 31st St.	Murray Hill
 VillageVoice	Maremma	228 W 10th St.	West Village
 VillageVoice	Mark Joseph	261 Water St.	Financial District
-VillageVoice	Market Caf	496 9th Ave.	Garment District
+VillageVoice	Market Café	496 9th Ave.	Garment District
 VillageVoice	Market Table	54 Carmine St.	West Village
 VillageVoice	Markt	676 6th Ave.	Chelsea
 VillageVoice	Marquet Patisserie	15 E 12th St.	East Village
@@ -7474,7 +7474,7 @@ VillageVoice	Moco Global Dining	516A Third Ave.	Murray Hill
 VillageVoice	Momofuku Ko	163 1st Ave.	East Village
 VillageVoice	Momofuku Milk Bar and Bakery	207 Second Ave.	East Village
 VillageVoice	Momofuku Noodle Bar	171 1st Ave.	East Village
-VillageVoice	Momofuku Ssm Bar	207 Second Ave.	East Village
+VillageVoice	Momofuku Ssäm Bar	207 Second Ave.	East Village
 VillageVoice	Momoya	185 Seventh Ave.	Chelsea
 VillageVoice	Mon Petit Cafe	801 Lexington Ave.	East 60s
 VillageVoice	Monck's Corner	644 9th Ave.	West 40s
@@ -7492,7 +7492,7 @@ VillageVoice	Mr. K's	570 Lexington Ave.	East 50s
 VillageVoice	Mr. Skewer & Co.	43 W 14th St.	Chelsea
 VillageVoice	Mr. Tang	50 Mott St.	Chinatown
 VillageVoice	Mughlai	320 Columbus Ave.	West 70s
-VillageVoice		33 Crosby St.	Tribeca
+VillageVoice	Ñ	33 Crosby St.	Tribeca
 VillageVoice	Naima	513 W 27th St.	Chelsea
 VillageVoice	Nam	110 Reade St.	Tribeca
 VillageVoice	Nam Zhaou Hand Made Noodle and Dumpling Place	144 E Broadway	Chinatown
@@ -7588,7 +7588,7 @@ VillageVoice	Pampano	209 E 49th St.	East 40s
 VillageVoice	Pampano Taqueria	805 Third Ave.	East 50s
 VillageVoice	Pancho Magico	213 Pearl St.	Financial District
 VillageVoice	Panino Sportivo Roma	1231 Amsterdam Ave.	Harlem
-VillageVoice	Po!	322 Spring St.	Soho
+VillageVoice	Pão!	322 Spring St.	Soho
 VillageVoice	Paola's	245 E 84th St.	East 80s
 VillageVoice	Papatzul	55 Grand St.	Chinatown
 VillageVoice	Paradou	8 Little W 12th St.	Meatpacking District
@@ -7750,7 +7750,7 @@ VillageVoice	Servants of God/A Taste of Seafood	50 E 125th St.	East Harlem
 VillageVoice	Shabu-Tatsu Downtown	216 E 10th St.	East Village
 VillageVoice	Shake Shack	23rd & Madison Ave.	Flatiron
 VillageVoice	Shang	187 Orchard St.	Chinatown
-VillageVoice	Shanghai Caf	100 Mott St.	Chinatown
+VillageVoice	Shanghai Café	100 Mott St.	Chinatown
 VillageVoice	Shanghai Cuisine	89 Bayard St.	Chinatown
 VillageVoice	Sharaku	14 Stuyvesant St.	East Village
 VillageVoice	Sheng Wang	27 Eldridge St.	Chinatown
@@ -7760,7 +7760,7 @@ VillageVoice	Sigiri	91 First Ave.	East Village
 VillageVoice	Silver Spurs	771 Broadway	Greenwich Village
 VillageVoice	Silver Spurs	494 La Guardia Place	Greenwich Village
 VillageVoice	Simon Sips Cafe	72 East 1st Street	Greenwich Village
-VillageVoice	Singapore Caf	69 Mott St.	Chinatown
+VillageVoice	Singapore Café	69 Mott St.	Chinatown
 VillageVoice	Singas Famous Pizza	176 Second Ave.	East Village
 VillageVoice	Sirtaj	36 W 26th St.	Flatiron
 VillageVoice	Skylight Diner	402 W 34th St.	Chelsea
@@ -7794,7 +7794,7 @@ VillageVoice	Stand	24 E 12th St.	East Village
 VillageVoice	Steak Frites	225 Varick St.	Greenwich Village
 VillageVoice	Stout NYC	133 W 33rd St.	Chelsea
 VillageVoice	Strip House	13 E 12th St.	East Village
-VillageVoice	Sueos	311 W 17th St.	Chelsea
+VillageVoice	Sueños	311 W 17th St.	Chelsea
 VillageVoice	Sugar Sweet Sunshine Bakery	126 Rivington St.	Lower East Side
 VillageVoice	Sukhadia's Gokul Indian Gourmet	17 W 45th St.	West 40s
 VillageVoice	Sumile	154 W 13th St.	West Village
@@ -7897,7 +7897,7 @@ VillageVoice	Una Pizza Napoletana	349 E 12th St.	East Village
 VillageVoice	Uncle Nick's	747 Ninth Ave.	West 50s
 VillageVoice	Union Prime	9 E 16th St, New York	East Village
 VillageVoice	Union Square Cafe	21 E 16th St.	Union Square
-VillageVoice	Urea	37 E 28th St.	Murray Hill
+VillageVoice	Ureña	37 E 28th St.	Murray Hill
 VillageVoice	Ushiwakamaru	136 W Houston St.	Greenwich Village
 VillageVoice	Vanessa's Dumplings	220 E. 14th St.	East Village
 VillageVoice	Vegetarian Dim Sum House	24 Pell St.	Chinatown
@@ -7906,7 +7906,7 @@ VillageVoice	Veritas	43 E 20th St.	Flatiron
 VillageVoice	Veselka	144 2nd Ave.	East Village
 VillageVoice	Via Emilia	47 E 21st St.	Flatiron
 VillageVoice	Viceroy	160 8th Ave.	Chelsea
-VillageVoice	Viet Caf	345 Greenwich St.	Tribeca
+VillageVoice	Viet Café	345 Greenwich St.	Tribeca
 VillageVoice	Village Mingala	21 E 7th St.	East Village
 VillageVoice	Village Yokocho	8 Stuyvesant St.	East Village
 VillageVoice	Vintage Irving	120 E15th St.	Union Square
@@ -7940,7 +7940,7 @@ VillageVoice	Wu Liang Ye	338 Lexington Ave.	Murray Hill
 VillageVoice	Xai Xai	365 W. 51st St.	West 50s
 VillageVoice	XO Kitchen	148 Hester St.	Soho
 VillageVoice	Xunta	174 First Ave.	East Village
-VillageVoice	Yaffa Caf	97 St. Marks Pl.	East Village
+VillageVoice	Yaffa Café	97 St. Marks Pl.	East Village
 VillageVoice	Yakitori Totto	251 W 55th St.	West 50s
 VillageVoice	Yoshinoya	255 W 42nd St.	West 40s
 VillageVoice	Yum Thai	129 West 44th St.	West 40s
@@ -8050,7 +8050,7 @@ VillageVoice	Anthos	36 W 52nd St.	West 50s
 VillageVoice	Anyway Cafe	34 E 2nd St.	East Village
 VillageVoice	Apiary	60 Third Ave.	East Village
 VillageVoice	Apizz	217 Eldridge St.	East Village
-VillageVoice	AQ Caf, Scandinavia House	58 Park Ave.	Murray Hill
+VillageVoice	AQ Café, Scandinavia House	58 Park Ave.	Murray Hill
 VillageVoice	Aquagrill	210 Spring St.	Soho
 VillageVoice	Arka Lounge	4488 Broadway	Washington Heights
 VillageVoice	Arno Ristorante	141 W 38th St.	Garment District
@@ -8156,10 +8156,10 @@ VillageVoice	Blue Ribbon Sushi	119 Sullivan St.	Soho
 VillageVoice	Blue Smoke	116 E 27th St.	Murray Hill
 VillageVoice	Blue Water Grill	31 Union Sq W	Union Square
 VillageVoice	BLVD - Bowery Bistro	199 Bowery	East Village
-VillageVoice	Boat Basin Caf	79th St.	West 70s
+VillageVoice	Boat Basin Café	79th St.	West 70s
 VillageVoice	Bocca	39 E 19th St.	Greenwich Village
 VillageVoice	Boi To Go	800 Second Avenue	East 40s
-VillageVoice	Boka	9 St. Marks Place	East Village
+VillageVoice	Boka	9 St. Mark’s Place	East Village
 VillageVoice	Bombay Talkie	189 9th Ave.	Chelsea
 VillageVoice	Bona Fides	60 2nd Ave,	East Village
 VillageVoice	BonBon Chicken	98 Chambers St.	Financial District
@@ -8213,25 +8213,25 @@ VillageVoice	Cafe Boulud	20 E 76th St.	East 70s
 VillageVoice	Cafe Brama	157 2nd Ave.	East Village
 VillageVoice	Cafe Centosette	160 2nd Ave.	East Village
 VillageVoice	Cafe con Leche	424 Amsterdam Ave.	West 90s
-VillageVoice	Caf con Leche	726 Amsterdam Ave.	West 90s
+VillageVoice	Café con Leche	726 Amsterdam Ave.	West 90s
 VillageVoice	Cafe Cortadito	210 E 3rd St.	East Village
-VillageVoice	Caf des Artistes	1 W67th St.	West 60s
-VillageVoice	Caf DeVille	103 3rd Ave.	East Village
-VillageVoice	Caf Edison	228 W 47th St.	West 40s
-VillageVoice	Caf el Portal	174 Elizabeth St.	Nolita
+VillageVoice	Café des Artistes	1 W67th St.	West 60s
+VillageVoice	Café DeVille	103 3rd Ave.	East Village
+VillageVoice	Café Edison	228 W 47th St.	West 40s
+VillageVoice	Café el Portal	174 Elizabeth St.	Nolita
 VillageVoice	Cafe Gitane	242 Mott St.	Little Italy
-VillageVoice	Caf Habana	229 Elizabeth St.	Greenwich Village
-VillageVoice	Caf Loup	105 W 13th St.	West Village
-VillageVoice	Caf Mogador	101 St. Marks Pl.	East Village
+VillageVoice	Café Habana	229 Elizabeth St.	Greenwich Village
+VillageVoice	Café Loup	105 W 13th St.	West Village
+VillageVoice	Café Mogador	101 St. Marks Pl.	East Village
 VillageVoice	Cafe Orlin	41 St. Marks Pl.	East Village
-VillageVoice	Caf Rakka	38 Ave. B	East Village
+VillageVoice	Café Rakka	38 Ave. B	East Village
 VillageVoice	Cafe Sabarsky	1048 5th Ave.	East 80s
-VillageVoice	Caf Spice	54 W 55th St.	West 50s
-VillageVoice	Caf Spice	72 University Place	Greenwich Village
-VillageVoice	Caf Spice Express	Grand Central Terminal	East 40s
+VillageVoice	Café Spice	54 W 55th St.	West 50s
+VillageVoice	Café Spice	72 University Place	Greenwich Village
+VillageVoice	Café Spice Express	Grand Central Terminal	East 40s
 VillageVoice	Cafe Zaiya	18 E 41st St.	East 40s
 VillageVoice	Cafe Zaiya	69 Cooper Square	East Village
-VillageVoice	Caf Zaiya	69 Cooper Square	East Village
+VillageVoice	Café Zaiya	69 Cooper Square	East Village
 VillageVoice	Cafecito	185 Ave. C	East Village
 VillageVoice	Cafetasia	38 E 8th St.	Greenwich Village
 VillageVoice	Cafeteria	119 7th Ave.	Chelsea
@@ -8246,7 +8246,7 @@ VillageVoice	CamaJe	85 MacDougal St.	Greenwich Village
 VillageVoice	Cambodian Cuisine	1664 Third Ave.	East 90s
 VillageVoice	Cantinetta	260 6th Ave.	West Village
 VillageVoice	Cantoon Garden	22 Elizabeth St.	Chinatown
-VillageVoice	Captain's Caf	34 East 32nd Street	Murray Hill
+VillageVoice	Captain's Café	34 East 32nd Street	Murray Hill
 VillageVoice	Caracas Arepa Bar	91 E 7th St.	East Village
 VillageVoice	Caravan of Dreams	405 E. Sixth St.	East Village
 VillageVoice	Caridad	4799 Broadway	Inwood
@@ -8264,7 +8264,7 @@ VillageVoice	Casa Mono	52 Irving Pl.	Flatiron
 VillageVoice	Casimir	103-105 Ave. B	East Village
 VillageVoice	Celeste	502 Amsterdam Ave.	West 80s
 VillageVoice	Centovini	25 W Houston St.	Soho
-VillageVoice	Centro Espaol La Nacional	239 W 14th St.	Chelsea
+VillageVoice	Centro Español La Nacional	239 W 14th St.	Chelsea
 VillageVoice	Centro Vinoteca	74 Seventh Ave. S.	West Village
 VillageVoice	'Cesca	164 W 75th St.	West 70s
 VillageVoice	Cha-An	230 E 9th St.	East Village
@@ -8440,7 +8440,7 @@ VillageVoice	El Paso	134 W. Houston St.	Greenwich Village
 VillageVoice	El Quijote	226 W. 23rd St.	Chelsea
 VillageVoice	El Quinto Pino	401 W.24th St.	Greenwich Village
 VillageVoice	El Rancho Jubilee	10 Hillside Ave.	Washington Heights
-VillageVoice	El Salvadoreo	1229 St. Nicholas Ave.	Washington Heights
+VillageVoice	El Salvadoreño	1229 St. Nicholas Ave.	Washington Heights
 VillageVoice	Elephant & Castle	68 Greenwich Ave.	West Village
 VillageVoice	Elettaria	33 W 8th St.	Chelsea
 VillageVoice	eleven B.	174 Ave. B.	East Village
@@ -8506,7 +8506,7 @@ VillageVoice	Flor de Mayo	2651 Broadway	West 100s
 VillageVoice	Flor de Sol	361 Greenwich St.	Tribeca
 VillageVoice	Florence's	2099 Frederick Douglass Blvd.	Harlem
 VillageVoice	Food Sing 88 Corp.	2 E Broadway	Financial District
-VillageVoice	Forlinis Restaurant	93 Baxter St.	Chinatown
+VillageVoice	Forlini’s Restaurant	93 Baxter St.	Chinatown
 VillageVoice	Franchia	12 Park Ave.	Murray Hill
 VillageVoice	Frank	88 Second Ave.	East Village
 VillageVoice	Freemans	Freeman Alley	Lower East Side
@@ -8574,7 +8574,7 @@ VillageVoice	Heartland Brewery	1285 Sixth Ave.	West 50s
 VillageVoice	Heartland Brewery	93 South St.	Financial District
 VillageVoice	Heartland Brewery	35 Union Square West	Union Square
 VillageVoice	Hill Country	30 W 26th St.	Chelsea
-VillageVoice	Hirokos Place	75 Thompson St.	Soho
+VillageVoice	Hiroko’s Place	75 Thompson St.	Soho
 VillageVoice	Hong Kong Station	128 Hester St.	Lower East Side
 VillageVoice	House of Seafood	2349 Eighth Ave.	Harlem
 VillageVoice	Hsin Wong	72 Bayard St.	Chinatown
@@ -8596,7 +8596,7 @@ VillageVoice	Ino Cafe & Wine Bar	21 Bedford St.	West Village
 VillageVoice	'Inoteca	323 3rd Ave.	Chelsea
 VillageVoice	'Inoteca	98 Rivington St.	Lower East Side
 VillageVoice	Insieme	777 Seventh Avenue	West 50s
-VillageVoice	Isabellas	359 Columbus Ave.	West 70s
+VillageVoice	Isabella’s	359 Columbus Ave.	West 70s
 VillageVoice	Ishikura Sushi	67 First Ave.	East Village
 VillageVoice	Ithaka	308 E 86th St.	East 80s
 VillageVoice	Ivo & Lulu	558 Broome St.	Soho
@@ -8683,14 +8683,14 @@ VillageVoice	Kyoto Sushi	1240 Lexington Ave.	East 80s
 VillageVoice	Kyotofu	705 Ninth Ave.	West 40s
 VillageVoice	L&L Hawaiian Barbecue	64 Fulton St.	Financial District
 VillageVoice	L.E.S. Sushi	515 Grand St.	Lower East Side
-VillageVoice	LArtusi	228 W 10th St.	Greenwich Village
+VillageVoice	L‘Artusi	228 W 10th St.	Greenwich Village
 VillageVoice	La Belle Vie	184 Eighth Ave.	Chelsea
 VillageVoice	La Bergamote	515 W 52nd St.	West 50s
 VillageVoice	La Bergamote	169 Ninth Ave.	Chelsea
 VillageVoice	La Boite en Bois	75 W 68th St.	West 60s
 VillageVoice	La Bonne Soupe	48 W 55th St.	West 50s
 VillageVoice	La Bottega	88 Ninth Ave. | Maritime Hotel	Chelsea
-VillageVoice	La Cabana Salvadorea	4384 Broadway	Washington Heights
+VillageVoice	La Cabana Salvadoreña	4384 Broadway	Washington Heights
 VillageVoice	La Cantina Toscana	1109 First Ave.	East 60s
 VillageVoice	La Caridad 78	2199 Broadway	West 70s
 VillageVoice	La Casa de Los Tacos	2277 First Ave.	East Harlem
@@ -8715,7 +8715,7 @@ VillageVoice	La Taza de Oro	1459 Eighth Ave.	Chelsea
 VillageVoice	L'Absinthe	227 E 67th St.	East 60s
 VillageVoice	L'allegria Italian Restaurant	623 Ninth Ave.	West 40s
 VillageVoice	Landmarc	179 W Broadway	Tribeca
-VillageVoice	Lanskys Old World Deli	235 Columbus Ave.	West 70s
+VillageVoice	Lansky’s Old World Deli	235 Columbus Ave.	West 70s
 VillageVoice	Las Ramblas	170 W. Fourth St.	Greenwich Village
 VillageVoice	Lasani	15 W 29th St.	Chelsea
 VillageVoice	Lassi	28 Greenwich Ave.	West Village
@@ -8765,7 +8765,7 @@ VillageVoice	Lucy	35 E 18th St. | ABC Carpet & Home	Flatiron
 VillageVoice	Lulu	235 Mulberry St.	Greenwich Village
 VillageVoice	Lumi	963 Lexington Ave.	East 70s
 VillageVoice	Lunch Box Buffet	195 Centre St.	Chinatown
-VillageVoice	Lupes East L.A. Kitchen	110 Sixth Ave.	Tribeca
+VillageVoice	Lupe’s East L.A. Kitchen	110 Sixth Ave.	Tribeca
 VillageVoice	Lure Fishbar	142 Mercer St. | downstairs	Soho
 VillageVoice	Lusardi's	1494 Second Ave.	East 70s
 VillageVoice	Lusso	331 W. Broadway	Soho
@@ -8778,7 +8778,7 @@ VillageVoice	Madaleine Mae	461 Columbus Ave.	West 80s
 VillageVoice	Madangsui	35 W 35th St.	Garment District
 VillageVoice	Madison & Vine	299 Madison Ave. | Library Hotel	East 40s
 VillageVoice	Madison Bistro	238 Madison Ave.	Murray Hill
-VillageVoice	Madras Caf	79 2nd Ave.	East Village
+VillageVoice	Madras Café	79 2nd Ave.	East Village
 VillageVoice	Madras Mahal	104 Lexington Ave.	Murray Hill
 VillageVoice	Maffei Pizza	688 6th Ave.	Flatiron
 VillageVoice	Malatesta	649 Washington St.	West Village
@@ -8801,7 +8801,7 @@ VillageVoice	March	405 E 58th St.	East 50s
 VillageVoice	Marchi's	251 E 31st St.	Murray Hill
 VillageVoice	Maremma	228 W 10th St.	West Village
 VillageVoice	Mark Joseph	261 Water St.	Financial District
-VillageVoice	Market Caf	496 9th Ave.	Garment District
+VillageVoice	Market Café	496 9th Ave.	Garment District
 VillageVoice	Market Table	54 Carmine St.	West Village
 VillageVoice	Markt	676 6th Ave.	Chelsea
 VillageVoice	Marquet Patisserie	15 E 12th St.	East Village
@@ -8851,7 +8851,7 @@ VillageVoice	Moco Global Dining	516 Third Ave.	Murray Hill
 VillageVoice	Momofuku Ko	163 1st Ave.	East Village
 VillageVoice	Momofuku Milk Bar and Bakery	207 Second Ave.	East Village
 VillageVoice	Momofuku Noodle Bar	171 1st Ave.	East Village
-VillageVoice	Momofuku Ssm Bar	207 Second Ave.	East Village
+VillageVoice	Momofuku Ssäm Bar	207 Second Ave.	East Village
 VillageVoice	Momoya	185 Seventh Ave.	Chelsea
 VillageVoice	Mon Petit Cafe	801 Lexington Ave.	East 60s
 VillageVoice	Monck's Corner	644 9th Ave.	West 40s
@@ -8869,7 +8869,7 @@ VillageVoice	Mr. K's	570 Lexington Ave.	East 50s
 VillageVoice	Mr. Skewer & Co.	43 W. 14th St.	Chelsea
 VillageVoice	Mr. Tang	50 Mott St.	Chinatown
 VillageVoice	Mughlai	320 Columbus Ave.	West 70s
-VillageVoice		33 Crosby St.	Tribeca
+VillageVoice	Ñ	33 Crosby St.	Tribeca
 VillageVoice	Naima	513 W 27th St.	Chelsea
 VillageVoice	Nam	110 Reade St.	Tribeca
 VillageVoice	Nam Zhaou Hand Made Noodle and Dumpling Place	144 E. Broadway	Chinatown
@@ -8967,7 +8967,7 @@ VillageVoice	Pampano	209 E 49th St.	East 40s
 VillageVoice	Pampano Taqueria	805 Third Ave.	East 50s
 VillageVoice	Pancho Magico	213 Pearl St.	Financial District
 VillageVoice	Panino Sportivo Roma	1231 Amsterdam Ave.	Harlem
-VillageVoice	Po!	322 Spring St.	Soho
+VillageVoice	Pão!	322 Spring St.	Soho
 VillageVoice	Paola's	245 E 84th St.	East 80s
 VillageVoice	Papatzul	55 Grand St.	Chinatown
 VillageVoice	Paradou	8 Little W 12th St.	Meatpacking District
@@ -9129,7 +9129,7 @@ VillageVoice	Servants of God/A Taste of Seafood	50 E 125th St.	East Harlem
 VillageVoice	Shabu-Tatsu Downtown	216 E 10th St.	East Village
 VillageVoice	Shake Shack	23rd & Madison Ave.	Flatiron
 VillageVoice	Shang	187 Orchard St.	Chinatown
-VillageVoice	Shanghai Caf	100 Mott St.	Chinatown
+VillageVoice	Shanghai Café	100 Mott St.	Chinatown
 VillageVoice	Shanghai Cuisine	89 Bayard St.	Chinatown
 VillageVoice	Sharaku	14 Stuyvesant St.	East Village
 VillageVoice	Sheng Wang	27 Eldridge St.	Chinatown
@@ -9139,7 +9139,7 @@ VillageVoice	Sigiri	91 First Ave.	East Village
 VillageVoice	Silver Spurs	771 Broadway	Greenwich Village
 VillageVoice	Silver Spurs	494 La Guardia Place	Greenwich Village
 VillageVoice	Simon Sips Cafe	72 East 1st Street	Greenwich Village
-VillageVoice	Singapore Caf	69 Mott St.	Chinatown
+VillageVoice	Singapore Café	69 Mott St.	Chinatown
 VillageVoice	Singas Famous Pizza	176 Second Ave.	East Village
 VillageVoice	Sirtaj	36 W 26th St.	Flatiron
 VillageVoice	Skylight Diner	402 W 34th St.	Chelsea
@@ -9174,7 +9174,7 @@ VillageVoice	Steak Frites	225 Varick St.	Greenwich Village
 VillageVoice	Stout NYC	133 W 33rd St.	Chelsea
 VillageVoice	Strange Taste	20 Henry St.	Chinatown
 VillageVoice	Strip House	13 E 12th St.	East Village
-VillageVoice	Sueos	311 W 17th St.	Chelsea
+VillageVoice	Sueños	311 W 17th St.	Chelsea
 VillageVoice	Sugar Sweet Sunshine Bakery	126 Rivington St.	Lower East Side
 VillageVoice	Sukhadia's Gokul Indian Gourmet	17 W 45th St.	West 40s
 VillageVoice	Sumile	154 W 13th St.	West Village
@@ -9279,7 +9279,7 @@ VillageVoice	Una Pizza Napoletana	349 E 12th St.	East Village
 VillageVoice	Uncle Nick's	747 Ninth Ave.	West 50s
 VillageVoice	Union Prime	9 E 16th St, New York	East Village
 VillageVoice	Union Square Cafe	21 E 16th St.	Union Square
-VillageVoice	Urea	37 E 28th St.	Murray Hill
+VillageVoice	Ureña	37 E 28th St.	Murray Hill
 VillageVoice	Ushiwakamaru	136 W Houston St.	Greenwich Village
 VillageVoice	Vanessa's Dumplings	220 E. 14th St.	East Village
 VillageVoice	Vegetarian Dim Sum House	24 Pell St.	Chinatown
@@ -9409,7 +9409,7 @@ VillageVoice	Anthos	36 W 52nd St.	West 50s
 VillageVoice	Anyway Cafe	34 E 2nd St.	East Village
 VillageVoice	Apiary	60 Third Ave.	East Village
 VillageVoice	Apizz	217 Eldridge St.	East Village
-VillageVoice	AQ Caf, Scandinavia House	58 Park Ave.	Murray Hill
+VillageVoice	AQ Café, Scandinavia House	58 Park Ave.	Murray Hill
 VillageVoice	Aquagrill	210 Spring St.	Soho
 VillageVoice	Aquavit	65 East 55th Street	East 50s
 VillageVoice	Arka Lounge	4488 Broadway	Washington Heights
@@ -9516,10 +9516,10 @@ VillageVoice	Blue Ribbon Sushi	119 Sullivan St.	Soho
 VillageVoice	Blue Smoke	116 E 27th St.	Murray Hill
 VillageVoice	Blue Water Grill	31 Union Sq W	Union Square
 VillageVoice	BLVD - Bowery Bistro	199 Bowery	East Village
-VillageVoice	Boat Basin Caf	79th St.	West 70s
+VillageVoice	Boat Basin Café	79th St.	West 70s
 VillageVoice	Bocca	39 E 19th St.	Greenwich Village
 VillageVoice	Boi To Go	800 Second Avenue	East 40s
-VillageVoice	Boka	9 St. Marks Place	East Village
+VillageVoice	Boka	9 St. Mark’s Place	East Village
 VillageVoice	Bombay Talkie	189 9th Ave.	Chelsea
 VillageVoice	Bona Fides	60 2nd Ave,	East Village
 VillageVoice	BonBon Chicken	98 Chambers St.	Financial District
@@ -9570,29 +9570,29 @@ VillageVoice	Cafe Boulud	20 E 76th St.	East 70s
 VillageVoice	Cafe Brama	157 2nd Ave.	East Village
 VillageVoice	Cafe Centosette	160 2nd Ave.	East Village
 VillageVoice	Cafe con Leche	424 Amsterdam Ave.	West 90s
-VillageVoice	Caf con Leche	726 Amsterdam Ave.	West 90s
+VillageVoice	Café con Leche	726 Amsterdam Ave.	West 90s
 VillageVoice	Cafe Cortadito	210 E 3rd St.	East Village
-VillageVoice	Caf des Artistes	1 W67th St.	West 60s
-VillageVoice	Caf DeVille	103 3rd Ave.	East Village
-VillageVoice	Caf Edison	228 W 47th St.	West 40s
-VillageVoice	Caf el Portal	174 Elizabeth St.	Nolita
+VillageVoice	Café des Artistes	1 W67th St.	West 60s
+VillageVoice	Café DeVille	103 3rd Ave.	East Village
+VillageVoice	Café Edison	228 W 47th St.	West 40s
+VillageVoice	Café el Portal	174 Elizabeth St.	Nolita
 VillageVoice	Cafe Gitane	242 Mott St.	Little Italy
-VillageVoice	Caf Habana	229 Elizabeth St.	Greenwich Village
+VillageVoice	Café Habana	229 Elizabeth St.	Greenwich Village
 VillageVoice	Cafe Himalaya	78 E 1st St.	East Village
 VillageVoice	Cafe Katja	79 Orchard St.	East Village
-VillageVoice	Caf Loup	105 W 13th St.	West Village
+VillageVoice	Café Loup	105 W 13th St.	West Village
 VillageVoice	Cafe Mocha	116 2nd Ave.	East Village
-VillageVoice	Caf Mogador	101 St. Marks Pl.	East Village
+VillageVoice	Café Mogador	101 St. Marks Pl.	East Village
 VillageVoice	Cafe Orlin	41 St. Marks Pl.	East Village
 VillageVoice	Cafe Petisco	189 E Broadway	East Village
-VillageVoice	Caf Rakka	38 Ave. B	East Village
+VillageVoice	Café Rakka	38 Ave. B	East Village
 VillageVoice	Cafe Sabarsky	1048 5th Ave.	East 80s
-VillageVoice	Caf Spice	54 W 55th St.	West 50s
-VillageVoice	Caf Spice	72 University Place	Greenwich Village
-VillageVoice	Caf Spice Express	Grand Central Terminal	East 40s
+VillageVoice	Café Spice	54 W 55th St.	West 50s
+VillageVoice	Café Spice	72 University Place	Greenwich Village
+VillageVoice	Café Spice Express	Grand Central Terminal	East 40s
 VillageVoice	Cafe Zaiya	18 E 41st St.	East 40s
 VillageVoice	Cafe Zaiya	69 Cooper Square	East Village
-VillageVoice	Caf Zaiya	69 Cooper Square	East Village
+VillageVoice	Café Zaiya	69 Cooper Square	East Village
 VillageVoice	Cafecito	185 Ave. C	East Village
 VillageVoice	Cafetasia	38 E 8th St.	Greenwich Village
 VillageVoice	Cafeteria	119 7th Ave.	Chelsea
@@ -9611,7 +9611,7 @@ VillageVoice	Candela Candela	92 2nd Ave,	East Village
 VillageVoice	Cannonau (fka Assenzio)	205 E 4th St.	East Village
 VillageVoice	Cantinetta	260 6th Ave.	West Village
 VillageVoice	Cantoon Garden	22 Elizabeth St.	Chinatown
-VillageVoice	Captain's Caf	34 East 32nd Street	Murray Hill
+VillageVoice	Captain's Café	34 East 32nd Street	Murray Hill
 VillageVoice	Caracas Arepa Bar	91 E 7th St.	East Village
 VillageVoice	Caravan of Dreams	405 E. Sixth St.	East Village
 VillageVoice	Caridad	4799 Broadway	Inwood
@@ -9631,7 +9631,7 @@ VillageVoice	Casimir	103-105 Ave. B	East Village
 VillageVoice	Casimir	103 Avenue B	East Village
 VillageVoice	Celeste	502 Amsterdam Ave.	West 80s
 VillageVoice	Centovini	25 W Houston St.	Soho
-VillageVoice	Centro Espaol La Nacional	239 W 14th St.	Chelsea
+VillageVoice	Centro Español La Nacional	239 W 14th St.	Chelsea
 VillageVoice	Centro Vinoteca	74 Seventh Ave. S.	West Village
 VillageVoice	CentroPizze	201 E 10th St,	East Village
 VillageVoice	'Cesca	164 W 75th St.	West 70s
@@ -9807,7 +9807,7 @@ VillageVoice	El Paso	134 W. Houston St.	Greenwich Village
 VillageVoice	El Quijote	226 W. 23rd St.	Chelsea
 VillageVoice	El Quinto Pino	401 W.24th St.	Greenwich Village
 VillageVoice	El Rancho Jubilee	10 Hillside Ave.	Washington Heights
-VillageVoice	El Salvadoreo	1229 St. Nicholas Ave.	Washington Heights
+VillageVoice	El Salvadoreño	1229 St. Nicholas Ave.	Washington Heights
 VillageVoice	Elephant & Castle	68 Greenwich Ave.	West Village
 VillageVoice	Elettaria	33 W 8th St.	Chelsea
 VillageVoice	eleven B.	174 Ave. B.	East Village
@@ -9872,7 +9872,7 @@ VillageVoice	Flor de Mayo	2651 Broadway	West 100s
 VillageVoice	Flor de Sol	361 Greenwich St.	Tribeca
 VillageVoice	Florence's	2099 Frederick Douglass Blvd.	Harlem
 VillageVoice	Food Sing 88 Corp.	2 E Broadway	Financial District
-VillageVoice	Forlinis Restaurant	93 Baxter St.	Chinatown
+VillageVoice	Forlini’s Restaurant	93 Baxter St.	Chinatown
 VillageVoice	Franchia	12 Park Ave.	Murray Hill
 VillageVoice	Frank	88 Second Ave.	East Village
 VillageVoice	Freemans	Freeman Alley	Lower East Side
@@ -9939,7 +9939,7 @@ VillageVoice	Heartland Brewery	1285 Sixth Ave.	West 50s
 VillageVoice	Heartland Brewery	93 South St.	Financial District
 VillageVoice	Heartland Brewery	35 Union Square West	Union Square
 VillageVoice	Hill Country Barbecue	30 W 26th St.	Chelsea
-VillageVoice	Hirokos Place	75 Thompson St.	Soho
+VillageVoice	Hiroko’s Place	75 Thompson St.	Soho
 VillageVoice	Hong Kong Station	128 Hester St.	Lower East Side
 VillageVoice	House of Seafood	2349 Eighth Ave.	Harlem
 VillageVoice	Hsin Wong	72 Bayard St.	Chinatown
@@ -9962,7 +9962,7 @@ VillageVoice	'Inoteca	323 3rd Ave.	Chelsea
 VillageVoice	'Inoteca	98 Rivington St.	Lower East Side
 VillageVoice	Insieme	777 Seventh Avenue	West 50s
 VillageVoice	Irving Mill	116 East 16th Street	East Village
-VillageVoice	Isabellas	359 Columbus Ave.	West 70s
+VillageVoice	Isabella’s	359 Columbus Ave.	West 70s
 VillageVoice	Ishikura Sushi	67 First Ave.	East Village
 VillageVoice	Ithaka	308 E 86th St.	East 80s
 VillageVoice	Ivo & Lulu	558 Broome St.	Soho
@@ -10046,13 +10046,13 @@ VillageVoice	Kyoto Sushi	1240 Lexington Ave.	East 80s
 VillageVoice	Kyotofu	705 Ninth Ave.	West 40s
 VillageVoice	L&L Hawaiian Barbecue	64 Fulton St.	Financial District
 VillageVoice	L.E.S. Sushi	515 Grand St.	Lower East Side
-VillageVoice	LArtusi	228 W 10th St.	Greenwich Village
+VillageVoice	L‘Artusi	228 W 10th St.	Greenwich Village
 VillageVoice	La Belle Vie	184 Eighth Ave.	Chelsea
 VillageVoice	La Bergamote	169 Ninth Ave.	Chelsea
 VillageVoice	La Boite en Bois	75 W 68th St.	West 60s
 VillageVoice	La Bonne Soupe	48 W 55th St.	West 50s
 VillageVoice	La Bottega	88 Ninth Ave. | Maritime Hotel	Chelsea
-VillageVoice	La Cabana Salvadorea	4384 Broadway	Washington Heights
+VillageVoice	La Cabana Salvadoreña	4384 Broadway	Washington Heights
 VillageVoice	La Cantina Toscana	1109 First Ave.	East 60s
 VillageVoice	La Caridad 78	2199 Broadway	West 70s
 VillageVoice	La Casa de Los Tacos	2277 First Ave.	East Harlem
@@ -10077,7 +10077,7 @@ VillageVoice	La Taza de Oro	1459 Eighth Ave.	Chelsea
 VillageVoice	L'Absinthe	227 E 67th St.	East 60s
 VillageVoice	L'allegria Italian Restaurant	623 Ninth Ave.	West 40s
 VillageVoice	Landmarc	179 W Broadway	Tribeca
-VillageVoice	Lanskys Old World Deli	235 Columbus Ave.	West 70s
+VillageVoice	Lansky’s Old World Deli	235 Columbus Ave.	West 70s
 VillageVoice	Las Ramblas	170 W. Fourth St.	Greenwich Village
 VillageVoice	Lasani	15 W 29th St.	Chelsea
 VillageVoice	Lassi	28 Greenwich Ave.	West Village
@@ -10127,7 +10127,7 @@ VillageVoice	Lucy	35 E 18th St. | ABC Carpet & Home	Flatiron
 VillageVoice	Lulu	235 Mulberry St.	Greenwich Village
 VillageVoice	Lumi	963 Lexington Ave.	East 70s
 VillageVoice	Lunch Box Buffet	195 Centre St.	Chinatown
-VillageVoice	Lupes East L.A. Kitchen	110 Sixth Ave.	Tribeca
+VillageVoice	Lupe’s East L.A. Kitchen	110 Sixth Ave.	Tribeca
 VillageVoice	Lure Fishbar	142 Mercer St. | downstairs	Soho
 VillageVoice	Lusardi's	1494 Second Ave.	East 70s
 VillageVoice	Lusso	331 W. Broadway	Soho
@@ -10140,7 +10140,7 @@ VillageVoice	Madaleine Mae	461 Columbus Ave.	West 80s
 VillageVoice	Madangsui	35 W 35th St.	Garment District
 VillageVoice	Madison & Vine	299 Madison Ave. | Library Hotel	East 40s
 VillageVoice	Madison Bistro	238 Madison Ave.	Murray Hill
-VillageVoice	Madras Caf	79 2nd Ave.	East Village
+VillageVoice	Madras Café	79 2nd Ave.	East Village
 VillageVoice	Madras Mahal	104 Lexington Ave.	Murray Hill
 VillageVoice	Maffei Pizza	688 6th Ave.	Flatiron
 VillageVoice	Malatesta	649 Washington St.	West Village
@@ -10164,7 +10164,7 @@ VillageVoice	Marchi's	251 E 31st St.	Murray Hill
 VillageVoice	Maremma	228 W 10th St.	West Village
 VillageVoice	Marfa	101 E 2nd St.	East Village
 VillageVoice	Mark Joseph	261 Water St.	Financial District
-VillageVoice	Market Caf	496 9th Ave.	Garment District
+VillageVoice	Market Café	496 9th Ave.	Garment District
 VillageVoice	Market Table	54 Carmine St.	West Village
 VillageVoice	Markt	676 6th Ave.	Chelsea
 VillageVoice	Marquet Patisserie	15 E 12th St.	East Village
@@ -10214,7 +10214,7 @@ VillageVoice	Moco Global Dining	516 Third Ave.	Murray Hill
 VillageVoice	Momofuku Ko	163 1st Ave.	East Village
 VillageVoice	Momofuku Milk Bar and Bakery	207 Second Ave.	East Village
 VillageVoice	Momofuku Noodle Bar	171 1st Ave.	East Village
-VillageVoice	Momofuku Ssm Bar	207 Second Ave.	East Village
+VillageVoice	Momofuku Ssäm Bar	207 Second Ave.	East Village
 VillageVoice	Momoya	185 Seventh Ave.	Chelsea
 VillageVoice	Mon Petit Cafe	801 Lexington Ave.	East 60s
 VillageVoice	Monck's Corner	644 9th Ave.	West 40s
@@ -10232,7 +10232,7 @@ VillageVoice	Mr. K's	570 Lexington Ave.	East 50s
 VillageVoice	Mr. Skewer & Co.	43 W. 14th St.	Chelsea
 VillageVoice	Mr. Tang	50 Mott St.	Chinatown
 VillageVoice	Mughlai	320 Columbus Ave.	West 70s
-VillageVoice		33 Crosby St.	Tribeca
+VillageVoice	Ñ	33 Crosby St.	Tribeca
 VillageVoice	Naima	513 W 27th St.	Chelsea
 VillageVoice	Nam	110 Reade St.	Tribeca
 VillageVoice	Nam Zhaou Hand Made Noodle and Dumpling Place	144 E. Broadway	Chinatown
@@ -10330,7 +10330,7 @@ VillageVoice	Pampano	209 E 49th St.	East 40s
 VillageVoice	Pampano Taqueria	805 Third Ave.	East 50s
 VillageVoice	Pancho Magico	213 Pearl St.	Financial District
 VillageVoice	Panino Sportivo Roma	1231 Amsterdam Ave.	Harlem
-VillageVoice	Po!	322 Spring St.	Soho
+VillageVoice	Pão!	322 Spring St.	Soho
 VillageVoice	Paola's	245 E 84th St.	East 80s
 VillageVoice	Papatzul	55 Grand St.	Chinatown
 VillageVoice	Paradou	8 Little W 12th St.	Meatpacking District
@@ -10494,7 +10494,7 @@ VillageVoice	Servants of God/A Taste of Seafood	50 E 125th St.	East Harlem
 VillageVoice	Shabu-Tatsu Downtown	216 E 10th St.	East Village
 VillageVoice	Shake Shack	23rd & Madison Ave.	Flatiron
 VillageVoice	Shang	187 Orchard St.	Chinatown
-VillageVoice	Shanghai Caf	100 Mott St.	Chinatown
+VillageVoice	Shanghai Café	100 Mott St.	Chinatown
 VillageVoice	Shanghai Cuisine	89 Bayard St.	Chinatown
 VillageVoice	Sharaku	14 Stuyvesant St.	East Village
 VillageVoice	Sheng Wang	27 Eldridge St.	Chinatown
@@ -10504,7 +10504,7 @@ VillageVoice	Sigiri	91 First Ave.	East Village
 VillageVoice	Silver Spurs	771 Broadway	Greenwich Village
 VillageVoice	Silver Spurs	494 La Guardia Place	Greenwich Village
 VillageVoice	Simon Sips Cafe	72 East 1st Street	Greenwich Village
-VillageVoice	Singapore Caf	69 Mott St.	Chinatown
+VillageVoice	Singapore Café	69 Mott St.	Chinatown
 VillageVoice	Singas Famous Pizza	176 Second Ave.	East Village
 VillageVoice	Sirtaj	36 W 26th St.	Flatiron
 VillageVoice	Skylight Diner	402 W 34th St.	Chelsea
@@ -10540,7 +10540,7 @@ VillageVoice	Steak Frites	225 Varick St.	Greenwich Village
 VillageVoice	Stout NYC	133 W 33rd St.	Chelsea
 VillageVoice	Strange Taste	20 Henry St.	Chinatown
 VillageVoice	Strip House	13 E 12th St.	East Village
-VillageVoice	Sueos	311 W 17th St.	Chelsea
+VillageVoice	Sueños	311 W 17th St.	Chelsea
 VillageVoice	Sugar Sweet Sunshine Bakery	126 Rivington St.	Lower East Side
 VillageVoice	Sukhadia's Gokul Indian Gourmet	17 W 45th St.	West 40s
 VillageVoice	Sumile	154 W 13th St.	West Village
@@ -10642,7 +10642,7 @@ VillageVoice	Txikito	240 Ninth Ave.	Chelsea
 VillageVoice	Udon West	150 E 46th St.	East 40s
 VillageVoice	Uncle Nick's	747 Ninth Ave.	West 50s
 VillageVoice	Union Prime	9 E 16th St, New York	East Village
-VillageVoice	Urea	37 E 28th St.	Murray Hill
+VillageVoice	Ureña	37 E 28th St.	Murray Hill
 VillageVoice	Ushiwakamaru	136 W Houston St.	Greenwich Village
 VillageVoice	Via Emilia	47 E 21st St.	Flatiron
 VillageVoice	Vintage Irving	120 E15th St.	Union Square

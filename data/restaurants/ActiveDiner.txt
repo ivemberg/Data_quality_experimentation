@@ -4421,7 +4421,7 @@ ActiveDiner	Vic Sam Restaurant Inc 	114 Christopher St, New York
 ActiveDiner	Viceroy Restaurant & Bar 	160 8th Avenue, New York
 ActiveDiner	Vico Madison Av Ristorante 	1302 Madison Ave, New York
 ActiveDiner	Vicolo 	55 Greenwich Ave, New York
-ActiveDiner	Terramare Caf 	22 East 65th Street, New York
+ActiveDiner	Terramare Café 	22 East 65th Street, New York
 ActiveDiner	Terras Gourmet 	77 Pearl St, New York
 ActiveDiner	Tevares Restaurant 	2316 Amsterdam Ave, New York
 ActiveDiner	Tevere 84 Italian Glatt Kosher 	155 E 84th St, New York
@@ -11497,7 +11497,7 @@ ActiveDiner	Vic Sam Restaurant Inc 	114 Christopher St, New York
 ActiveDiner	Viceroy Restaurant & Bar 	160 8th Avenue, New York
 ActiveDiner	Vico Madison Av Ristorante 	1302 Madison Ave, New York
 ActiveDiner	Vicolo 	55 Greenwich Ave, New York
-ActiveDiner	Terramare Caf 	Italian, Coffee Shop, Cater, Celebrity Watch
+ActiveDiner	Terramare Café 	Italian, Coffee Shop, Cater, Celebrity Watch
 ActiveDiner	Terras Gourmet 	77 Pearl St, New York
 ActiveDiner	Tevares Restaurant 	2316 Amsterdam Ave, New York
 ActiveDiner	Tevere 84 Italian Glatt Kosher 	Italian, Kosher
@@ -15742,7 +15742,7 @@ ActiveDiner	Vic Sam Restaurant Inc 	114 Christopher St, New York
 ActiveDiner	Viceroy Restaurant & Bar 	160 8th Avenue, New York
 ActiveDiner	Vico Madison Av Ristorante 	1302 Madison Ave, New York
 ActiveDiner	Vicolo 	55 Greenwich Ave, New York
-ActiveDiner	Terramare Caf 	22 East 65th Street, New York
+ActiveDiner	Terramare Café 	22 East 65th Street, New York
 ActiveDiner	Terras Gourmet 	77 Pearl St, New York
 ActiveDiner	Tevares Restaurant 	2316 Amsterdam Ave, New York
 ActiveDiner	Tevere 84 Italian Glatt Kosher 	155 E 84th St, New York
@@ -20005,7 +20005,7 @@ ActiveDiner	Angelo & Maxies Steakhouse 	233 Park Avenue South, New York
 ActiveDiner	A Restaurant Charlotte 	145 W 44th St, New York
 ActiveDiner	A.O.C. 	314 Bleecker Street, New York
 ActiveDiner	Acappella 	1 Hudson Street, New York
-ActiveDiner	Agozar Restaurant & Lounge 	 more info: Cuban 
+ActiveDiner	Agozar Restaurant & Lounge 	  more info: Cuban  
 ActiveDiner	AJA 	1068 First Avenue, New York
 ActiveDiner	Al Diwan 	210 Avenue A/13th St., New York
 ActiveDiner	Aleo 	7 W 20th St, New York
@@ -22596,7 +22596,7 @@ ActiveDiner	Vic Sam Restaurant Inc 	114 Christopher St, New York
 ActiveDiner	Viceroy Restaurant & Bar 	160 8th Avenue, New York
 ActiveDiner	Vico Madison Av Ristorante 	1302 Madison Ave, New York
 ActiveDiner	Vicolo 	55 Greenwich Ave, New York
-ActiveDiner	Terramare Caf 	22 East 65th Street, New York
+ActiveDiner	Terramare Café 	22 East 65th Street, New York
 ActiveDiner	Terras Gourmet 	77 Pearl St, New York
 ActiveDiner	Tevares Restaurant 	2316 Amsterdam Ave, New York
 ActiveDiner	Tevere 84 Italian Glatt Kosher 	155 E 84th St, New York
@@ -29747,7 +29747,7 @@ ActiveDiner	Teriyaki Town 	77 Pearl St, New York
 ActiveDiner	Terra Blues Bar Restrnt & Music 	149 Bleecker St, New York
 ActiveDiner	Terrace Dining Corp 	22 W 135th St, New York
 ActiveDiner	Terrace Restaurant Butler Hall 	400 W 119th St, New York
-ActiveDiner	Terramare Caf 	22 East 65th Street, New York
+ActiveDiner	Terramare Café 	22 East 65th Street, New York
 ActiveDiner	Terras Gourmet 	77 Pearl St, New York
 ActiveDiner	Tevares Restaurant 	2316 Amsterdam Ave, New York
 ActiveDiner	Tevere 84 Italian Glatt Kosher 	155 E 84th St, New York
@@ -35771,7 +35771,7 @@ ActiveDiner	Teriyaki Town 	77 Pearl St, New York
 ActiveDiner	Terra Blues Bar Restrnt & Music 	149 Bleecker St, New York
 ActiveDiner	Terrace Dining Corp 	22 W 135th St, New York
 ActiveDiner	Terrace Restaurant Butler Hall 	400 W 119th St, New York
-ActiveDiner	Terramare Caf 	22 East 65th Street, New York
+ActiveDiner	Terramare Café 	22 East 65th Street, New York
 ActiveDiner	Terras Gourmet 	77 Pearl St, New York
 ActiveDiner	Tevares Restaurant 	2316 Amsterdam Ave, New York
 ActiveDiner	Tevere 84 Italian Glatt Kosher 	155 E 84th St, New York
@@ -41772,7 +41772,7 @@ ActiveDiner	Teriyaki Town 	77 Pearl St, New York
 ActiveDiner	Terra Blues Bar Restrnt & Music 	149 Bleecker St, New York
 ActiveDiner	Terrace Dining Corp 	22 W 135th St, New York
 ActiveDiner	Terrace Restaurant Butler Hall 	400 W 119th St, New York
-ActiveDiner	Terramare Caf 	22 East 65th Street, New York
+ActiveDiner	Terramare Café 	22 East 65th Street, New York
 ActiveDiner	Terras Gourmet 	77 Pearl St, New York
 ActiveDiner	Tevares Restaurant 	2316 Amsterdam Ave, New York
 ActiveDiner	Tevere 84 Italian Glatt Kosher 	155 E 84th St, New York
@@ -47768,7 +47768,7 @@ ActiveDiner	Teriyaki Town 	77 Pearl St, New York
 ActiveDiner	Terra Blues Bar Restrnt & Music 	149 Bleecker St, New York
 ActiveDiner	Terrace Dining Corp 	22 W 135th St, New York
 ActiveDiner	Terrace Restaurant Butler Hall 	400 W 119th St, New York
-ActiveDiner	Terramare Caf 	22 East 65th Street, New York
+ActiveDiner	Terramare Café 	22 East 65th Street, New York
 ActiveDiner	Terras Gourmet 	77 Pearl St, New York
 ActiveDiner	Tevares Restaurant 	2316 Amsterdam Ave, New York
 ActiveDiner	Tevere 84 Italian Glatt Kosher 	155 E 84th St, New York

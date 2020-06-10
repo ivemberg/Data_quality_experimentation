@@ -113,7 +113,7 @@ NYTimes	Arqua	TriBeCa/SoHo
 NYTimes	Arriba Arriba	Midtown West
 NYTimes	Arriba Arriba East	Upper E. Side
 NYTimes	Art Cafe Restaurant	Midtown West
-NYTimes	Art	E. Village
+NYTimes	Arté	E. Village
 NYTimes	Arte Cafe	Upper W. Side
 NYTimes	Artepasta	W. Village
 NYTimes	Artie's New York Delicatessen	Upper W. Side
@@ -657,7 +657,7 @@ NYTimes	Cub Room	TriBeCa/SoHo
 NYTimes	Cub Room	TriBeCa/SoHo
 NYTimes	Cubana Cafe	TriBeCa/SoHo
 NYTimes	Cucina & Co.	Midtown East
-NYTimes	Cucina & Company  The Cellar At Macy's	Midtown West
+NYTimes	Cucina & Company — The Cellar At Macy's	Midtown West
 NYTimes	Cucina di Pesce	E. Village
 NYTimes	Cucina Gourmet	Midtown West
 NYTimes	Cucina Stagionale	W. Village
@@ -831,7 +831,7 @@ NYTimes	El Paso	W. Village
 NYTimes	El Paso Taqueria	Harlem
 NYTimes	El Pote Espanol Restaurant	Murray Hill
 NYTimes	El Quijote Bar & Restaurant	Chelsea
-NYTimes	El Rincn Boricua	Harlem
+NYTimes	El Rincón Boricua	Harlem
 NYTimes	El Rio Grande	Murray Hill
 NYTimes	El Sabor Latino	Harlem
 NYTimes	El Sombrero	Lower E. Side
@@ -1451,7 +1451,7 @@ NYTimes	La Maison Du Chocolat	Midtown East
 NYTimes	La Maison Japonaise	Murray Hill
 NYTimes	La Mangeoire	Midtown East
 NYTimes	La Masseria	Midtown West
-NYTimes	La Mediterrane	Upper E. Side
+NYTimes	La Mediterran‚e	Upper E. Side
 NYTimes	La Mela Ristorante	Chinatown
 NYTimes	La Mia Pizza	Chelsea
 NYTimes	La Nacional	Chelsea
@@ -1495,7 +1495,7 @@ NYTimes	Larry Forgione's Signature Cafe	Midtown West
 NYTimes	Las Ramblas	W. Village
 NYTimes	Lasagna Restaurant	Midtown East
 NYTimes	L'asso	TriBeCa/SoHo
-NYTimes	L'Atelier de Jol Robuchon	Midtown East
+NYTimes	L'Atelier de Joël Robuchon	Midtown East
 NYTimes	Latin America Cafe	Harlem
 NYTimes	Lattanzi Ristorante	Midtown West
 NYTimes	Lavagna	E. Village
@@ -1779,7 +1779,7 @@ NYTimes	Mi Pais	Upper W. Side
 NYTimes	Mica Bar	Midtown East
 NYTimes	Michael & Zoe's Cafe & Bakery	Lower E. Side
 NYTimes	Michael's	Midtown West
-NYTimes	Michael's Pub At The Park  Lombardy Hotel	Midtown East
+NYTimes	Michael's Pub At The Park — Lombardy Hotel	Midtown East
 NYTimes	Michangelo	Midtown West
 NYTimes	Mickey Mantle's	Midtown West
 NYTimes	Micro Cafe	Upper W. Side
@@ -1892,8 +1892,8 @@ NYTimes	Musette	Flatiron/U. Sq.
 NYTimes	Mustang Grill	Upper E. Side
 NYTimes	My Most Favorite Dessert Co	Midtown West
 NYTimes	Mythos Restaurant	W. Village
-NYTimes	 33 Crosby	TriBeCa/SoHo
-NYTimes	 33 Crosby	TriBeCa/SoHo
+NYTimes	Ñ 33 Crosby	TriBeCa/SoHo
+NYTimes	Ñ 33 Crosby	TriBeCa/SoHo
 NYTimes	N Y Famous Pizzeria	E. Village
 NYTimes	N Y Sarashina	Midtown West
 NYTimes	Nada Sushi Restaurant Inc	Midtown East
@@ -1991,7 +1991,7 @@ NYTimes	North Square	W. Village
 NYTimes	Northwest	Upper W. Side
 NYTimes	Nostalgia Restaurant Corp	Chelsea
 NYTimes	Notaro	Murray Hill
-NYTimes	Novit	Flatiron/U. Sq.
+NYTimes	Novitá	Flatiron/U. Sq.
 NYTimes	Nuevo Castillo	E. Village
 NYTimes	Nyonya	TriBeCa/SoHo
 NYTimes	O Mai	Chelsea
@@ -2667,7 +2667,7 @@ NYTimes	Suba	Lower E. Side
 NYTimes	Suba	Lower E. Side
 NYTimes	Success Chinese Restaurant	Chelsea
 NYTimes	Sud	W. Village
-NYTimes	Sueos	Chelsea
+NYTimes	Sueños	Chelsea
 NYTimes	Sugar Hill Bistro	Harlem
 NYTimes	Sugar Hill Bistro	Harlem
 NYTimes	Sugiyama	Midtown West
@@ -2882,7 +2882,7 @@ NYTimes	Tony's Di Napoli	Upper E. Side
 NYTimes	Toon's	TriBeCa/SoHo
 NYTimes	Top Broccoli Restaurant	Midtown West
 NYTimes	Top of the Tower	Midtown East
-NYTimes	Top of the Tower  Beekman Tower Hotel	Midtown East
+NYTimes	Top of the Tower — Beekman Tower Hotel	Midtown East
 NYTimes	Topaz Thai	Midtown West
 NYTimes	Torch	E. Village
 NYTimes	Torremolinos	Midtown East
@@ -2998,7 +2998,7 @@ NYTimes	Upstairs at Bouley Bakery and Market	TriBeCa/SoHo
 NYTimes	Urban Hero	Midtown West
 NYTimes	Urena's Restaurant	Harlem
 NYTimes	Urena's Restaurant	Harlem
-NYTimes	Uskdar	Upper E. Side
+NYTimes	Usküdar	Upper E. Side
 NYTimes	Utopia	Upper W. Side
 NYTimes	Utopia	Upper W. Side
 NYTimes	Utsav	Midtown West
@@ -3288,10 +3288,10 @@ NYTimes	Zido's Coffee & Espresso Bar	Flatiron/U. Sq.
 NYTimes	Zido's Coffee & Espresso Bar	Flatiron/U. Sq.
 NYTimes	Zig K Corp	E. Village
 NYTimes	Zig K Corp	E. Village
-NYTimes	Zcalo	Midtown East
-NYTimes	Zcalo	Midtown East
-NYTimes	Zcalo	Upper E. Side
-NYTimes	Zcalo	Upper E. Side
+NYTimes	Zócalo	Midtown East
+NYTimes	Zócalo	Midtown East
+NYTimes	Zócalo	Upper E. Side
+NYTimes	Zócalo	Upper E. Side
 NYTimes	Zoe	TriBeCa/SoHo
 NYTimes	Zoe	TriBeCa/SoHo
 NYTimes	Zoma	Harlem
@@ -3425,7 +3425,7 @@ NYTimes	Arqua	TriBeCa/SoHo
 NYTimes	Arriba Arriba	Midtown West
 NYTimes	Arriba Arriba East	Upper E. Side
 NYTimes	Art Cafe Restaurant	Midtown West
-NYTimes	Art	E. Village
+NYTimes	Arté	E. Village
 NYTimes	Arte Cafe	Upper W. Side
 NYTimes	Artepasta	W. Village
 NYTimes	Artie's New York Delicatessen	Upper W. Side
@@ -3969,7 +3969,7 @@ NYTimes	Cub Room	TriBeCa/SoHo
 NYTimes	Cub Room	TriBeCa/SoHo
 NYTimes	Cubana Cafe	TriBeCa/SoHo
 NYTimes	Cucina & Co.	Midtown East
-NYTimes	Cucina & Company  The Cellar At Macy's	Midtown West
+NYTimes	Cucina & Company — The Cellar At Macy's	Midtown West
 NYTimes	Cucina di Pesce	E. Village
 NYTimes	Cucina Gourmet	Midtown West
 NYTimes	Cucina Stagionale	W. Village
@@ -4143,7 +4143,7 @@ NYTimes	El Paso	W. Village
 NYTimes	El Paso Taqueria	Harlem
 NYTimes	El Pote Espanol Restaurant	Murray Hill
 NYTimes	El Quijote Bar & Restaurant	Chelsea
-NYTimes	El Rincn Boricua	Harlem
+NYTimes	El Rincón Boricua	Harlem
 NYTimes	El Rio Grande	Murray Hill
 NYTimes	El Sabor Latino	Harlem
 NYTimes	El Sombrero	Lower E. Side
@@ -4763,7 +4763,7 @@ NYTimes	La Maison Du Chocolat	Midtown East
 NYTimes	La Maison Japonaise	Murray Hill
 NYTimes	La Mangeoire	Midtown East
 NYTimes	La Masseria	Midtown West
-NYTimes	La Mediterrane	Upper E. Side
+NYTimes	La Mediterran‚e	Upper E. Side
 NYTimes	La Mela Ristorante	Chinatown
 NYTimes	La Mia Pizza	Chelsea
 NYTimes	La Nacional	Chelsea
@@ -4807,7 +4807,7 @@ NYTimes	Larry Forgione's Signature Cafe	Midtown West
 NYTimes	Las Ramblas	W. Village
 NYTimes	Lasagna Restaurant	Midtown East
 NYTimes	L'asso	TriBeCa/SoHo
-NYTimes	L'Atelier de Jol Robuchon	Midtown East
+NYTimes	L'Atelier de Joël Robuchon	Midtown East
 NYTimes	Latin America Cafe	Harlem
 NYTimes	Lattanzi Ristorante	Midtown West
 NYTimes	Lavagna	E. Village
@@ -5091,7 +5091,7 @@ NYTimes	Mi Pais	Upper W. Side
 NYTimes	Mica Bar	Midtown East
 NYTimes	Michael & Zoe's Cafe & Bakery	Lower E. Side
 NYTimes	Michael's	Midtown West
-NYTimes	Michael's Pub At The Park  Lombardy Hotel	Midtown East
+NYTimes	Michael's Pub At The Park — Lombardy Hotel	Midtown East
 NYTimes	Michangelo	Midtown West
 NYTimes	Mickey Mantle's	Midtown West
 NYTimes	Micro Cafe	Upper W. Side
@@ -5204,8 +5204,8 @@ NYTimes	Musette	Flatiron/U. Sq.
 NYTimes	Mustang Grill	Upper E. Side
 NYTimes	My Most Favorite Dessert Co	Midtown West
 NYTimes	Mythos Restaurant	W. Village
-NYTimes	 33 Crosby	TriBeCa/SoHo
-NYTimes	 33 Crosby	TriBeCa/SoHo
+NYTimes	Ñ 33 Crosby	TriBeCa/SoHo
+NYTimes	Ñ 33 Crosby	TriBeCa/SoHo
 NYTimes	N Y Famous Pizzeria	E. Village
 NYTimes	N Y Sarashina	Midtown West
 NYTimes	Nada Sushi Restaurant Inc	Midtown East
@@ -5303,7 +5303,7 @@ NYTimes	North Square	W. Village
 NYTimes	Northwest	Upper W. Side
 NYTimes	Nostalgia Restaurant Corp	Chelsea
 NYTimes	Notaro	Murray Hill
-NYTimes	Novit	Flatiron/U. Sq.
+NYTimes	Novitá	Flatiron/U. Sq.
 NYTimes	Nuevo Castillo	E. Village
 NYTimes	Nyonya	TriBeCa/SoHo
 NYTimes	O Mai	Chelsea
@@ -5979,7 +5979,7 @@ NYTimes	Suba	Lower E. Side
 NYTimes	Suba	Lower E. Side
 NYTimes	Success Chinese Restaurant	Chelsea
 NYTimes	Sud	W. Village
-NYTimes	Sueos	Chelsea
+NYTimes	Sueños	Chelsea
 NYTimes	Sugar Hill Bistro	Harlem
 NYTimes	Sugar Hill Bistro	Harlem
 NYTimes	Sugiyama	Midtown West
@@ -6194,7 +6194,7 @@ NYTimes	Tony's Di Napoli	Upper E. Side
 NYTimes	Toon's	TriBeCa/SoHo
 NYTimes	Top Broccoli Restaurant	Midtown West
 NYTimes	Top of the Tower	Midtown East
-NYTimes	Top of the Tower  Beekman Tower Hotel	Midtown East
+NYTimes	Top of the Tower — Beekman Tower Hotel	Midtown East
 NYTimes	Topaz Thai	Midtown West
 NYTimes	Torch	E. Village
 NYTimes	Torremolinos	Midtown East
@@ -6310,7 +6310,7 @@ NYTimes	Upstairs at Bouley Bakery and Market	TriBeCa/SoHo
 NYTimes	Urban Hero	Midtown West
 NYTimes	Urena's Restaurant	Harlem
 NYTimes	Urena's Restaurant	Harlem
-NYTimes	Uskdar	Upper E. Side
+NYTimes	Usküdar	Upper E. Side
 NYTimes	Utopia	Upper W. Side
 NYTimes	Utopia	Upper W. Side
 NYTimes	Utsav	Midtown West
@@ -6600,10 +6600,10 @@ NYTimes	Zido's Coffee & Espresso Bar	Flatiron/U. Sq.
 NYTimes	Zido's Coffee & Espresso Bar	Flatiron/U. Sq.
 NYTimes	Zig K Corp	E. Village
 NYTimes	Zig K Corp	E. Village
-NYTimes	Zcalo	Upper E. Side
-NYTimes	Zcalo	Upper E. Side
-NYTimes	Zcalo	Midtown East
-NYTimes	Zcalo	Midtown East
+NYTimes	Zócalo	Upper E. Side
+NYTimes	Zócalo	Upper E. Side
+NYTimes	Zócalo	Midtown East
+NYTimes	Zócalo	Midtown East
 NYTimes	Zoe	TriBeCa/SoHo
 NYTimes	Zoe	TriBeCa/SoHo
 NYTimes	Zoma	Harlem
@@ -6737,7 +6737,7 @@ NYTimes	Arqua	TriBeCa/SoHo
 NYTimes	Arriba Arriba	Midtown West
 NYTimes	Arriba Arriba East	Upper E. Side
 NYTimes	Art Cafe Restaurant	Midtown West
-NYTimes	Art	E. Village
+NYTimes	Arté	E. Village
 NYTimes	Arte Cafe	Upper W. Side
 NYTimes	Artepasta	W. Village
 NYTimes	Artie's New York Delicatessen	Upper W. Side
@@ -7281,7 +7281,7 @@ NYTimes	Cub Room	TriBeCa/SoHo
 NYTimes	Cub Room	TriBeCa/SoHo
 NYTimes	Cubana Cafe	TriBeCa/SoHo
 NYTimes	Cucina & Co.	Midtown East
-NYTimes	Cucina & Company  The Cellar At Macy's	Midtown West
+NYTimes	Cucina & Company — The Cellar At Macy's	Midtown West
 NYTimes	Cucina di Pesce	E. Village
 NYTimes	Cucina Gourmet	Midtown West
 NYTimes	Cucina Stagionale	W. Village
@@ -7455,7 +7455,7 @@ NYTimes	El Paso	W. Village
 NYTimes	El Paso Taqueria	Harlem
 NYTimes	El Pote Espanol Restaurant	Murray Hill
 NYTimes	El Quijote Bar & Restaurant	Chelsea
-NYTimes	El Rincn Boricua	Harlem
+NYTimes	El Rincón Boricua	Harlem
 NYTimes	El Rio Grande	Murray Hill
 NYTimes	El Sabor Latino	Harlem
 NYTimes	El Sombrero	Lower E. Side
@@ -8075,7 +8075,7 @@ NYTimes	La Maison Du Chocolat	Midtown East
 NYTimes	La Maison Japonaise	Murray Hill
 NYTimes	La Mangeoire	Midtown East
 NYTimes	La Masseria	Midtown West
-NYTimes	La Mediterrane	Upper E. Side
+NYTimes	La Mediterran‚e	Upper E. Side
 NYTimes	La Mela Ristorante	Chinatown
 NYTimes	La Mia Pizza	Chelsea
 NYTimes	La Nacional	Chelsea
@@ -8119,7 +8119,7 @@ NYTimes	Larry Forgione's Signature Cafe	Midtown West
 NYTimes	Las Ramblas	W. Village
 NYTimes	Lasagna Restaurant	Midtown East
 NYTimes	L'asso	TriBeCa/SoHo
-NYTimes	L'Atelier de Jol Robuchon	Midtown East
+NYTimes	L'Atelier de Joël Robuchon	Midtown East
 NYTimes	Latin America Cafe	Harlem
 NYTimes	Lattanzi Ristorante	Midtown West
 NYTimes	Lavagna	E. Village
@@ -8403,7 +8403,7 @@ NYTimes	Mi Pais	Upper W. Side
 NYTimes	Mica Bar	Midtown East
 NYTimes	Michael & Zoe's Cafe & Bakery	Lower E. Side
 NYTimes	Michael's	Midtown West
-NYTimes	Michael's Pub At The Park  Lombardy Hotel	Midtown East
+NYTimes	Michael's Pub At The Park — Lombardy Hotel	Midtown East
 NYTimes	Michangelo	Midtown West
 NYTimes	Mickey Mantle's	Midtown West
 NYTimes	Micro Cafe	Upper W. Side
@@ -8516,8 +8516,8 @@ NYTimes	Musette	Flatiron/U. Sq.
 NYTimes	Mustang Grill	Upper E. Side
 NYTimes	My Most Favorite Dessert Co	Midtown West
 NYTimes	Mythos Restaurant	W. Village
-NYTimes	 33 Crosby	TriBeCa/SoHo
-NYTimes	 33 Crosby	TriBeCa/SoHo
+NYTimes	Ñ 33 Crosby	TriBeCa/SoHo
+NYTimes	Ñ 33 Crosby	TriBeCa/SoHo
 NYTimes	N Y Famous Pizzeria	E. Village
 NYTimes	N Y Sarashina	Midtown West
 NYTimes	Nada Sushi Restaurant Inc	Midtown East
@@ -8615,7 +8615,7 @@ NYTimes	North Square	W. Village
 NYTimes	Northwest	Upper W. Side
 NYTimes	Nostalgia Restaurant Corp	Chelsea
 NYTimes	Notaro	Murray Hill
-NYTimes	Novit	Flatiron/U. Sq.
+NYTimes	Novitá	Flatiron/U. Sq.
 NYTimes	Nuevo Castillo	E. Village
 NYTimes	Nyonya	TriBeCa/SoHo
 NYTimes	O Mai	Chelsea
@@ -9291,7 +9291,7 @@ NYTimes	Suba (CLOSING FEBRUARY 2009)	Lower E. Side
 NYTimes	Suba (CLOSING FEBRUARY 2009)	Lower E. Side
 NYTimes	Success Chinese Restaurant	Chelsea
 NYTimes	Sud	W. Village
-NYTimes	Sueos	Chelsea
+NYTimes	Sueños	Chelsea
 NYTimes	Sugar Hill Bistro	Harlem
 NYTimes	Sugar Hill Bistro	Harlem
 NYTimes	Sugiyama	Midtown West
@@ -9506,7 +9506,7 @@ NYTimes	Tony's Di Napoli	Upper E. Side
 NYTimes	Toon's	TriBeCa/SoHo
 NYTimes	Top Broccoli Restaurant	Midtown West
 NYTimes	Top of the Tower	Midtown East
-NYTimes	Top of the Tower  Beekman Tower Hotel	Midtown East
+NYTimes	Top of the Tower — Beekman Tower Hotel	Midtown East
 NYTimes	Topaz Thai	Midtown West
 NYTimes	Torch	E. Village
 NYTimes	Torremolinos	Midtown East
@@ -9622,7 +9622,7 @@ NYTimes	Upstairs at Bouley Bakery and Market	TriBeCa/SoHo
 NYTimes	Urban Hero	Midtown West
 NYTimes	Urena's Restaurant	Harlem
 NYTimes	Urena's Restaurant	Harlem
-NYTimes	Uskdar	Upper E. Side
+NYTimes	Usküdar	Upper E. Side
 NYTimes	Utopia	Upper W. Side
 NYTimes	Utopia	Upper W. Side
 NYTimes	Utsav	Midtown West
@@ -9912,10 +9912,10 @@ NYTimes	Zido's Coffee & Espresso Bar	Flatiron/U. Sq.
 NYTimes	Zido's Coffee & Espresso Bar	Flatiron/U. Sq.
 NYTimes	Zig K Corp	E. Village
 NYTimes	Zig K Corp	E. Village
-NYTimes	Zcalo	Upper E. Side
-NYTimes	Zcalo	Upper E. Side
-NYTimes	Zcalo	Midtown East
-NYTimes	Zcalo	Midtown East
+NYTimes	Zócalo	Upper E. Side
+NYTimes	Zócalo	Upper E. Side
+NYTimes	Zócalo	Midtown East
+NYTimes	Zócalo	Midtown East
 NYTimes	Zoe	TriBeCa/SoHo
 NYTimes	Zoe	TriBeCa/SoHo
 NYTimes	Zoma	Harlem
@@ -10049,7 +10049,7 @@ NYTimes	Arqua	TriBeCa/SoHo
 NYTimes	Arriba Arriba	Midtown West
 NYTimes	Arriba Arriba East	Upper E. Side
 NYTimes	Art Cafe Restaurant	Midtown West
-NYTimes	Art	E. Village
+NYTimes	Arté	E. Village
 NYTimes	Arte Cafe	Upper W. Side
 NYTimes	Artepasta	W. Village
 NYTimes	Artie's New York Delicatessen	Upper W. Side
@@ -10593,7 +10593,7 @@ NYTimes	Cub Room	TriBeCa/SoHo
 NYTimes	Cub Room	TriBeCa/SoHo
 NYTimes	Cubana Cafe	TriBeCa/SoHo
 NYTimes	Cucina & Co.	Midtown East
-NYTimes	Cucina & Company  The Cellar At Macy's	Midtown West
+NYTimes	Cucina & Company — The Cellar At Macy's	Midtown West
 NYTimes	Cucina di Pesce	E. Village
 NYTimes	Cucina Gourmet	Midtown West
 NYTimes	Cucina Stagionale	W. Village
@@ -10767,7 +10767,7 @@ NYTimes	El Paso	W. Village
 NYTimes	El Paso Taqueria	Harlem
 NYTimes	El Pote Espanol Restaurant	Murray Hill
 NYTimes	El Quijote Bar & Restaurant	Chelsea
-NYTimes	El Rincn Boricua	Harlem
+NYTimes	El Rincón Boricua	Harlem
 NYTimes	El Rio Grande	Murray Hill
 NYTimes	El Sabor Latino	Harlem
 NYTimes	El Sombrero	Lower E. Side
@@ -11387,7 +11387,7 @@ NYTimes	La Maison Du Chocolat	Midtown East
 NYTimes	La Maison Japonaise	Murray Hill
 NYTimes	La Mangeoire	Midtown East
 NYTimes	La Masseria	Midtown West
-NYTimes	La Mediterrane	Upper E. Side
+NYTimes	La Mediterran‚e	Upper E. Side
 NYTimes	La Mela Ristorante	Chinatown
 NYTimes	La Mia Pizza	Chelsea
 NYTimes	La Nacional	Chelsea
@@ -11431,7 +11431,7 @@ NYTimes	Larry Forgione's Signature Cafe	Midtown West
 NYTimes	Las Ramblas	W. Village
 NYTimes	Lasagna Restaurant	Midtown East
 NYTimes	L'asso	TriBeCa/SoHo
-NYTimes	L'Atelier de Jol Robuchon	Midtown East
+NYTimes	L'Atelier de Joël Robuchon	Midtown East
 NYTimes	Latin America Cafe	Harlem
 NYTimes	Lattanzi Ristorante	Midtown West
 NYTimes	Lavagna	E. Village
@@ -11715,7 +11715,7 @@ NYTimes	Mi Pais	Upper W. Side
 NYTimes	Mica Bar	Midtown East
 NYTimes	Michael & Zoe's Cafe & Bakery	Lower E. Side
 NYTimes	Michael's	Midtown West
-NYTimes	Michael's Pub At The Park  Lombardy Hotel	Midtown East
+NYTimes	Michael's Pub At The Park — Lombardy Hotel	Midtown East
 NYTimes	Michangelo	Midtown West
 NYTimes	Mickey Mantle's	Midtown West
 NYTimes	Micro Cafe	Upper W. Side
@@ -11828,8 +11828,8 @@ NYTimes	Musette	Flatiron/U. Sq.
 NYTimes	Mustang Grill	Upper E. Side
 NYTimes	My Most Favorite Dessert Co	Midtown West
 NYTimes	Mythos Restaurant	W. Village
-NYTimes	 33 Crosby	TriBeCa/SoHo
-NYTimes	 33 Crosby	TriBeCa/SoHo
+NYTimes	Ñ 33 Crosby	TriBeCa/SoHo
+NYTimes	Ñ 33 Crosby	TriBeCa/SoHo
 NYTimes	N Y Famous Pizzeria	E. Village
 NYTimes	N Y Sarashina	Midtown West
 NYTimes	Nada Sushi Restaurant Inc	Midtown East
@@ -11927,7 +11927,7 @@ NYTimes	North Square	W. Village
 NYTimes	Northwest	Upper W. Side
 NYTimes	Nostalgia Restaurant Corp	Chelsea
 NYTimes	Notaro	Murray Hill
-NYTimes	Novit	Flatiron/U. Sq.
+NYTimes	Novitá	Flatiron/U. Sq.
 NYTimes	Nuevo Castillo	E. Village
 NYTimes	Nyonya	TriBeCa/SoHo
 NYTimes	O Mai	Chelsea
@@ -12603,7 +12603,7 @@ NYTimes	Suba (CLOSING FEBRUARY 2009)	Lower E. Side
 NYTimes	Suba (CLOSING FEBRUARY 2009)	Lower E. Side
 NYTimes	Success Chinese Restaurant	Chelsea
 NYTimes	Sud	W. Village
-NYTimes	Sueos	Chelsea
+NYTimes	Sueños	Chelsea
 NYTimes	Sugar Hill Bistro	Harlem
 NYTimes	Sugar Hill Bistro	Harlem
 NYTimes	Sugiyama	Midtown West
@@ -12818,7 +12818,7 @@ NYTimes	Tony's Di Napoli	Upper E. Side
 NYTimes	Toon's	TriBeCa/SoHo
 NYTimes	Top Broccoli Restaurant	Midtown West
 NYTimes	Top of the Tower	Midtown East
-NYTimes	Top of the Tower  Beekman Tower Hotel	Midtown East
+NYTimes	Top of the Tower — Beekman Tower Hotel	Midtown East
 NYTimes	Topaz Thai	Midtown West
 NYTimes	Torch	E. Village
 NYTimes	Torremolinos	Midtown East
@@ -12934,7 +12934,7 @@ NYTimes	Upstairs at Bouley Bakery and Market	TriBeCa/SoHo
 NYTimes	Urban Hero	Midtown West
 NYTimes	Urena's Restaurant	Harlem
 NYTimes	Urena's Restaurant	Harlem
-NYTimes	Uskdar	Upper E. Side
+NYTimes	Usküdar	Upper E. Side
 NYTimes	Utopia	Upper W. Side
 NYTimes	Utopia	Upper W. Side
 NYTimes	Utsav	Midtown West
@@ -13224,10 +13224,10 @@ NYTimes	Zido's Coffee & Espresso Bar	Flatiron/U. Sq.
 NYTimes	Zido's Coffee & Espresso Bar	Flatiron/U. Sq.
 NYTimes	Zig K Corp	E. Village
 NYTimes	Zig K Corp	E. Village
-NYTimes	Zcalo	Midtown East
-NYTimes	Zcalo	Upper E. Side
-NYTimes	Zcalo	Upper E. Side
-NYTimes	Zcalo	Midtown East
+NYTimes	Zócalo	Midtown East
+NYTimes	Zócalo	Upper E. Side
+NYTimes	Zócalo	Upper E. Side
+NYTimes	Zócalo	Midtown East
 NYTimes	Zoe	TriBeCa/SoHo
 NYTimes	Zoe	TriBeCa/SoHo
 NYTimes	Zoma	Harlem
@@ -13361,7 +13361,7 @@ NYTimes	Arqua	TriBeCa/SoHo
 NYTimes	Arriba Arriba	Midtown West
 NYTimes	Arriba Arriba East	Upper E. Side
 NYTimes	Art Cafe Restaurant	Midtown West
-NYTimes	Art	E. Village
+NYTimes	Arté	E. Village
 NYTimes	Arte Cafe	Upper W. Side
 NYTimes	Artepasta	W. Village
 NYTimes	Artie's New York Delicatessen	Upper W. Side
@@ -13905,7 +13905,7 @@ NYTimes	Cub Room	TriBeCa/SoHo
 NYTimes	Cub Room	TriBeCa/SoHo
 NYTimes	Cubana Cafe	TriBeCa/SoHo
 NYTimes	Cucina & Co.	Midtown East
-NYTimes	Cucina & Company  The Cellar At Macy's	Midtown West
+NYTimes	Cucina & Company — The Cellar At Macy's	Midtown West
 NYTimes	Cucina di Pesce	E. Village
 NYTimes	Cucina Gourmet	Midtown West
 NYTimes	Cucina Stagionale	W. Village
@@ -14079,7 +14079,7 @@ NYTimes	El Paso	W. Village
 NYTimes	El Paso Taqueria	Harlem
 NYTimes	El Pote Espanol Restaurant	Murray Hill
 NYTimes	El Quijote Bar & Restaurant	Chelsea
-NYTimes	El Rincn Boricua	Harlem
+NYTimes	El Rincón Boricua	Harlem
 NYTimes	El Rio Grande	Murray Hill
 NYTimes	El Sabor Latino	Harlem
 NYTimes	El Sombrero	Lower E. Side
@@ -14699,7 +14699,7 @@ NYTimes	La Maison Du Chocolat	Midtown East
 NYTimes	La Maison Japonaise	Murray Hill
 NYTimes	La Mangeoire	Midtown East
 NYTimes	La Masseria	Midtown West
-NYTimes	La Mediterrane	Upper E. Side
+NYTimes	La Mediterran‚e	Upper E. Side
 NYTimes	La Mela Ristorante	Chinatown
 NYTimes	La Mia Pizza	Chelsea
 NYTimes	La Nacional	Chelsea
@@ -14743,7 +14743,7 @@ NYTimes	Larry Forgione's Signature Cafe	Midtown West
 NYTimes	Las Ramblas	W. Village
 NYTimes	Lasagna Restaurant	Midtown East
 NYTimes	L'asso	TriBeCa/SoHo
-NYTimes	L'Atelier de Jol Robuchon	Midtown East
+NYTimes	L'Atelier de Joël Robuchon	Midtown East
 NYTimes	Latin America Cafe	Harlem
 NYTimes	Lattanzi Ristorante	Midtown West
 NYTimes	Lavagna	E. Village
@@ -15027,7 +15027,7 @@ NYTimes	Mi Pais	Upper W. Side
 NYTimes	Mica Bar	Midtown East
 NYTimes	Michael & Zoe's Cafe & Bakery	Lower E. Side
 NYTimes	Michael's	Midtown West
-NYTimes	Michael's Pub At The Park  Lombardy Hotel	Midtown East
+NYTimes	Michael's Pub At The Park — Lombardy Hotel	Midtown East
 NYTimes	Michangelo	Midtown West
 NYTimes	Mickey Mantle's	Midtown West
 NYTimes	Micro Cafe	Upper W. Side
@@ -15140,8 +15140,8 @@ NYTimes	Musette	Flatiron/U. Sq.
 NYTimes	Mustang Grill	Upper E. Side
 NYTimes	My Most Favorite Dessert Co	Midtown West
 NYTimes	Mythos Restaurant	W. Village
-NYTimes	 33 Crosby	TriBeCa/SoHo
-NYTimes	 33 Crosby	TriBeCa/SoHo
+NYTimes	Ñ 33 Crosby	TriBeCa/SoHo
+NYTimes	Ñ 33 Crosby	TriBeCa/SoHo
 NYTimes	N Y Famous Pizzeria	E. Village
 NYTimes	N Y Sarashina	Midtown West
 NYTimes	Nada Sushi Restaurant Inc	Midtown East
@@ -15239,7 +15239,7 @@ NYTimes	North Square	W. Village
 NYTimes	Northwest	Upper W. Side
 NYTimes	Nostalgia Restaurant Corp	Chelsea
 NYTimes	Notaro	Murray Hill
-NYTimes	Novit	Flatiron/U. Sq.
+NYTimes	Novitá	Flatiron/U. Sq.
 NYTimes	Nuevo Castillo	E. Village
 NYTimes	Nyonya	TriBeCa/SoHo
 NYTimes	O Mai	Chelsea
@@ -15915,7 +15915,7 @@ NYTimes	Suba (CLOSING FEBRUARY 2009)	Lower E. Side
 NYTimes	Suba (CLOSING FEBRUARY 2009)	Lower E. Side
 NYTimes	Success Chinese Restaurant	Chelsea
 NYTimes	Sud	W. Village
-NYTimes	Sueos	Chelsea
+NYTimes	Sueños	Chelsea
 NYTimes	Sugar Hill Bistro	Harlem
 NYTimes	Sugar Hill Bistro	Harlem
 NYTimes	Sugiyama	Midtown West
@@ -16130,7 +16130,7 @@ NYTimes	Tony's Di Napoli	Upper E. Side
 NYTimes	Toon's	TriBeCa/SoHo
 NYTimes	Top Broccoli Restaurant	Midtown West
 NYTimes	Top of the Tower	Midtown East
-NYTimes	Top of the Tower  Beekman Tower Hotel	Midtown East
+NYTimes	Top of the Tower — Beekman Tower Hotel	Midtown East
 NYTimes	Topaz Thai	Midtown West
 NYTimes	Torch	E. Village
 NYTimes	Torremolinos	Midtown East
@@ -16246,7 +16246,7 @@ NYTimes	Upstairs at Bouley Bakery and Market	TriBeCa/SoHo
 NYTimes	Urban Hero	Midtown West
 NYTimes	Urena's Restaurant	Harlem
 NYTimes	Urena's Restaurant	Harlem
-NYTimes	Uskdar	Upper E. Side
+NYTimes	Usküdar	Upper E. Side
 NYTimes	Utopia	Upper W. Side
 NYTimes	Utopia	Upper W. Side
 NYTimes	Utsav	Midtown West
@@ -16536,10 +16536,10 @@ NYTimes	Zido's Coffee & Espresso Bar	Flatiron/U. Sq.
 NYTimes	Zido's Coffee & Espresso Bar	Flatiron/U. Sq.
 NYTimes	Zig K Corp	E. Village
 NYTimes	Zig K Corp	E. Village
-NYTimes	Zcalo	Midtown East
-NYTimes	Zcalo	Upper E. Side
-NYTimes	Zcalo	Upper E. Side
-NYTimes	Zcalo	Midtown East
+NYTimes	Zócalo	Midtown East
+NYTimes	Zócalo	Upper E. Side
+NYTimes	Zócalo	Upper E. Side
+NYTimes	Zócalo	Midtown East
 NYTimes	Zoe	TriBeCa/SoHo
 NYTimes	Zoe	TriBeCa/SoHo
 NYTimes	Zoma	Harlem
@@ -16673,7 +16673,7 @@ NYTimes	Arqua	TriBeCa/SoHo
 NYTimes	Arriba Arriba	Midtown West
 NYTimes	Arriba Arriba East	Upper E. Side
 NYTimes	Art Cafe Restaurant	Midtown West
-NYTimes	Art	E. Village
+NYTimes	Arté	E. Village
 NYTimes	Arte Cafe	Upper W. Side
 NYTimes	Artepasta	W. Village
 NYTimes	Artie's New York Delicatessen	Upper W. Side
@@ -17217,7 +17217,7 @@ NYTimes	Cub Room	TriBeCa/SoHo
 NYTimes	Cub Room	TriBeCa/SoHo
 NYTimes	Cubana Cafe	TriBeCa/SoHo
 NYTimes	Cucina & Co.	Midtown East
-NYTimes	Cucina & Company  The Cellar At Macy's	Midtown West
+NYTimes	Cucina & Company — The Cellar At Macy's	Midtown West
 NYTimes	Cucina di Pesce	E. Village
 NYTimes	Cucina Gourmet	Midtown West
 NYTimes	Cucina Stagionale	W. Village
@@ -17391,7 +17391,7 @@ NYTimes	El Paso	W. Village
 NYTimes	El Paso Taqueria	Harlem
 NYTimes	El Pote Espanol Restaurant	Murray Hill
 NYTimes	El Quijote Bar & Restaurant	Chelsea
-NYTimes	El Rincn Boricua	Harlem
+NYTimes	El Rincón Boricua	Harlem
 NYTimes	El Rio Grande	Murray Hill
 NYTimes	El Sabor Latino	Harlem
 NYTimes	El Sombrero	Lower E. Side
@@ -18011,7 +18011,7 @@ NYTimes	La Maison Du Chocolat	Midtown East
 NYTimes	La Maison Japonaise	Murray Hill
 NYTimes	La Mangeoire	Midtown East
 NYTimes	La Masseria	Midtown West
-NYTimes	La Mediterrane	Upper E. Side
+NYTimes	La Mediterran‚e	Upper E. Side
 NYTimes	La Mela Ristorante	Chinatown
 NYTimes	La Mia Pizza	Chelsea
 NYTimes	La Nacional	Chelsea
@@ -18055,7 +18055,7 @@ NYTimes	Larry Forgione's Signature Cafe	Midtown West
 NYTimes	Las Ramblas	W. Village
 NYTimes	Lasagna Restaurant	Midtown East
 NYTimes	L'asso	TriBeCa/SoHo
-NYTimes	L'Atelier de Jol Robuchon	Midtown East
+NYTimes	L'Atelier de Joël Robuchon	Midtown East
 NYTimes	Latin America Cafe	Harlem
 NYTimes	Lattanzi Ristorante	Midtown West
 NYTimes	Lavagna	E. Village
@@ -18339,7 +18339,7 @@ NYTimes	Mi Pais	Upper W. Side
 NYTimes	Mica Bar	Midtown East
 NYTimes	Michael & Zoe's Cafe & Bakery	Lower E. Side
 NYTimes	Michael's	Midtown West
-NYTimes	Michael's Pub At The Park  Lombardy Hotel	Midtown East
+NYTimes	Michael's Pub At The Park — Lombardy Hotel	Midtown East
 NYTimes	Michangelo	Midtown West
 NYTimes	Mickey Mantle's	Midtown West
 NYTimes	Micro Cafe	Upper W. Side
@@ -18452,8 +18452,8 @@ NYTimes	Musette	Flatiron/U. Sq.
 NYTimes	Mustang Grill	Upper E. Side
 NYTimes	My Most Favorite Dessert Co	Midtown West
 NYTimes	Mythos Restaurant	W. Village
-NYTimes	 33 Crosby	TriBeCa/SoHo
-NYTimes	 33 Crosby	TriBeCa/SoHo
+NYTimes	Ñ 33 Crosby	TriBeCa/SoHo
+NYTimes	Ñ 33 Crosby	TriBeCa/SoHo
 NYTimes	N Y Famous Pizzeria	E. Village
 NYTimes	N Y Sarashina	Midtown West
 NYTimes	Nada Sushi Restaurant Inc	Midtown East
@@ -18551,7 +18551,7 @@ NYTimes	North Square	W. Village
 NYTimes	Northwest	Upper W. Side
 NYTimes	Nostalgia Restaurant Corp	Chelsea
 NYTimes	Notaro	Murray Hill
-NYTimes	Novit	Flatiron/U. Sq.
+NYTimes	Novitá	Flatiron/U. Sq.
 NYTimes	Nuevo Castillo	E. Village
 NYTimes	Nyonya	TriBeCa/SoHo
 NYTimes	O Mai	Chelsea
@@ -19227,7 +19227,7 @@ NYTimes	Suba (CLOSING FEBRUARY 2009)	Lower E. Side
 NYTimes	Suba (CLOSING FEBRUARY 2009)	Lower E. Side
 NYTimes	Success Chinese Restaurant	Chelsea
 NYTimes	Sud	W. Village
-NYTimes	Sueos	Chelsea
+NYTimes	Sueños	Chelsea
 NYTimes	Sugar Hill Bistro	Harlem
 NYTimes	Sugar Hill Bistro	Harlem
 NYTimes	Sugiyama	Midtown West
@@ -19442,7 +19442,7 @@ NYTimes	Tony's Di Napoli	Upper E. Side
 NYTimes	Toon's	TriBeCa/SoHo
 NYTimes	Top Broccoli Restaurant	Midtown West
 NYTimes	Top of the Tower	Midtown East
-NYTimes	Top of the Tower  Beekman Tower Hotel	Midtown East
+NYTimes	Top of the Tower — Beekman Tower Hotel	Midtown East
 NYTimes	Topaz Thai	Midtown West
 NYTimes	Torch	E. Village
 NYTimes	Torremolinos	Midtown East
@@ -19558,7 +19558,7 @@ NYTimes	Upstairs at Bouley Bakery and Market	TriBeCa/SoHo
 NYTimes	Urban Hero	Midtown West
 NYTimes	Urena's Restaurant	Harlem
 NYTimes	Urena's Restaurant	Harlem
-NYTimes	Uskdar	Upper E. Side
+NYTimes	Usküdar	Upper E. Side
 NYTimes	Utopia	Upper W. Side
 NYTimes	Utopia	Upper W. Side
 NYTimes	Utsav	Midtown West
@@ -19848,10 +19848,10 @@ NYTimes	Zido's Coffee & Espresso Bar	Flatiron/U. Sq.
 NYTimes	Zido's Coffee & Espresso Bar	Flatiron/U. Sq.
 NYTimes	Zig K Corp	E. Village
 NYTimes	Zig K Corp	E. Village
-NYTimes	Zcalo	Upper E. Side
-NYTimes	Zcalo	Upper E. Side
-NYTimes	Zcalo	Midtown East
-NYTimes	Zcalo	Midtown East
+NYTimes	Zócalo	Upper E. Side
+NYTimes	Zócalo	Upper E. Side
+NYTimes	Zócalo	Midtown East
+NYTimes	Zócalo	Midtown East
 NYTimes	Zoe	TriBeCa/SoHo
 NYTimes	Zoe	TriBeCa/SoHo
 NYTimes	Zoma	Harlem
@@ -19985,7 +19985,7 @@ NYTimes	Arqua	TriBeCa/SoHo
 NYTimes	Arriba Arriba	Midtown West
 NYTimes	Arriba Arriba East	Upper E. Side
 NYTimes	Art Cafe Restaurant	Midtown West
-NYTimes	Art	E. Village
+NYTimes	Arté	E. Village
 NYTimes	Arte Cafe	Upper W. Side
 NYTimes	Artepasta	W. Village
 NYTimes	Artie's New York Delicatessen	Upper W. Side
@@ -20529,7 +20529,7 @@ NYTimes	Cub Room	TriBeCa/SoHo
 NYTimes	Cub Room	TriBeCa/SoHo
 NYTimes	Cubana Cafe	TriBeCa/SoHo
 NYTimes	Cucina & Co.	Midtown East
-NYTimes	Cucina & Company  The Cellar At Macy's	Midtown West
+NYTimes	Cucina & Company — The Cellar At Macy's	Midtown West
 NYTimes	Cucina di Pesce	E. Village
 NYTimes	Cucina Gourmet	Midtown West
 NYTimes	Cucina Stagionale	W. Village
@@ -20703,7 +20703,7 @@ NYTimes	El Paso	W. Village
 NYTimes	El Paso Taqueria	Harlem
 NYTimes	El Pote Espanol Restaurant	Murray Hill
 NYTimes	El Quijote Bar & Restaurant	Chelsea
-NYTimes	El Rincn Boricua	Harlem
+NYTimes	El Rincón Boricua	Harlem
 NYTimes	El Rio Grande	Murray Hill
 NYTimes	El Sabor Latino	Harlem
 NYTimes	El Sombrero	Lower E. Side
@@ -21323,7 +21323,7 @@ NYTimes	La Maison Du Chocolat	Midtown East
 NYTimes	La Maison Japonaise	Murray Hill
 NYTimes	La Mangeoire	Midtown East
 NYTimes	La Masseria	Midtown West
-NYTimes	La Mediterrane	Upper E. Side
+NYTimes	La Mediterran‚e	Upper E. Side
 NYTimes	La Mela Ristorante	Chinatown
 NYTimes	La Mia Pizza	Chelsea
 NYTimes	La Nacional	Chelsea
@@ -21367,7 +21367,7 @@ NYTimes	Larry Forgione's Signature Cafe	Midtown West
 NYTimes	Las Ramblas	W. Village
 NYTimes	Lasagna Restaurant	Midtown East
 NYTimes	L'asso	TriBeCa/SoHo
-NYTimes	L'Atelier de Jol Robuchon	Midtown East
+NYTimes	L'Atelier de Joël Robuchon	Midtown East
 NYTimes	Latin America Cafe	Harlem
 NYTimes	Lattanzi Ristorante	Midtown West
 NYTimes	Lavagna	E. Village
@@ -21650,7 +21650,7 @@ NYTimes	Mi Pais	Upper W. Side
 NYTimes	Mica Bar	Midtown East
 NYTimes	Michael & Zoe's Cafe & Bakery	Lower E. Side
 NYTimes	Michael's	Midtown West
-NYTimes	Michael's Pub At The Park  Lombardy Hotel	Midtown East
+NYTimes	Michael's Pub At The Park — Lombardy Hotel	Midtown East
 NYTimes	Michangelo	Midtown West
 NYTimes	Mickey Mantle's	Midtown West
 NYTimes	Micro Cafe	Upper W. Side
@@ -21763,8 +21763,8 @@ NYTimes	Musette	Flatiron/U. Sq.
 NYTimes	Mustang Grill	Upper E. Side
 NYTimes	My Most Favorite Dessert Co	Midtown West
 NYTimes	Mythos Restaurant	W. Village
-NYTimes	 33 Crosby	TriBeCa/SoHo
-NYTimes	 33 Crosby	TriBeCa/SoHo
+NYTimes	Ñ 33 Crosby	TriBeCa/SoHo
+NYTimes	Ñ 33 Crosby	TriBeCa/SoHo
 NYTimes	N Y Famous Pizzeria	E. Village
 NYTimes	N Y Sarashina	Midtown West
 NYTimes	Nada Sushi Restaurant Inc	Midtown East
@@ -21862,7 +21862,7 @@ NYTimes	North Square	W. Village
 NYTimes	Northwest	Upper W. Side
 NYTimes	Nostalgia Restaurant Corp	Chelsea
 NYTimes	Notaro	Murray Hill
-NYTimes	Novit	Flatiron/U. Sq.
+NYTimes	Novitá	Flatiron/U. Sq.
 NYTimes	Nuevo Castillo	E. Village
 NYTimes	Nyonya	TriBeCa/SoHo
 NYTimes	O Mai	Chelsea
@@ -22538,7 +22538,7 @@ NYTimes	Suba (CLOSING FEBRUARY 2009)	Lower E. Side
 NYTimes	Suba (CLOSING FEBRUARY 2009)	Lower E. Side
 NYTimes	Success Chinese Restaurant	Chelsea
 NYTimes	Sud	W. Village
-NYTimes	Sueos	Chelsea
+NYTimes	Sueños	Chelsea
 NYTimes	Sugar Hill Bistro	Harlem
 NYTimes	Sugar Hill Bistro	Harlem
 NYTimes	Sugiyama	Midtown West
@@ -22753,7 +22753,7 @@ NYTimes	Tony's Di Napoli	Upper E. Side
 NYTimes	Toon's	TriBeCa/SoHo
 NYTimes	Top Broccoli Restaurant	Midtown West
 NYTimes	Top of the Tower	Midtown East
-NYTimes	Top of the Tower  Beekman Tower Hotel	Midtown East
+NYTimes	Top of the Tower — Beekman Tower Hotel	Midtown East
 NYTimes	Topaz Thai	Midtown West
 NYTimes	Torch	E. Village
 NYTimes	Torremolinos	Midtown East
@@ -22868,7 +22868,7 @@ NYTimes	Upstairs at Bouley Bakery and Market	TriBeCa/SoHo
 NYTimes	Urban Hero	Midtown West
 NYTimes	Urena's Restaurant	Harlem
 NYTimes	Urena's Restaurant	Harlem
-NYTimes	Uskdar	Upper E. Side
+NYTimes	Usküdar	Upper E. Side
 NYTimes	Utopia	Upper W. Side
 NYTimes	Utopia	Upper W. Side
 NYTimes	Utsav	Midtown West
@@ -23158,10 +23158,10 @@ NYTimes	Zido's Coffee & Espresso Bar	Flatiron/U. Sq.
 NYTimes	Zido's Coffee & Espresso Bar	Flatiron/U. Sq.
 NYTimes	Zig K Corp	E. Village
 NYTimes	Zig K Corp	E. Village
-NYTimes	Zcalo	Midtown East
-NYTimes	Zcalo	Upper E. Side
-NYTimes	Zcalo	Upper E. Side
-NYTimes	Zcalo	Midtown East
+NYTimes	Zócalo	Midtown East
+NYTimes	Zócalo	Upper E. Side
+NYTimes	Zócalo	Upper E. Side
+NYTimes	Zócalo	Midtown East
 NYTimes	Zoe	TriBeCa/SoHo
 NYTimes	Zoe	TriBeCa/SoHo
 NYTimes	Zoma	Harlem
@@ -23293,7 +23293,7 @@ NYTimes	Arqua	TriBeCa/SoHo
 NYTimes	Arriba Arriba	Midtown West
 NYTimes	Arriba Arriba East	Upper E. Side
 NYTimes	Art Cafe Restaurant	Midtown West
-NYTimes	Art	E. Village
+NYTimes	Arté	E. Village
 NYTimes	Arte Cafe	Upper W. Side
 NYTimes	Artepasta	W. Village
 NYTimes	Artie's New York Delicatessen	Upper W. Side
@@ -23837,7 +23837,7 @@ NYTimes	Cub Room	TriBeCa/SoHo
 NYTimes	Cub Room	TriBeCa/SoHo
 NYTimes	Cubana Cafe	TriBeCa/SoHo
 NYTimes	Cucina & Co.	Midtown East
-NYTimes	Cucina & Company  The Cellar At Macy's	Midtown West
+NYTimes	Cucina & Company — The Cellar At Macy's	Midtown West
 NYTimes	Cucina di Pesce	E. Village
 NYTimes	Cucina Gourmet	Midtown West
 NYTimes	Cucina Stagionale	W. Village
@@ -24011,7 +24011,7 @@ NYTimes	El Paso	W. Village
 NYTimes	El Paso Taqueria	Harlem
 NYTimes	El Pote Espanol Restaurant	Murray Hill
 NYTimes	El Quijote Bar & Restaurant	Chelsea
-NYTimes	El Rincn Boricua	Harlem
+NYTimes	El Rincón Boricua	Harlem
 NYTimes	El Rio Grande	Murray Hill
 NYTimes	El Sabor Latino	Harlem
 NYTimes	El Sombrero	Lower E. Side
@@ -24631,7 +24631,7 @@ NYTimes	La Maison Du Chocolat	Midtown East
 NYTimes	La Maison Japonaise	Murray Hill
 NYTimes	La Mangeoire	Midtown East
 NYTimes	La Masseria	Midtown West
-NYTimes	La Mediterrane	Upper E. Side
+NYTimes	La Mediterran‚e	Upper E. Side
 NYTimes	La Mela Ristorante	Chinatown
 NYTimes	La Mia Pizza	Chelsea
 NYTimes	La Nacional	Chelsea
@@ -24675,7 +24675,7 @@ NYTimes	Larry Forgione's Signature Cafe	Midtown West
 NYTimes	Las Ramblas	W. Village
 NYTimes	Lasagna Restaurant	Midtown East
 NYTimes	L'asso	TriBeCa/SoHo
-NYTimes	L'Atelier de Jol Robuchon	Midtown East
+NYTimes	L'Atelier de Joël Robuchon	Midtown East
 NYTimes	Latin America Cafe	Harlem
 NYTimes	Lattanzi Ristorante	Midtown West
 NYTimes	Lavagna	E. Village
@@ -24958,7 +24958,7 @@ NYTimes	Mi Pais	Upper W. Side
 NYTimes	Mica Bar	Midtown East
 NYTimes	Michael & Zoe's Cafe & Bakery	Lower E. Side
 NYTimes	Michael's	Midtown West
-NYTimes	Michael's Pub At The Park  Lombardy Hotel	Midtown East
+NYTimes	Michael's Pub At The Park — Lombardy Hotel	Midtown East
 NYTimes	Michangelo	Midtown West
 NYTimes	Mickey Mantle's	Midtown West
 NYTimes	Micro Cafe	Upper W. Side
@@ -25071,8 +25071,8 @@ NYTimes	Musette	Flatiron/U. Sq.
 NYTimes	Mustang Grill	Upper E. Side
 NYTimes	My Most Favorite Dessert Co	Midtown West
 NYTimes	Mythos Restaurant	W. Village
-NYTimes	 33 Crosby	TriBeCa/SoHo
-NYTimes	 33 Crosby	TriBeCa/SoHo
+NYTimes	Ñ 33 Crosby	TriBeCa/SoHo
+NYTimes	Ñ 33 Crosby	TriBeCa/SoHo
 NYTimes	N Y Famous Pizzeria	E. Village
 NYTimes	N Y Sarashina	Midtown West
 NYTimes	Nada Sushi Restaurant Inc	Midtown East
@@ -25170,7 +25170,7 @@ NYTimes	North Square	W. Village
 NYTimes	Northwest	Upper W. Side
 NYTimes	Nostalgia Restaurant Corp	Chelsea
 NYTimes	Notaro	Murray Hill
-NYTimes	Novit	Flatiron/U. Sq.
+NYTimes	Novitá	Flatiron/U. Sq.
 NYTimes	Nuevo Castillo	E. Village
 NYTimes	Nyonya	TriBeCa/SoHo
 NYTimes	O Mai	Chelsea
@@ -25846,7 +25846,7 @@ NYTimes	Suba (CLOSING FEBRUARY 2009)	Lower E. Side
 NYTimes	Suba (CLOSING FEBRUARY 2009)	Lower E. Side
 NYTimes	Success Chinese Restaurant	Chelsea
 NYTimes	Sud	W. Village
-NYTimes	Sueos	Chelsea
+NYTimes	Sueños	Chelsea
 NYTimes	Sugar Hill Bistro	Harlem
 NYTimes	Sugar Hill Bistro	Harlem
 NYTimes	Sugiyama	Midtown West
@@ -26061,7 +26061,7 @@ NYTimes	Tony's Di Napoli	Upper E. Side
 NYTimes	Toon's	TriBeCa/SoHo
 NYTimes	Top Broccoli Restaurant	Midtown West
 NYTimes	Top of the Tower	Midtown East
-NYTimes	Top of the Tower  Beekman Tower Hotel	Midtown East
+NYTimes	Top of the Tower — Beekman Tower Hotel	Midtown East
 NYTimes	Topaz Thai	Midtown West
 NYTimes	Torch	E. Village
 NYTimes	Torremolinos	Midtown East
@@ -26175,7 +26175,7 @@ NYTimes	Upstairs at Bouley Bakery and Market	TriBeCa/SoHo
 NYTimes	Urban Hero	Midtown West
 NYTimes	Urena's Restaurant	Harlem
 NYTimes	Urena's Restaurant	Harlem
-NYTimes	Uskdar	Upper E. Side
+NYTimes	Usküdar	Upper E. Side
 NYTimes	Utopia	Upper W. Side
 NYTimes	Utopia	Upper W. Side
 NYTimes	Utsav	Midtown West
@@ -26464,10 +26464,10 @@ NYTimes	Zido's Coffee & Espresso Bar	Flatiron/U. Sq.
 NYTimes	Zido's Coffee & Espresso Bar	Flatiron/U. Sq.
 NYTimes	Zig K Corp	E. Village
 NYTimes	Zig K Corp	E. Village
-NYTimes	Zcalo	Midtown East
-NYTimes	Zcalo	Upper E. Side
-NYTimes	Zcalo	Upper E. Side
-NYTimes	Zcalo	Midtown East
+NYTimes	Zócalo	Midtown East
+NYTimes	Zócalo	Upper E. Side
+NYTimes	Zócalo	Upper E. Side
+NYTimes	Zócalo	Midtown East
 NYTimes	Zoe	TriBeCa/SoHo
 NYTimes	Zoe	TriBeCa/SoHo
 NYTimes	Zoma	Harlem

@@ -5,7 +5,7 @@ restaurants = ["MenuPages", "NYMag", "NYTimes", "ActiveDiner", "NewYork", "Dinin
 for file in os.listdir("./data/restaurants/original"):
     if file.endswith(".txt"):
         for rest in restaurants :
-            with open("./data/restaurants/original/"+file, 'r', encoding='utf-8', errors='ignore') as f:
+            with open("./data/restaurants/original/"+file, 'r', encoding='windows-1252') as f:
                 targets = [line for line in f if rest in line]
-                for record in targets:
-                    print(record, file=open("./data/restaurants/"+rest+".txt", "a"), end='', flush=True)
+                with open("./data/restaurants/"+rest+".txt", 'a', encoding='utf-8') as f_to_w:
+                    f_to_w.writelines(targets)

@@ -88,7 +88,7 @@ SavoryCities	Ariyoshi
 SavoryCities	Aroma Kitchen and Winebar
 SavoryCities	Arte
 SavoryCities	Arte Cafe
-SavoryCities	Artichoke Basilles Pizza and Brewery
+SavoryCities	Artichoke Basille’s Pizza and Brewery
 SavoryCities	Artie's Delicatessen
 SavoryCities	Arturo's Pizzeria
 SavoryCities	Asiate
@@ -685,7 +685,7 @@ SavoryCities	Indochine
 SavoryCities	Indus Valley
 SavoryCities	'ino
 SavoryCities	'inoteca
-SavoryCities	Inside Park at St. Barts
+SavoryCities	Inside Park at St. Bart’s
 SavoryCities	Insieme
 SavoryCities	Ippudo
 SavoryCities	Iron Sushi
@@ -785,7 +785,7 @@ SavoryCities	La Mediterranee
 SavoryCities	La Nacional
 SavoryCities	La Paella
 SavoryCities	La Rural
-SavoryCities	La Sirne
+SavoryCities	La Sirène
 SavoryCities	La Taqueria
 SavoryCities	La Taza de Oro
 SavoryCities	La Vineria
@@ -1614,7 +1614,7 @@ SavoryCities	Ariyoshi	806 Broadway btwn 11th and 12th Sts	East Village
 SavoryCities	Aroma Kitchen and Winebar	36 E 4th St btwn Lafayette and Bowery	East Village
 SavoryCities	Arte	21 E 9th St btwn Fifth Ave and...	Greenwich Village
 SavoryCities	Arte Cafe	106 W 73rd St btwn Columbus and...	Upper West Side
-SavoryCities	Artichoke Basilles Pizza and Brewery	328 E 14th St btwn First and Second Aves	East Village
+SavoryCities	Artichoke Basille’s Pizza and Brewery	328 E 14th St btwn First and Second Aves	East Village
 SavoryCities	Artie's Delicatessen	2290 Broadway at 83rd St	Upper West Side
 SavoryCities	Arturo's Pizzeria	106 W Houston St at Thompson St	Greenwich Village
 SavoryCities	Asiate	80 Columbus Ave at 60th St	Midtown West
@@ -2212,7 +2212,7 @@ SavoryCities	Indochine	430 Lafayette St btwn Astor Pl and E...	Greenwich Village
 SavoryCities	Indus Valley	2636 Broadway at 100th St	Upper West Side
 SavoryCities	'ino	21 Bedford St btwn Sixth Ave and...	Greenwich Village
 SavoryCities	'inoteca	98 Rivington St at Ludlow St	Lower East Side
-SavoryCities	Inside Park at St. Barts	109 E 50th St at Park Ave	Midtown East
+SavoryCities	Inside Park at St. Bart’s	109 E 50th St at Park Ave	Midtown East
 SavoryCities	Insieme	777 Seventh Ave at 51st St	Midtown West
 SavoryCities	Ippudo	65 4th Ave at 10th St	East Village
 SavoryCities	Iron Sushi	355 E 78th St btwn First and Second...	Upper East Side
@@ -2312,7 +2312,7 @@ SavoryCities	La Mediterranee	947 2nd Ave btwn 50th and 51st Sts	Midtown East
 SavoryCities	La Nacional	239 W 14th btwn Seventh and Eighth Aves 	Greenwich Village
 SavoryCities	La Paella	214 E 9th St btwn Second and Third Aves	East Village
 SavoryCities	La Rural	768 Amsterdam Ave at 97th St	Upper West Side
-SavoryCities	La Sirne	558 1/2 Broome St btwn Varick St and...	SoHo
+SavoryCities	La Sirène	558 1/2 Broome St btwn Varick St and...	SoHo
 SavoryCities	La Taqueria	72 Seventh Ave btwn Berkeley and...	Park Slope
 SavoryCities	La Taza de Oro	96 Eighth Ave btwn 14th and 15th Sts	Chelsea
 SavoryCities	La Vineria	737 Ninth Ave btwn 49th and 50th Sts	Midtown West
@@ -3142,7 +3142,7 @@ SavoryCities	Ariyoshi	East Village
 SavoryCities	Aroma Kitchen and Winebar	East Village
 SavoryCities	Arte	Greenwich Village
 SavoryCities	Arte Cafe	Upper West Side
-SavoryCities	Artichoke Basilles Pizza and Brewery	East Village
+SavoryCities	Artichoke Basille’s Pizza and Brewery	East Village
 SavoryCities	Artie's Delicatessen	Upper West Side
 SavoryCities	Arturo's Pizzeria	Greenwich Village
 SavoryCities	Asiate	Midtown West
@@ -3741,7 +3741,7 @@ SavoryCities	Indochine	Greenwich Village
 SavoryCities	Indus Valley	Upper West Side
 SavoryCities	'ino	Greenwich Village
 SavoryCities	'inoteca	Lower East Side
-SavoryCities	Inside Park at St. Barts	Midtown East
+SavoryCities	Inside Park at St. Bart’s	Midtown East
 SavoryCities	Insieme	Midtown West
 SavoryCities	Ippudo	East Village
 SavoryCities	Iron Sushi	Upper East Side
@@ -3841,7 +3841,7 @@ SavoryCities	La Mediterranee	Midtown East
 SavoryCities	La Nacional	Greenwich Village
 SavoryCities	La Paella	East Village
 SavoryCities	La Rural	Upper West Side
-SavoryCities	La Sirne	SoHo
+SavoryCities	La Sirène	SoHo
 SavoryCities	La Taqueria	Park Slope
 SavoryCities	La Taza de Oro	Chelsea
 SavoryCities	La Vineria	Midtown West
@@ -4671,7 +4671,7 @@ SavoryCities	Ariyoshi	East Village
 SavoryCities	Aroma Kitchen and Winebar	East Village
 SavoryCities	Arte	Greenwich Village
 SavoryCities	Arte Cafe	Upper West Side
-SavoryCities	Artichoke Basilles Pizza and Brewery	East Village
+SavoryCities	Artichoke Basille’s Pizza and Brewery	East Village
 SavoryCities	Artie's Delicatessen	Upper West Side
 SavoryCities	Arturo's Pizzeria	Greenwich Village
 SavoryCities	Asiate	Midtown West
@@ -5270,7 +5270,7 @@ SavoryCities	Indochine	Greenwich Village
 SavoryCities	Indus Valley	Upper West Side
 SavoryCities	'ino	Greenwich Village
 SavoryCities	'inoteca	Lower East Side
-SavoryCities	Inside Park at St. Barts	Midtown East
+SavoryCities	Inside Park at St. Bart’s	Midtown East
 SavoryCities	Insieme	Midtown West
 SavoryCities	Ippudo	East Village
 SavoryCities	Iron Sushi	Upper East Side
@@ -5370,7 +5370,7 @@ SavoryCities	La Mediterranee	Midtown East
 SavoryCities	La Nacional	Greenwich Village
 SavoryCities	La Paella	East Village
 SavoryCities	La Rural	Upper West Side
-SavoryCities	La Sirne	SoHo
+SavoryCities	La Sirène	SoHo
 SavoryCities	La Taqueria	Park Slope
 SavoryCities	La Taza de Oro	Chelsea
 SavoryCities	La Vineria	Midtown West
@@ -6200,7 +6200,7 @@ SavoryCities	Ariyoshi	East Village
 SavoryCities	Aroma Kitchen and Winebar	East Village
 SavoryCities	Arte	Greenwich Village
 SavoryCities	Arte Cafe	Upper West Side
-SavoryCities	Artichoke Basilles Pizza and Brewery	East Village
+SavoryCities	Artichoke Basille’s Pizza and Brewery	East Village
 SavoryCities	Artie's Delicatessen	Upper West Side
 SavoryCities	Arturo's Pizzeria	Greenwich Village
 SavoryCities	Asiate	Midtown West
@@ -7732,7 +7732,7 @@ SavoryCities	Ariyoshi	East Village
 SavoryCities	Aroma Kitchen and Winebar	East Village
 SavoryCities	Arte	Greenwich Village
 SavoryCities	Arte Cafe	Upper West Side
-SavoryCities	Artichoke Basilles Pizza and Brewery	East Village
+SavoryCities	Artichoke Basille’s Pizza and Brewery	East Village
 SavoryCities	Artie's Delicatessen	Upper West Side
 SavoryCities	Arturo's Pizzeria	Greenwich Village
 SavoryCities	Asiate	Midtown West

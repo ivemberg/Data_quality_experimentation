@@ -180,7 +180,7 @@ FoodBuzz	Butter	415 Lafayette St, New York, NY	East Village | American | $$$
 FoodBuzz	Cabana	89 S St Pier 17 Pavilion, New York, NY	Upper East Side | Nuevo Latino | $$
 FoodBuzz	Cabrito	50 Carmine St., New York, NY	Fusion
 FoodBuzz	Cacio E Pepe	182 Second Ave, New York, NY	East Village | Italian | $$
-FoodBuzz	Caf Boulud	20 East 76th St, New York, NY	Upper East Side | French | $$$$
+FoodBuzz	Café Boulud	20 East 76th St, New York, NY	Upper East Side | French | $$$$
 FoodBuzz	Cafe Centro	200 Park Ave, New York, NY	Midtown East | Mediterranean | $$$
 FoodBuzz	Cafe Con Leche	726 Amsterdam Ave, New York, NY	Upper West Side | Cuban | $
 FoodBuzz	Cafe De Bruxelles	118 Greenwich Ave, New York, NY	West Village | Belgian | $$
@@ -197,7 +197,7 @@ FoodBuzz	Cafe Loup	105 W 13th St, New York, NY	Greenwich Village | French | $$$
 FoodBuzz	Cafe Mogador	101 St Marks Pl, New York, NY	East Village | Moroccan | $
 FoodBuzz	Cafe Ronda	249-251 Columbus Ave, New York, NY	Upper West Side | Mediterranean | $$
 FoodBuzz	Cafe Rustico East 	230 East 29th St., New York, NY	Midtown East | Italian | $$$
-FoodBuzz	Caf Sabarsky	1048 Fifth Ave, New York, NY	Upper East Side | Austrian | $$
+FoodBuzz	Café Sabarsky	1048 Fifth Ave, New York, NY	Upper East Side | Austrian | $$
 FoodBuzz	Cafe Select	212 Lafayette Street, New York, NY	International | $$$
 FoodBuzz	Cafe St. Barts	Park Avenue @ 50th St., New York, NY	Upper East Side | American | $$$
 FoodBuzz	Cafe Un Deux Trois	123 W 44th St, New York, NY	Midtown West | French | $$$
@@ -444,7 +444,7 @@ FoodBuzz	Houston's	378 Park Ave. S., New York, NY	American | $$
 FoodBuzz	Houston's Restaurant	153 E 53rd St, New York, NY	Midtown East | American | $$
 FoodBuzz	Hsf	46 Bowery, New York, NY	Chinatown | Chinese | $
 FoodBuzz	Hudson Cafeteria	356 West 58th Street, New York, NY	Midtown West | American | $$$
-FoodBuzz	Hudson River Caf	697 West 133rd ST., New York, NY	Harlem | American | $$
+FoodBuzz	Hudson River Café	697 West 133rd ST., New York, NY	Harlem | American | $$
 FoodBuzz	I Coppi	432 E Ninth St, New York, NY	East Village | Italian | $$$
 FoodBuzz	I Sodi	105 Christopher St, New York, NY	Greenwich Village | Italian | $$$
 FoodBuzz	I Tre Merli	463 W Broadway, New York, NY	SOHO | Italian | $$$
@@ -702,7 +702,7 @@ FoodBuzz	Otto	1 Fifth Ave, New York, NY	Greenwich Village | Italian | $$$$
 FoodBuzz	Ouest	2315 Broadway, New York, NY	Upper West Side | American | $$$$
 FoodBuzz	Outback Steakhouse	60 W 23rd St, New York, NY	Flatiron | Steakhouse | $$
 FoodBuzz	p*ong	150 W. 10th Street, New York, NY	Greenwich Village | Dessert | $$
-FoodBuzz	PONG	150 W 10th St, New York, NY	Continental | $$$
+FoodBuzz	P’ONG	150 W 10th St, New York, NY	Continental | $$$
 FoodBuzz	Paladar	161 Ludlow St, New York, NY	Lower East Side | Nuevo Latino | $$
 FoodBuzz	Pam Real Thai Food	404 W 49th St, New York, NY	Midtown West | Asian | $
 FoodBuzz	Pampa	768 Amsterdam Avenue, New York, NY	Upper West Side | South American | $$
@@ -1177,7 +1177,7 @@ FoodBuzz	Cabana	89 S St Pier 17 Pavilion, New York, NY	Upper East Side | Nuevo L
 FoodBuzz	Cabrito	50 Carmine St., New York, NY	Fusion
 FoodBuzz	Cacio E Pepe	182 Second Ave, New York, NY	East Village | Italian | $$
 FoodBuzz	Cafe Blossom	466 Columbus Ave, New York, NY	Upper West Side | Vegetarian | $$
-FoodBuzz	Caf Boulud	20 East 76th St, New York, NY	Upper East Side | French | $$$$
+FoodBuzz	Café Boulud	20 East 76th St, New York, NY	Upper East Side | French | $$$$
 FoodBuzz	Cafe Centro	200 Park Ave, New York, NY	Midtown East | Mediterranean | $$$
 FoodBuzz	Cafe Con Leche	726 Amsterdam Ave, New York, NY	Upper West Side | Cuban | $
 FoodBuzz	Cafe De Bruxelles	118 Greenwich Ave, New York, NY	West Village | Belgian | $$
@@ -1192,7 +1192,7 @@ FoodBuzz	Cafe Lalo	201 W 83rd St, New York, NY	Upper West Side | American | $
 FoodBuzz	Cafe Loup	105 W 13th St, New York, NY	Greenwich Village | French | $$$
 FoodBuzz	Cafe Mogador	101 St Marks Pl, New York, NY	East Village | Moroccan | $
 FoodBuzz	Cafe Rustico East 	230 East 29th St., New York, NY	Midtown East | Italian | $$$
-FoodBuzz	Caf Sabarsky	1048 Fifth Ave, New York, NY	Upper East Side | Austrian | $$
+FoodBuzz	Café Sabarsky	1048 Fifth Ave, New York, NY	Upper East Side | Austrian | $$
 FoodBuzz	Cafe Select	212 Lafayette Street, New York, NY	International | $$$
 FoodBuzz	Cafe St. Barts	Park Avenue @ 50th St., New York, NY	Upper East Side | American | $$$
 FoodBuzz	Cafe Un Deux Trois	123 W 44th St, New York, NY	Midtown West | French | $$$
@@ -1440,7 +1440,7 @@ FoodBuzz	Houston's Restaurant	153 E 53rd St, New York, NY	Midtown East | America
 FoodBuzz	HQ	90 Thompson St, New York, NY	SOHO | American | $$
 FoodBuzz	Hsf	46 Bowery, New York, NY	Chinatown | Chinese | $
 FoodBuzz	Hudson Cafeteria	356 West 58th Street, New York, NY	Midtown West | American | $$$
-FoodBuzz	Hudson River Caf	697 West 133rd ST., New York, NY	Harlem | American | $$
+FoodBuzz	Hudson River Café	697 West 133rd ST., New York, NY	Harlem | American | $$
 FoodBuzz	Hummus Place	109 St. Marks Pl., New York, NY	Vegetarian
 FoodBuzz	I Coppi	432 E Ninth St, New York, NY	East Village | Italian | $$$
 FoodBuzz	I Sodi	105 Christopher St, New York, NY	Greenwich Village | Italian | $$$
@@ -1701,7 +1701,7 @@ FoodBuzz	Outback Steakhouse	60 W 23rd St, New York, NY	Flatiron | Steakhouse | $
 FoodBuzz	p*ong	150 W. 10th Street, New York, NY	Greenwich Village | Dessert | $$
 FoodBuzz	P.J. Clarke's	44 W. 63rd Street, New York, NY	Upper West Side | American | $$$
 FoodBuzz	P.J. Clarke's	915 Third Ave, New York, NY	Midtown East | American | $$
-FoodBuzz	PONG	150 W 10th St, New York, NY	Continental | $$$
+FoodBuzz	P’ONG	150 W 10th St, New York, NY	Continental | $$$
 FoodBuzz	Paladar	161 Ludlow St, New York, NY	Lower East Side | Nuevo Latino | $$
 FoodBuzz	Pam Real Thai Food	404 W 49th St, New York, NY	Midtown West | Asian | $
 FoodBuzz	Pampa	768 Amsterdam Avenue, New York, NY	Upper West Side | South American | $$
@@ -2187,7 +2187,7 @@ FoodBuzz	Cabana	89 S St Pier 17 Pavilion, New York, NY	Upper East Side | Nuevo L
 FoodBuzz	Cabrito	50 Carmine St., New York, NY	Fusion
 FoodBuzz	Cacio E Pepe	182 Second Ave, New York, NY	East Village | Italian | $$
 FoodBuzz	Cafe Blossom	466 Columbus Ave, New York, NY	Upper West Side | Vegetarian | $$
-FoodBuzz	Caf Boulud	20 East 76th St, New York, NY	Upper East Side | French | $$$$
+FoodBuzz	Café Boulud	20 East 76th St, New York, NY	Upper East Side | French | $$$$
 FoodBuzz	Cafe Centro	200 Park Ave, New York, NY	Midtown East | Mediterranean | $$$
 FoodBuzz	Cafe Con Leche	726 Amsterdam Ave, New York, NY	Upper West Side | Cuban | $
 FoodBuzz	Cafe De Bruxelles	118 Greenwich Ave, New York, NY	West Village | Belgian | $$
@@ -2202,7 +2202,7 @@ FoodBuzz	Cafe Lalo	201 W 83rd St, New York, NY	Upper West Side | American | $
 FoodBuzz	Cafe Loup	105 W 13th St, New York, NY	Greenwich Village | French | $$$
 FoodBuzz	Cafe Mogador	101 St Marks Pl, New York, NY	East Village | Moroccan | $
 FoodBuzz	Cafe Rustico East 	230 East 29th St., New York, NY	Midtown East | Italian | $$$
-FoodBuzz	Caf Sabarsky	1048 Fifth Ave, New York, NY	Upper East Side | Austrian | $$
+FoodBuzz	Café Sabarsky	1048 Fifth Ave, New York, NY	Upper East Side | Austrian | $$
 FoodBuzz	Cafe Select	212 Lafayette Street, New York, NY	International | $$$
 FoodBuzz	Cafe St. Barts	Park Avenue @ 50th St., New York, NY	Upper East Side | American | $$$
 FoodBuzz	Cafe Un Deux Trois	123 W 44th St, New York, NY	Midtown West | French | $$$
@@ -2450,7 +2450,7 @@ FoodBuzz	Houston's Restaurant	153 E 53rd St, New York, NY	Midtown East | America
 FoodBuzz	HQ	90 Thompson St, New York, NY	SOHO | American | $$
 FoodBuzz	Hsf	46 Bowery, New York, NY	Chinatown | Chinese | $
 FoodBuzz	Hudson Cafeteria	356 West 58th Street, New York, NY	Midtown West | American | $$$
-FoodBuzz	Hudson River Caf	697 West 133rd ST., New York, NY	Harlem | American | $$
+FoodBuzz	Hudson River Café	697 West 133rd ST., New York, NY	Harlem | American | $$
 FoodBuzz	Hummus Place	109 St. Marks Pl., New York, NY	Vegetarian
 FoodBuzz	I Coppi	432 E Ninth St, New York, NY	East Village | Italian | $$$
 FoodBuzz	I Sodi	105 Christopher St, New York, NY	Greenwich Village | Italian | $$$
@@ -2711,7 +2711,7 @@ FoodBuzz	Outback Steakhouse	60 W 23rd St, New York, NY	Flatiron | Steakhouse | $
 FoodBuzz	p*ong	150 W. 10th Street, New York, NY	Greenwich Village | Dessert | $$
 FoodBuzz	P.J. Clarke's	44 W. 63rd Street, New York, NY	Upper West Side | American | $$$
 FoodBuzz	P.J. Clarke's	915 Third Ave, New York, NY	Midtown East | American | $$
-FoodBuzz	PONG	150 W 10th St, New York, NY	Continental | $$$
+FoodBuzz	P’ONG	150 W 10th St, New York, NY	Continental | $$$
 FoodBuzz	Paladar	161 Ludlow St, New York, NY	Lower East Side | Nuevo Latino | $$
 FoodBuzz	Pam Real Thai Food	404 W 49th St, New York, NY	Midtown West | Asian | $
 FoodBuzz	Pampa	768 Amsterdam Avenue, New York, NY	Upper West Side | South American | $$
@@ -3197,7 +3197,7 @@ FoodBuzz	Cabana	89 S St Pier 17 Pavilion, New York, NY	Upper East Side | Nuevo L
 FoodBuzz	Cabrito	50 Carmine St., New York, NY	Fusion
 FoodBuzz	Cacio E Pepe	182 Second Ave, New York, NY	East Village | Italian | $$
 FoodBuzz	Cafe Blossom	466 Columbus Ave, New York, NY	Upper West Side | Vegetarian | $$
-FoodBuzz	Caf Boulud	20 East 76th St, New York, NY	Upper East Side | French | $$$$
+FoodBuzz	Café Boulud	20 East 76th St, New York, NY	Upper East Side | French | $$$$
 FoodBuzz	Cafe Centro	200 Park Ave, New York, NY	Midtown East | Mediterranean | $$$
 FoodBuzz	Cafe Con Leche	726 Amsterdam Ave, New York, NY	Upper West Side | Cuban | $
 FoodBuzz	Cafe De Bruxelles	118 Greenwich Ave, New York, NY	West Village | Belgian | $$
@@ -3212,7 +3212,7 @@ FoodBuzz	Cafe Lalo	201 W 83rd St, New York, NY	Upper West Side | American | $
 FoodBuzz	Cafe Loup	105 W 13th St, New York, NY	Greenwich Village | French | $$$
 FoodBuzz	Cafe Mogador	101 St Marks Pl, New York, NY	East Village | Moroccan | $
 FoodBuzz	Cafe Rustico East 	230 East 29th St., New York, NY	Midtown East | Italian | $$$
-FoodBuzz	Caf Sabarsky	1048 Fifth Ave, New York, NY	Upper East Side | Austrian | $$
+FoodBuzz	Café Sabarsky	1048 Fifth Ave, New York, NY	Upper East Side | Austrian | $$
 FoodBuzz	Cafe Select	212 Lafayette Street, New York, NY	International | $$$
 FoodBuzz	Cafe St. Barts	Park Avenue @ 50th St., New York, NY	Upper East Side | American | $$$
 FoodBuzz	Cafe Un Deux Trois	123 W 44th St, New York, NY	Midtown West | French | $$$
@@ -3459,7 +3459,7 @@ FoodBuzz	Houston's Restaurant	153 E 53rd St, New York, NY	Midtown East | America
 FoodBuzz	HQ	90 Thompson St, New York, NY	SOHO | American | $$
 FoodBuzz	Hsf	46 Bowery, New York, NY	Chinatown | Chinese | $
 FoodBuzz	Hudson Cafeteria	356 West 58th Street, New York, NY	Midtown West | American | $$$
-FoodBuzz	Hudson River Caf	697 West 133rd ST., New York, NY	Harlem | American | $$
+FoodBuzz	Hudson River Café	697 West 133rd ST., New York, NY	Harlem | American | $$
 FoodBuzz	Hummus Place	109 St. Marks Pl., New York, NY	Vegetarian
 FoodBuzz	I Coppi	432 E Ninth St, New York, NY	East Village | Italian | $$$
 FoodBuzz	I Sodi	105 Christopher St, New York, NY	Greenwich Village | Italian | $$$
@@ -3722,7 +3722,7 @@ FoodBuzz	Outback Steakhouse	60 W 23rd St, New York, NY	Flatiron | Steakhouse | $
 FoodBuzz	p*ong	150 W. 10th Street, New York, NY	Greenwich Village | Dessert | $$
 FoodBuzz	P.J. Clarke's	44 W. 63rd Street, New York, NY	Upper West Side | American | $$$
 FoodBuzz	P.J. Clarke's	915 Third Ave, New York, NY	Midtown East | American | $$
-FoodBuzz	PONG	150 W 10th St, New York, NY	Continental | $$$
+FoodBuzz	P’ONG	150 W 10th St, New York, NY	Continental | $$$
 FoodBuzz	Paladar	161 Ludlow St, New York, NY	Lower East Side | Nuevo Latino | $$
 FoodBuzz	Pam Real Thai Food	404 W 49th St, New York, NY	Midtown West | Asian | $
 FoodBuzz	Pampa	768 Amsterdam Avenue, New York, NY	Upper West Side | South American | $$
@@ -4207,7 +4207,7 @@ FoodBuzz	Cabrito	50 Carmine St., New York, NY	Mexican | $$
 FoodBuzz	Cacio E Pepe	182 Second Ave, New York, NY	East Village | Italian | $$
 FoodBuzz	Cafe Asean	117 West 10th Street, New York, NY	Greenwich Village | Asian | $
 FoodBuzz	Cafe Blossom	466 Columbus Ave, New York, NY	Upper West Side | Vegetarian | $$
-FoodBuzz	Caf Boulud	20 East 76th St, New York, NY	Upper East Side | French | $$$$
+FoodBuzz	Café Boulud	20 East 76th St, New York, NY	Upper East Side | French | $$$$
 FoodBuzz	Cafe Centro	200 Park Ave, New York, NY	Midtown East | Mediterranean | $$$
 FoodBuzz	Cafe Con Leche	726 Amsterdam Ave, New York, NY	Upper West Side | Cuban | $
 FoodBuzz	Cafe De Bruxelles	118 Greenwich Ave, New York, NY	West Village | Belgian | $$
@@ -4223,7 +4223,7 @@ FoodBuzz	Cafe Lalo	201 W 83rd St, New York, NY	Upper West Side | American | $
 FoodBuzz	Cafe Loup	105 W 13th St, New York, NY	Greenwich Village | French | $$$
 FoodBuzz	Cafe Mogador	101 St Marks Pl, New York, NY	East Village | Moroccan | $
 FoodBuzz	Cafe Rustico East 	230 East 29th St., New York, NY	Midtown East | Italian | $$$
-FoodBuzz	Caf Sabarsky	1048 Fifth Ave, New York, NY	Upper East Side | Austrian | $$
+FoodBuzz	Café Sabarsky	1048 Fifth Ave, New York, NY	Upper East Side | Austrian | $$
 FoodBuzz	Cafe Select	212 Lafayette Street, New York, NY	International | $$$
 FoodBuzz	Cafe Spice	72 University Pl, New York, NY	Greenwich Village | Indian | $
 FoodBuzz	Cafe St. Barts	Park Avenue @ 50th St., New York, NY	Upper East Side | American | $$$
@@ -4471,7 +4471,7 @@ FoodBuzz	Houston's Restaurant	153 E 53rd St, New York, NY	Midtown East | America
 FoodBuzz	HQ	90 Thompson St, New York, NY	SOHO | American | $$
 FoodBuzz	Hsf	46 Bowery, New York, NY	Chinatown | Chinese | $
 FoodBuzz	Hudson Cafeteria	356 West 58th Street, New York, NY	Midtown West | American | $$$
-FoodBuzz	Hudson River Caf	697 West 133rd ST., New York, NY	Harlem | American | $$
+FoodBuzz	Hudson River Café	697 West 133rd ST., New York, NY	Harlem | American | $$
 FoodBuzz	Hummus Place	109 St. Marks Pl., New York, NY	Vegetarian
 FoodBuzz	I Coppi	432 E Ninth St, New York, NY	East Village | Italian | $$$
 FoodBuzz	I Sodi	105 Christopher St, New York, NY	Greenwich Village | Italian | $$$
@@ -4732,7 +4732,7 @@ FoodBuzz	Outback Steakhouse	60 W 23rd St, New York, NY	Flatiron | Steakhouse | $
 FoodBuzz	p*ong	150 W. 10th Street, New York, NY	Greenwich Village | Dessert | $$
 FoodBuzz	P.J. Clarke's	44 W. 63rd Street, New York, NY	Upper West Side | American | $$$
 FoodBuzz	P.J. Clarke's	915 Third Ave, New York, NY	Midtown East | American | $$
-FoodBuzz	PONG	150 W 10th St, New York, NY	Continental | $$$
+FoodBuzz	P’ONG	150 W 10th St, New York, NY	Continental | $$$
 FoodBuzz	Paladar	161 Ludlow St, New York, NY	Lower East Side | Nuevo Latino | $$
 FoodBuzz	Pam Real Thai Food	404 W 49th St, New York, NY	Midtown West | Asian | $
 FoodBuzz	Pampa	768 Amsterdam Avenue, New York, NY	Upper West Side | South American | $$
@@ -5216,7 +5216,7 @@ FoodBuzz	Cabrito	50 Carmine St., New York, NY	Mexican | $$
 FoodBuzz	Cacio E Pepe	182 Second Ave, New York, NY	East Village | Italian | $$
 FoodBuzz	Cafe Asean	117 West 10th Street, New York, NY	Greenwich Village | Asian | $
 FoodBuzz	Cafe Blossom	466 Columbus Ave, New York, NY	Upper West Side | Vegetarian | $$
-FoodBuzz	Caf Boulud	20 East 76th St, New York, NY	Upper East Side | French | $$$$
+FoodBuzz	Café Boulud	20 East 76th St, New York, NY	Upper East Side | French | $$$$
 FoodBuzz	Cafe Centro	200 Park Ave, New York, NY	Midtown East | Mediterranean | $$$
 FoodBuzz	Cafe Con Leche	726 Amsterdam Ave, New York, NY	Upper West Side | Cuban | $
 FoodBuzz	Cafe De Bruxelles	118 Greenwich Ave, New York, NY	West Village | Belgian | $$
@@ -5232,7 +5232,7 @@ FoodBuzz	Cafe Lalo	201 W 83rd St, New York, NY	Upper West Side | American | $
 FoodBuzz	Cafe Loup	105 W 13th St, New York, NY	Greenwich Village | French | $$$
 FoodBuzz	Cafe Mogador	101 St Marks Pl, New York, NY	East Village | Moroccan | $
 FoodBuzz	Cafe Rustico East 	230 East 29th St., New York, NY	Midtown East | Italian | $$$
-FoodBuzz	Caf Sabarsky	1048 Fifth Ave, New York, NY	Upper East Side | Austrian | $$
+FoodBuzz	Café Sabarsky	1048 Fifth Ave, New York, NY	Upper East Side | Austrian | $$
 FoodBuzz	Cafe Select	212 Lafayette Street, New York, NY	International | $$$
 FoodBuzz	Cafe Spice	72 University Pl, New York, NY	Greenwich Village | Indian | $
 FoodBuzz	Cafe St. Barts	Park Avenue @ 50th St., New York, NY	Upper East Side | American | $$$
@@ -5481,7 +5481,7 @@ FoodBuzz	Houston's Restaurant	153 E 53rd St, New York, NY	Midtown East | America
 FoodBuzz	HQ	90 Thompson St, New York, NY	SOHO | American | $$
 FoodBuzz	Hsf	46 Bowery, New York, NY	Chinatown | Chinese | $
 FoodBuzz	Hudson Cafeteria	356 West 58th Street, New York, NY	Midtown West | American | $$$
-FoodBuzz	Hudson River Caf	697 West 133rd ST., New York, NY	Harlem | American | $$
+FoodBuzz	Hudson River Café	697 West 133rd ST., New York, NY	Harlem | American | $$
 FoodBuzz	Hummus Place	109 St. Marks Pl., New York, NY	Vegetarian
 FoodBuzz	Hunan Park Restaurant	235 Columbus Ave, New York, NY	Upper West Side | Chinese | $
 FoodBuzz	I Coppi	432 E Ninth St, New York, NY	East Village | Italian | $$$
@@ -5743,7 +5743,7 @@ FoodBuzz	Outback Steakhouse	60 W 23rd St, New York, NY	Flatiron | Steakhouse | $
 FoodBuzz	p*ong	150 W. 10th Street, New York, NY	Greenwich Village | Dessert | $$
 FoodBuzz	P.J. Clarke's	44 W. 63rd Street, New York, NY	Upper West Side | American | $$$
 FoodBuzz	P.J. Clarke's	915 Third Ave, New York, NY	Midtown East | American | $$
-FoodBuzz	PONG	150 W 10th St, New York, NY	Continental | $$$
+FoodBuzz	P’ONG	150 W 10th St, New York, NY	Continental | $$$
 FoodBuzz	Paladar	161 Ludlow St, New York, NY	Lower East Side | Nuevo Latino | $$
 FoodBuzz	Pam Real Thai Food	404 W 49th St, New York, NY	Midtown West | Asian | $
 FoodBuzz	Pampa	768 Amsterdam Avenue, New York, NY	Upper West Side | South American | $$
@@ -6227,7 +6227,7 @@ FoodBuzz	Cabrito	50 Carmine St., New York, NY	Mexican | $$
 FoodBuzz	Cacio E Pepe	182 Second Ave, New York, NY	East Village | Italian | $$
 FoodBuzz	Cafe Asean	117 West 10th Street, New York, NY	Greenwich Village | Asian | $
 FoodBuzz	Cafe Blossom	466 Columbus Ave, New York, NY	Upper West Side | Vegetarian | $$
-FoodBuzz	Caf Boulud	20 East 76th St, New York, NY	Upper East Side | French | $$$$
+FoodBuzz	Café Boulud	20 East 76th St, New York, NY	Upper East Side | French | $$$$
 FoodBuzz	Cafe Centro	200 Park Ave, New York, NY	Midtown East | Mediterranean | $$$
 FoodBuzz	Cafe Con Leche	726 Amsterdam Ave, New York, NY	Upper West Side | Cuban | $
 FoodBuzz	Cafe De Bruxelles	118 Greenwich Ave, New York, NY	West Village | Belgian | $$
@@ -6243,7 +6243,7 @@ FoodBuzz	Cafe Lalo	201 W 83rd St, New York, NY	Upper West Side | American | $
 FoodBuzz	Cafe Loup	105 W 13th St, New York, NY	Greenwich Village | French | $$$
 FoodBuzz	Cafe Mogador	101 St Marks Pl, New York, NY	East Village | Moroccan | $
 FoodBuzz	Cafe Rustico East 	230 East 29th St., New York, NY	Midtown East | Italian | $$$
-FoodBuzz	Caf Sabarsky	1048 Fifth Ave, New York, NY	Upper East Side | Austrian | $$
+FoodBuzz	Café Sabarsky	1048 Fifth Ave, New York, NY	Upper East Side | Austrian | $$
 FoodBuzz	Cafe Select	212 Lafayette Street, New York, NY	International | $$$
 FoodBuzz	Cafe Spice	72 University Pl, New York, NY	Greenwich Village | Indian | $
 FoodBuzz	Cafe St. Barts	Park Avenue @ 50th St., New York, NY	Upper East Side | American | $$$
@@ -6491,7 +6491,7 @@ FoodBuzz	Houston's Restaurant	153 E 53rd St, New York, NY	Midtown East | America
 FoodBuzz	HQ	90 Thompson St, New York, NY	SOHO | American | $$
 FoodBuzz	Hsf	46 Bowery, New York, NY	Chinatown | Chinese | $
 FoodBuzz	Hudson Cafeteria	356 West 58th Street, New York, NY	Midtown West | American | $$$
-FoodBuzz	Hudson River Caf	697 West 133rd ST., New York, NY	Harlem | American | $$
+FoodBuzz	Hudson River Café	697 West 133rd ST., New York, NY	Harlem | American | $$
 FoodBuzz	Hummus Place	109 St. Marks Pl., New York, NY	Vegetarian
 FoodBuzz	Hunan Park Restaurant	235 Columbus Ave, New York, NY	Upper West Side | Chinese | $
 FoodBuzz	I Coppi	432 E Ninth St, New York, NY	East Village | Italian | $$$
@@ -6753,7 +6753,7 @@ FoodBuzz	Outback Steakhouse	60 W 23rd St, New York, NY	Flatiron | Steakhouse | $
 FoodBuzz	p*ong	150 W. 10th Street, New York, NY	Greenwich Village | Dessert | $$
 FoodBuzz	P.J. Clarke's	44 W. 63rd Street, New York, NY	Upper West Side | American | $$$
 FoodBuzz	P.J. Clarke's	915 Third Ave, New York, NY	Midtown East | American | $$
-FoodBuzz	PONG	150 W 10th St, New York, NY	Continental | $$$
+FoodBuzz	P’ONG	150 W 10th St, New York, NY	Continental | $$$
 FoodBuzz	Paladar	161 Ludlow St, New York, NY	Lower East Side | Nuevo Latino | $$
 FoodBuzz	Pam Real Thai Food	404 W 49th St, New York, NY	Midtown West | Asian | $
 FoodBuzz	Pampa	768 Amsterdam Avenue, New York, NY	Upper West Side | South American | $$
@@ -7238,7 +7238,7 @@ FoodBuzz	Cabrito	50 Carmine St., New York, NY
 FoodBuzz	Cacio E Pepe	182 Second Ave, New York, NY	
 FoodBuzz	Cafe Asean	117 West 10th Street, New York, NY	
 FoodBuzz	Cafe Blossom	466 Columbus Ave, New York, NY	
-FoodBuzz	Caf Boulud	20 East 76th St, New York, NY	
+FoodBuzz	Café Boulud	20 East 76th St, New York, NY	
 FoodBuzz	Cafe Centro	200 Park Ave, New York, NY	
 FoodBuzz	Cafe Con Leche	726 Amsterdam Ave, New York, NY	
 FoodBuzz	Cafe De Bruxelles	118 Greenwich Ave, New York, NY	
@@ -7254,7 +7254,7 @@ FoodBuzz	Cafe Lalo	201 W 83rd St, New York, NY
 FoodBuzz	Cafe Loup	105 W 13th St, New York, NY	
 FoodBuzz	Cafe Mogador	101 St Marks Pl, New York, NY	
 FoodBuzz	Cafe Rustico East 	230 East 29th St., New York, NY	
-FoodBuzz	Caf Sabarsky	1048 Fifth Ave, New York, NY	
+FoodBuzz	Café Sabarsky	1048 Fifth Ave, New York, NY	
 FoodBuzz	Cafe Select	212 Lafayette Street, New York, NY	
 FoodBuzz	Cafe Spice	72 University Pl, New York, NY	
 FoodBuzz	Cafe St. Barts	Park Avenue @ 50th St., New York, NY	
@@ -7501,7 +7501,7 @@ FoodBuzz	Houston's Restaurant	153 E 53rd St, New York, NY
 FoodBuzz	HQ	90 Thompson St, New York, NY	
 FoodBuzz	Hsf	46 Bowery, New York, NY	
 FoodBuzz	Hudson Cafeteria	356 West 58th Street, New York, NY	
-FoodBuzz	Hudson River Caf	697 West 133rd ST., New York, NY	
+FoodBuzz	Hudson River Café	697 West 133rd ST., New York, NY	
 FoodBuzz	Hummus Place	109 St. Marks Pl., New York, NY	
 FoodBuzz	Hunan Park Restaurant	235 Columbus Ave, New York, NY	
 FoodBuzz	I Coppi	432 E Ninth St, New York, NY	
@@ -7763,7 +7763,7 @@ FoodBuzz	Outback Steakhouse	60 W 23rd St, New York, NY
 FoodBuzz	p*ong	150 W. 10th Street, New York, NY	
 FoodBuzz	P.J. Clarke's	44 W. 63rd Street, New York, NY	
 FoodBuzz	P.J. Clarke's	915 Third Ave, New York, NY	
-FoodBuzz	PONG	150 W 10th St, New York, NY	
+FoodBuzz	P’ONG	150 W 10th St, New York, NY	
 FoodBuzz	Paladar	161 Ludlow St, New York, NY	
 FoodBuzz	Pam Real Thai Food	404 W 49th St, New York, NY	
 FoodBuzz	Pampa	768 Amsterdam Avenue, New York, NY	

@@ -152,8 +152,8 @@ OpenTable	Butai
 OpenTable	Butter
 OpenTable	Buzina Pop
 OpenTable	Cacio e Vino
-OpenTable	Caf Boulud
-OpenTable	Caf Centro
+OpenTable	Café Boulud
+OpenTable	Café Centro
 OpenTable	Cafe Cluny
 OpenTable	Cafe D' Alsace
 OpenTable	Cafe des Artistes
@@ -418,7 +418,7 @@ OpenTable	Los Dados
 OpenTable	Lucille's Grill
 OpenTable	Lucky Cheng's
 OpenTable	Lucy
-OpenTable	Lugo Caff 
+OpenTable	Lugo Caffé 
 OpenTable	Lumi
 OpenTable	Luna Piena Ristorante
 OpenTable	Lunetta
@@ -453,7 +453,7 @@ OpenTable	Merkato 55
 OpenTable	Mesa Grill
 OpenTable	Meson Sevilla
 OpenTable	Metisse French Bistro 
-OpenTable	Mtrazur
+OpenTable	Métrazur
 OpenTable	Metro Marche
 OpenTable	Mezzogiorno
 OpenTable	Mia Dona
@@ -518,7 +518,7 @@ OpenTable	Otto Enoteca Pizzeria
 OpenTable	Ouest
 OpenTable	p*ong
 OpenTable	Padre Figlio
-OpenTable	Pal
+OpenTable	Palá
 OpenTable	Pampano
 OpenTable	Pamplona
 OpenTable	Paola's Restaurant
@@ -727,12 +727,12 @@ OpenTable	Veritas
 OpenTable	Via Dei Mille
 OpenTable	ViceVersa
 OpenTable	Vicino Firenze
-OpenTable	Victor's Caf
+OpenTable	Victor's Café
 OpenTable	Village
 OpenTable	Vince and Eddie's
 OpenTable	Virgil's
 OpenTable	Vong - New York
-OpenTable	Walls
+OpenTable	Wallsé
 OpenTable	wd-50
 OpenTable	West Bank Cafe
 OpenTable	Wolfgang's Steakhouse - Tribeca
@@ -741,7 +741,7 @@ OpenTable	Yuva
 OpenTable	Zampa
 OpenTable	Zanzibar
 OpenTable	Zarela
-OpenTable	Zereou Restaurant and Bar
+OpenTable	Zereouè Restaurant and Bar
 OpenTable	Zeytin
 OpenTable	Zoe Restaurant
 OpenTable	Zoe Townhouse
@@ -897,8 +897,8 @@ OpenTable	Butai	Union Square
 OpenTable	Butter	NoHo
 OpenTable	Buzina Pop	Upper East Side
 OpenTable	Cacio e Vino	East Village
-OpenTable	Caf Boulud	Upper East Side
-OpenTable	Caf Centro	Midtown East
+OpenTable	Café Boulud	Upper East Side
+OpenTable	Café Centro	Midtown East
 OpenTable	Cafe Cluny	West Village
 OpenTable	Cafe D' Alsace	Upper East Side
 OpenTable	Cafe des Artistes	Lincoln Center
@@ -1163,7 +1163,7 @@ OpenTable	Los Dados	Meatpacking District
 OpenTable	Lucille's Grill	Midtown West
 OpenTable	Lucky Cheng's	East Village
 OpenTable	Lucy	Gramercy / Flatiron
-OpenTable	Lugo Caff 	Midtown West
+OpenTable	Lugo Caffé 	Midtown West
 OpenTable	Lumi	Upper East Side
 OpenTable	Luna Piena Ristorante	Midtown East
 OpenTable	Lunetta	Gramercy / Flatiron
@@ -1198,7 +1198,7 @@ OpenTable	Merkato 55	Meatpacking District
 OpenTable	Mesa Grill	Gramercy / Flatiron
 OpenTable	Meson Sevilla	Theater District
 OpenTable	Metisse French Bistro 	Upper West Side
-OpenTable	Mtrazur	Midtown East
+OpenTable	Métrazur	Midtown East
 OpenTable	Metro Marche	Times Square
 OpenTable	Mezzogiorno	SoHo
 OpenTable	Mia Dona	Midtown East
@@ -1262,7 +1262,7 @@ OpenTable	Otto Enoteca Pizzeria	Greenwich Village
 OpenTable	Ouest	Upper West Side
 OpenTable	p*ong	West Village
 OpenTable	Padre Figlio	Midtown East
-OpenTable	Pal	Lower East Side
+OpenTable	Palá	Lower East Side
 OpenTable	Pampano	Midtown East
 OpenTable	Pamplona	Gramercy / Flatiron
 OpenTable	Paola's Restaurant	Upper East Side
@@ -1474,12 +1474,12 @@ OpenTable	Veritas	Gramercy / Flatiron
 OpenTable	Via Dei Mille	SoHo
 OpenTable	ViceVersa	Theater District
 OpenTable	Vicino Firenze	Upper East Side
-OpenTable	Victor's Caf	Midtown West
+OpenTable	Victor's Café	Midtown West
 OpenTable	Village	West Village
 OpenTable	Vince and Eddie's	Lincoln Center
 OpenTable	Virgil's	Theater District
 OpenTable	Vong - New York	Midtown East
-OpenTable	Walls	West Village
+OpenTable	Wallsé	West Village
 OpenTable	wd-50	Lower East Side
 OpenTable	West Bank Cafe	Theater District
 OpenTable	Wolfgang's Steakhouse - Tribeca	TriBeCa - Downtown
@@ -1488,7 +1488,7 @@ OpenTable	Yuva	Midtown East
 OpenTable	Zampa	West Village
 OpenTable	Zanzibar	Hell's Kitchen
 OpenTable	Zarela	Midtown East
-OpenTable	Zereou Restaurant and Bar	Midtown East
+OpenTable	Zereouè Restaurant and Bar	Midtown East
 OpenTable	Zeytin	Upper West Side
 OpenTable	Zoe Restaurant	SoHo
 OpenTable	Zoe Townhouse	Upper East Side
@@ -1644,8 +1644,8 @@ OpenTable	Butai	Union Square
 OpenTable	Butter	NoHo
 OpenTable	Buzina Pop	Upper East Side
 OpenTable	Cacio e Vino	East Village
-OpenTable	Caf Boulud	Upper East Side
-OpenTable	Caf Centro	Midtown East
+OpenTable	Café Boulud	Upper East Side
+OpenTable	Café Centro	Midtown East
 OpenTable	Cafe Cluny	West Village
 OpenTable	Cafe D' Alsace	Upper East Side
 OpenTable	Cafe des Artistes	Lincoln Center
@@ -1908,7 +1908,7 @@ OpenTable	Lola	SoHo
 OpenTable	Los Dados	Meatpacking District
 OpenTable	Lucky Cheng's	East Village
 OpenTable	Lucy	Gramercy / Flatiron
-OpenTable	Lugo Caff 	Midtown West
+OpenTable	Lugo Caffé 	Midtown West
 OpenTable	Lumi	Upper East Side
 OpenTable	Luna Piena Ristorante	Midtown East
 OpenTable	Lupa	Greenwich Village
@@ -1943,7 +1943,7 @@ OpenTable	Merkato 55	Meatpacking District
 OpenTable	Mesa Grill	Gramercy / Flatiron
 OpenTable	Meson Sevilla	Theater District
 OpenTable	Metisse French Bistro 	Upper West Side
-OpenTable	Mtrazur	Midtown East
+OpenTable	Métrazur	Midtown East
 OpenTable	Metro Marche	Times Square
 OpenTable	Mezzogiorno	SoHo
 OpenTable	Mia Dona	Midtown East
@@ -2007,7 +2007,7 @@ OpenTable	Otto Enoteca Pizzeria	Greenwich Village
 OpenTable	Ouest	Upper West Side
 OpenTable	p*ong	West Village
 OpenTable	Padre Figlio	Midtown East
-OpenTable	Pal	Lower East Side
+OpenTable	Palá	Lower East Side
 OpenTable	Pampano	Midtown East
 OpenTable	Pamplona	Gramercy / Flatiron
 OpenTable	Paola's Restaurant	Upper East Side
@@ -2222,12 +2222,12 @@ OpenTable	Veritas	Gramercy / Flatiron
 OpenTable	Via Dei Mille	SoHo
 OpenTable	ViceVersa	Theater District
 OpenTable	Vicino Firenze	Upper East Side
-OpenTable	Victor's Caf	Theater District
+OpenTable	Victor's Café	Theater District
 OpenTable	Village	West Village
 OpenTable	Vince and Eddie's	Lincoln Center
 OpenTable	Virgil's	Theater District
 OpenTable	Vong - New York	Midtown East
-OpenTable	Walls	West Village
+OpenTable	Wallsé	West Village
 OpenTable	wd-50	Lower East Side
 OpenTable	West Bank Cafe	Theater District
 OpenTable	Wolfgang's Steakhouse - Tribeca	TriBeCa - Downtown
@@ -2236,7 +2236,7 @@ OpenTable	Yuva	Midtown East
 OpenTable	Zampa	West Village
 OpenTable	Zanzibar	Hell's Kitchen
 OpenTable	Zarela	Midtown East
-OpenTable	Zereou Restaurant and Bar	Midtown East
+OpenTable	Zereouè Restaurant and Bar	Midtown East
 OpenTable	Zerza	East Village
 OpenTable	Zeytin	Upper West Side
 OpenTable	Zoe Restaurant	SoHo
@@ -2393,9 +2393,9 @@ OpenTable	Butai	Union Square
 OpenTable	Butter	NoHo
 OpenTable	Buzina Pop	Upper East Side
 OpenTable	Cacio e Vino	East Village
-OpenTable	Caf Boulud	Upper East Side
+OpenTable	Café Boulud	Upper East Side
 OpenTable	The Cafe Carlyle	Upper East Side
-OpenTable	Caf Centro	Midtown East
+OpenTable	Café Centro	Midtown East
 OpenTable	Cafe Cluny	West Village
 OpenTable	Cafe D' Alsace	Upper East Side
 OpenTable	Cafe des Artistes	Lincoln Center
@@ -2667,7 +2667,7 @@ OpenTable	Lobby Lounge at Mandarin Oriental, New York	Columbus Circle
 OpenTable	Los Dados	Meatpacking District
 OpenTable	Lucky Cheng's	East Village
 OpenTable	Lucy	Gramercy / Flatiron
-OpenTable	Lugo Caff 	Midtown West
+OpenTable	Lugo Caffé 	Midtown West
 OpenTable	Lumi	Upper East Side
 OpenTable	Luna Piena Ristorante	Midtown East
 OpenTable	Lupa	Greenwich Village
@@ -2705,7 +2705,7 @@ OpenTable	The Mermaid Inn Uptown	Upper West Side
 OpenTable	Mesa Grill	Gramercy / Flatiron
 OpenTable	Meson Sevilla	Theater District
 OpenTable	Metisse French Bistro 	Upper West Side
-OpenTable	Mtrazur	Midtown East
+OpenTable	Métrazur	Midtown East
 OpenTable	Metro Marche	Times Square
 OpenTable	Mezzogiorno	SoHo
 OpenTable	Mia Dona	Midtown East
@@ -2774,7 +2774,7 @@ OpenTable	Otto Enoteca Pizzeria	Greenwich Village
 OpenTable	Ouest	Upper West Side
 OpenTable	p*ong	West Village
 OpenTable	Padre Figlio	Midtown East
-OpenTable	Pal	Lower East Side
+OpenTable	Palá	Lower East Side
 OpenTable	The Palm - NYC One	Midtown East
 OpenTable	The Palm - NYC Too	Midtown East
 OpenTable	The Palm - NYC West Side	Times Square
@@ -2966,13 +2966,13 @@ OpenTable	Veritas	Gramercy / Flatiron
 OpenTable	Via Dei Mille	SoHo
 OpenTable	ViceVersa	Theater District
 OpenTable	Vicino Firenze	Upper East Side
-OpenTable	Victor's Caf	Theater District
+OpenTable	Victor's Café	Theater District
 OpenTable	The View Restaurant	Times Square
 OpenTable	Village	West Village
 OpenTable	Vince and Eddie's	Lincoln Center
 OpenTable	Virgil's	Theater District
 OpenTable	Vong - New York	Midtown East
-OpenTable	Walls	West Village
+OpenTable	Wallsé	West Village
 OpenTable	The Water Club	Murray Hill
 OpenTable	wd-50	Lower East Side
 OpenTable	West Bank Cafe	Theater District
@@ -2983,7 +2983,7 @@ OpenTable	Yuva	Midtown East
 OpenTable	Zampa	West Village
 OpenTable	Zanzibar	Hell's Kitchen
 OpenTable	Zarela	Midtown East
-OpenTable	Zereou Restaurant and Bar	Midtown East
+OpenTable	Zereouè Restaurant and Bar	Midtown East
 OpenTable	Zerza	East Village
 OpenTable	Zeytin	Upper West Side
 OpenTable	Zoe Restaurant	SoHo
@@ -3139,8 +3139,8 @@ OpenTable	Butai	Union Square
 OpenTable	Butter	NoHo
 OpenTable	Buzina Pop	Upper East Side
 OpenTable	Cacio e Vino	East Village
-OpenTable	Caf Boulud	Upper East Side
-OpenTable	Caf Centro	Midtown East
+OpenTable	Café Boulud	Upper East Side
+OpenTable	Café Centro	Midtown East
 OpenTable	Cafe Cluny	West Village
 OpenTable	Cafe D' Alsace	Upper East Side
 OpenTable	Cafe des Artistes	Lincoln Center
@@ -3406,7 +3406,7 @@ OpenTable	Lobby Lounge at Mandarin Oriental, New York	Columbus Circle
 OpenTable	Los Dados	Meatpacking District
 OpenTable	Lucky Cheng's	East Village
 OpenTable	Lucy	Gramercy / Flatiron
-OpenTable	Lugo Caff 	Midtown West
+OpenTable	Lugo Caffé 	Midtown West
 OpenTable	Lumi	Upper East Side
 OpenTable	Luna Piena Ristorante	Midtown East
 OpenTable	Lupa	Greenwich Village
@@ -3442,7 +3442,7 @@ OpenTable	Merkato 55	Meatpacking District
 OpenTable	Mesa Grill	Gramercy / Flatiron
 OpenTable	Meson Sevilla	Theater District
 OpenTable	Metisse French Bistro 	Upper West Side
-OpenTable	Mtrazur	Midtown East
+OpenTable	Métrazur	Midtown East
 OpenTable	Metro Marche	Times Square
 OpenTable	Mezzogiorno	SoHo
 OpenTable	Mia Dona	Midtown East
@@ -3506,7 +3506,7 @@ OpenTable	Otto Enoteca Pizzeria	Greenwich Village
 OpenTable	Ouest	Upper West Side
 OpenTable	p*ong	West Village
 OpenTable	Padre Figlio	Midtown East
-OpenTable	Pal	Lower East Side
+OpenTable	Palá	Lower East Side
 OpenTable	Pampano	Midtown East
 OpenTable	Pamplona	Gramercy / Flatiron
 OpenTable	Paola's Restaurant	Upper East Side
@@ -3722,12 +3722,12 @@ OpenTable	Veritas	Gramercy / Flatiron
 OpenTable	Via Dei Mille	SoHo
 OpenTable	ViceVersa	Theater District
 OpenTable	Vicino Firenze	Upper East Side
-OpenTable	Victor's Caf	Theater District
+OpenTable	Victor's Café	Theater District
 OpenTable	Village	West Village
 OpenTable	Vince and Eddie's	Lincoln Center
 OpenTable	Virgil's	Theater District
 OpenTable	Vong - New York	Midtown East
-OpenTable	Walls	West Village
+OpenTable	Wallsé	West Village
 OpenTable	wd-50	Lower East Side
 OpenTable	West Bank Cafe	Theater District
 OpenTable	Wolfgang's Steakhouse - Tribeca	TriBeCa - Downtown
@@ -3736,7 +3736,7 @@ OpenTable	Yuva	Midtown East
 OpenTable	Zampa	West Village
 OpenTable	Zanzibar	Hell's Kitchen
 OpenTable	Zarela	Midtown East
-OpenTable	Zereou Restaurant and Bar	Midtown East
+OpenTable	Zereouè Restaurant and Bar	Midtown East
 OpenTable	Zerza	East Village
 OpenTable	Zeytin	Upper West Side
 OpenTable	Zoe Restaurant	SoHo
@@ -3890,8 +3890,8 @@ OpenTable	Butai	Union Square
 OpenTable	Butter	NoHo
 OpenTable	Buzina Pop	Upper East Side
 OpenTable	Cacio e Vino	East Village
-OpenTable	Caf Boulud	Upper East Side
-OpenTable	Caf Centro	Midtown East
+OpenTable	Café Boulud	Upper East Side
+OpenTable	Café Centro	Midtown East
 OpenTable	Cafe Cluny	West Village
 OpenTable	Cafe D' Alsace	Upper East Side
 OpenTable	Cafe des Artistes	Lincoln Center
@@ -4158,7 +4158,7 @@ OpenTable	Lobby Lounge at Mandarin Oriental, New York	Columbus Circle
 OpenTable	Los Dados	Meatpacking District
 OpenTable	Lucky Cheng's	East Village
 OpenTable	Lucy	Gramercy / Flatiron
-OpenTable	Lugo Caff 	Midtown West
+OpenTable	Lugo Caffé 	Midtown West
 OpenTable	Lumi	Upper East Side
 OpenTable	Luna Piena Ristorante	Midtown East
 OpenTable	Lupa	Greenwich Village
@@ -4194,7 +4194,7 @@ OpenTable	Merkato 55	Meatpacking District
 OpenTable	Mesa Grill	Gramercy / Flatiron
 OpenTable	Meson Sevilla	Theater District
 OpenTable	Metisse French Bistro 	Upper West Side
-OpenTable	Mtrazur	Midtown East
+OpenTable	Métrazur	Midtown East
 OpenTable	Metro Marche	Times Square
 OpenTable	Mezzogiorno	SoHo
 OpenTable	Mia Dona	Midtown East
@@ -4237,7 +4237,7 @@ OpenTable	Norma's at Le Parker Meridien	Midtown West
 OpenTable	North Square	West Village
 OpenTable	Nougatine at Jean Georges	Midtown West
 OpenTable	Novecento New York	SoHo
-OpenTable	Novit - New York City	Gramercy / Flatiron
+OpenTable	Novitá - New York City	Gramercy / Flatiron
 OpenTable	Oceana	Midtown East
 OpenTable	Olana	Gramercy / Flatiron
 OpenTable	Old Homestead Restaurant	Meatpacking District
@@ -4259,7 +4259,7 @@ OpenTable	Otto Enoteca Pizzeria	Greenwich Village
 OpenTable	Ouest	Upper West Side
 OpenTable	p*ong	West Village
 OpenTable	Padre Figlio	Midtown East
-OpenTable	Pal	Lower East Side
+OpenTable	Palá	Lower East Side
 OpenTable	Pampano	Midtown East
 OpenTable	Pamplona	Gramercy / Flatiron
 OpenTable	Paola's Restaurant	Upper East Side
@@ -4475,12 +4475,12 @@ OpenTable	Veritas	Gramercy / Flatiron
 OpenTable	Via Dei Mille	SoHo
 OpenTable	ViceVersa	Theater District
 OpenTable	Vicino Firenze	Upper East Side
-OpenTable	Victor's Caf	Theater District
+OpenTable	Victor's Café	Theater District
 OpenTable	Village	West Village
 OpenTable	Vince and Eddie's	Lincoln Center
 OpenTable	Virgil's	Theater District
 OpenTable	Vong - New York	Midtown East
-OpenTable	Walls	West Village
+OpenTable	Wallsé	West Village
 OpenTable	wd-50	Lower East Side
 OpenTable	West Bank Cafe	Theater District
 OpenTable	Wolfgang's Steakhouse - Tribeca	TriBeCa - Downtown
@@ -4489,7 +4489,7 @@ OpenTable	Yuva	Midtown East
 OpenTable	Zampa	West Village
 OpenTable	Zanzibar	Hell's Kitchen
 OpenTable	Zarela	Midtown East
-OpenTable	Zereou Restaurant and Bar	Midtown East
+OpenTable	Zereouè Restaurant and Bar	Midtown East
 OpenTable	Zerza	East Village
 OpenTable	Zeytin	Upper West Side
 OpenTable	Zoe Restaurant	SoHo
@@ -4645,8 +4645,8 @@ OpenTable	Butai	Union Square
 OpenTable	Butter	NoHo
 OpenTable	Buzina Pop	Upper East Side
 OpenTable	Cacio e Vino	East Village
-OpenTable	Caf Boulud	Upper East Side
-OpenTable	Caf Centro	Midtown East
+OpenTable	Café Boulud	Upper East Side
+OpenTable	Café Centro	Midtown East
 OpenTable	Cafe Cluny	West Village
 OpenTable	Cafe D' Alsace	Upper East Side
 OpenTable	Cafe des Artistes	Lincoln Center
@@ -4916,7 +4916,7 @@ OpenTable	Lobby Lounge at Mandarin Oriental, New York	Columbus Circle
 OpenTable	Los Dados	Meatpacking District
 OpenTable	Lucky Cheng's	East Village
 OpenTable	Lucy	Gramercy / Flatiron
-OpenTable	Lugo Caff 	Midtown West
+OpenTable	Lugo Caffé 	Midtown West
 OpenTable	Lumi	Upper East Side
 OpenTable	Luna Piena Ristorante	Midtown East
 OpenTable	Lupa	Greenwich Village
@@ -4952,7 +4952,7 @@ OpenTable	Merkato 55	Meatpacking District
 OpenTable	Mesa Grill	Gramercy / Flatiron
 OpenTable	Meson Sevilla	Theater District
 OpenTable	Metisse French Bistro 	Upper West Side
-OpenTable	Mtrazur	Midtown East
+OpenTable	Métrazur	Midtown East
 OpenTable	Metro Marche	Times Square
 OpenTable	Mezzogiorno	SoHo
 OpenTable	Mia Dona	Midtown East
@@ -4995,7 +4995,7 @@ OpenTable	Norma's at Le Parker Meridien	Midtown West
 OpenTable	North Square	West Village
 OpenTable	Nougatine at Jean Georges	Midtown West
 OpenTable	Novecento New York	SoHo
-OpenTable	Novit - New York City	Gramercy / Flatiron
+OpenTable	Novitá - New York City	Gramercy / Flatiron
 OpenTable	Ocean Grill New York	Columbus Circle
 OpenTable	Oceana	Midtown East
 OpenTable	Olana	Gramercy / Flatiron
@@ -5019,7 +5019,7 @@ OpenTable	Otto Enoteca Pizzeria	Greenwich Village
 OpenTable	Ouest	Upper West Side
 OpenTable	p*ong	West Village
 OpenTable	Padre Figlio	Midtown East
-OpenTable	Pal	Lower East Side
+OpenTable	Palá	Lower East Side
 OpenTable	Pampano	Midtown East
 OpenTable	Pamplona	Gramercy / Flatiron
 OpenTable	Paola's Restaurant	Upper East Side
@@ -5235,12 +5235,12 @@ OpenTable	Veritas	Gramercy / Flatiron
 OpenTable	Via Dei Mille	SoHo
 OpenTable	ViceVersa	Theater District
 OpenTable	Vicino Firenze	Upper East Side
-OpenTable	Victor's Caf	Theater District
+OpenTable	Victor's Café	Theater District
 OpenTable	Village	West Village
 OpenTable	Vince and Eddie's	Lincoln Center
 OpenTable	Virgil's	Theater District
 OpenTable	Vong - New York	Midtown East
-OpenTable	Walls	West Village
+OpenTable	Wallsé	West Village
 OpenTable	wd-50	Lower East Side
 OpenTable	West Bank Cafe	Theater District
 OpenTable	Wolfgang's Steakhouse - Tribeca	TriBeCa - Downtown
@@ -5249,7 +5249,7 @@ OpenTable	Yuva	Midtown East
 OpenTable	Zampa	West Village
 OpenTable	Zanzibar	Hell's Kitchen
 OpenTable	Zarela	Midtown East
-OpenTable	Zereou Restaurant and Bar	Midtown East
+OpenTable	Zereouè Restaurant and Bar	Midtown East
 OpenTable	Zerza	East Village
 OpenTable	Zeytin	Upper West Side
 OpenTable	Zoe Restaurant	SoHo
@@ -5405,8 +5405,8 @@ OpenTable	Butai	Union Square
 OpenTable	Butter	NoHo
 OpenTable	Buzina Pop	Upper East Side
 OpenTable	Cacio e Vino	East Village
-OpenTable	Caf Boulud	Upper East Side
-OpenTable	Caf Centro	Midtown East
+OpenTable	Café Boulud	Upper East Side
+OpenTable	Café Centro	Midtown East
 OpenTable	Cafe Cluny	West Village
 OpenTable	Cafe D' Alsace	Upper East Side
 OpenTable	Cafe des Artistes	Lincoln Center
@@ -5678,7 +5678,7 @@ OpenTable	Lobby Lounge at Mandarin Oriental, New York	Columbus Circle
 OpenTable	Los Dados	Meatpacking District
 OpenTable	Lucky Cheng's	East Village
 OpenTable	Lucy	Gramercy / Flatiron
-OpenTable	Lugo Caff 	Midtown West
+OpenTable	Lugo Caffé 	Midtown West
 OpenTable	Lumi	Upper East Side
 OpenTable	Luna Piena Ristorante	Midtown East
 OpenTable	Lupa	Greenwich Village
@@ -5714,7 +5714,7 @@ OpenTable	Merkato 55	Meatpacking District
 OpenTable	Mesa Grill	Gramercy / Flatiron
 OpenTable	Meson Sevilla	Theater District
 OpenTable	Metisse French Bistro 	Upper West Side
-OpenTable	Mtrazur	Midtown East
+OpenTable	Métrazur	Midtown East
 OpenTable	Metro Marche	Times Square
 OpenTable	Mezzogiorno	SoHo
 OpenTable	Mia Dona	Midtown East
@@ -5758,7 +5758,7 @@ OpenTable	Norma's at Le Parker Meridien	Midtown West
 OpenTable	North Square	West Village
 OpenTable	Nougatine at Jean Georges	Midtown West
 OpenTable	Novecento New York	SoHo
-OpenTable	Novit - New York City	Gramercy / Flatiron
+OpenTable	Novitá - New York City	Gramercy / Flatiron
 OpenTable	Ocean Grill New York	Upper West Side
 OpenTable	Oceana	Midtown East
 OpenTable	Olana	Gramercy / Flatiron
@@ -6001,12 +6001,12 @@ OpenTable	Veritas	Gramercy / Flatiron
 OpenTable	Via Dei Mille	SoHo
 OpenTable	ViceVersa	Theater District
 OpenTable	Vicino Firenze	Upper East Side
-OpenTable	Victor's Caf	Theater District
+OpenTable	Victor's Café	Theater District
 OpenTable	Village	West Village
 OpenTable	Vince and Eddie's	Lincoln Center
 OpenTable	Virgil's	Theater District
 OpenTable	Vong - New York	Midtown East
-OpenTable	Walls	West Village
+OpenTable	Wallsé	West Village
 OpenTable	wd-50	Lower East Side
 OpenTable	West Bank Cafe	Theater District
 OpenTable	Wolfgang's Steakhouse - Tribeca	TriBeCa - Downtown
@@ -6015,7 +6015,7 @@ OpenTable	Yuva	Midtown East
 OpenTable	Zampa	West Village
 OpenTable	Zanzibar	Hell's Kitchen
 OpenTable	Zarela	Midtown East
-OpenTable	Zereou Restaurant and Bar	Midtown East
+OpenTable	Zereouè Restaurant and Bar	Midtown East
 OpenTable	Zerza	East Village
 OpenTable	Zeytin	Upper West Side
 OpenTable	Zoe Restaurant	SoHo
