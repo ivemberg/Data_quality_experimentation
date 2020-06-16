@@ -1,5 +1,5 @@
-1;2;3_x
-100 Finest Pizza & Restaurant Inc;103 West 110;nan
+restaurant;address;country
+100 Finest Pizza & Restaurant Inc;103 West 110;
 100 Kenmare Food Corp;100 Kenmare;New York
 100 Park KNC Inc;100 Park Avenue Lbby;New York
 101 Audubon Grocery;101 Audubon Avenue Frnt;New York
@@ -27,7 +27,7 @@
 1316 Food Inc;1316 5 Av;New York
 132 Deli Inc;132 East 31st Street;New York
 1363 Stir;1363 First Ave;New York
-1363 Stir;Tapas;nan
+1363 Stir;Tapas;
 137 Broadway Chinese Rest;3371 Broadway;New York
 14 St Fruit & Vegetable;154 West 14th Street;New York
 14 Wall St Restaurant;14 Wall St;New York
@@ -45,8 +45,8 @@
 1657 Broadway Deli Ltd;1657 Broadway;New York
 168 E 116 Restaurant Corporation;168 East 116th Street;New York
 17 Battery Park Cafe;17 Battery Place Floor 1;New York
-17 Murray St Restaurant;17 Murray Street;nan
-17 Murray St Restaurant;17 Murray St Restaurant;nan
+17 Murray St Restaurant;17 Murray Street;
+17 Murray St Restaurant;17 Murray St Restaurant;
 180 Broadway Cafe;180 Broadway;New York
 181 Janlo Co;4259 Broadway;New York
 1849;183 Bleecker Street;New York
@@ -56,7 +56,7 @@
 19th Street Food Extravaganza;51 W 19th St # 1;New York
 1st Avenue Grocery & Deli;2239 1st Avenue;New York
 2 Rivers Restaurant and Bar;10 Murray Street;New York
-2 Seven 7;2 Seven 7;nan
+2 Seven 7;2 Seven 7;
 2 Seven 7;277 Church St;New York
 20 Mott St Restaurant;20 Mott St # 1;New York
 2020;20 Warren;New York
@@ -77,7 +77,7 @@
 23 Lexington Inc;23 Lexington Avenue;New York
 235 9 Av;235 9 Av;New York
 236 Columbus Farm Corporation;236 Columbus Avenue;New York
-238 Madison Bistro;238 Madison Ave;nan
+238 Madison Bistro;238 Madison Ave;
 23rd St Food Plus;67 West 23rd Street;New York
 24 8;240 Mulberry Street;New York
 24 Deli Dot Com;262 West 38th Street Suite #1406;New York
@@ -91,7 +91,7 @@
 27 Standard;116 E 27th St;New York
 274 Columbus Corp;274 Columbus Av;New York
 28 Noodles;417 3 Av;New York
-28 Noodles;28 Noodles;nan
+28 Noodles;28 Noodles;
 2806 Deli & Grocery;2806 Frederick Douglass B;New York
 2807 Deli Grocery Corp;2807 8 Av;New York
 285 St Nicholas Deli;285 St Nicholas Av;New York
@@ -102,7 +102,7 @@
 30 Boca Corporation;30 West 48th Street Frnt 1;New York
 307 E 54th Street Corp;307 E 54th St;New York
 312 W 58stcoliseum;312 W 58th St # 1;New York
-312 W 58stcoliseum;312 W 58stcoliseum;nan
+312 W 58stcoliseum;312 W 58stcoliseum;
 324 Bowery Food Inc;324 Bowery;New York
 343 Restaurant;343 East 85;New York
 3451 Broadway Restaurant Inc;3451 Broadway;New York
@@ -110,7 +110,7 @@
 356 W 44 St Inc;356 West 44th Street Frnt;New York
 36 Bar & BBQ;5 West 36th Street Frnt;New York
 362 Deli & Pizza;362 West Broadway;New York
-362 Deli & Pizza;Pizzeria;nan
+362 Deli & Pizza;Pizzeria;
 37 Peter Corp;9 East 37;New York
 38th St Restaurant & Bakery;273 W 38th St;New York
 39 Deli;335 Lexington Av;New York
@@ -125,9 +125,9 @@
 4199 Crystal Too Corp;597 West 207;New York
 420 Bar and Lounge;420 Amsterdam Avenue;New York
 42nd Green Tree Food Inc;42 8th Avenue;New York
-42nd Green Tree Food Inc;42nd Green Tree Food Inc;nan
+42nd Green Tree Food Inc;42nd Green Tree Food Inc;
 42nd Street Eatery;234 West 42nd Street;New York
-42nd Street Pizza Corporation;647 West 42nd Street;nan
+42nd Street Pizza Corporation;647 West 42nd Street;
 43rd Street Restaurant LLC;800 2 Av;New York
 44;44 W 44th St;New York
 44 South West Italian Rest;621 9th Ave;New York
@@ -156,7 +156,7 @@
 56 Cafe Restaurant;1377 Avenue Of The Americas;New York
 57 St Bake Corp;153 West 57;New York
 57 St Pizza Corporation;862 10th Avenue Frnt;New York
-5757 Restaurant;5757 Restaurant;nan
+5757 Restaurant;5757 Restaurant;
 5757 Restaurant;57 East 57th Street;New York
 580 2nd AV Food Corporation;1500 3rd Avenue;New York
 588 Restaurant Corp Caridad;588 Amsterdam Av;New York
@@ -177,9 +177,9 @@
 719 Brother Famous Deli;719 9 Av;New York
 75 Park Place Farm Inc;75 Park Place;New York
 76 York Healthy Food Cafe;1443 York Avenue;New York
-77493;1633 Broadway;nan
+77493;1633 Broadway;
 79 Baxter Pub Inc;79 Baxter Street Apt 4;New York
-79 Street Boat Basin Cafe;nan;New York
+79 Street Boat Basin Cafe;;New York
 7th Avenue Deli;833 7 Av;New York
 7th Avenue Deli Grocery;2299 Adam Clayton Powell;New York
 8 AV Deli & Flowers;931 8th Avenue;New York
@@ -237,7 +237,7 @@ A Salt & Battery;80 2nd Avenue Frnt;New York
 A Slice of New York;727 8th Avenue;New York
 A Taste Of Seafood;50 E 125th St;New York
 A Taste Siam Thai Restauarnt;180 2nd Ave;New York
-A Tavola Italian Diner;American;nan
+A Tavola Italian Diner;American;
 A Tavola Italian Diner;1095 Lexington Ave;New York
 A-1 Pizza Shop;505 Grand Street;New York
 A-Mix 1;120 East 34;New York
@@ -253,7 +253,7 @@ AL Dente;417 Amsterdam Avenue;New York
 AL Forno;1484 2nd Avenue Frnt;New York
 AL Halal Fast Food Inc;94 Saint Nicholas Place;New York
 ALCA Pizza & Chicken Restaurant;3771 Broadway;New York
-ALT Coffee Inc;Coffee Shop;nan
+ALT Coffee Inc;Coffee Shop;
 ALT Coffee Inc;137 Avenue A;New York
 AMI Delicatessen;1493 1 Av;New York
 ANAN Joyti Corporation;330 West 38th Street;New York
@@ -285,7 +285,7 @@ Academy Cafe;343 2nd Avenue;New York
 Acappella;1 Hudson Street;New York
 Ace Bar;531 East 5th Street Frnt;New York
 Ace Luck Thai;530 9th Avenue;New York
-Aces & Eights Saloon;1683 1st Ave;nan
+Aces & Eights Saloon;1683 1st Ave;
 Acme Bar & Grill;9 Great Jones St # 9;New York
 Acme Pleating & Fagoting Corporation;147 West 26th Street Floor 2;New York
 Acorn Food Svc;500 Pearl St;New York
@@ -311,7 +311,7 @@ Adrienne;700 5th Avenue;New York
 Aegean Restaurant;221 Columbus Av;New York
 Afghan Restaurant;34 Saint Marks Place;New York
 Afghan Shish Kebab;789 9th Ave;New York
-Afghanistan Kebab House;Afghan;nan
+Afghanistan Kebab House;Afghan;
 Afghanistan Kebab House;764 9th Avenue;New York
 Afghanistan Kebab House;155 W 46th St;New York
 Afghanistan Kebab House 2;1345 2nd Avenue;New York
@@ -322,11 +322,11 @@ African Sisters;62 E 116th St Bet.madison&park;New York
 Agan Cheng;63 Avenue D;New York
 Agave Restaurant;140 7th Avenue;New York
 Agora Restaurant;1586 1st Ave # 1586;New York
-Agozar Restaurant & Lounge;more info: Cuban;nan
+Agozar Restaurant & Lounge;more info: Cuban;
 Agozar Restaurant & Lounge;324 Bowery Street;New York
 Agra Indian & Pakistan;807 Lexington Avenue;New York
-Agra Restaurant;807 Lexington Avenue;nan
-Agrodolce Inc;Fast Food;nan
+Agra Restaurant;807 Lexington Avenue;
+Agrodolce Inc;Fast Food;
 Agrodolce Inc;168 Sullivan;New York
 Agua Caliente Enterprises;117 Dyckman Street;New York
 Ah Chihuahua Chihuahua's;330 East 53rd Street;New York
@@ -335,11 +335,11 @@ Ai-Chi Restaurant Corp;61 Grove;New York
 Aiello's Pizza Emporium;383 3rd Avenue;New York
 Ainolaphek Inc;17 E River Piers;New York
 Aisifik Diner Corp;343 2nd Ave;New York
-Aisifik Diner Corp;Diner;nan
+Aisifik Diner Corp;Diner;
 Aix Restaurant;2398 Broadway;New York
 Ajanta India Restaurant;1237 Amsterdam Avenue;New York
 Ajisai Japanese Restaurant;1466 1st Avenue Frnt;New York
-Ajisai Japanese Restaurant;Japanese;nan
+Ajisai Japanese Restaurant;Japanese;
 Ajisen Noodle Restaurant Inc;14 Mott Street Frnt;New York
 Akahi Inc;292 Madison Avenue Frnt;New York
 Akaihana En Restaurant;2164 Broadway;New York
@@ -359,7 +359,7 @@ Alain Ducasse at Essex House;160 Central Park South;New York
 Alaska Food Market;108 9 Avenue;New York
 Alaskan Feast;27 Fulton Market;New York
 Alaya Grocery And Deli Corp;177 Audubon Av;New York
-Alba Speciality Seafood CO;233 Water Street;nan
+Alba Speciality Seafood CO;233 Water Street;
 Alba Tratoria Restaurant Inc;331 West 38;New York
 Alberto Lastreto Inc;214 West 29;New York
 Albrm Realty;135 E 55th St # 5;New York
@@ -382,7 +382,7 @@ Alice's Tea Cup Chapter II;156 East 64;New York
 Alison on Dominick Street;38 Dominick St;New York
 Aljuhaiem Deli;207 Clinton Street;New York
 All American Deli;42 Water Street;New York
-All American Deli;American;nan
+All American Deli;American;
 All American Health Bar;24 E 42nd St;New York
 All American Water Street Deli;42 Water Street;New York
 All Natural Ben & Jerry's All Natural Vr;2722 Broadway;New York
@@ -404,10 +404,10 @@ Alonzos Restaurant;302 E 45th St;New York
 Alouette;2588 Broadway;New York
 Alpha Fusion NYC;365 W. 34th Street;New York
 Alpha Fusion NYC;365 W 39th Street;New York
-Alpha Fusion NYC;Fusion;nan
+Alpha Fusion NYC;Fusion;
 Alpha One;348 7th Avenue;New York
 Alphabet Cafe;202 East 7th Street;New York
-Alphabet Cafe;Cafe;nan
+Alphabet Cafe;Cafe;
 Alpine Gourmet Farm;480 Fashion Avenue;New York
 Als Deli;197 Madison Street;New York
 Alta Restaurant;64 West 10th Street;New York
@@ -425,7 +425,7 @@ Amber Asian Cuisine;1406 3 Av;New York
 Amber Gramercy;381 Third Avenue;New York
 Ambrosia Restaurant;273 1 Av;New York
 America;9 e 18th St;New York
-American;New World;nan
+American;New World;
 American Cafe Health;160 Broadway;New York
 American Choice Deli;111 Delancey Street;New York
 American East Fuzhou Restaurant;54 East Broadway Frnt;New York
@@ -438,7 +438,7 @@ Ameriego;1370 York Ave;New York
 Ameritania Hotel;230 W 54th St # NY;New York
 Amici 36;519 8 Av;New York
 Amici MIEI;475 Broadway;New York
-Amin Indian Cuisine;Indian;nan
+Amin Indian Cuisine;Indian;
 Amin Indian Cuisine;155 E 87th St;New York
 Amir Restaurant Corp;36 Avenue A # B;New York
 Amir's Falafel;2911 Broadway;New York
@@ -485,7 +485,7 @@ Angela's;524 West 36;New York
 Angela's Coffee Shop;805 West 187th Street;New York
 Angela's Gourmet Deli;1428 Avenue Of The Americ;New York
 Angelas Cuisine;913 2nd Ave;New York
-Angelica Kitchen;300 East 12th Street;nan
+Angelica Kitchen;300 East 12th Street;
 Angelina Cafe;36 Avenue A;New York
 Angelinos Pizza Restaurant;3861 Broadway;New York
 Angelo & Maxies Steakhouse;233 Park Avenue South;New York
@@ -527,10 +527,10 @@ Anytime Restaurant;116 Avenue C;New York
 Anyway Cafe;32 East 2nd Street;New York
 Aperitivo Restaurant Inc;29 W 56th St;New York
 Apizz Restaurant;217 Eldridge Street;New York
-Apna Taj;159 E. 55th Street;nan
+Apna Taj;159 E. 55th Street;
 Apollo Restaurant;333 Park Avenue South;New York
 Apollo Restaurant;Arsenal Street Plaza;New York
-Apollo Restaurant;(315) 788-3569;nan
+Apollo Restaurant;(315) 788-3569;
 Apolo Restaurant;168 Delancey Street Frnt;New York
 Appetito;47 West 39th Street;New York
 Applause Chinese Restaurant;24 E 33rd St;New York
@@ -565,12 +565,12 @@ Aris' Gourmet Delicatessen;2566 Amsterdam Av;New York
 Aristocratic Deli;208 West 23rd Street;New York
 Aristotle Coffee Shop;350 Park Ave S;New York
 Ariyoshi Japanese Restaurants;226 East 53rd Street Apt 2B;New York
-Ariyoshi Japanese Restaurants;Japanese;nan
+Ariyoshi Japanese Restaurants;Japanese;
 Arizona 206 Restaurant;206 East 60th Street;New York
 Ark Restaurant;25 W 40th St;New York
 Ark Restaurant Corporation;19 Fulton Street;New York
 Ark Restaurant Corporation;85 5th Avenue Floor 14;New York
-Ark Resturants Corporation;625 Broadway;nan
+Ark Resturants Corporation;625 Broadway;
 Arlecchino Ristorante Italiano;192 Bleecker St;New York
 Arlette Restaurant;206 Dyckman Street;New York
 Armstrongs Saloon;875 10th Ave # 1;New York
@@ -584,7 +584,7 @@ Around the Clock 24 Hour Restaurant;8 Stuyvesant Street;New York
 Around the Clock Inc;484 9th Avenue;New York
 Arqua Restaurant;281 Church Street;New York
 Arriba Arriba Mexican Restaurant Inc;762 9th Ave;New York
-Arriba Arriba!;1463 Third Avenue;nan
+Arriba Arriba!;1463 Third Avenue;
 Arrow Seafood;22 Fulton Market;New York
 Arsenal Cafe;830 5th Avenue;New York
 Arshad AZAD;342 East 6th Street;New York
@@ -605,7 +605,7 @@ Arturo's Pizza;1610 York Avenue;New York
 Arturos Restaurant;106 West Houston Street;New York
 Asahi Japanese Restaurant;311 West 48th Street;New York
 Asgbc;125 Canal St;New York
-Ashton's Bar & Restaurant;805 3rd Avenue;nan
+Ashton's Bar & Restaurant;805 3rd Avenue;
 Asia Culture Inc;10 East 39;New York
 Asia Roma;40 Mulberry St;New York
 Asiana;120 East 34th St.;New York
@@ -644,7 +644,7 @@ Au Bon Pain;101 E 52nd St;New York
 Au Bon Pain;10 Union Square East;New York
 Au Bon Pain;222 Broadway;New York
 Au Bon Pain;901 Avenue Of Americas # 3;New York
-Au Bon Pain;French;nan
+Au Bon Pain;French;
 Au Bon Pain;95 Wall St;New York
 Au Bon Pain;1250 Avenue Of The Americas;New York
 Au Bon Pain Co Inc;350 5th Ave;New York
@@ -653,7 +653,7 @@ Au Bon Pain Restaurant;444 Madison Avenue;New York
 Au Bon Pain Restaurant;625 8th Avenue;New York
 Au Bon Pain Restaurant;220 E 42nd St;New York
 Au Cafe;1700 Broadway # 1;New York
-Au Mandarin Restaurant;200 Vesey Street;nan
+Au Mandarin Restaurant;200 Vesey Street;
 Au Troquet;328 W 12th St;New York
 Au-Bon Pain;60 Broad Street;New York
 Au-Bon Pain Inc;625 8th Avenue;New York
@@ -673,22 +673,22 @@ Austin's Cafe;1385 Broadway;New York
 Automatic Slims Inc;733 Washington Street;New York
 Aux Pains Perdus Inc;26 Broadway # 1;New York
 Ava Lounge;210 West 55th Street;New York
-Avenue A Japanese Restaurant;105 Avenue A;nan
+Avenue A Japanese Restaurant;105 Avenue A;
 Awash;338 East 6;New York
 Awash;947 Amsterdam Ave;New York
 Axum Cafe;324 W 49th St;New York
 Aya International LLC;576 5th Avenue Lbby;New York
 Ayurveda Cafe;706 Amsterdam Avenue Frnt;New York
 Ayyy Restaurant Corporation;600 Columbus Avenue;New York
-Ayza Bar Wine And Chocolate;11 West 31st Street;nan
-Ayza Wine And Chocolate Bar;11 West 31st;nan
+Ayza Bar Wine And Chocolate;11 West 31st Street;
+Ayza Wine And Chocolate Bar;11 West 31st;
 Azafran;77 Warren Street Frnt;New York
 Azafran;77 Warren Street;New York
 Azalea Ristorante;224 West 51st Street;New York
 Azaza Restaurant;891 1st Avenue @ 50th Street;New York
 Azukar Deli;66 Avenue C;New York
 Azuki Japanese Restaurant;239 Park Av;New York
-Azuki Japanese Restaurant;Japanese;nan
+Azuki Japanese Restaurant;Japanese;
 Azure;830 3rd Avenue;New York
 Azure;484 Amsterdam Ave;New York
 Azuri Cafe;465 W 51st St;New York
@@ -761,7 +761,7 @@ Baluchis;193 Spring Stfrnt;New York
 Baluchis;111 East 29th Street;New York
 Baluchis;104 2 Av;New York
 Baluchis;1149 1 Av;New York
-Baluchis Indian Cuisine;224 East 53rd Street;nan
+Baluchis Indian Cuisine;224 East 53rd Street;
 Baluchis Restaurant;1431 1 Av;New York
 Baluchis Restaurant;361 Avenue Of The Americ;New York
 Bamboo 52;344 West 52nd Street;New York
@@ -777,15 +777,15 @@ Bangkok Cafe;27 East 20th Street;New York
 Bangkok Cuisine;885 8th Ave;New York
 Bangkok Express;349 1st Avenue;New York
 Bangkok Grand Palace Restaurant;882 1st Avenue;New York
-Bangkok House Thai Restaurant;1485 1st Ave;nan
-Bangkok Restaurant Call Little Bangkok R;261 West 54th Street Frnt;nan
+Bangkok House Thai Restaurant;1485 1st Ave;
+Bangkok Restaurant Call Little Bangkok R;261 West 54th Street Frnt;
 Banjara Indian Restaurant;97 1st Ave;New York
 Banjara Indian Restaurant;97 1st Avenue;New York
 Bank Cafe;431 3rd Ave;New York
 Bank Street Cafe & Caterers;610 W 112th St;New York
 Bann Restaurant;350 West 50;New York
 Banoa Restaurant;202 Rivington St;New York
-Banshee Pub;Brewery/Pub/Tavern;nan
+Banshee Pub;Brewery/Pub/Tavern;
 Banshee Pub;1373 1st Avenue Frnt;New York
 Bao Noodles;391 2nd Avenue;New York
 Bar 10 Lounge & Sushi Bar;270 West 43rd Street;New York
@@ -795,7 +795,7 @@ Bar 9 Inc;807 9 Av;New York
 Bar Americain;152 West 52;New York
 Bar Cichetti;220 W Houston St;New York
 Bar East;1733 1st Avenue;New York
-Bar Italia;1477 Second Ave;nan
+Bar Italia;1477 Second Ave;
 Bar Pitti;268 Avenue Of The Americ;New York
 Bar Veloce;175 2nd Avenue;New York
 Bar Vetro;222 East 58th Street;New York
@@ -815,7 +815,7 @@ Barclay Restaurant;111 E 48th St;New York
 Bardolino Restaurant;1496 2nd Avenue;New York
 Barfly Inc;244 3rd Avenue;New York
 Bari's Pizza;2 Rector Street;New York
-Barking Dog Luncheonette;1678 3rd Ave;nan
+Barking Dog Luncheonette;1678 3rd Ave;
 Barking Dog Luncheonette The;1453 York Av;New York
 Barna;365 Park Av;New York
 Barney Greengrass Inc;541 Amsterdam Ave;New York
@@ -838,7 +838,7 @@ Bassets Coffee & Tea Company Inc;123 West Broadway;New York
 Basta Pasta;37 W 17th St;New York
 Bat-yam Food Svc;97 Saint Marks Pl;New York
 Bateaux New York;62 N River;New York
-Baton Rouge;458 West 145th Street;nan
+Baton Rouge;458 West 145th Street;
 Battery Gardens;1 Battery Park Plaza;New York
 Battery Place Car Park;50 Battery Place;New York
 Bay Deli Inc;96 Bayard;New York
@@ -859,10 +859,10 @@ Beard Papa;2167 Broadway;New York
 Beatrice Inn Inc;285 West 12th Street Frnt;New York
 Beauty Bar;231 East 14th Street Frnt;New York
 Bebe Rosso;110 Saint Marks Pl;New York
-Becco Restaurant Inc;355 West 46th Street;nan
+Becco Restaurant Inc;355 West 46th Street;
 Becketts Bar & Grill;78 Pearl St;New York
 Becky's;1156 1st Avenue;New York
-Becky's;American;nan
+Becky's;American;
 Beco Restaurant Inc;416 8th Ave;New York
 Beef Steak Charlies;64 West 52nd Street;New York
 Beefsteak Charleys;713 8th Ave;New York
@@ -900,7 +900,7 @@ Ben & Jerry's Homemade Ice Cream;41 3rd Avenue;New York
 Ben & Jerrys;222 East 86th Street;New York
 Ben & Santos Dying Inc;555 8th Avenue;New York
 Ben Benson's Steak House;123 W 52nd St;New York
-Ben's Kosher Delicatessen Restaurants &;Kosher;nan
+Ben's Kosher Delicatessen Restaurants &;Kosher;
 Ben's Kosher Delicatessen Restaurants &;209 West 38th Street Lbby;New York
 Ben's Pizza;177 Spring Street;New York
 Ben's Pizzeria;123 Macdougal Street;New York
@@ -938,7 +938,7 @@ Best Subway Inc;1440 Broadway;New York
 Best Taste Restaurant;3609 Broadway;New York
 Best West Market;325 Madison Avenue;New York
 Best Wingers Inc;711 2 Avenue;New York
-Best of Lex Deli;1291 Lexington Avenue;nan
+Best of Lex Deli;1291 Lexington Avenue;
 Best of New York Food;150 Water Street;New York
 Betancourt Milceo;2351 2nd Avenue;New York
 Bethel Gourmet Food;79 Greenwich Avenue;New York
@@ -1017,7 +1017,7 @@ Black Sheep;583 3 Avenue;New York
 Black-eyed Suzies Organic;128 E 7th St;New York
 Blaggards Pub;45 West 39th Street Frnt;New York
 Blaggards Pub;45 West 39th Street(Between 5th & 6t;New York
-Blaggards Pub;Irish;nan
+Blaggards Pub;Irish;
 Blaggards Pub;210 West 35th Street;New York
 Blaggards Pub & Restaurant;8 West 38th Street;New York
 Blake & Todd Restaurant & Caterers;7 West 47th Street;New York
@@ -1107,7 +1107,7 @@ Blossom Vegan Restaurant & Cafe;187 9 Av;New York
 Blue & Gold Deli;1075 1st Avenue;New York
 Blue & Gold Tavern;79 East 7th Street Apt 2;New York
 Blue 9 Burger;92 3rd Avenue;New York
-Blue Bar at the Algonquin Hotel;59 West 44th Street;nan
+Blue Bar at the Algonquin Hotel;59 West 44th Street;
 Blue Chili;251 West 51st Street;New York
 Blue Elephant;1409 Second Ave;New York
 Blue Fin at W New York Times Square Hote;1567 Broadway;New York
@@ -1154,7 +1154,7 @@ Bonafides Restaurant;60 2nd Avenue Apt 6;New York
 Bonao Con Sabor Ii;84 Nagle Ave;New York
 Bond 45 Italian Kitchen Steak & Seafood;154 West 45;New York
 Bond Street;6 Bond Street;New York
-Bongo;299 10 Av;nan
+Bongo;299 10 Av;
 Bonnie & Norma;485 Fashion Avenue;New York
 Bonnie-Five BWAY Corporation;517 Lexington Avenue;New York
 Bono's Delicatessens;35 East 28th Street;New York
@@ -1182,7 +1182,7 @@ Boxers;190 West 4th Street;New York
 Boxers;190 W 4th St;New York
 Bradleys;70 University Pl;New York
 Brady Bunch Tavern Inc;67 Murray Street Frnt;New York
-Bradys Tavern;67 Murray Street;nan
+Bradys Tavern;67 Murray Street;
 Brandy's Piano Bar;235 East 84th Street;New York
 Branzini Restaurant;299 Madison Avenue;New York
 Braque;775 Washington;New York
@@ -1250,7 +1250,7 @@ Broadway Pizzeria & Coffee Shop;4312 Broadway;New York
 Broadway Restaurant;2664 Broadway;New York
 Broadway Restaurant Associates;1515 Broadway;New York
 Broadway Restaurant Supply;21 East 17th Street;New York
-Broncas Restaurant And Tapas Bar;91 Christopher Street;nan
+Broncas Restaurant And Tapas Bar;91 Christopher Street;
 Brookfish Market Co;709 2nd Ave;New York
 Brooklyn Diner USA;212 West 57th Street;New York
 Broome Street Bar;363 W Broadway;New York
@@ -1262,7 +1262,7 @@ Brother Jimmy's Bait Shack;1644 3 Av;New York
 Brother Jimmy's Nyc Restaurant Holdings;1745 1st Avenue;New York
 Brother Jimmy's To Go;109 E 42nd St;New York
 Brother Jimmy's West;428 Amsterdam Avenue Frnt;New York
-Brother Jimmys Bar B Que;1485 Second Ave;nan
+Brother Jimmys Bar B Que;1485 Second Ave;
 Brothers Deli Grocery Inc;127 4th Avenue;New York
 Brothers Hallal Food The;691 10 Av;New York
 Brothers Pizza;1302 Amsterdam Avenue;New York
@@ -1363,7 +1363,7 @@ Butai Restaurant;115 East 18;New York
 Butcher Block Coffee Shop;258 West 31st Street;New York
 Butler Restaurant;145 Fulton St;New York
 Butter Restaurant;415 Lafayette Street;New York
-Buttercup Bake Shop;973 2 Av;nan
+Buttercup Bake Shop;973 2 Av;
 Butterfield 8;170 E 81st St;New York
 Butterfield 8;5 Eeast 38th Street;New York
 Butterfly Grill Inc;189 Bleecker;New York
@@ -1444,7 +1444,7 @@ Cafe Cosenza;126 W 32nd St;New York
 Cafe Creative;100 Park Avenue Lbby;New York
 Cafe Creole Inc;99 Macdougal St;New York
 Cafe Crocodile;354 E 74th St;New York
-Cafe Daniello's Pizzeria Restaurant;Italian;nan
+Cafe Daniello's Pizzeria Restaurant;Italian;
 Cafe Daniello's Pizzeria Restaurant;1072 2 Av;New York
 Cafe Del Mar;89 Macdougal;New York
 Cafe Delbar;945 Columbus Avenue;New York
@@ -1519,7 +1519,7 @@ Cafe On Broadway;2350 Broadway;New York
 Cafe Opaline;580 Madison Av;New York
 Cafe Orlin;41 St Marks Pl;New York
 Cafe Pappagallo;891 8th Ave;New York
-Cafe Rakka;(212) 982-9166;nan
+Cafe Rakka;(212) 982-9166;
 Cafe Rakka;81 Saint Marks Place;New York
 Cafe Restaurant Du Cervin;13 S William St;New York
 Cafe Restaurant El International Inc;616 Amsterdam Avenue;New York
@@ -1558,7 +1558,7 @@ Cafe de Milan;54 East 59th Street;New York
 Cafe de Paris;924 Second Avenue;New York
 Cafe'o;622 3rd Avenue;New York
 Cafecito;185 Avenue Centre;New York
-Cafeteria;119 7th Avenue;nan
+Cafeteria;119 7th Avenue;
 Cafeteria Corporate Office;54 West 21st Street;New York
 Caffe Bacio;1223 3rd Avenue;New York
 Caffe Bianco Inc;1486 2nd Avenue;New York
@@ -1628,7 +1628,7 @@ Cancun Restaurant;937 Eighth Avenue;New York
 Candela Candela;92 Second Ave;New York
 Candela Restaurant;116 E 16th St;New York
 Candido;1606 1st Ave;New York
-Candle Cafe;1307 3rd Ave # 1;nan
+Candle Cafe;1307 3rd Ave # 1;
 Candlewood Oaks Corporation;708 3rd Avenue;New York
 Canteen;142 Mercer St;New York
 Cantinetta;260 Sixth Ave;New York
@@ -1675,7 +1675,7 @@ Carlow East;1254 Lexington Avenue Frnt;New York
 Carlton New York;22 East 29th Street;New York
 Carmine's;200 West 44th Street;New York
 Carmine's Italian Seafood Restaurant;140 Beekman Street Frnt;New York
-Carmine's Restrnt;2450 Broadway;nan
+Carmine's Restrnt;2450 Broadway;
 Carmine's Takeout;2450 Broadway;New York
 Carne;2737 Broadway;New York
 Carnegie Delicatessen & Restaurant;854 7th Avenue Frnt;New York
@@ -1693,7 +1693,7 @@ Caruso's;162 West 34th Street;New York
 Caruso's Pizza;42 Broadway;New York
 Caruso's Pizza;204 Broadway Frnt;New York
 Carusso Pizza I;1 Penn Plz;New York
-Casa Bella Restaurant;127 Mulberry Street;nan
+Casa Bella Restaurant;127 Mulberry Street;
 Casa Di Meglio;235 W 48th St;New York
 Casa Di Pre Restrnt;283 West 12;New York
 Casa La Femme;150 Wooster St # 1;New York
@@ -1708,12 +1708,12 @@ Casablanca Cafe;235 East 53rd Street;New York
 CasablancaTea Room;164 Mercer;New York
 Casanis;81 Ludlow;New York
 Casanova Pizzeria Restaurant;664 9th Avenue;New York
-Casaville;(212) 685-8558;nan
+Casaville;(212) 685-8558;
 Casaville;633 2nd Avenue;New York
 Casbah Rouge;2841 Broadway;New York
 Cascina;647 9th Ave;New York
 Cascina Downtown;281 Bleecker St;New York
-Casimir Restaurant;103 Avenue B;nan
+Casimir Restaurant;103 Avenue B;
 Casserola Cafe Restaurant Inc;944 Columbus Avenue;New York
 Cassina USA Inc;155 East 56th Street Ph;New York
 Cassis On Stone;52 Stone Street;New York
@@ -1738,7 +1738,7 @@ Cedar Tavern;82 University Place;New York
 Cedar Tavern;82 University Pl;New York
 Cedars Of Lebanon;8 W 38th St;New York
 Celebrity Delicatessen;700 8th Avenue;New York
-Celeste Restaurant;502 Amsterdam Av;nan
+Celeste Restaurant;502 Amsterdam Av;
 Cellini;65 E 54th St;New York
 Cendrillon;45 Mercer Street Frnt;New York
 Cent'Anni Restaurant;50 Carmine St;New York
@@ -1861,9 +1861,9 @@ Cheung Shing Restaurant;452 Amsterdam Avenue;New York
 Chevy's Fresh Mex;102 North End Avenue;New York
 Chevys Fresh Mex Restaurant;259 West 42nd Street;New York
 Chevys Lunchnette;798 9th Ave;New York
-Cheyenne Diner;411 9th Avenue;nan
-Chez Bernard;323 W Broadway;nan
-Chez Bernard;323 West Broadway;nan
+Cheyenne Diner;411 9th Avenue;
+Chez Bernard;323 W Broadway;
+Chez Bernard;323 West Broadway;
 Chez Brigitte Restaurant;77 Greenwich Avenue;New York
 Chez Gourmet;281 5th Avenue;New York
 Chez Jacqueline;72 Macdougal St;New York
@@ -1893,7 +1893,7 @@ Chickie Pig's Brick Oven;121 Ludlow Street;New York
 Chicky's On 86 Street;355 East 86th Street;New York
 Chicos Pizza & Mexican Food;343 Saint Nicholas Avenue;New York
 Chihuahua Mexican Place;1452 2nd Avenue;New York
-ChikaLicious Dessert Bar;203 E 10th St;nan
+ChikaLicious Dessert Bar;203 E 10th St;
 Chikibu 2;188 2nd Ave;New York
 Chikubu Japanese Restaurant;12 East 44th Street Frnt;New York
 Childs Restaurant;27 W 34th St;New York
@@ -2013,8 +2013,8 @@ Cibar;56 Irving Place;New York
 Cibo;767 Second Avenue;New York
 Ciccio & Tonis Ii;561 3rd Ave # 1;New York
 Cielito Lindo Restaurant;1354 Amsterdam Av;New York
-Cigar Room at Trumpets;Park Avenue At Grnd;nan
-Cigar Room at Trumpets;(212) 850-5999;nan
+Cigar Room at Trumpets;Park Avenue At Grnd;
+Cigar Room at Trumpets;(212) 850-5999;
 Cilantro;1321 1st Avenue;New York
 Cilantro;1712 2nd Avenue Frnt;New York
 Cima;378 Greenwich;New York
@@ -2114,10 +2114,10 @@ Comix Comedy Night Club;353 West 14th Street;New York
 Common Market Cafe;709 Lexington Ave;New York
 Commonwealth Grill & Brewery;35 W 48th St # 1;New York
 Community Bar & Grill;216 7th Ave;New York
-Commuters Cafe & Lounge;nan;New York
-Commuters Cafe & Lounge;Commuters Cafe & Lounge;nan
-Commuters Cafe Inc;Path Terminal World Trade Ct;nan
-Commuters Cafe Inc;(212) 432-1633;nan
+Commuters Cafe & Lounge;;New York
+Commuters Cafe & Lounge;Commuters Cafe & Lounge;
+Commuters Cafe Inc;Path Terminal World Trade Ct;
+Commuters Cafe Inc;(212) 432-1633;
 Conca Doro Pizza Restaurant;63 W Broadway;New York
 Concord Garden Restaurant;990 Amsterdam Ave # 2;New York
 Concorde Cafe;349 Lexington Ave;New York
@@ -2154,7 +2154,7 @@ Cosi Sandwich Bar Inc;11 W 42nd St;New York
 Cosi Sandwich Bar Inc;38 E 45th St;New York
 Cosi Sandwich Bar Inc;60 E 56th St # 1;New York
 Cosi Sandwich Bar Incorporated;200 Vesey;New York
-Cosmic Cantina;105 3rd Ave;nan
+Cosmic Cantina;105 3rd Ave;
 Cosmic Coffee Shop;130 W 30th St;New York
 Cosmic Restaurant;1775 Broadway;New York
 Cosmo Deli;95 West Broadway;New York
@@ -2166,11 +2166,11 @@ Cotan Restaurant;121 W 3rd St;New York
 Cote Sud Restaurant;181 E 78th St;New York
 Cottage;33 Irving Pl;New York
 Cottage East;713 2nd Ave;New York
-Cottage Noodle Shop;596 9th Ave;nan
+Cottage Noodle Shop;596 9th Ave;
 Cottage Restaurant;360 Amsterdam Ave # 1;New York
 Country Cafe;60 Wall St;New York
 Country Cafe;80 Maiden Ln;New York
-Country Cafe;69 Thompson St;nan
+Country Cafe;69 Thompson St;
 Country Cafe;44 Gold St;New York
 Country Home Cafe;43 W 22nd St;New York
 Courtney Restaurant;55 W 14th St;New York
@@ -2194,7 +2194,7 @@ Crown Fried Chicken;2041 1st Ave;New York
 Crown Fried Chicken;2160 5th Ave;New York
 Crown Fried Chicken;3486 Broadway;New York
 Crown Fried Chicken;504 W 207th St;New York
-Crystal Fountain;nan;New York
+Crystal Fountain;;New York
 Crystal Kitchen;145 1st Ave;New York
 Cub Room;183 Prince St;New York
 Cub Room Reservations & Information;131 Sullivan St;New York
@@ -2222,7 +2222,7 @@ D J & E Restaurant;267 W 4th St;New York
 D J Restaurant;503 W 161st St;New York
 D J Reynolds;351 W 57th St;New York
 DB Bistro Moderne;55 West 44th Street;New York
-DB Bistro Moderne;American;nan
+DB Bistro Moderne;American;
 DPA Wondee Siam;792 9th Ave;New York
 DT UT;1626 Second Avenue;New York
 Da Andrea;557 Hudson Street;New York
@@ -2299,7 +2299,7 @@ De Eveloyn;380 Columbus Ave;New York
 De Grezia Restaurante;231 E 50th St;New York
 Dean & Deluca Espresso Inc;9 Rockefeller Plz;New York
 Deanna's;107 Rivington St;New York
-Decade;1117 First Avenue @ 61st Street;nan
+Decade;1117 First Avenue @ 61st Street;
 Delano Drive;15 Waterside Plz;New York
 Delectica;564 3rd Ave;New York
 Delegates Dining Room;46 1st Ave;New York
@@ -2325,9 +2325,9 @@ Denizen;73 Thompson Street;New York
 Denizen Bar Restaurant;73 Thompson St;New York
 Dennis Restaurant;137 Franklin St;New York
 Derosa Restaurant & Bar;531 2nd Ave;New York
-Dervish Turkish Restaurant;Between 6 & 7 Ave;nan
-Dervish Turkish Restaurant;(212) 997-0070;nan
-Dervish Turkish Restaurant;146 West 47 Street;nan
+Dervish Turkish Restaurant;Between 6 & 7 Ave;
+Dervish Turkish Restaurant;(212) 997-0070;
+Dervish Turkish Restaurant;146 West 47 Street;
 Desperados;996 Amsterdam Ave;New York
 Desse Sushi;113 E 18th St;New York
 Detour;349 E 13th St;New York
@@ -2338,7 +2338,7 @@ Dgp Daily Treat Inc;24 W 38th St;New York
 Di Tommaso;903 8th Ave;New York
 Diadlo Mexican Restaurant;173 E 2nd St;New York
 Dial-a-dinner;350 5th Ave # 7903;New York
-Diamante Italian Restaurant;8 East 48 Street;nan
+Diamante Italian Restaurant;8 East 48 Street;
 Diamond Dairy Kosher Lunchnet;4 W 47th St # 2aa;New York
 Diamond Express Restaurant;101 Dyckman St;New York
 Dianes Uptown;249 Columbus Ave;New York
@@ -2380,7 +2380,7 @@ Domenico;120 E. 40th Street;New York
 Domingo Restaurant;209 E 49th St;New York
 Dominic Cafe;174 Audubon Ave;New York
 Dominos Pizza;4797 Broadway;New York
-Dominos Pizza;Pizzeria;nan
+Dominos Pizza;Pizzeria;
 Dominos Pizza;736 W 181st St;New York
 Don Giovianni;358 W 44th St;New York
 Don Giovianni Restaurant;214 10th Ave;New York
@@ -2395,7 +2395,7 @@ Dougies Bbq & Grill;222 W 72nd St;New York
 Downtown Cottage;51 Warren St;New York
 Downtown Restaurant;376 W Broadway;New York
 Dragon Gold;591 1st Ave;New York
-Dresner's Restaurant;1479 York Avenue;nan
+Dresner's Restaurant;1479 York Avenue;
 Drip;489 Amsterdam Ave;New York
 Drom;85 Avenue A;New York
 Drovers Restaurant;9 Jones St;New York
@@ -2405,7 +2405,7 @@ Duane Park Cafe;157 Duane St;New York
 Due Restaurant;1396 3rd Ave;New York
 Dukes;99 E 19th St;New York
 Dumont At The Carlyle;Madison Avenue At 76th Street;New York
-Dumont At The Carlyle;(212) 744-1600;nan
+Dumont At The Carlyle;(212) 744-1600;
 Dumpling King;1694 2nd Ave;New York
 Dumpling King Ii;986 2nd Ave;New York
 Dumpling Town;157 Allen St;New York
@@ -2453,7 +2453,7 @@ Eat Here Now;839 Lexington Ave;New York
 Eatzis Market & Bakery;151 W 34th St;New York
 Ecco Litalia Ristorante;289 Bleecker St;New York
 Ecco Restaurant;124 Chambers;New York
-Edgars Cafe;255 W 84th St;nan
+Edgars Cafe;255 W 84th St;
 Edge;95 E 3rd St;New York
 Edo Japanese Restaurant;9 E 17th St;New York
 Eds Cafe and Steakhouse;1708 2nd Avenue;New York
@@ -2524,7 +2524,7 @@ Ellen Odees Lex 40;130 E 40th St;New York
 Ellens Cafe;270 Broadway # 1;New York
 Ellens Stardust Diner;1650 Broadway # 1;New York
 Ellens Stardust Diner;44 W 63rd St;New York
-Elvies Turo Turo;214 1st Ave;nan
+Elvies Turo Turo;214 1st Ave;
 Emerald Planet;2 Great Jones St;New York
 Emerald Pub;308 Spring St;New York
 Emilys Restaurant;1325 5th Ave;New York
@@ -2608,7 +2608,7 @@ Family Deli;2655 8th Ave # 1;New York
 Family Garden Restaurant;329 3rd Ave;New York
 Family Noodle Restaurant Inc;19 Henry St;New York
 Famous Chicken Place;592 3rd Ave;New York
-Famous Fish Market;684 Saint Nicholas Avenue;nan
+Famous Fish Market;684 Saint Nicholas Avenue;
 Famous Original Rays Pizza;462 Columbus Ave;New York
 Fantasia Restaurant;119 Fulton St;New York
 Fantastic Restaurant;2351 2nd Ave;New York
@@ -2690,7 +2690,7 @@ Flying Fish;395 West St;New York
 Focacceria;87 Macdougal St;New York
 Focaccia Fiorentina Restaurant;1166 1st Ave;New York
 Foleys Fish House;714 7th Ave;New York
-Follonico;6 W 24th St;nan
+Follonico;6 W 24th St;
 Fontana Di Trevi;151 W 57th St;New York
 Foo King Chinese Kitchen;694 10th Ave;New York
 Food Exchange;120 E 59th St;New York
@@ -2699,7 +2699,7 @@ Food King Chinese Restaurant;2331 1st Ave;New York
 Fook Sing Chinese Restaurant;314 E 106th St;New York
 Forlinis Restaurant;93 Baxter St;New York
 Foro-italico Restaurant;455 W 34th St;New York
-Fort Tryon Park Cafe;(914) 923-2233;nan
+Fort Tryon Park Cafe;(914) 923-2233;
 Fort Tryon Park Cafe;Fort Tryon Park;New York
 Fortuna Valentino;422 W Broadway;New York
 Fortune Garden;845 2nd Ave;New York
@@ -2711,7 +2711,7 @@ Francisco's;159 W 23rd St;New York
 Francos San Remo Itlian;393 8th Ave # 1;New York
 Franda Restaurant;538 W 207th St;New York
 Frankie & Johnnie's Steak House;269 W 45th St;New York
-Franklin Station Cafe;222 West Broadway;nan
+Franklin Station Cafe;222 West Broadway;
 Franks Restaurant;85 10th Ave;New York
 Franks Restaurant;1546 2nd Ave;New York
 Franks Trattoria;371 1st Ave;New York
@@ -2843,7 +2843,7 @@ Giovannis Atrium;100 Washington St # 1;New York
 Girasole Restaurant;151 E 82nd St;New York
 Girl From Ipanema;252 W 14th St;New York
 Giuliano Gourmet Pizza & Deli;88 Broad St;New York
-Giuliano Gourmet Pizza & Deli;Pizzeria;nan
+Giuliano Gourmet Pizza & Deli;Pizzeria;
 Glatt China Express Inc;1468 2nd Ave;New York
 Glatt Dynasty;1049 2nd Ave;New York
 Gli Food Svc;625 8th Ave;New York
@@ -2868,7 +2868,7 @@ Golden Garden;92 3rd Ave;New York
 Golden Garden;942 Columbus Ave;New York
 Golden Group Kitchen;379 1st Ave;New York
 Golden House Restaurant Inc;277 Bleecker St;New York
-Golden Krust Caribbean Bakery;111 E 23rd St;nan
+Golden Krust Caribbean Bakery;111 E 23rd St;
 Golden Malaysian Rest;95 Chrystie St;New York
 Golden Sands Group Ii Inc;355 E 86th St # 1659;New York
 Golden Star Restaurant;51 E Broadway;New York
@@ -2890,7 +2890,7 @@ Good Taste Ii Chinese Rstrnt;1974 2nd Ave # A;New York
 Goodfellas Kitchen;91 Christopher St;New York
 Googies;237 Sullivan St;New York
 Googies Luncheonette;1491 2nd Ave # 1;New York
-Gotham Bar & Grill;12 E 12th St;nan
+Gotham Bar & Grill;12 E 12th St;
 Gourmet Taste;1367 1st Ave;New York
 Gourmet Wok;597 10th Ave;New York
 Govas Bar & Restaurant;94 Greenwich St;New York
@@ -2898,7 +2898,7 @@ Grace Chinese Restaurant;8 E 37th St;New York
 Grace Deli;391 2nd Ave;New York
 Grace Restaurant;114 Franklin St;New York
 Graces Trattoria Cafe & Grill;201 E 71st St;New York
-Gracie Mews Restaurant Corp;1550 1st Ave;nan
+Gracie Mews Restaurant Corp;1550 1st Ave;
 Gracies Corner Restaurant;352 E 86th St;New York
 Grads Foods Inc;500 8th Ave;New York
 Grafi Restrnt;47 E 29th St;New York
@@ -2918,7 +2918,7 @@ Grays Papaya;2090 Broadway # 1;New York
 Graziella Ristorante;41 Greenwich Ave;New York
 Great American Health Bar;35 W 57th St;New York
 Great Eastern Restaurant;2085 Lexington Ave;New York
-Great Health Bar Kosher Pizza;Pizzeria;nan
+Great Health Bar Kosher Pizza;Pizzeria;
 Great Health Bar Kosher Pizza;106 Fulton St;New York
 Great India Restaurant;1586 2nd Ave # 5086;New York
 Great Jones St Cafe;54 Great Jones St;New York
@@ -2937,7 +2937,7 @@ Greeks Coffee Shop;347 Madison Ave;New York
 Green Garden Chinese Restaurant;174 Lexington Ave;New York
 Green Grocer;30 Rockefeller Plz # Conc13;New York
 Green House;37 E 29th St;New York
-Green House 36;341 W. 36th Street;nan
+Green House 36;341 W. 36th Street;
 Green Jade Chinese Restaurant;19 Saint Nicholas Ave;New York
 Green Kitchen Restaurant;1477 1st Ave;New York
 Green Park Restaurant;22 E 29thst Lbbby;New York
@@ -2982,7 +2982,7 @@ Hamburger Harrys;156 7th Ave;New York
 Hamid Tariq;540 9th Ave;New York
 Han-sung Garden Restaurant;42 W 35th St;New York
 Hana Restauarant;675 9th Ave;New York
-Hanami Restaurant;213 E 45th St;nan
+Hanami Restaurant;213 E 45th St;
 Hanbat Restaurant;53 W 35th St;New York
 Hang Cheng Restaurant;1703 Lexington Ave;New York
 Hang Lee Chinese Restaurant;666 W 204th St # 1;New York
@@ -3000,7 +3000,7 @@ Happy Garden;301 Pleasant Ave;New York
 Happy Garden Chinese Restrnt;1514 Madison Ave;New York
 Happy Joy Kitchen;760 10th Ave;New York
 Happy Joy Restaurant;25 Canal St;New York
-Happy Taco;1167 2nd Ave;nan
+Happy Taco;1167 2nd Ave;
 Happy Wok Restaurant;158 Delancey St;New York
 Happy World Restaurant;1309 Saint Nicholas Ave;New York
 Harbour Lights;89 South St # 17;New York
@@ -3082,7 +3082,7 @@ Home Front Inc;236 W 54th St;New York
 Home Restaurant;20 Cornelia St;New York
 Homer Restaurant;121 W 10th St;New York
 Homes Kitchen;22 E 21st St # 1;New York
-Hometowen Buffet;Buffet;nan
+Hometowen Buffet;Buffet;
 Hometowen Buffet;2500 W Parmer Ln;New York
 Honey Bee Cafe;71 W 55th St # 1;New York
 Hong Am Restaurant;3668 Broadway;New York
@@ -3104,12 +3104,12 @@ Hop Won Restaurant;139 E 45th St;New York
 Hop Won Restaurant;677 Lexington Ave;New York
 Hoppin Jalapenos Bar & Grill;597 W 207th St;New York
 Horus Cafe;293 East 10th Street;New York
-Horus Cafe;Mediterranean;nan
+Horus Cafe;Mediterranean;
 Horus Kebab House;93 Avenue B (6th Street);New York
 Horus Lounge II;510 La Guardia Place;New York
 Hos Kitchen;793 6th Ave;New York
 Hos Wok Restaurant;455 Hudson St;New York
-Hosteria Florella Italian Seafd;Italian;nan
+Hosteria Florella Italian Seafd;Italian;
 Hosteria Florella Italian Seafd;1081 3rd Ave;New York
 Hot & Crusty Bagel Cafe;1707 Broadway;New York
 Hot & Tasty Corp;509 3rd Ave # 34;New York
@@ -3190,7 +3190,7 @@ Il Duomo Restaurant;200 W End Ave;New York
 Il Faro Italian Seafood Rstrnt;45 W 39th St # 1;New York
 Il Gatto & La Volpe;1154 1st Ave;New York
 Il Giglio;81 Warren St;New York
-Il Matone;413 Greenwich St;nan
+Il Matone;413 Greenwich St;
 Il Menestrello;14 E 52nd St;New York
 Il Monello Restaurant;1460 2nd Ave;New York
 Il Mulino;86 W 3rd St;New York
@@ -3249,7 +3249,7 @@ Irish Eyes;5008 Broadway;New York
 Irish Punt The;40 Exchange Pl;New York
 Iroha Japanese Restaurant;152 W 49th St;New York
 Isabellas Restaurant;359 Columbus Ave;New York
-Isadoras Cafe;16 E 52ndst Frrnt;nan
+Isadoras Cafe;16 E 52ndst Frrnt;
 Ise Japanese Restaurant;58 W 56th St # 1;New York
 Ise Restaurant Inc;151 E 49th St;New York
 Isk Manhattan Inc;1271 Avenue Of The Americas;New York
@@ -3281,7 +3281,7 @@ J L Segull Chinese Restaurant;133 Ludlow St;New York
 J P Loflands New York Grill;15 John St;New York
 J R Cafe;250 E 58th St;New York
 J R Restaurant;264 W 46th St;New York
-J Ts American Italian Grill;American;nan
+J Ts American Italian Grill;American;
 J Ts American Italian Grill;301 Madison Ave # 1;New York
 J Ws Steakhouse;1535 Broadway;New York
 Jab Foods Inc;250 W 34th St # C;New York
@@ -3289,10 +3289,10 @@ Jabrell Il Food Market;764 Columbus Ave;New York
 Jack;80 University Pl.;New York
 Jack Dempsey Restaurant;61 2nd Ave;New York
 Jack The Ripper;228 W 4th St;New York
-Jack's Restaurant And Bar;147 W40th Street;nan
-Jacks Restaurant & Bar;Family/Casual;nan
+Jack's Restaurant And Bar;147 W40th Street;
+Jacks Restaurant & Bar;Family/Casual;
 Jacks Restaurant & Bar;147 West 40th Street;New York
-Jackson Hole Burgers;232 E 64th St;nan
+Jackson Hole Burgers;232 E 64th St;
 Jackson Hole Burgers;521 3rd Ave;New York
 Jackson Hole Burgers;517 Columbus Ave;New York
 Jackson Hole Burgers;1611 2nd Ave # 1;New York
@@ -3305,7 +3305,7 @@ Jade Mountain Restaurant;197 2nd Ave;New York
 Jai Ya Thai Restaurant;396 3rd Ave;New York
 Jamaican Hot Pot Restrnt;2260 7th Ave;New York
 Jamesons Bar Restrnt;975 2nd Ave;New York
-Jams Restaurant & Deli;Jamaican;nan
+Jams Restaurant & Deli;Jamaican;
 Jams Restaurant & Deli;518 9th Avenue Frnt;New York
 Jane's;736 Broadway;New York
 Japanese Restaurant;56 3rd Ave;New York
@@ -3348,7 +3348,7 @@ Joannas Restaurant;30 E 92nd St;New York
 Joe Allen Restaurant;326 W 46th St;New York
 Joe Eureka;168 5th Ave # 1;New York
 Joe Jr. Restaurant;482 Avenue Of The Americas;New York
-Joe Jr. Restaurant;American;nan
+Joe Jr. Restaurant;American;
 Joe Ls Restaurant;200 Bennett Ave # 3h;New York
 Joe O's;136 West 33rd Street;New York
 Joes Again;230 W 4th St;New York
@@ -3380,7 +3380,7 @@ Josephs Restaurant;3 Hanover Sq;New York
 Joshua Tree;366 W. 46th Street;New York
 Joshua Tree Inc;513 3rd Ave;New York
 Jou Jou Inc;603 W 168th St;New York
-Joy Curry & Tandoor;Indian;nan
+Joy Curry & Tandoor;Indian;
 Joy Curry & Tandoor;148 East 46th Street;New York
 Joy Garden;103 Avenue A;New York
 Joy Sung Restaurant Inc;40 Rivington St;New York
@@ -3403,7 +3403,7 @@ KFC;3205 Broadway;New York
 KFC;800 Lexington Avenue;New York
 Kabuki Restaurant;1315 1st Ave;New York
 Kabul Cafe;265 W 54th St;New York
-Kabul Cafe;Afghan;nan
+Kabul Cafe;Afghan;
 Kai Yue Coffee Shop Corp;26 Eldridge St;New York
 Kaiking Restaurant;117 E 60th St;New York
 Kalesmeno Corp;893 9th Ave;New York
@@ -3433,12 +3433,12 @@ Kashmir Restaurant;601 8th Ave;New York
 Kastro Bar Lounge;237 E 5th St;New York
 Katch & Restaurant Bar;339 E 75th St;New York
 Kate Kearneys Inc;251 E 50th St # 53;New York
-Kate's Joint;Vegetarian;nan
+Kate's Joint;Vegetarian;
 Kate's Joint;58 Avenue B;New York
 Katra;217 Bowery;New York
 Katsuhama;11 E 47th St;New York
 Katy Gallaghers Inc;1267 1st Ave;New York
-Katzs Delicatessen Inc;Deli/Sandwich/Subs;nan
+Katzs Delicatessen Inc;Deli/Sandwich/Subs;
 Katzs Delicatessen Inc;205 E Houston St;New York
 Kava Lounge;605 Hudson St;New York
 Kawa Inc;18 Maiden Ln;New York
@@ -3454,7 +3454,7 @@ Kennedy Chicken;220 Varick St;New York
 Kennedy Fried Chicken;158 Nagle Ave;New York
 Kennedy Fried Chicken;300 W 145th St;New York
 Kennedy Fried Chicken;1270 Saint Nicholas Avenue;New York
-Kennedy Fried Chicken;American;nan
+Kennedy Fried Chicken;American;
 Kennedy Fried Chicken;1774 Lexington Ave;New York
 Kennedy Fried Chicken Inc;912 Columbus Ave;New York
 Kennedys;327 W 57th St;New York
@@ -3506,8 +3506,8 @@ Kings Delight;45 E 34th St;New York
 Kings Wok Chinese Restaurant;1744 1st Ave;New York
 Kinsale Restaurant;1672 3rd Ave;New York
 Kiosk;1007 Lexington Ave;New York
-Kiran Continental Indian Cuisine;94 Chambers Street;nan
-Kiran Indian Cuisine;401 W 53rd Street;nan
+Kiran Continental Indian Cuisine;94 Chambers Street;
+Kiran Indian Cuisine;401 W 53rd Street;
 Kiran Indian Cuisine;53 9th Ave;New York
 Kishi Japanese Restaurant;137 E 45th St;New York
 Kismat Indian Restaurant;603 Fort Washington Ave;New York
@@ -3533,7 +3533,7 @@ Korea Palace;127 E 54th St;New York
 Korean Town Club Enterprises;400 2nd Ave;New York
 Kosher Delight;1365 Broadway;New York
 Kosher Delight Inc;1156 Ave Of Americas Ground;New York
-Kosher Tea Room;Kosher;nan
+Kosher Tea Room;Kosher;
 Kosher Tea Room;193 2nd Ave;New York
 Kostas & Angelo Coffee Shop;44 E 32nd St;New York
 Koyote Kates;307 W 47th St;New York
@@ -3551,7 +3551,7 @@ Kwong Yiu Chu No 1 Chin Restaurant;265 1st Ave;New York
 L A Cafe;200 5th Ave;New York
 L C Harden Restaurant;43 Canal St;New York
 L Cena Corp;12 E 22nd St;New York
-L Express;French Bistro;nan
+L Express;French Bistro;
 L Express;249 Park Avenue;New York
 L'Espresso;590 Madison Ave;New York
 LA Cocina On Third Avenue Inc;158 East 30th Street;New York
@@ -3699,7 +3699,7 @@ Le Grenier Restaurant Inc;2264 8th Ave # 122;New York
 Le Jardin Bistro;25 Cleveland Pl;New York
 Le Madri;168 W 18th St;New York
 Le Marais;150 W 46thst Grround;New York
-Le Marais II;Kosher;nan
+Le Marais II;Kosher;
 Le Marais II;15 John Street;New York
 Le Max Restaurant Inc;147 W 43rd St;New York
 Le Mirage Gourmet Inc;20 W 43rd St;New York
@@ -3752,7 +3752,7 @@ Les Sans Culottes Restaurant Inc;1085 2nd Ave;New York
 Les Sans Culottes West;347 W 46th St;New York
 Lespinasse;2 E 55th St;New York
 Lespresso Svc Inc;767 5th Ave;New York
-Levana Restaurant;Continental;nan
+Levana Restaurant;Continental;
 Levana Restaurant;141 W 69th St;New York
 Lexington Avenue Grill;569 Lexington Ave;New York
 Lexington Bar And Books;1020 Lexington Ave;New York
@@ -3772,7 +3772,7 @@ Lilys Restaurant And Bar;501 Lexington Ave;New York
 Limerick House;69 W 23rd St;New York
 Limoncello Restaurant;777 7th Ave;New York
 Lin & Lin;918 8th Ave;New York
-Lincoln Fried Chicken;American;nan
+Lincoln Fried Chicken;American;
 Lincoln Fried Chicken;576 W 125th St;New York
 Lincoln Fried Chicken;3666 Broadway;New York
 Lindys;74 W 50th St;New York
@@ -3810,7 +3810,7 @@ Long Man Shanghai Rest;1 E Broadway;New York
 Long Shine Restaurant;47 E Broadway # 1;New York
 Longwood Gourmet Inc;500 Lexington Ave;New York
 Lookout;890 2nd Ave;New York
-Lorange Bleue;430 Broome St;nan
+Lorange Bleue;430 Broome St;
 Lord & Taylor;424 5th Ave # 11;New York
 Lords Deli;94 Greenwich Ave;New York
 Loro Di Napoli;206 Sullivan St;New York
@@ -3820,7 +3820,7 @@ Los Manantiales;405 Amsterdam Ave;New York
 Los Paisas Deli Mexican;898 Amsterdam Avenue;New York
 Lot 61;550 W 21st St;New York
 Lotfis;358 W 46th St;New York
-Lotus;409 West 14th Street;nan
+Lotus;409 West 14th Street;
 Lotus Eaters Fifth;182 5th Ave;New York
 Lou G Siegel Restaurant;240 W 14th St;New York
 Loui Loui Inc;1311 3rd Ave;New York
@@ -3844,11 +3844,11 @@ Luckys Juice Joint Ltd;75 W Houston St;New York
 Luckys Restaurant;95 Allen St;New York
 Ludlow Bar;165 Ludlow St;New York
 Luigis Pizza;63 W 23rd St;New York
-Luigis Pizza;Italian;nan
+Luigis Pizza;Italian;
 Luigis Pizza;910 8th Ave # 1900;New York
 Luigis Pizzeria;1701 1st Ave;New York
 Lukes Bar & Grill;1394 3rd Ave;New York
-Lulus Fried Chicken;American;nan
+Lulus Fried Chicken;American;
 Lulus Fried Chicken;2488 7th Ave;New York
 Luma Restaurant;200 9th Ave;New York
 Lumi Restaurant;963 Lexington Ave;New York
@@ -3896,7 +3896,7 @@ Macdougal St Ale House;122 Macdougal St;New York
 Macies Mad Dog Cafe;51 Bank St;New York
 Macys East;151 W 34th St;New York
 Mad 28;72 Madison Ave # 1;New York
-Mad Hatter Of 2 Av Pub;1485 2nd Ave;nan
+Mad Hatter Of 2 Av Pub;1485 2nd Ave;
 Madame X;94 W Houston St;New York
 Madison Avenue Burger Corp;922 Madison Ave;New York
 Madison Restaurant Inc;207 Madison St;New York
@@ -3979,13 +3979,13 @@ Mariella Pizza;960 8th Ave;New York
 Marinella Restaurant;49 Carmine St;New York
 Marions Continental Rest & Lng;354 Bowery # 1;New York
 Maristella;69 W 55th St;New York
-Maristella Restaurant;69 W 55 St;nan
+Maristella Restaurant;69 W 55 St;
 Market Bar & Grill Inc;40 Peck Slip;New York
 Market Cafe;496 9th Ave;New York
 Market Coffee Shop;153 E 53rd St;New York
 Market Diner;572 11th Ave;New York
 Markjoseph Steakhouse;261 Water Street;New York
-Marks Restaurant & Bar;Marks Restaurant & Bar;nan
+Marks Restaurant & Bar;Marks Restaurant & Bar;
 Marks Restaurant & Bar;25 E 77th St;New York
 Marlowe Restaurant;328 W 46th St;New York
 Marriott Hotels & Resorts;1535 Broadway;New York
@@ -4001,7 +4001,7 @@ Maruzzella;1483 1st Ave;New York
 Mary Anns Chelsea Mex Restaurant;116 8th Ave # Grnd;New York
 Mary Anns DF;86 2nd Ave;New York
 Mary Anns DF Mexican Restaurant;1803 2nd Avenue;New York
-Mary Anns Mexican Restaurant;2454 Broadway;nan
+Mary Anns Mexican Restaurant;2454 Broadway;
 Maryann's Mexican Restaurant;1503 2nd Avenue Suite 20;New York
 Maryland Gourmet Chicken;2581 Broadway;New York
 Marylous Restaurant;21 W 9th St;New York
@@ -4010,7 +4010,7 @@ Masala Restaurant & Bar;239 3rd Ave;New York
 Masaryk Cake Box;321 E Houston;New York
 Massawa Restaurant;1239 Amsterdam Ave;New York
 Master Wok East;1003 2nd Ave;New York
-Matador;57 Greenwich Avenue;nan
+Matador;57 Greenwich Avenue;
 Match Inc;160 Mercer St;New York
 Match Management;33 E 60th St;New York
 Match Uptown Restaurant;33 E 60th St;New York
@@ -4023,7 +4023,7 @@ Mavalli Palace Indian Restaurant;46 E 29th St;New York
 Maxims New York Restaurant;680 Madison Ave;New York
 May Luck Kitchen;492 Lenox Ave;New York
 May Wah Fast Food;190 Hester St # 1;New York
-Maya;1191 First Ave;nan
+Maya;1191 First Ave;
 Maya Palace;60 2nd Ave;New York
 Mayfair Cafe & Sweet Shoppe;225 W 34th St;New York
 Mayfair Restaurant;964 1st Ave;New York
@@ -4042,7 +4042,7 @@ Mc Donald's;102 1st Avenue;New York
 Mc Donald's;404 East 14th Street Frnt;New York
 Mc Donald's Restaurant;688 8th Avenue Frnt;New York
 Mc Donald's Restaurant;541 Avenue Of The Americ;New York
-Mc Donald's Restaurant;1499 3rd Avenue;nan
+Mc Donald's Restaurant;1499 3rd Avenue;
 Mc Dooleys Restaurant;127 W 33rd St;New York
 Mc Garden Restaurant;133 W 33rd St;New York
 Mc Gee Bar & Grill;240 W 55th St;New York
@@ -4074,7 +4074,7 @@ Mcdonald's Restaurant;2142 3rd Avenue;New York
 Mcdonalds;335 8th Ave;New York
 Mcdonalds;90 Maiden Ln;New York
 Mcdonalds;966 3rd Ave;New York
-Mcdonalds;nan;New York
+Mcdonalds;;New York
 Mcdonalds;27 3rd Ave;New York
 Mcdonalds;969 1st Ave;New York
 Mcdonalds;444 Lenox Ave;New York
@@ -4113,15 +4113,15 @@ Mercantile Grill;126 Pearl St;New York
 Merchants New York;112 7th Ave;New York
 Merchants Ny;1125 1st Ave;New York
 Merchants Ny;525 Columbus Ave;New York
-Mercury Bar;Continental;nan
+Mercury Bar;Continental;
 Mercury Bar;659 9th Avenue;New York
 Mercury Bar;493 3rd Ave;New York
 Mercury Lounge;217 E Houston St;New York
-Meridiana Restaurant;2756 Broadway;nan
+Meridiana Restaurant;2756 Broadway;
 Meriken Restaurant;162 W 21st St;New York
 Merlot Bar & Grill;48 W 63rd St;New York
 Mesa De Espana Restaurant Inc;45 E 28th St;New York
-Mesa Grill;102 5th Ave;nan
+Mesa Grill;102 5th Ave;
 Meskerem Ethiopean Restaurant;682 11th Ave;New York
 Meskerem Restaurant;468 W 47th St;New York
 Meson Sevilla;344 W 46th St # 3;New York
@@ -4133,7 +4133,7 @@ Metropolitan Cafe;959 1st Ave;New York
 Metropolitan Food Svc;139 Convent Ave;New York
 Metropolitan Improvement Compa;3 Madison St;New York
 Mexe Burrito Express;251 E 45th St;New York
-Mexican Radio;19 Cleveland Place Frnt;nan
+Mexican Radio;19 Cleveland Place Frnt;
 Mexican Village;118 Macdougal Street Frnt;New York
 Mexico City Cafe;322 W 50th St;New York
 Mexico Lindo Restrnt;459 2nd Ave;New York
@@ -4208,7 +4208,7 @@ Miss Saigon Restaurant Inc;1425 3rd Ave # 1;New York
 Mission Burrito;91 E 7th St;New York
 Mita Restaurant;45 Nassau St;New York
 Mitali Restaurant;334 E 6th St # 1;New York
-Mitali Restaurant;Indian;nan
+Mitali Restaurant;Indian;
 Mitali West;296 Bleecker St;New York
 Mitchs Place;134 Reade St;New York
 Mityfine;24 W 125th St;New York
@@ -4218,7 +4218,7 @@ Mkc New York;240 W 52nd St;New York
 Mme Romaine De Lyon;132 E 61st St # 1;New York
 Mo Better Restaurant;570 Amsterdam Ave;New York
 Mo Fongo;4762 Broadway;New York
-Mobay Uptown;17 West 125th Street;nan
+Mobay Uptown;17 West 125th Street;
 Mocca Restaurant;1588 2nd Ave # 1;New York
 Mockingbird Cafe;60 West 8th;New York
 Moda Food & Wine;135 West 52nd Street(Between 6th & 7;New York
@@ -4287,12 +4287,12 @@ Mrs Lee & Shabu Shabu Wok;121 University Pl;New York
 Mudville 9;126 Chambers St;New York
 Mueng Thai Restaurant Inc;23 Pell St;New York
 Muggs;406 E 64th St;New York
-Mughlai Indian Cuisine;320 Columbus Ave;nan
+Mughlai Indian Cuisine;320 Columbus Ave;
 Mughul-e-azam Restaurant;318 E 6th St;New York
 Mugi Japanese Restaurant;132 W 58th St;New York
 Mugshot Salon;1446 1st Ave;New York
 Mugsys Chow Chow Cafe;31 2nd Ave;New York
-Muldoons Irish Pub;692 3rd Ave;nan
+Muldoons Irish Pub;692 3rd Ave;
 Mullens Pub;233 7th Ave;New York
 Mulligans Pub;267 Madison Ave # 1;New York
 Mumbles Restaurant;179 3rd Ave;New York
@@ -4311,7 +4311,7 @@ Murry Hill Tavern;591 3rd Ave;New York
 Museum Cafe;366 Columbus Ave;New York
 Mustang Grill;1633 2nd Ave;New York
 Mustang Harry's;354 7th Ave;New York
-Mustang Sally's;324 Seventh Avenue;nan
+Mustang Sally's;324 Seventh Avenue;
 Mustang Sallys Saloon;324 7th Ave;New York
 My Bar & Grill;2057 Amsterdam Ave;New York
 My Cousin Vinnys;270 Park Ave S;New York
@@ -4336,7 +4336,7 @@ Napolitano Restaurant;578 Academy St # 1c;New York
 Nassau St Food Corp;118 Fulton St;New York
 Nathans;1286 Broadway;New York
 Nathans;401 7th Ave;New York
-Nathans Famous;nan;New York
+Nathans Famous;;New York
 Nathans Hale Bar;6 Murray St;New York
 Natielka Restaurant Corp;4139 Broadway;New York
 Nation Restaurant & Bar;12 W 45th St;New York
@@ -4391,7 +4391,7 @@ New World Coffee;412 W Broadway;New York
 New World Coffee;525 7th Ave;New York
 New World Coffee;449 6th Ave;New York
 New World Coffee;416 Columbus Ave;New York
-New World Coffee;nan;New York
+New World Coffee;;New York
 New World Coffee;400 Madison Ave # 1;New York
 New World Coffee;1159 3rd Ave;New York
 New World Coffee;1046 3rd Ave;New York
@@ -4430,7 +4430,7 @@ Nine Sixty-5 Ave Restaurant;960 5th Ave;New York
 Nino Vendome Restaurant Conslnt;431 Canal St;New York
 Ninos;324 Spring St;New York
 Ninos Restaurant;1354 1st Ave;New York
-Ninth Street Market;337 E 9th St;nan
+Ninth Street Market;337 E 9th St;
 Niota;337 W Broadway;New York
 Nippon Restaurant;155 E 52nd St;New York
 Nirvana Indian Culinary Bliss;346 Lexington Avenue;New York
@@ -4452,7 +4452,7 @@ Nong Restaurant;220 Park Ave South;New York
 Nonna;520 Columbus Ave.;New York
 Noodle A A;305 W 36th St;New York
 Noodle One Inc;229 9th Ave # 4;New York
-Noodle Pudding;38 Henry Street;nan
+Noodle Pudding;38 Henry Street;
 Noodle Shop Inc;795 9th Ave;New York
 Noodle Town Restaurant;28 Bowery;New York
 Noodles On 28 Inc;394 3rd Ave;New York
@@ -4479,7 +4479,7 @@ Nw3;242 E 10th St;New York
 Nyonya Cuisine Penang;194 Grand St;New York
 Nysaila Contract Board;2 World Trade Ctr # 20;New York
 O'Neals' Lincoln Center Restaurant;49 West 64th Street;New York
-Oak Room Supper Club;59 West 44th Street;nan
+Oak Room Supper Club;59 West 44th Street;
 Oaks;49 Grove St;New York
 Oasis Restaurant & Grill;2234 7th Ave;New York
 Obaa Koryoe Restaurant;3143 Broadway;New York
@@ -4544,13 +4544,13 @@ On The Park Cafe;301 W 135th St;New York
 One 3 Barrows;13 Barrow St;New York
 One 83 Restaurant;1608 First Ave.;New York
 One Fish Two Fish Restaurant;1399 Madison Ave;New York
-One If By Land Two If By Sea;17 Barrow St;nan
+One If By Land Two If By Sea;17 Barrow St;
 One Stop;1708 Amsterdam Ave # 1;New York
 One Ten Bar & Grill;110 John Street;New York
 One91;191 Orchard Street;New York
 Onieals Grand Street Bar;174 Grand St;New York
 Oona;218 Lafayette St;New York
-Opal;Continental;nan
+Opal;Continental;
 Opal;251 E. 52nd Street;New York
 Opaline;85 Avenue A;New York
 Openers Pub;316 3rd Ave;New York
@@ -4575,7 +4575,7 @@ Orologio Restaurant;162 Avenue A;New York
 Orso Restaurant;322 W 46th St;New York
 Osaka;535 8th Avenue;New York
 Osborn Hall;433 1st Ave;New York
-Osso Buco Restaurant;88 University Pl;nan
+Osso Buco Restaurant;88 University Pl;
 Osteria 1;23 W 39th St;New York
 Osteria Del Sole;267 West 4th Street;New York
 Osteria Laguna Restaurant;209 E 42nd St;New York
@@ -4599,7 +4599,7 @@ P J Carneys East;133 E 56th St;New York
 P J Charlton;549 Greenwich St;New York
 P J Coffee Co;1740 Broadway;New York
 P Js Cocktail Lounge & Rstrnt;2246 7th Ave;New York
-P S Gourmet Inc;P S Gourmet Inc;nan
+P S Gourmet Inc;P S Gourmet Inc;
 P S Gourmet Inc;178 5th Ave;New York
 P S Wolfs Bay Restaurant;32 W 38th St;New York
 P.D O'Hurley's;174 West 72nd Street;New York
@@ -4639,7 +4639,7 @@ Pane & Cioccolato;10 Waverly Pl;New York
 Pangea;178 2nd Ave;New York
 Panini & Co. Cafe;168 William St;New York
 Paninoteca;250 Mulberry St;New York
-Panna Ii Grdn Indn Restaurant Inc;nan;New York
+Panna Ii Grdn Indn Restaurant Inc;;New York
 Panna India Cuisine;330 E 6th St;New York
 Panya Bakery;10 Stuyvesant St;New York
 Pao Restaurant;322 Spring St # 1;New York
@@ -4654,7 +4654,7 @@ Pappardella;316 Columbus Ave # 1;New York
 Paquitos Restaurant;175 3rd Ave;New York
 Paquitos Restaurant;143 1st Ave # 1;New York
 Paris Cafe;119 South St;New York
-Paris Commune;411 Bleecker St;nan
+Paris Commune;411 Bleecker St;
 Park Avalon Restaurant;225 Park Ave S;New York
 Park Avenue Cafe;100 E 63rd St;New York
 Park Avenue Country Club;381 Park Ave S;New York
@@ -4715,7 +4715,7 @@ Pearl River Cuisine;22 Elizabeth St;New York
 Pearl St Diner Inc;212 Pearl St;New York
 Peculier Pub;145 Bleecker St;New York
 Pee Dee Steak House;2006 3rd Avenue Rm A5;New York
-Peking Duck House;22 Mott St;nan
+Peking Duck House;22 Mott St;
 Peking Garden;3163 Broadway;New York
 Peking Garden;2657 8th Ave;New York
 Peking Garden Restaurant;597 6th Ave;New York
@@ -4738,7 +4738,7 @@ Peppers Restaurant & Bar;349 Broadway # 1;New York
 Pepys Place;153 E 48th St;New York
 Pergola Des Artistes;252 W 46th St;New York
 Periyali;35 West 20th Street;New York
-Perks Fine Cuisine;553 Manhattan Ave;nan
+Perks Fine Cuisine;553 Manhattan Ave;
 Perretti Italian Cafe;270 Columbus Ave;New York
 Perrys End;55 Greenwich Ave;New York
 Persepolis;1423 2nd Ave;New York
@@ -4776,7 +4776,7 @@ Pietrasanta Restaurant;683 9th Ave;New York
 Pietros Restaurant;232 E 43rd St;New York
 Pig & Whistle Pub Restaurant;165 W 47th St;New York
 Pig & Whistle Tribeca;365 Greenwich St;New York
-Pig Heaven Restaurant;1540 2nd Ave;nan
+Pig Heaven Restaurant;1540 2nd Ave;
 Pings Seafood Restaurant;20 E Broadway;New York
 Pink Angel Restaurant;773 Saint Nicholas Ave;New York
 Pink Teacup Inc;42 Grove St;New York
@@ -4818,7 +4818,7 @@ Pizzeria Uno;220 E 86th St;New York
 Pizzeria Uno;89 South St;New York
 Plaka Restaurant Inc;165 Bleecker St;New York
 Planet Hollywood;140 W 57th St;New York
-Planet Hollywood;152 W 57th St # 6;nan
+Planet Hollywood;152 W 57th St # 6;
 Planet One Cafe;76 E 7th St;New York
 Planet Sushi;380 Amsterdam Ave;New York
 Play Wright Tavern;202 W 49th St;New York
@@ -4839,7 +4839,7 @@ Polly Esthers;1487 1st Ave;New York
 Polny Restaurant Corp;507 E 5th St;New York
 Polonia Restaurant;110 1st Ave;New York
 Pomaire;371 W 46th St.;New York
-Pomaire Restaurant Inc;371 West 46th Street;nan
+Pomaire Restaurant Inc;371 West 46th Street;
 Pommes Frites;123 2nd Ave;New York
 Pomodori Restaurant;1425 2nd Ave;New York
 Pomodoro;229 Columbus Ave;New York
@@ -4847,7 +4847,7 @@ Pondicherry Restaurant;8 W 58th St;New York
 Pongal Inc;110 Lexington Ave;New York
 Pongsri Thai Restaurant;311 2nd Ave # 1;New York
 Pongsri Thai Restaurant;244 W 48th St;New York
-Ponty Bistro Cafe & Bar;218 3rd Avenue;nan
+Ponty Bistro Cafe & Bar;218 3rd Avenue;
 Poona Indian Restaurant Inc;128 W 72nd St;New York
 Popal Corp;1316 5th Ave;New York
 Popeyes Famous Fried Chick Inc;722 7th Ave;New York
@@ -4858,10 +4858,10 @@ Poppolinis;16 Waverly Pl;New York
 Port West Restaurant;576 9th Ave # 1;New York
 Portfolio Restaurant & Gallery;4 W 19th St;New York
 Porto Fino Pizza Restaurant Ii;138 W 46th St;New York
-Porto-bello Restaurant;208 Thompson St;nan
+Porto-bello Restaurant;208 Thompson St;
 Portobello Pizzeria Restaurant;83 Murray St # 1;New York
 Positano Ristorante;122 Mulberry St;New York
-Post House;28 E 63rd St;nan
+Post House;28 E 63rd St;
 Power Juice Bar;11 Waverly Pl;New York
 Poy Laung Thai Restaurant;210 Thompson St;New York
 Premier Realty Management;36 W 47th St;New York
@@ -4892,7 +4892,7 @@ Puleos Too;259 W 45th St;New York
 Pump;113 E 31st St;New York
 Pump;156 William St;New York
 Pumpernick Delicatessen;64 W 39th St;New York
-Punch;913 Broadway;nan
+Punch;913 Broadway;
 Punjab Palace;189 W Houston St;New York
 Pupetto Inc;25 E 63rd St;New York
 Purnima;245 W. 54 street;New York
@@ -4902,7 +4902,7 @@ Pyramida Foods;401 E 78th St;New York
 Q Bs;119 E 23rd St;New York
 Q2 Thai;788 9th Avenue;New York
 QDT;111 Reade Street;New York
-Quantum Leap Natural Food;88 W 3rd St;nan
+Quantum Leap Natural Food;88 W 3rd St;
 Quatorze Bis Restaurant;323 E 79th St;New York
 Quattro Gatti Restaurant Inc;205 E 81st St;New York
 Queen Of Sheba;650 10th Ave;New York
@@ -4949,8 +4949,8 @@ Rare Bar & Grill;228 Bleecker Street;New York
 Rathbones Restaurant;1702 2nd Ave;New York
 Ratners Dairy Restaurant;138 Delancey St;New York
 Rattlesnake Holding Co Inc;439 E 82nd St;New York
-Ray Bari Pizza;1330 Third Avenue;nan
-Ray Bari Pizza;400 West 42nd St.;nan
+Ray Bari Pizza;1330 Third Avenue;
+Ray Bari Pizza;400 West 42nd St.;
 Ray Bari Pizza;930 Third Ave.;New York
 Ray Bari Pizza Of W 69 Street;201 Amsterdam Ave;New York
 Raymonds Cafe;88 7th Ave;New York
@@ -4970,7 +4970,7 @@ Redwood;2077 Broadway;New York
 Regate;198 Orchard Street;New York
 Regents;317 E 53rd St;New York
 Regional Thai Sawoy;1479 1st Ave;New York
-Regional Thai Taste Restaurant;Thai;nan
+Regional Thai Taste Restaurant;Thai;
 Regional Thai Taste Restaurant;208 7th Ave;New York
 Reliable Catering Svc;549 W 145th St;New York
 Remache Store;55 West 125th Street Frnt;New York
@@ -4988,7 +4988,7 @@ Restaurant 92;92 Fulton St;New York
 Restaurant Advisory Svc;160 E 64th St # 3f;New York
 Restaurant Assoc;120 W 45th St # 16;New York
 Restaurant At South Park Hotel;122 East 28;New York
-Restaurant Daniel;20 E 76th St;nan
+Restaurant Daniel;20 E 76th St;
 Restaurant El Ranchito;4129 Broadway;New York
 Restaurant Group La Juquilita;710 Amsterdam Ave;New York
 Restaurant Juquila;926 Amsterdam Ave;New York
@@ -5003,9 +5003,9 @@ Reunion;301 W 57th St;New York
 Revival;2367 Fredrick Douglas Blvd;New York
 Revolution;611 9th Ave;New York
 Rhodes Restaurant Inc;3 Hanover Sq # 1;New York
-Rhong-Tiam;541 La Guardia Place;nan
+Rhong-Tiam;541 La Guardia Place;
 Riazor;245 W 16th St;New York
-Ricardo Steak House;Steak House;nan
+Ricardo Steak House;Steak House;
 Ricardo Steak House;2145 2nd Avenue;New York
 Rice & Beans Restaurant;744 9th Ave;New York
 Rice Take Out Restaurant;227 Mott St # 1;New York
@@ -5030,7 +5030,7 @@ Ristorante Del Sole;430 3rd Ave;New York
 Ritas Burgers;62 N River;New York
 Ritas Restaurant;371 3rd Ave;New York
 River;345 Amsterdam Ave # 345;New York
-River;Korean/Vietnamese;nan
+River;Korean/Vietnamese;
 River Diner Inc;452 11th Ave;New York
 Riverrun Cafe;176 Franklin St;New York
 Riverview Restaurant Inc;1654 Saint Nicholas Ave;New York
@@ -5064,12 +5064,12 @@ Rose Cafe;24 5th Ave;New York
 Rose Of India;308 E 6th St;New York
 Rosemaries Restaurant;145 Duane St;New York
 Rosie & Ting Noodles & Grille;85 4th Ave;New York
-Rosie Ogradys Midtown;800 7th Ave;nan
+Rosie Ogradys Midtown;800 7th Ave;
 Rosies Pub;41 Murray St # 1;New York
 Rosina Pizzeria Restaurant;744 9th Ave;New York
 Rossinis Restaurant;108 E 38th St;New York
 Roth's Westside Steakhouse;680 Columbus Avenue;New York
-Round Table Restaurant at the Algonquin Hotel;59 W. 44th Street;nan
+Round Table Restaurant at the Algonquin Hotel;59 W. 44th Street;
 Route 66 Cafe Inc;858 9th Ave # 1;New York
 Roxanns Italian Restaurant;445 E 77th St;New York
 Roxy Coffee Shop;20 John St;New York
@@ -5078,7 +5078,7 @@ Roxy Delicatessen & Marketplc;1155 3rd Ave;New York
 Roy Rogers;1 Penn Plz # Conc;New York
 Roy Rogers;1515 Broadway # 1;New York
 Roy's New York;130 Washington Street;New York
-Royal Canadian Pancake House;Breakfast;nan
+Royal Canadian Pancake House;Breakfast;
 Royal Canadian Pancake House;2286 Broadway;New York
 Royal Canadian Pancake House;1004 2nd Ave # 1;New York
 Royal Canadian Pancake House;180 3rd Ave;New York
@@ -5099,8 +5099,8 @@ Russian Samovar Restaurant;256 W 52nd St;New York
 Russian Vodka Room;265 W 52nd St;New York
 Ruth Chris Steakhouse;148 W 51st St;New York
 Ryan & Maguire Alehouse;28 Cliff St;New York
-Ryans Daughter;350 E 85th St;nan
-Ryans Irish Pub;Irish;nan
+Ryans Daughter;350 E 85th St;
+Ryans Irish Pub;Irish;
 Ryans Irish Pub;151 2nd Ave;New York
 Ryans Sports Bar & Restaurant;46 Gold St;New York
 ST. ANDREWS;120 W 44TH ST;NEW YORK
@@ -5180,7 +5180,7 @@ Santa Fe Grill Inc;323 1st Ave;New York
 Santa Fe Restaurant;72 W 69th St # 1;New York
 Santiago Luncheonette;2327 1st Ave;New York
 Sapa;43 West 24;New York
-Sapa;Breakfast;nan
+Sapa;Breakfast;
 Sappora Vlg Japanese Restaurant;245 E 10th St;New York
 Sapporo Restaurant;152 W 49th St;New York
 Sarabeth's West;423 Amsterdam Ave;New York
@@ -5188,8 +5188,8 @@ Sarabeths Kitchen;1295 Madison Ave;New York
 Saray Food Inc;274 W 40th St;New York
 Sarges Deli & Restaurant;548 3rd Ave;New York
 Sarong & Sarong;343 Bleecker St;New York
-Sasha's;255 W 55th St;nan
-Sasha's;Wine Cellar;nan
+Sasha's;255 W 55th St;
+Sasha's;Wine Cellar;
 Sassys Sliders;163 1st Ave;New York
 Satay;541 Laguardia Pl;New York
 Savann Restaurant;414 Amsterdam Ave;New York
@@ -5244,25 +5244,25 @@ Seryna International Inc;11 E 53rd St;New York
 Session 73;1359 First avenue @ 73rd Street;New York
 Sesumi Japanese Restaurant Inc;1649 2nd Ave;New York
 Sette Mezzo;969 Lexington Ave;New York
-Seven Bar And Grill;350 Seventh Avenue;nan
+Seven Bar And Grill;350 Seventh Avenue;
 Seven's Mediterranean Grill;158 West 72nd Street;New York
 Seyna International Inc;68 E 56th St;New York
 Sfuzzi Restaurant;58 W 65th St;New York
 Sgs Donuts Inc;254 8th Ave;New York
-Shaan Of India;57 W 48th St;nan
+Shaan Of India;57 W 48th St;
 Shabazs Restaurant Corp;1998 2nd Ave;New York
 Shabu-shabu;314 E 70th St;New York
 Shades Of Green Pub & Restaurant;125 E 15th St;New York
 Shaffer City Oyster Bar;5 W 21st St;New York
 Shaheen Restaurant Inc;99 Lexington Ave;New York
-Shalel Lounge;65 West 70th Street;nan
-Shalel Lounge;Wine Cellar;nan
+Shalel Lounge;65 West 70th Street;
+Shalel Lounge;Wine Cellar;
 Shaliga Thai Cuisine;834 2nd Ave;New York
 Shamrat Indian Restaurant;197 E 76th St;New York
 Shandon Star Restaurant;938 8th Ave;New York
 Shang Hai Cuisine;89 Bayard St # Ground;New York
 Shanghai Cafe;100 Mott St;New York
-Shanghai Cafe;Chinese;nan
+Shanghai Cafe;Chinese;
 Shanghai Gourmet;57 Mott St;New York
 Shanghai Manor Restaurant;141 E 55th St;New York
 Shanghai Snack Bar;14 Elizabeth St # A;New York
@@ -5272,7 +5272,7 @@ Shark Bar;307 Amsterdam Ave;New York
 Sharz Cafe;177 E 90th St;New York
 Shelter Rupperts Group;2328 Broadway # 2;New York
 Shelton Grille;525 Lexington Avenue (Between 49th &;New York
-Shermans Bar B Q;Barbecue;nan
+Shermans Bar B Q;Barbecue;
 Shermans Bar B Q;2509 7th Ave # 1;New York
 Shermans Bar B-q;1835 Amsterdam Ave;New York
 Shih Lee;311 E 45th St;New York
@@ -5294,13 +5294,13 @@ Shun Lee West Lincoln Ctr;43 W 65th St;New York
 Shutters Bar & Cafe Inc;433 W 34th St # 1;New York
 Siam City Thai Restaurant;1668 1st Ave;New York
 Siam Grill Restaurant;586 9th Ave;New York
-Siam Grill Restaurant;Thai;nan
+Siam Grill Restaurant;Thai;
 Siam Inn Cuisine Inc;854 8th Ave;New York
 Siam Inn Restaurant;916 8th Ave;New York
 Siam Square Restaurant;92 2nd Ave;New York
 Siberia Bar;1627 Broadway;New York
 Sichuan Palace;310 E 44th St;New York
-Sidebar;118 East 15th Street;nan
+Sidebar;118 East 15th Street;
 Sidewalk Bar Restaurant;94 Avenue A;New York
 Sidney B Restaurant;202 9th Ave;New York
 Sido Kitchen;1608 3rd Ave;New York
@@ -5372,7 +5372,7 @@ Sotto Cinque;1644 2nd Ave;New York
 Sotto Cinque Inc;417 3rd Ave # 1;New York
 Souen Restaurant;210 6th Ave;New York
 Souen Restaurant;28 E 13th St # 1;New York
-Soul Fixins;371 W 34th St;nan
+Soul Fixins;371 W 34th St;
 Soul Food Concepts Inc;630 9th Ave;New York
 Sounds Of Brazil;200 Varick St # 5;New York
 Soup Burg;1026 1st Ave;New York
@@ -5393,14 +5393,14 @@ Spartina;355 Greenwich St;New York
 Speedy Deli;1271 Broadway # 1;New York
 Spice Cove;326 E. 6th Street;New York
 Spice Fusion;777 8th Avenue;New York
-Spice Thai Hot & Cool;1411 2nd Ave;nan
+Spice Thai Hot & Cool;1411 2nd Ave;
 Spicy Pot Express Caribbean & American R;2173 2nd Ave;New York
 Spirit Cruises;W 23rdst Piier 62 # 200;New York
 Spoonbread Two;366 W 110th St;New York
 Spoons Squared Inc;235 East 53rd Street;New York
 Spoons Squared Inc;235 E 53rd St;New York
 Spring Joy;172 8th Ave;New York
-Spring Street Natural Restaurant and Bar;Health;nan
+Spring Street Natural Restaurant and Bar;Health;
 Spring Street Natural Restaurant and Bar;62 Spring Street;New York
 Spy Bar;101 Greene St;New York
 Square Diner Corp;33 Leonard St;New York
@@ -5421,7 +5421,7 @@ Starks Veranda Restaurant;319 Broadway;New York
 Starlight Deli;212 West 44th Street;New York
 Starlight Restaurant & Deli;211 E 46thst Grround;New York
 Starlight Restaurant & Diner;211 E 46th St;New York
-Starlite Diner Cafe;Diner;nan
+Starlite Diner Cafe;Diner;
 Starlite Diner Cafe;1279 1st Ave # 1;New York
 Starrett Restaurant Inc;601 W 26th St # 1;New York
 Steamers Landing;375 S End Ave;New York
@@ -5434,11 +5434,11 @@ Stone Street Tavern;52 Stone Street(Hanover Square + Coentie;New York
 Stoned Crow;85 Washington Pl;New York
 Stonewall;53 Christopher St;New York
 Stonewall Bistro;113 7th Ave;New York
-Stonewall Bistro;Candy/Dessert Shop;nan
+Stonewall Bistro;Candy/Dessert Shop;
 Strand Diner;208 W 96th St;New York
 Streetcar Cafe;370 W 46th St;New York
 Strictly Roots Restaurant;2058 7th Ave;New York
-Strictly Roots Restaurant;Soul Food;nan
+Strictly Roots Restaurant;Soul Food;
 Studio Coffee Shop;630 9th Ave;New York
 Stuyvesant Restaurant;286 1st Ave # A;New York
 Stuyvesant Town Cafe;313 1st Ave;New York
@@ -5499,7 +5499,7 @@ Sung Chu Mei Chinese Restaurant;615 Hudson St;New York
 Sungarden;Park Ave;New York
 Sunny East Restaurant;21 W 39th St;New York
 Sunrise Cuisine;2317 1st Avenue;New York
-Sunrise Deli;Deli/Sandwich/Subs;nan
+Sunrise Deli;Deli/Sandwich/Subs;
 Sunrise Deli;575 7th Ave;New York
 Sunshine Deli;50 W 23rd St;New York
 Sunshine Kitchen;695 Saint Nicholas Ave;New York
@@ -5515,7 +5515,7 @@ Sushi On Hudson;556 Hudson St;New York
 Sushi Tei;5 World Trade Ctr # 257;New York
 Sushi Zen Inc.;57 West 46th;New York
 Sushi-Q Japanese Take Out;1275 Lexington Ave;New York
-Sushi-desse;113 East 18th St.;nan
+Sushi-desse;113 East 18th St.;
 Sushi-tei;875 3rd Ave;New York
 Sushi-tei 47 Inc;11 E 47th St;New York
 Sushi-tei Restaurant;164 E 45th St;New York
@@ -5562,7 +5562,7 @@ Taco Bell;712 3rd Ave;New York
 Taco Bell;329 5th Ave;New York
 Taco Bell;331 Avenue Of The Americas;New York
 Taco Bell Corp;953 3rd Ave;New York
-Taco Bell Inc;Mexican;nan
+Taco Bell Inc;Mexican;
 Taco Bell Inc;875 Ave Of Americas Ground;New York
 Taco City;1143 1st Ave;New York
 Taco Express Inc;225 7th Ave;New York
@@ -5580,8 +5580,8 @@ Tads;152 W 34th St;New York
 Tads Steaks;761 7th Ave # 50;New York
 Tads Steaks;228 W 42nd St;New York
 Tads Steaks;701 7th Ave;New York
-Tagine Dining Gallery;At 40th St;nan
-Tagine Dining Gallery;537 9th Ave;nan
+Tagine Dining Gallery;At 40th St;
+Tagine Dining Gallery;537 9th Ave;
 Tai Hong Lau Restaurant;70 Mott St;New York
 Tai Tung Rice Shop;244 Canal St;New York
 Taiyo Japanese Restaurant Inc;1374 York Ave # 1;New York
@@ -5593,11 +5593,11 @@ Takahashi Restaurant;85 Avenue A;New York
 Takano;218 E 53rd St;New York
 Take;26 S William St;New York
 Takino Inc;1026 2nd Ave;New York
-Talia's Steakhouse & Bar;668 Amsterdam Avenue (92nd-93rd Street);nan
+Talia's Steakhouse & Bar;668 Amsterdam Avenue (92nd-93rd Street);
 Tam-tam Bar;145 E 50th St;New York
 Tams Sea Wok;190 Duane St # A;New York
 Tan Viet Huong Restaurant Inc;73 Mulberry St;New York
-Tan Viet Huong Restaurant Inc;Vietnamese;nan
+Tan Viet Huong Restaurant Inc;Vietnamese;
 Tandoor Palace Inc;88 Fulton St;New York
 Tandoori Club;133 E 45th St # 1;New York
 Tandoori Garden;304 E 6th St;New York
@@ -5610,7 +5610,7 @@ Tanokyu;7 W 46th St;New York
 Tanti Baci Cafe;163 W 10thst Bssmt;New York
 Taormina Of Mulberry St;147 Mulberry St;New York
 Tap Room;3 W 18th St;New York
-Tapika;950 8th Ave;nan
+Tapika;950 8th Ave;
 Taprobane Sri Lankan Restaurant;234 W 56th St;New York
 Taqueria De Mexico Ltd;93 Greenwich Ave;New York
 Taqueria Y Fonda La Mexicana;968 Amsterdam Avenue;New York
@@ -5623,13 +5623,13 @@ Taste Of China;1850 3rd Ave;New York
 Taste Of China Restaurant;626 Amsterdam Ave # 1;New York
 Taste Of New York;705 8th Ave;New York
 Taste Of Tokyo;60 Beaver Street;New York
-Taste Of Tokyo;Japanese;nan
+Taste Of Tokyo;Japanese;
 Taste Of Tokyo Inc;54 W 13th St;New York
 Tataki Japanese Restaurant;3 Lispenard St;New York
 Tatany 52 Inc;250 E 52nd St;New York
 Tatany Japanese Restaurant;380 3rd Ave # 1;New York
 Tatou Restaurant;151 E 50th St;New York
-Tavalon Tea Bar;22 East 14th Street;nan
+Tavalon Tea Bar;22 East 14th Street;
 Tavern On Jane;31 8th Ave;New York
 Tavern On The Green;1 W 67th St;New York
 Tazza Restaurant & Bar;196 8th Ave;New York
@@ -5646,7 +5646,7 @@ Ten-tan Chinese Restaurant;3864 10th Ave;New York
 Tenares Restaurant;2316 Amsterdam Ave;New York
 Tennessee Mountain Restaurant SOHO;143 Spring Street;New York
 Tenth Av Jukebox Cafe;637 10th Ave;New York
-Tequilas Mexican Grill Rest;245 West 14th Street;nan
+Tequilas Mexican Grill Rest;245 West 14th Street;
 Tequilas On Columbus;368 Columbus Ave;New York
 Tequilaville;64 W 52nd St;New York
 Tequilaville;729 7th Ave;New York
@@ -5664,12 +5664,12 @@ Teriyaki Town;77 Pearl St;New York
 Terra Blues Bar Restrnt & Music;149 Bleecker St;New York
 Terrace Dining Corp;22 W 135th St;New York
 Terrace Restaurant Butler Hall;400 W 119th St;New York
-Terramare Café;Italian;nan
+Terramare Café;Italian;
 Terramare Café;22 East 65th Street;New York
 Terras Gourmet;77 Pearl St;New York
 Tevares Restaurant;2316 Amsterdam Ave;New York
 Tevere 84 Italian Glatt Kosher;155 E 84th St;New York
-Tevere 84 Italian Glatt Kosher;Italian;nan
+Tevere 84 Italian Glatt Kosher;Italian;
 Texas Fried Chicken Usa Ltd;4 Park Ave;New York
 Texas Rotisserie & Grill;94 Fulton St # 2;New York
 Texas Rotisserie & Grill;712 3rd Ave;New York
@@ -5687,11 +5687,11 @@ Thai House Cafe;151 Hudson St;New York
 Thai Jasmine Ltd;860 9th Ave;New York
 Thai Select;472 9th Avenue;New York
 Thai Son Vietnamese Rest;89 Baxter Street;New York
-Thai Village;Thai;nan
+Thai Village;Thai;
 Thai Village;133 W 3rd St;New York
 Thailand Cafe;95 2nd Ave;New York
 Thailand Restaurant;106 Bayard St;New York
-Thali Indian Vegetarian Inc;Indian;nan
+Thali Indian Vegetarian Inc;Indian;
 Thali Indian Vegetarian Inc;28 Greenwich Ave # 1;New York
 Thanh Hong Restaurant Inc;30 E Broadway # 4;New York
 Thanh Vi Restaurant;137 E Broadway;New York
@@ -5701,7 +5701,7 @@ The Cupping Room Cafe;359 West Broadway;New York
 The Elephant;58 East 1st. St.;New York
 The Globe Restaurant;26th Street And Park Ave Sth;New York
 The Hideaway;185 Duane Street;New York
-The Lobby Lounge af the Algonquin Hotel;59 West 44th Street;nan
+The Lobby Lounge af the Algonquin Hotel;59 West 44th Street;
 The New Panorama Cafe;303 East 85th St.;New York
 The Oak Room;59 West 44th Street;New York
 The Organic Grill;123 First Ave;New York
@@ -5710,7 +5710,7 @@ The Red Lion;151 Bleecker St.;New York
 The River Room;Riverside Drive at 145th Street;New York
 The Riverside Church;490 Riverside Dr.;New York
 The Sanctuary;25 1st Avenue;New York
-The Village Pourhouse;64 Third Avenue;nan
+The Village Pourhouse;64 Third Avenue;
 Theadore;17 E 13th St;New York
 Third & Long;523 3rd Ave;New York
 Third Avenue Bagel & Appetizer;1461 3rd Ave;New York
@@ -5722,7 +5722,7 @@ Three Star Coffee Shop;541 Columbus Ave;New York
 Three Stars Restaurant;1462 1st Ave;New York
 Tibet Shambala;488 Amsterdam Ave # Ground;New York
 Tibet on Houston;136 W Houston @ Sullivan;New York
-Tibetan Kitchen;444 3rd Ave;nan
+Tibetan Kitchen;444 3rd Ave;
 Tick Tock Diner;481 8th Ave;New York
 Tien Fu Restaurant;180 3rd Ave;New York
 Tien Garden Inc;170 Allen St;New York
@@ -5763,7 +5763,7 @@ Tonys Restaurant;265 W 37th St;New York
 Tonys Sandwich Shop;83 Baxter St;New York
 Top Broccoli Restaurant;304 W 40th St;New York
 Top Of The Tower;3 Mitchell Pl;New York
-Topaz Thai Restaurant;Thai;nan
+Topaz Thai Restaurant;Thai;
 Topaz Thai Restaurant;127 W 56th St # 1;New York
 Toppings Restaurant;133 W 14th St;New York
 Tops Food Co;139 E Broadway;New York
@@ -5779,7 +5779,7 @@ Totoya Restaurant;1144 1st Ave;New York
 Tout-va-bien Restaurant;311 W 51st St # 1;New York
 Tovars Deli;691 10th Ave;New York
 Towers Food Service;466 1st Ave;New York
-Town & Gardens Ltd;(212) 627-5558;nan
+Town & Gardens Ltd;(212) 627-5558;
 Town & Gardens Ltd;Pier 64 At 24th St W;New York
 Town Crier Restaurant;303 E 53rd St;New York
 Town House Inn Restaurant;696 2nd Ave;New York
@@ -5847,14 +5847,14 @@ Tutta Pasta Restaurant;504 Laguardia Pl # 1;New York
 Twenty First Century Rstrnt;336 E 23rd St;New York
 Twenty Warren St Food Corp;20 Warren St;New York
 Twin Doughnut;67 W 23rd St;New York
-Twins;nan;New York
+Twins;;New York
 Two Boots To Go Inc;42 Avenue A;New York
 Two Boots To Go West;75 Greenwich Ave;New York
 Two Rancheros Restaurant The;509 9th Ave # 38;New York
 Two Rooms;313 E 58th St;New York
 Tycoon (Inside Cheetas Gentlemans Club);252 West 43rd Street;New York
 Tycoon Donuts;85 Canal St;New York
-Typhoon Brewery;22 E 54th St;nan
+Typhoon Brewery;22 E 54th St;
 U Like;4762 Broadway;New York
 U Like Chinese Restaurant;747 Columbus Ave;New York
 U Patel Incorp;475 5th Ave;New York
@@ -5864,7 +5864,7 @@ Uncle Moes Burritos;14 W 19th St;New York
 Uncle Nick's Greek Cuisine;747 9th Avenue Frnt;New York
 Uncle Nicks Greek Cuisine;569 Hudson St;New York
 Uncle Vanya;315 W 54th St;New York
-Under D Tree;2086 Adam Clayton Powell Jr Blvd;nan
+Under D Tree;2086 Adam Clayton Powell Jr Blvd;
 Underground Pizzeria;205 Pearl St;New York
 Unicorn Restaurant;2170 3rd Ave;New York
 Union Bar;204 Park Ave S # Ground;New York
@@ -5920,7 +5920,7 @@ Vic Sam Restaurant Inc;114 Christopher St;New York
 Viceroy Restaurant & Bar;160 8th Avenue;New York
 Vico Madison Av Ristorante;1302 Madison Ave;New York
 Vicolo;55 Greenwich Ave;New York
-Victor's Cafe 52;Cater;nan
+Victor's Cafe 52;Cater;
 Victor's Cafe 52;236 W. 52;New York
 Victoria Restaurant;1042 2nd Ave;New York
 Victors University Place Inc;30 Vesey St # 1802;New York
@@ -5933,7 +5933,7 @@ Villa Berulia Restaurant Inc;107 E 34th St;New York
 Villa Castillo Restaurant;94 Avenue C;New York
 Villa Juana Restaurant;143 Sherman Ave;New York
 Villa Mosconi Restaurant;69 Macdougal St;New York
-Village;62 West 9th Street;nan
+Village;62 West 9th Street;
 Village Atelier;436 Hudson St;New York
 Village Crown;96 3rd Ave # 1;New York
 Village Den Inc;225 W 12th St;New York
@@ -5944,13 +5944,13 @@ Village Lantern;167 Bleecker St;New York
 Village Restaurant;35 1st Ave;New York
 Vince & Ediies;70 W 68th St;New York
 Vincents Clam Bar;119 Mott St;New York
-Vincents Clam Bar;Italian;nan
+Vincents Clam Bar;Italian;
 Vincis Brothers Pizza Corp;1122 1st Ave;New York
-Vintage Irving;118a East 15th Street;nan
+Vintage Irving;118a East 15th Street;
 Vintage Restaurant Inc;753 9th Ave;New York
 Vintonis;205 Pearl St;New York
 Violet Inc;79 Washington Sq E;New York
-Virgil's Barbecue;152 West 44th Street Frnt;nan
+Virgil's Barbecue;152 West 44th Street Frnt;
 Viva Pancho West 44th Street;156 W 44th St;New York
 Viviana Restaurant;3855 10th Ave;New York
 Volare Restaurant Corp;147 W 4th St;New York
@@ -5972,11 +5972,11 @@ Wallys Place Restaurant & Bar;59 Bayard St;New York
 Wan Chum Kitchen;57 Pitt St;New York
 Washington Place;75 Washington Pl;New York
 Water Club;500 E 30th St;New York
-Water Club Banquets;Waterfront;nan
-Water Club Banquets;500 E 30th St;nan
+Water Club Banquets;Waterfront;
+Water Club Banquets;500 E 30th St;
 Water Moon;467 Columbus Avenue;New York
-Waterfront Ale House;540 2nd Ave;nan
-Waterfront Ale House;Waterfront;nan
+Waterfront Ale House;540 2nd Ave;
+Waterfront Ale House;Waterfront;
 Waterloo;145 Charles St;New York
 Waterstone Grill;79 Pearl Street Broad street;New York
 Wave Japanese Restaurant;21 S End Ave # 1;New York
@@ -5993,7 +5993,7 @@ Wendys;433 7th Ave # 1;New York
 Wendys;447 Lexington Ave;New York
 Wendys;85 Nassau St;New York
 Wendys;650 Broadway # 1;New York
-Wendys;American;nan
+Wendys;American;
 Wendys;957 3rd Ave;New York
 Wendys;117 Beekman St;New York
 West 63 Street Steak House;44 W 63rd St;New York
@@ -6002,7 +6002,7 @@ West Bank Cafe;407 W 42nd St;New York
 West End Cottage Restaurant;212 W 72nd St;New York
 West Four Cafe;140 W 4th St;New York
 West Market Diner;659 W 131st St;New York
-West Saigon Inc;Vietnamese;nan
+West Saigon Inc;Vietnamese;
 West Saigon Inc;2381 Broadway;New York
 West Side Bistro;207 W 94th St;New York
 West Side Chefs;315 W. 57th;New York
@@ -6016,7 +6016,7 @@ Westside Cottage Ii;689 9th Ave # 1;New York
 Westside Diner;889 10th Ave;New York
 Westside Restaurant Inc;2020 Broadway # 69;New York
 Westway Diner Inc;914 9th Ave;New York
-Westway Diner Inc;Diner;nan
+Westway Diner Inc;Diner;
 Where Its At;58 W 91st St # 8;New York
 Whiskey;235 W 46th St;New York
 White Hourse Tavern;567 Hudson St;New York
@@ -6102,7 +6102,7 @@ Yamaguchi Restaurant Corp;35 W 45th St;New York
 Yan Bowl;125 W 45th St;New York
 Yan Van Van;335 Madison Ave # 43;New York
 Yangtze On Hudson;21 S End Ave;New York
-Yangtze On Hudson;Yangtze On Hudson;nan
+Yangtze On Hudson;Yangtze On Hudson;
 Yankee Clipper Restaurant Corp;170 John St Ground;New York
 Yankee Doodle Deli;205 W 38th St;New York
 Yasmine Restaurant;1642 Lexington Ave;New York
@@ -6112,7 +6112,7 @@ Yellowfingers;200 E 60th St;New York
 Yet Jip;5 W 36th St;New York
 Yeun Yeun Restaurants;61 Bayard St;New York
 Yeungs Number 1 Chinese Restaurant;4486 Broadway;New York
-Yijo Corp;Yijo Corp;nan
+Yijo Corp;Yijo Corp;
 Yijo Corp;23 W 35th St;New York
 Yin Hey Cottage Inc;68 Mott St # 1;New York
 Ying Chen Chinese Restaurant;166 Amsterdam Ave;New York
@@ -6124,7 +6124,7 @@ Yips Restaurant Inc;126 Water St;New York
 Yips Restaurants;62 William St;New York
 Yodo Restaurant Of Japan;13 E 47th St;New York
 Yonehama Inc;12 E 46th St # 5;New York
-Yonehama Inc;Yonehama Inc;nan
+Yonehama Inc;Yonehama Inc;
 Yonehama Inc;12 E 46th St;New York
 Yook Ying Assn;99 E Broadway;New York
 Yoon Foods Corp;135 W 50th St;New York
@@ -6144,7 +6144,7 @@ Yummy Crust Bakery & Cafe;168 William St;New York
 Yummy Food Chinese Restaurant;103 Lenox Ave;New York
 Yura & Co;1645 3rd Ave;New York
 Z & L 52;972 2nd Ave;New York
-Zacco;Zacco;nan
+Zacco;Zacco;
 Zacco;250 E 52nd St;New York
 Zapatas Cafe;1218 Saint Nicholas Ave;New York
 Zapotitlan Mexican Restaurant;118 East 116th Street;New York
@@ -6156,7 +6156,7 @@ Zen Palate Restaurant;2170 Broadway;New York
 Zen Palate Restaurant;663 9th Ave;New York
 Zenith Vegetarian Cuisine;888 8th Ave # 1;New York
 Zeny 2 Inc;34 Union Sq E;New York
-Zeny 2 Inc;Zeny 2 Inc;nan
+Zeny 2 Inc;Zeny 2 Inc;
 Zeny Inc;32 Union Sq E # 211;New York
 Zephyr Grill;1 Mitchell Pl;New York
 Zesty Pizzeria;1693 3rd Ave;New York
@@ -6171,15 +6171,15 @@ Ziggys Food;526 7th Ave;New York
 Zigolinis;66 Pearl St # 1;New York
 Zipcode;2207 7th Ave;New York
 Zocalo;174 E 82nd St;New York
-Zoe Restaurant;90 Prince St;nan
+Zoe Restaurant;90 Prince St;
 Zona Del Chianti;1043 2nd Ave;New York
 Zoop Soup;950 Broadway;New York
-Zorzi New York;1 East 35th Street;nan
+Zorzi New York;1 East 35th Street;
 Zucca;227 10th Ave;New York
 Zucchero;1464 2nd Ave;New York
 Zuhur Restaurant;62 E 116th St;New York
 Zula Restaurant;1260 Amsterdam Ave;New York
-Zuni;Zuni;nan
+Zuni;Zuni;
 Zuni;598 9th Ave;New York
 Zutto Restaurant Of Ny Inc;77 Hudson St;New York
 Zzz Restaurant;60 University Pl;New York

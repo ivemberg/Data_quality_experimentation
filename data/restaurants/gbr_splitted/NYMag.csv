@@ -1,13 +1,13 @@
-1;2_x
+restaurant;address
 'Cesca;Upper West Side
 'sNice;West Village
-(Le) Poisson Rouge;nan
+(Le) Poisson Rouge;
 1 Dominick;Soho
 10 Downing Food & Wine;West Village
-10 Hudson Square;nan
+10 Hudson Square;
 107 West;Wash Hts/Inwood
 107 West;Upper West Side
-123 Burger Shot Beer;nan
+123 Burger Shot Beer;
 1492 Food;Lower East Side
 15 East;Union Square
 17 Bleecker;East Village
@@ -24,7 +24,7 @@
 41 Greenwich Avenue;West Village
 44 & X Hell's Kitchen;Hell's Kitchen
 5 Ninth;Meatpacking District
-508;nan
+508;
 71 Irving Place Coffee & Tea Bar;Gramercy
 77493;Times Square
 7A;East Village
@@ -33,7 +33,7 @@
 88 Palace;Lower East Side
 99 miles to philly;West Village
 99¢ Fresh Pizza;Midtown East
-A;nan
+A;
 A Casa Fox;Lower East Side
 A La Turka;Upper East Side
 A Salt & Battery;West Village
@@ -54,10 +54,10 @@ Accademia di Vino;Upper East Side
 Aceluck;Hell's Kitchen
 Acqua;Upper West Side
 Adour Alain Ducasse;Midtown East
-Adriatic;nan
+Adriatic;
 Adrienne's Pizza Bar;Financial/Battery Pk
 Adä;Midtown East
-Afghan Kebab House II;nan
+Afghan Kebab House II;
 Africa Kine Restaurant;Harlem
 Agave;West Village
 Ago;Tribeca
@@ -66,7 +66,7 @@ Ah! Chihuahua's;Midtown East
 Aja Asian Bistro & Lounge;Midtown East
 Aji Sushi;Murray Hill/Kips Bay
 Ajisen Noodle;Chinatown
-Akane;nan
+Akane;
 Akdeniz Turkish Cuisine;Midtown West
 Aki;West Village
 Aki Sushi;Upper East Side
@@ -75,7 +75,7 @@ Al Bustan;Midtown East
 Al Forno Pizzeria;Upper East Side
 Alan's Falafel;Financial/Battery Pk
 Alcala;Midtown East
-Aldea;nan
+Aldea;
 Aleo;Flatiron
 Alexandra;West Village
 Alfama;West Village
@@ -102,13 +102,13 @@ Ambassador Grill;Midtown East
 Amber;Upper West Side
 Amelia's Diner;Soho
 American Grill;East Village
-Amir's Falafel;nan
+Amir's Falafel;
 Amma;Midtown East
 Ammos Estiatorio;Midtown East
 Amsterdam Restaurant and Tapas Lounge;Morningside Hts
 Amy Ruth's Home-Style Southern Cuisine;Harlem
 An American Place;Murray Hill/Kips Bay
-Ancora;nan
+Ancora;
 Andreas' Brick Oven Ristorante;Gramercy
 Angelica Kitchen;East Village
 Angelo & Maxie's Steakhouse;Gramercy
@@ -123,12 +123,12 @@ Anthos;Midtown West
 Antica Venezia Ristorante;Chelsea
 Antique Garage;Soho
 Antonucci;Upper East Side
-Aperitivo;nan
+Aperitivo;
 Apiary;East Village
 Appetito Ristorante;Midtown West
 Apple Restaurant;West Village
 Aquagrill;Soho
-Aquamarine;nan
+Aquamarine;
 Aquavit;Midtown East
 Arabelle Restaurant;Upper East Side
 Ariana Afghan Kebab House;Hell's Kitchen
@@ -146,10 +146,10 @@ Artisanal;Murray Hill/Kips Bay
 Arturo's;West Village
 Arté;West Village
 Ashkara;Lower East Side
-Asia Kan;nan
+Asia Kan;
 Asia Roma;Chinatown
 Asia de Cuba;Murray Hill/Kips Bay
-Asiana;nan
+Asiana;
 Asiate;Upper West Side
 Aspen;Flatiron
 Astor Court;Midtown East
@@ -174,7 +174,7 @@ Azul;Lower East Side
 Azuri Cafe;Hell's Kitchen
 Azza;Midtown East
 B&H;East Village
-B-Bap Fusion Rice Bar;nan
+B-Bap Fusion Rice Bar;
 B. Café;Upper East Side
 B. Smith's;Hell's Kitchen
 B.B. King Blues Club & Grill;Times Square
@@ -194,7 +194,7 @@ Bacaro;Lower East Side
 Back Forty;East Village
 Bagel Bob's;West Village
 Bagel Buffet;West Village
-Bagicha;nan
+Bagicha;
 Baldoria;Times Square
 Bali Nusa Indah;Hell's Kitchen
 Ballato;East Village
@@ -212,7 +212,7 @@ Bar 515;Murray Hill/Kips Bay
 Bar 6;West Village
 Bar 89;Soho
 Bar Americain;Times Square
-Bar Bao;nan
+Bar Bao;
 Bar Blanc;West Village
 Bar Boulud;Upper West Side
 Bar Breton;Murray Hill/Kips Bay
@@ -258,7 +258,7 @@ Bello Sguardo;Upper West Side
 Ben & Jack's Steak House;Midtown East
 Ben Benson's Steak House;Times Square
 Ben's Kosher Delicatessen Restaurant;Midtown West
-Ben's Pizza;nan
+Ben's Pizza;
 Bengal Cafe;Morningside Hts
 Benihana;Midtown West
 Benjamin Steak House;Midtown East
@@ -369,10 +369,10 @@ Brooklyn Diner U.S.A.;Times Square
 Brother Jimmy's BBQ;Midtown West
 Bruno Jamais Restaurant Club;Upper East Side
 Bruschetteria;Lower East Side
-BrushStroke;nan
+BrushStroke;
 Bryant Park Grill;Midtown West
 Bubba Gump Shrimp Co.;Times Square
-Bubby's;nan
+Bubby's;
 Bubby’s;Tribeca
 Buddakan;Chelsea
 Buddha BBeeQ;Upper East Side
@@ -390,7 +390,7 @@ Burgers & Cupcakes;Hell's Kitchen
 Burrito Loco;West Village
 Bus Stop Cafe;West Village
 Butai;Gramercy
-Butcher Bay;nan
+Butcher Bay;
 Butter;East Village
 Buzina Pop;Upper East Side
 Byblos;Murray Hill/Kips Bay
@@ -399,10 +399,10 @@ Bôi;Midtown East
 Bôi to Go;Midtown East
 Cabana;Upper East Side
 Cabo Rojo;Chelsea
-Cabrito;nan
+Cabrito;
 Cacio e Pepe;East Village
 Cacio e Vino;East Village
-Cafe Amore's;nan
+Cafe Amore's;
 Cafe Asean;West Village
 Cafe Bari;Soho
 Cafe Brama;East Village
@@ -437,7 +437,7 @@ Caffè del Mare;West Village
 Caffé Linda;Midtown East
 Café 2;Midtown West
 Café Andalucia;Hell's Kitchen
-Café Angelique;nan
+Café Angelique;
 Café Boulud;Upper East Side
 Café Café;Soho
 Café Cello;Midtown West
@@ -532,7 +532,7 @@ Chanpen Thai;Hell's Kitchen
 Chanterelle;Tribeca
 Chanto;West Village
 Charles St. Food;West Village
-Charles' Southern Style Kitchen;nan
+Charles' Southern Style Kitchen;
 Charley O's;Times Square
 Charley O's;Hell's Kitchen
 Charlie Mom;West Village
@@ -595,7 +595,7 @@ City Hall Restaurant;Tribeca
 City Lobster & Crab Company;Times Square
 Classic Coffee Shop;Lower East Side
 Clinton St. Baking Co. & Restaurant;Lower East Side
-Co.;nan
+Co.;
 Cocktail Terrace;Midtown East
 Coco Pazzo;Upper East Side
 Col Legno;East Village
@@ -606,7 +606,7 @@ Comfort Diner;Midtown East
 Commerce;West Village
 Community Food & Juice;Morningside Hts
 Compass;Upper West Side
-Concrete Tapas Bar & Lounge;nan
+Concrete Tapas Bar & Lounge;
 Cones;West Village
 Cong Ly;Lower East Side
 Congee;Lower East Side
@@ -656,7 +656,7 @@ Cupping Room Cafe;Soho
 Curly's Vegetarian Lunch;East Village
 Curry Leaf;Gramercy
 Curry in a Hurry;Murray Hill/Kips Bay
-Curry-Ya;nan
+Curry-Ya;
 DB Bistro Moderne;Midtown West
 Da Andrea;West Village
 Da Antonio Ristorante;Midtown East
@@ -675,18 +675,18 @@ Danal;East Village
 Daniel;Upper East Side
 Danku;Midtown West
 Darbar;Midtown East
-Darbar Grill;nan
-Dave & Buster's;nan
-David Burke Townhouse;nan
+Darbar Grill;
+Dave & Buster's;
+David Burke Townhouse;
 David Burke at Bloomingdale’s;Upper East Side
 Dawat;Midtown East
-Daydream;nan
+Daydream;
 De Santos;West Village
 Dean's Family Style Restaurant and Pizzeria;Upper West Side
 Dean's Family Style Restaurant and Pizzeria;Midtown East
 Dean's Family Style Restaurant and Pizzeria;Tribeca
 Deborah—Life Love Food;West Village
-Defonte's;nan
+Defonte's;
 Degustation Wine & Tasting Bar;East Village
 Del Frisco's Double Eagle Steak House;Times Square
 Del Posto;Chelsea
@@ -720,7 +720,7 @@ Do Hwa;West Village
 DoSirak;West Village
 Docks Oyster Bar & Seafood Grill;Midtown East
 Docks Oyster Bar & Seafood Grill;Upper West Side
-Dogmatic Dogs;nan
+Dogmatic Dogs;
 Dojo;West Village
 Dok Suni's;East Village
 Dolcino;Murray Hill/Kips Bay
@@ -828,7 +828,7 @@ Famiglia;West Village
 Famous Ben’s Pizza;Soho
 Famous Ray’s of Greenwich Village;West Village
 Famous Seafood;Harlem
-Farinella;nan
+Farinella;
 Fat Annie's Truck Stop;East Village
 Fatty Crab;West Village
 Fatty Crab;Upper West Side
@@ -856,7 +856,7 @@ Fish;West Village
 Fishers of Men;Harlem
 Fishtail by David Burke;Midtown West
 Five Luck Restaurant;Upper East Side
-Five Napkin Burger;nan
+Five Napkin Burger;
 Five Points;East Village
 Fives;Midtown East
 Flea Market Café;East Village
@@ -1246,7 +1246,7 @@ L'Ecole at The French Culinary Institute;Soho
 L'Express;Gramercy
 L'Orange Bleue;Soho
 L'asso;Nolita
-La Barra;nan
+La Barra;
 La Belle Vie;Chelsea
 La Bonbonniere;West Village
 La Bonne Soupe;Midtown West
@@ -1260,7 +1260,7 @@ La Dinastia;Upper West Side
 La Esquina;Little Italy
 La Focaccia;West Village
 La Fonda Boricua;Spanish Harlem
-La Fonda del Sol;nan
+La Fonda del Sol;
 La Giara;Murray Hill/Kips Bay
 La Gioconda;Midtown East
 La Goulue;Upper East Side
@@ -1330,7 +1330,7 @@ Le Train Bleu;Upper East Side
 Le Veau d'Or;Upper East Side
 Le Zie;Chelsea
 Lenox Lounge;Harlem
-Leo's Bagels;nan
+Leo's Bagels;
 Leonardo da Vinci Ristorante & Wine Bar;Upper East Side
 Les Ambassades Boulangerie-Patisserie-Cafe;Harlem
 Les Enfants Terribles;Lower East Side
@@ -1386,7 +1386,7 @@ Ma Ma Buddha;West Village
 Macao Trading Co.;Tribeca
 Macchiato Espresso Bar;Midtown East
 Macelleria;West Village
-Macondo;nan
+Macondo;
 Mad Dog & Beans Mexican Cantina;Financial/Battery Pk
 Madison & Vine;Midtown East
 Madison Bistro;Murray Hill/Kips Bay
@@ -1483,7 +1483,7 @@ Mercat;East Village
 Merkato 55;West Village
 Mesa Grill;Union Square
 Meskel;East Village
-Meskel Ethiopian Restaurant;nan
+Meskel Ethiopian Restaurant;
 Meskerem Ethiopian Restaurant;West Village
 Meskerem Ethiopian Restaurant;Hell's Kitchen
 Metro Diner;Upper West Side
@@ -1502,7 +1502,7 @@ Michael's;Midtown West
 Milk 'N Honey;Midtown West
 Milon Restaurant;East Village
 Minca Ramen Factory;East Village
-Minetta Tavern;nan
+Minetta Tavern;
 Mint;Midtown East
 Miracle Grill;West Village
 Mishima;Murray Hill/Kips Bay
@@ -1512,7 +1512,7 @@ Mitali East;East Village
 Miyabi;West Village
 Miyagi;West Village
 Mizu Sushi;Flatiron
-Mo Ra Kote Siam;nan
+Mo Ra Kote Siam;
 MoBay;Harlem
 Moco Global Dining;Murray Hill/Kips Bay
 Moda Outdoors;Times Square
@@ -1548,7 +1548,7 @@ Mo’s Caribbean Bar and Mexican Grill;Upper East Side
 Mr. Chow;Midtown East
 Mr. Chow Tribeca;Tribeca
 Mr. Jones;Gramercy
-Mr. K's;nan
+Mr. K's;
 Mudspot;East Village
 Mudville 9;Tribeca
 Mughlai;Upper West Side
@@ -1564,7 +1564,7 @@ Métisse French Bistro;Upper West Side
 Métrazur;Midtown East
 Móle;Lower East Side
 N.Y. Dosas;West Village
-N28;nan
+N28;
 NY Noodle Town Inc.;Chinatown
 NYC ICY Company;Hell's Kitchen
 Naima;Chelsea
@@ -1607,7 +1607,7 @@ Niko's Mediterranean Grill and Bistro;Upper West Side
 Nina's Argentinian Pizzeria;Upper East Side
 Ninja New York;Tribeca
 Nino's;Upper East Side
-Nino's Bellissima Pizza;nan
+Nino's Bellissima Pizza;
 Nino's Positano;Midtown East
 Nino's Tuscany;Midtown West
 Nino’s Pizzeria;East Village
@@ -1636,7 +1636,7 @@ Notaro;Murray Hill/Kips Bay
 Nougatine;Upper West Side
 Novecento;Soho
 Novitá;Gramercy
-Num Pang;nan
+Num Pang;
 Nussbaum & Wu;Morningside Hts
 Nyonya;Little Italy
 O'Hara's Restaurant;Financial/Battery Pk
@@ -1669,9 +1669,9 @@ One Little West 12;Meatpacking District
 One83;Upper East Side
 Ono;Meatpacking District
 Ooki Sushi;Upper East Side
-Open the Sesame;nan
+Open the Sesame;
 Opia;Midtown East
-Opus;nan
+Opus;
 Orbit East Harlem;Spanish Harlem
 Orchid Caribbean/Soul Cuisine;Hell's Kitchen
 Oriental Garden;Chinatown
@@ -1774,7 +1774,7 @@ Perbacco;East Village
 Peri Ela;Upper East Side
 Perilla;West Village
 Periyali;Flatiron
-Permanent Brunch;nan
+Permanent Brunch;
 Perry St;West Village
 Persephone;Upper East Side
 Persepolis;Upper East Side
@@ -1870,7 +1870,7 @@ Pulse;Midtown West
 Punch Restaurant;Flatiron
 Punjabi Deli;East Village
 Pure Food and Wine;Gramercy
-Purnima;nan
+Purnima;
 Puttanesca;Hell's Kitchen
 Pylos;East Village
 Pyramida;Upper East Side
@@ -1940,7 +1940,7 @@ Roberto Passon;Hell's Kitchen
 Robongi Sushi;West Village
 Roc;Tribeca
 Rocco;West Village
-Rocco's Pastry Shop;nan
+Rocco's Pastry Shop;
 Rock Center Café;Midtown West
 Rocket Joe's East;Lower East Side
 Rocking Horse Cafe;Chelsea
@@ -2002,7 +2002,7 @@ Salon de Tapas;West Village
 Salsa y Salsa;Chelsea
 Salt Bar;Lower East Side
 Salud! Restaurant & Bar;Financial/Battery Pk
-Salumeria Rosi;nan
+Salumeria Rosi;
 Salute!;Midtown West
 Samad's;Morningside Hts
 Samalita's Sunflower Restaurant;Upper East Side
@@ -2036,8 +2036,8 @@ Scalini Fedeli;Tribeca
 Scarlatto;Times Square
 Scarpetta;Chelsea
 Schiller's Liquor Bar;Lower East Side
-Scuderia;nan
-Secession;nan
+Scuderia;
+Secession;
 Sel & Poivre;Upper East Side
 Selena;Midtown West
 Seoul Garden;Midtown West
@@ -2096,7 +2096,7 @@ Smith & Mills;Tribeca
 Smith & Wollensky;Midtown East
 Smith's;West Village
 Smokin’ Q;Midtown West
-Smorgas Chef;nan
+Smorgas Chef;
 SnAKS;Midtown East
 Snack;Soho
 Snack Dragon Taco Shack;East Village
@@ -2116,7 +2116,7 @@ Solo Pizza;East Village
 Son Cubano;Chelsea
 Song Chu Mei;West Village
 Sookk;Upper West Side
-Sorella;nan
+Sorella;
 Soto;West Village
 Souen;Soho
 Souen;West Village
@@ -2141,7 +2141,7 @@ Spitzer's Corner;Lower East Side
 Spoon;Flatiron
 Spotlight Live;Times Square
 Spring Street Natural;Nolita
-Spunto;nan
+Spunto;
 Square Diner;Tribeca
 St. Andrews;Times Square
 Stage Deli;Midtown West
@@ -2188,7 +2188,7 @@ Sushiden;Times Square
 Sushiden;Midtown East
 Sushiya;Midtown West
 Suzie's;West Village
-Sweetiepie;nan
+Sweetiepie;
 Swich Pressed Sandwiches;Chelsea
 Swifty's;Upper East Side
 Swing 46;Hell's Kitchen
@@ -2228,7 +2228,7 @@ Tang Tang;Upper East Side
 Tanti Baci Caffe;West Village
 Tao Asian Bistro;Midtown East
 Taqueria y Fonda la Mexicana;Upper West Side
-Tarallucci e Vino;nan
+Tarallucci e Vino;
 Tartine;West Village
 Taste Restaurant & Wine Bar;Upper East Side
 Tataki;Tribeca
@@ -2295,7 +2295,7 @@ The Library at 540 Park;Upper East Side
 The London Bar;Midtown West
 The Madras Cafe;East Village
 The Mercer Kitchen;Soho
-The Mercury Dime;nan
+The Mercury Dime;
 The Mermaid Inn;East Village
 The Mermaid Inn;Upper West Side
 The Modern;Midtown West
@@ -2380,7 +2380,7 @@ Tossed;Gramercy
 Totonno's;Upper East Side
 Totonno's;Gramercy
 Tout Va Bien;Hell's Kitchen
-Tracy Stern SALONTEA TeaBar;nan
+Tracy Stern SALONTEA TeaBar;
 Trailer Park Lounge & Grill;Chelsea
 Tramway Diner;Upper East Side
 Trata Estiatorio;Upper East Side
@@ -2469,7 +2469,7 @@ Village;West Village
 Village Mingala;East Village
 Village Natural;West Village
 Village Pizza;West Village
-Village Tart;nan
+Village Tart;
 Vince & Eddie's;Upper West Side
 Vincent's;Little Italy
 Vinci's;Upper East Side
@@ -2493,13 +2493,13 @@ Water Moon;Upper West Side
 Waterfront Ale House;Murray Hill/Kips Bay
 Waterstone Grill;Financial/Battery Pk
 Waverly Restaurant;West Village
-Wechsler’s Currywurst & Bratwurst;nan
+Wechsler’s Currywurst & Bratwurst;
 West Bank Cafe;Hell's Kitchen
 West Branch;Upper West Side
 Westville;West Village
 Westville East;East Village
 Westway Diner;Hell's Kitchen
-White Slab Palace;nan
+White Slab Palace;
 Whym;Hell's Kitchen
 Wild Ginger;Little Italy
 Wild Ginger;West Village
@@ -2520,7 +2520,7 @@ Wonjo Korean Restaurant;Midtown West
 Woo Chon;Midtown West
 Woo Lae Oak;Soho
 World Yacht Dining Cruises;Hell's Kitchen
-Xai Xai;nan
+Xai Xai;
 Xe Lua;Chinatown
 Xinjiang Kebabs;Lower East Side
 Xunta Tapas Bar;East Village
@@ -2533,7 +2533,7 @@ Yama;Union Square
 Yatagan Kebab House;West Village
 Yoláto;West Village
 Yoshinoya;Times Square
-Yozakura Kushiyaki Bar;nan
+Yozakura Kushiyaki Bar;
 Yuca Bar;East Village
 Yuka;Upper East Side
 Yuki Sushi;Upper West Side
@@ -2553,7 +2553,7 @@ Zarela;Midtown East
 Zebú Grill;Upper East Side
 Zen Palate;Hell's Kitchen
 Zenith;Hell's Kitchen
-Zeppelin;nan
+Zeppelin;
 Zereoué;Murray Hill/Kips Bay
 Zerza;East Village
 Zesty Pizza and Deli;Upper East Side
@@ -2602,7 +2602,7 @@ wd~50;Lower East Side
 ¡Vamos!;Gramercy
 ápizz;Lower East Side
 ‘21’ Club;Midtown West
-’Inoteca and Liquiri Bar;nan
+’Inoteca and Liquiri Bar;
 ’beca Restaurant;Tribeca
 ’ino;West Village
 ’inoteca;Lower East Side
