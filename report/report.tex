@@ -112,8 +112,47 @@
 
 \newpage
 
-\section{Stato dell'arte} %va bene chiamarlo così? ahah
+\section{Ricerca} 
+
+\subsection{Record Linkage - introduzione}
+
+\subsection{Metodologie (?) di Record Linkage}
+% secondo me ci sta vedere anche le slide dei prof ma meglio citare articoli
+
+\subsection{Tools usati}
+
+\subsubsection{Python Record Linkage Toolkit }
+Python Record Linkage Toolkit è una libreria che permette di effettuare record linkage sia in una sola fonte di dati che in multiple. Il package contiene metodi di indexing, come blocking e sorted neighbourhood indexing, funzioni per il confronto con diverse misure di similarità possibili e diversi algoritmi di classificazione, sia supervisionati che non. 
+
 
 \section{Esperimenti}
+\subsection{Dataset}
+Il dataset scelto per effettuare i nostri esperimenti contiene elenchi di ristoranti di Manhattan provenienti da 12 siti web, presi settimanalmente da Gennaio a Marzo 2009. Sono riportati in tutti il nome del ristorante, l'indirizzo e la città.
 
+\subsection{Pulizia dei dati}
+Prima di applicare le tecniche di record linkage è stata effettuata una pulizia dei dati. Avevamo a disposizione 7 file .txt, uno per ogni settimana considerata, contenente dati appartenenti a tutti i siti web. In totale erano presenti 215555 record, suddivisi come illustrato nella tabella:
+\begin{table}[H] \centering
+\begin{tabular}{|l|l|}
+\hline
+\multicolumn{1}{|c|}{\textbf{file}} & \multicolumn{1}{c|}{\textbf{records}} \\ \hline
+restaurants\_2009\_1\_22.txt & 30401 \\ \hline
+restaurants\_2009\_1\_29.txt & 30775 \\ \hline
+restaurants\_2009\_2\_05.txt & 30805 \\ \hline
+restaurants\_2009\_2\_12.txt & 30863 \\ \hline
+restaurants\_2009\_2\_19.txt & 30876 \\ \hline
+restaurants\_2009\_2\_26.txt & 30898 \\ \hline
+restaurants\_2009\_3\_12.txt & 30937 \\ \hline
+\end{tabular}
+\caption{Record presenti nei file txt forniti}
+\label{tab:Tab}
+\end{table}
+
+%mettere varie info sui dati tipo numero record ecc 
+\subsubsection{Risultati}
+%info sui dati puliti
+
+\subsection{Record Linkage}
+
+\subsection{Gold Standard}
+%possiamo vedere il gold standard e confrontarlo con i nostri risultati
 \end{document}
