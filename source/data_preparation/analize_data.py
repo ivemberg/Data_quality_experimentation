@@ -17,9 +17,7 @@ path2 = './data/restaurants/grouped_by_restaurant'
 info2 = []
 
 for filename in glob.glob(os.path.join(path2, '*.txt')):
-   with open(filename, 'r') as f: 
+   with open(filename, 'r', encoding='utf-8') as f: 
       df = pd.DataFrame(f)
       i = filename, df.shape
       info2.append(i)
-
-print(info2)
