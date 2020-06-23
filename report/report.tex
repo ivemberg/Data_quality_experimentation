@@ -114,7 +114,57 @@
 
 \section{Ricerca} 
 
-\subsection{Record Linkage - introduzione}
+\subsection{Data Quality}
+
+La consapevolezza del peso che dati di alta qualità hanno nel supportare decisioni informate e, viceversa, delle conseguenze disastrose cui dati inaccurati possono portare, è cresciuta di pari passo con il diffondersi delle fonti informative a disposizione delle organizzazioni, creando sempre più forte l’esigenza di una gestione adeguata della qualità dei dati aziendali. \\
+La ricerca sulla qualità dei dati è iniziata correttamente negli anni '90 e varie definizioni di ciò sono state definite nel corso degli anni. \\
+Un gruppo di ricerca del MIT, guidato da il professor Wang, ha definito la qualità dei dati come condizione per l'uso e ha proposto il suo giudizio dipende dai suoi consumatori. Allo stesso tempo, hanno definito una "dimensione della qualità dei dati" come un insieme di attributi di qualità dei dati che rappresentano un singolo aspetto o costrutto della qualità dei dati. \\
+Sono necessarie tecniche di misurazione completa per consentire alle organizzazioni di valutare lo stato della loro qualità delle informazioni organizzative e monitorarne il miglioramento. \\
+Ma cosa si intende quando si parla di qualità dei dati e come si misura? \\
+Le best practice in questo ambito suggeriscono l’utilizzo di opportune metriche per la definizione e la misurazione della qualità del dato.
+Tra le metriche più comuni troviamo:
+
+\begin{itemize}
+\item \textbf{completezza}, i dati raccolti bastano per rappresentare l'informazione necessaria; 
+\item \textbf{accuratezza}, la precisone dei dati;
+\item \textbf{tempestività}, i tempi di acquisizione dei dati sono utili per il processo;
+\item \textbf{coerenza}, i dati non sono contradditori tra di loro;
+\item \textbf{univocità}, i dati rappresentativi della stessa informazione presenti in diversi componenti del sistema informativo assumono lo stesso valore;
+\item \textbf{integrità}, i dati presenti nel sistema informativo corrispondono a quelli originariamente immessi;
+\item \textbf{conformità formale}, i dati immessi nel sistema informativo rispettano gli standard formali appositamente definiti.
+\end{itemize} 
+
+In tempi attuali, è emerso un altro tipo problema: i big data. Analisi e ricerca complete di standard di qualità e metodi di valutazione della qualità per questo tipo di informazioni attualmente manca o non è completa.
+
+\subsection{Metodoligia Data Quality}
+
+Il professor Batini definisce la metodologia di qualità dei dati come un insieme di linee guida e tecniche che, a partire dalle informazioni di input che descrivono un determinato contesto applicativo, ne deriva un processo razionale per valutare e migliorare la qualità dei dati. Ci sono tre fasi principali per tale attività:
+\begin{itemize}
+\item \textbf{ricostruzione dello stato}, al fine di ottenere due informazioni contestuali, facoltative se sono già disponibili per l'uso;
+\item \textbf{valutazione e misurazione}, misurazione della qualità lungo dimensioni della qualità pertinenti o valutazione, quando tali misurazioni vengono confrontate con i valori di riferimento;
+\item \textbf{miglioramento}, attività che mirano per raggiungere nuovi obiettivi di qualità dei dati.
+\end{itemize}
+
+\subsection{Miglioramento}
+
+Il miglioramento della qualità dei dati può essere effettuato attraverso strategie basate sui dati o sui processi. Nel primo caso, le tecniche più diffuse sono quella di standardizzazione (o normalizzazione), il record linkage e l'integrazione degli schemi e dei dati, mentre nel secondo caso si adotta un processo di ricostruzione. Nel caso del nostro progetto, per poter migliorare la qualità del dato abbiamo deciso di utilizzare la tecnica del record linkage. %%bisogna trovare una motivazione per spiegare perchè usiamo il record linkage, un motivo per cui l'abbiamo scelta
+
+\subsection{Standardizzazione}
+
+Questo processo, chiamato anche normalizzazione, sostituisce per esempio una diversa ortografia di una parola con una sola ortografia.
+
+\subsection{Comparazione stringhe}
+
+Gli errori tipografici rendono impossibile confrontare esattamente tra di loro le stinghe.  Per poter fare ciò, quindi, serve una funzione che cerca di trovare un punto di accordo tra i dati. Ci sono stati diversi tentativi di fornire questa funzione:
+
+\begin{itemize}
+\item Jaro ha proposto un comparatore di stringhe che tiene conto di inserimenti, eliminazioni e trasposizioni necessarie per abbinare le due stringhe;
+\item Winkler ha proposto una variante della distanza Jaro (Jaro-Winkler);
+\item la distanza q-gram conta il numero di q caratteri consecutivi che concordano tra due corde;
+\item la distanza di edit classica, che conta il numero di operazioni (inserimenti, eliminazioni, modi cazioni) necessarie per abbinare le due stringhe
+\end{itemize}
+
+\subsection{Record Linkage}
 
 \subsection{Metodologie (?) di Record Linkage}
 % secondo me ci sta vedere anche le slide dei prof ma meglio citare articoli
