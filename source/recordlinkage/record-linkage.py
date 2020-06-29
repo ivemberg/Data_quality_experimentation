@@ -1,59 +1,78 @@
 import recordlinkage
 import pandas as pd
 import pdb
-from recordlinkage.index import Block
-from recordlinkage.preprocessing import clean
-import addressGoogleMaps
 
-# Load data
-pdb.set_trace()
-#df1 = pd.read_csv("../../data/restaurants/gbr_splitted/ActiveDiner.csv", sep = ";") 
-df1 = pd.read_csv("DiningGuide_Fixed.csv", sep = ";")
-df1 = df1.add_prefix('0_')
-#df1 = df1[0:30]
-
-#df2 = pd.read_csv("../../data/restaurants/gbr_splitted/DiningGuide.csv", sep = ";")
-df2 = pd.read_csv("DiningGuide_Fixed.csv", sep = ";")
-df2 = df2.add_prefix('1_')
-#df2 = df2[0:30]
-
+# Some useful tutorial
 # https://recordlinkage.readthedocs.io/en/latest/notebooks/link_two_dataframes.html
-
-indexer = recordlinkage.Index()
-# This method is very useful when there are many misspellings in the string were used for indexing
-indexer.sortedneighbourhood(left_on='0_addressFix', right_on='1_addressFix')
-candidate_links = indexer.index(df1,df2)
-for couple in candidate_links:
-        ind = couple[0]
-        #print(df1.take(ind))
-
-comp = recordlinkage.Compare()
-
-comp.string('0_restaurant', '1_restaurant', label='ristorante')
-comp.string('0_addressFix', '1_addressFix', label='indirizzo')
-features = comp.compute(candidate_links, df1, df2)
-# print(features)
-# print(features.sum(axis=1).value_counts().sort_index(ascending=False))
-
 # https://pbpython.com/record-linking.html
 
-potential_matches = features[features.sum(axis=1) > 1].reset_index()
-potential_matches['Score'] = potential_matches.loc[:, 'ristorante':'indirizzo'].sum(axis=1)
-print(potential_matches)
+def deduplication() :
+	return 1
 
-'''
-df1['ActiveDiner_Lookup'] = df1[['0_restaurant', '0_address', '0_country']].apply(lambda x: ''.join(str(x)), axis=1)
-df2['DiningGuide_Lookup'] = df2[['1_restaurant', '1_address']].apply(lambda x: ''.join(str(x)), axis=1)
+def linkDB(df1, df2, type, showInfo) :
+	indexer = recordlinkage.Index()
+	if type=="sortedneighbourhood":
+		indexer.sortedneighbourhood(left_on="0_addressFix", right_on="1_addressFix")
+	elif type=="full":
+		indexer.full()
+	elif type=="block":
+		indexer.block(left_on="0_addressFix", right_on="1_addressFix")
 
-df1_lookup = df1[['ActiveDiner_Lookup']].reset_index()
-df2_lookup = df2[['DiningGuide_Lookup']].reset_index()
+	candidate_links = indexer.index(df1,df2)
+	print(len(candidate_links))
 
-account_merge = potential_matches.merge(df1_lookup, left_on="level_0", right_index=True, how='left')
-final_merge = account_merge.merge(df2_lookup, left_on="level_1", right_index=True, how='left')
-final_merge.to_csv('test_OKAMI.csv', header=True, sep=";", decimal=',', float_format='%.3f')
-'''
+	# Comparison step
+	comp = recordlinkage.Compare()
+	comp.string('0_restaurant', '1_restaurant', threshold=0.7, label='ristorante')
+	comp.string('0_address', '1_address', threshold=0.5, label='indirizzoOriginale')
+	comp.exact('0_addressFix', '1_addressFix', label='indirizzoGoogle')
+	features = comp.compute(candidate_links, df1, df2)
 
-account_merge = potential_matches.merge(df1, left_on="level_0", right_index=True, how='left')
-final_merge = account_merge.merge(df2, left_on="level_1", right_index=True, how='left')
-final_merge = final_merge.sort_values("Score", ascending=False)
-final_merge.to_csv('test_OKAMI.csv', header=True, sep=";", decimal=',', float_format='%.3f')
+	'''
+	df1['ActiveDiner_Lookup'] = df1[['0_restaurant', '0_address', '0_country']].apply(lambda x: ''.join(str(x)), axis=1)
+	df2['DiningGuide_Lookup'] = df2[['1_restaurant', '1_address']].apply(lambda x: ''.join(str(x)), axis=1)
+
+	df1_lookup = df1[['ActiveDiner_Lookup']].reset_index()
+	df2_lookup = df2[['DiningGuide_Lookup']].reset_index()
+
+	account_merge = potential_matches.merge(df1_lookup, left_on="level_0", right_index=True, how='left')
+	final_merge = account_merge.merge(df2_lookup, left_on="level_1", right_index=True, how='left')
+	final_merge.to_csv('test_OKAMI.csv', header=True, sep=";", decimal=',', float_format='%.3f')
+	'''
+
+	potential_matches = features[features.sum(axis=1) == 3].reset_index()
+	if showInfo :
+		potential_matches['Score'] = potential_matches.loc[:, ['ristorante','indirizzoOriginale','indirizzoGoogle']].sum(axis=1)
+
+	account_merge = potential_matches.merge(df1, left_on="level_0", right_index=True, how='outer')
+	final_merge = account_merge.merge(df2, left_on="level_1", right_index=True, how='outer')
+	#final_merge.set_index([])
+
+	if showInfo :
+		final_merge.sort_values("Score", ascending=False)
+	else :
+		for index, element in enumerate(final_merge['0_restaurant']):
+			if pd.isnull(element) :
+				a = 1
+				# pdb.set_trace()
+				# non va porco cazzo di merda
+				#final_merge.set_value(index, '0_restaurant', final_merge.iloc[index]['1_restaurant'])
+		final_merge.drop(['level_0', 'level_1', 'ristorante', 'indirizzoOriginale', 'indirizzoGoogle', '1_restaurant', '1_address', '1_addressFix'], axis=1, inplace=True)
+	return final_merge
+
+def main():
+	#df1 = pd.read_csv("../../data/restaurants/gbr_splitted/ActiveDiner.csv", sep = ";") 
+	df1 = pd.read_csv("DiningGuide_Fixed.csv", sep = ";")
+	df1 = df1.add_prefix('0_')
+	#df1 = df1[0:30]
+
+	#df2 = pd.read_csv("../../data/restaurants/gbr_splitted/DiningGuide.csv", sep = ";")
+	df2 = pd.read_csv("FoodBuzz_Fixed.csv", sep = ";")
+	df2 = df2.add_prefix('1_')
+	#df2 = df2[0:30]
+
+	final_merge = linkDB(df1, df2, type="sortedneighbourhood", showInfo=True)
+	final_merge.to_csv('test_OKAMI.csv', header=True, sep=";", decimal=',', float_format='%.3f', index=False)
+
+if __name__ == "__main__":
+	main()

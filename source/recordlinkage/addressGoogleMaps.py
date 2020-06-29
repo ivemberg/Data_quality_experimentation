@@ -39,11 +39,11 @@ if __name__ == "__main__":
 	#googleAddress("917-790-2525")
 
 
-	df1 = pd.read_csv("../../data/restaurants/gbr_splitted/DiningGuide.csv", sep = ";") 
+	df1 = pd.read_csv("../../data/restaurants/gbr_splitted/ActiveDiner.csv", sep = ";") 
 
 	df1["addressFix"] = df1["address"].apply(googleAddress)
 
-	df1.to_csv('DiningGuide.csv', header=True, sep=";", decimal=',', float_format='%.3f')
+	df1.to_csv('ActiveDiner_Fixed.csv', header=True, sep=";", decimal=',', float_format='%.3f')
 
 
 
