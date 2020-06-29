@@ -6,8 +6,9 @@ from recordlinkage.preprocessing import clean
 import addressGoogleMaps
 
 # Load data
+pdb.set_trace()
 #df1 = pd.read_csv("../../data/restaurants/gbr_splitted/ActiveDiner.csv", sep = ";") 
-df1 = pd.read_csv("ActiveDiner_Fixed.csv", sep = ";")
+df1 = pd.read_csv("DiningGuide_Fixed.csv", sep = ";")
 df1 = df1.add_prefix('0_')
 #df1 = df1[0:30]
 
