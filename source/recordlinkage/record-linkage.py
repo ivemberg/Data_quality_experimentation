@@ -72,7 +72,7 @@ def main():
 	#df2 = df2[0:30]
 
 	final_merge = linkDB(df1, df2, type="sortedneighbourhood", showInfo=True)
-	final_merge.to_csv('test_OKAMI.csv', header=True, sep=";", decimal=',', float_format='%.3f', index=False)
+	final_merge.to_csv('DiningGuide_FoodBuzz.csv', header=True, sep=";", decimal=',', float_format='%.3f', index=False)
 
 if __name__ == "__main__":
 	main()
