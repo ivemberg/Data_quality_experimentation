@@ -61,18 +61,16 @@ def linkDB(df1, df2, type, showInfo) :
 	return final_merge
 
 def main():
-	#df1 = pd.read_csv("../../data/restaurants/gbr_splitted/ActiveDiner.csv", sep = ";") 
-	df1 = pd.read_csv("DiningGuide_Fixed.csv", sep = ";")
+	
+	df1 = pd.read_csv("data/restaurants/gbr_splitted_google/DiningGuide_Fixed.csv", sep = ";")
 	df1 = df1.add_prefix('0_')
-	#df1 = df1[0:30]
 
-	#df2 = pd.read_csv("../../data/restaurants/gbr_splitted/DiningGuide.csv", sep = ";")
-	df2 = pd.read_csv("FoodBuzz_Fixed.csv", sep = ";")
+	df2 = pd.read_csv("data/restaurants/gbr_splitted_google/ActiveDiner_Fixed.csv", sep = ";")
 	df2 = df2.add_prefix('1_')
-	#df2 = df2[0:30]
 
-	final_merge = linkDB(df1, df2, type="sortedneighbourhood", showInfo=True)
-	final_merge.to_csv('DiningGuide_FoodBuzz.csv', header=True, sep=";", decimal=',', float_format='%.3f', index=False)
-
+	final_merge = linkDB(df1, df2, type="sortedneighbourhood", showInfo=False)
+	final_merge.to_csv('DiningGuide_ActiveDiner.csv', header=True, sep=";", decimal=',', float_format='%.3f', index=False)
+	prova= final_merge['level_0'].nunique()
+	print(prova)
 if __name__ == "__main__":
 	main()

@@ -1,0 +1,1731 @@
+level_0;level_1;ristorante;indirizzoOriginale;indirizzoGoogle;Score;0_restaurant;0_address;0_addressFix;1_restaurant;1_address;1_neighborhood;1_type;1_cost;1_addressFix
+0,000;715,000;1,000;1,000;1,000;3,000;1 Nocello;257 West 55th Street;257 W 55th St, New York, NY 10019, USA;Nocello;257 West 55th St;Midtown West;Italian;$$$;257 W 55th St, New York, NY 10019, USA
+0,000;716,000;1,000;1,000;1,000;3,000;1 Nocello;257 West 55th Street;257 W 55th St, New York, NY 10019, USA;Nocello;257 West 55th Street;Theater;Italian;$$$$;257 W 55th St, New York, NY 10019, USA
+2,000;6,000;1,000;1,000;1,000;3,000;2 West;2 West Street;2 West St, New York, NY 10004, USA;2 West;2 West St;Financial District;American;$$$;2 West St, New York, NY 10004, USA
+3,000;7,000;1,000;1,000;1,000;3,000;21 Club;21 West 52nd Street;21 W 52nd St, New York, NY 10019, United States;21 Club;21 W 52nd St;Midtown West;American;$$$;21 W 52nd St, New York, NY 10019, United States
+11,000;17,000;1,000;1,000;1,000;3,000;A Voce;41 Madison Avenue;Jerome Mansion, 41 Madison Ave, New York, NY 10010, USA;A Voce;41 Madison Ave;Gramercy Park;Italian;$$$$;Jerome Mansion, 41 Madison Ave, New York, NY 10010, USA
+12,000;25,000;1,000;1,000;1,000;3,000;A.J Maxwells - Steakhouse;57 West 48 Street;57 W 48th St, New York, NY 10036, USA;Aj Maxwell's - Steakhouse;57 West 48th Street;Midtown West;Steakhouse;$$$$;57 W 48th St, New York, NY 10036, USA
+18,000;22,000;1,000;1,000;1,000;3,000;Ada;208 East 58th Street;208 E 58th St, New York, NY 10022, USA;Ada;208 E 58th Street;Midtown East;Indian;$$$;208 E 58th St, New York, NY 10022, USA
+22,000;23,000;1,000;1,000;1,000;3,000;Agave;140 7th Avenue South;140 7th Ave S, St. Petersburg, FL 33701, USA;Agave;140 7th Ave South;Greenwich Village;Southwestern;$$;140 7th Ave S, St. Petersburg, FL 33701, USA
+35,000;30,000;1,000;1,000;1,000;3,000;Alfama;551 Hudson Street;551 Hudson St, New York, NY 10014, USA;Alfama;551 Hudson St;Greenwich Village;Portuguese;$$;551 Hudson St, New York, NY 10014, USA
+36,000;31,000;1,000;1,000;1,000;3,000;Alfredo of Rome;4 West 49th Street;4 W 49th St, New York, NY 10020, USA;Alfredo Of Rome;4 W 49th St;;;;4 W 49th St, New York, NY 10020, USA
+37,000;35,000;1,000;1,000;1,000;3,000;Allegretti;46 West 22nd Street;46 W 22nd St, New York, NY 10010, USA;Allegretti;46 West 22nd St;Flatiron;French;$$$$;46 W 22nd St, New York, NY 10010, USA
+38,000;36,000;1,000;1,000;1,000;3,000;Allen and Delancey;115 Allen Street;115 Allen St, New York, NY 10002, USA;Allen & Delancey;115 Allen St;Lower East Side;American;$$$;115 Allen St, New York, NY 10002, USA
+40,000;38,000;1,000;1,000;1,000;3,000;Alonso's Steakhouse;265 West 20th Street;265 W 20th St, New York, NY 10011, USA;Alonso's Steakhouse;265 West 20th St;Chelsea;Steakhouse;$$$;265 W 20th St, New York, NY 10011, USA
+45,000;46,000;1,000;1,000;1,000;3,000;Amber;1406 3rd Avenue;1406 3rd Ave, New York, NY 10075, USA;Amber;1406 Third Ave.;Pan-Asian;$$;;1406 3rd Ave, New York, NY 10075, USA
+107,000;99,000;1,000;1,000;1,000;3,000;Bar Americain;152 West 52nd Street;152 W 52nd St, New York, NY 10019, USA;Bar Americain;152 W 52nd St;Midtown West;American;$$$$;152 W 52nd St, New York, NY 10019, USA
+583,000;746,000;1,000;1,000;1,000;3,000;Ouest;2315 Broadway;2315 Broadway, New York, NY 10024, USA;Ouest;2315 Broadway;Upper West Side;American;$$$$;2315 Broadway, New York, NY 10024, USA
+56,000;47,000;1,000;1,000;1,000;3,000;Amma;246 East 51st Street;246 E 51st St, New York, NY 10022, USA;Amma;246 E 51st St;Midtown East;Indian;$$$$;246 E 51st St, New York, NY 10022, USA
+57,000;48,000;1,000;1,000;1,000;3,000;Ammos Estiatorio;52 Vanderbilt Avenue;52 Vanderbilt Ave, New York, NY 10017, USA;Ammos Estiatorio;52 Vanderbilt Ave;Midtown East;Greek;$$$;52 Vanderbilt Ave, New York, NY 10017, USA
+65,000;57,000;1,000;1,000;1,000;3,000;Apiary;60 3rd Avenue;60 3rd Ave, New York, NY 10003, USA;Apiary;60 Third Ave.;East Village;American;$$$$;60 3rd Ave, New York, NY 10003, USA
+66,000;58,000;1,000;1,000;1,000;3,000;Apizz;217 Elridge Street;217 Eldridge St, New York, NY 10002, USA;Apizz;217 Eldridge St;Lower East Side;Italian;$$$;217 Eldridge St, New York, NY 10002, USA
+67,000;61,000;1,000;1,000;1,000;3,000;Aquavit;65 East 55th Street;65 E 55th St, New York, NY 10022, United States;Aquavit;65 East 55th Street;Midtown West;Scandinavian;$$$$;65 E 55th St, New York, NY 10022, United States
+72,000;66,000;1,000;1,000;1,000;3,000;Arte Cafe;106 West 73rd Street;106 W 73rd St, New York, NY 10023, USA;Arte Cafe;106 W 73rd St;Upper West Side;Italian;$$;106 W 73rd St, New York, NY 10023, USA
+73,000;69,000;1,000;1,000;1,000;3,000;Artisanal;2 Park Avenue;2 Park Ave, New York, NY 10016, USA;Artisanal;2 Park Avenue;Lower East Side;French;$$$;2 Park Ave, New York, NY 10016, USA
+78,000;74,000;1,000;1,000;1,000;3,000;Aspen;30 West 22nd Street;30 W 22nd St, New York, NY 10010, USA;Aspen;30 W 22nd St;;;;30 W 22nd St, New York, NY 10010, USA
+79,000;75,000;1,000;1,000;1,000;3,000;Aspen Social Club;157 West 47th Street;157 W 47th St, New York, NY 10036, USA;Aspen Social Club;157 W 47th St;Midtown West;American;$$$$;157 W 47th St, New York, NY 10036, USA
+88,000;82,000;1,000;1,000;1,000;3,000;Avra Estiatorio;141 East 48th Street;141 E 48th St, New York, NY 10017, USA;Avra Estiatorio;141 E 48th St;Midtown East;Greek;$$$$;141 E 48th St, New York, NY 10017, USA
+89,000;84,000;1,000;1,000;1,000;3,000;Azafran;77 Warren Street;77 Warren St, New York, NY 10007, USA;Azafran;77 Warren St;TriBeCa;Spanish;$$$;77 Warren St, New York, NY 10007, USA
+93,000;88,000;1,000;1,000;1,000;3,000;B. Smith's Restaurant Row;320 West 46th Street;320 W 46th St, New York, NY 10036, USA;B. Smith's Restaurant Row;320 West 46th St;Midtown West;Southern;$$$;320 W 46th St, New York, NY 10036, USA
+98,000;92,000;1,000;1,000;1,000;3,000;Babbo;110 Waverly Place;110 Waverly Pl, New York, NY 10011, USA;Babbo;110 Waverly Pl;Greenwich Village;Italian;$$$$;110 Waverly Pl, New York, NY 10011, USA
+102,000;93,000;1,000;1,000;1,000;3,000;Baldoria;249 West 49th Street;249 W 49th St, New York, NY 10019, USA;Baldoria;249 West 49th Street;Midtown West;Italian;$$$$;249 W 49th St, New York, NY 10019, USA
+106,000;97,000;1,000;1,000;1,000;3,000;Bann;350 West 50th Street;350 W 50th St, New York, NY 10019, USA;Bann;350 W 50th St;Theater;Korean;$$$;350 W 50th St, New York, NY 10019, USA
+112,000;104,000;1,000;1,000;1,000;3,000;Baraonda;1439 Second Avenue;1439 2nd Ave, New York, NY 10021, USA;Baraonda;1439 Second Avenue;;;;1439 2nd Ave, New York, NY 10021, USA
+113,000;105,000;1,000;1,000;1,000;3,000;Barbetta;321 West 46th Street;321 W 46th St, New York, NY 10036, USA;Barbetta;321 W 46th Street;Midtown East;Italian;$$$;321 W 46th St, New York, NY 10036, USA
+122,000;115,000;1,000;1,000;1,000;3,000;Becco;355 West 46 Street;355 W 46th St, New York, NY 10036, USA;Becco;355 W 46th St;Midtown West;Italian;$$$;355 W 46th St, New York, NY 10036, USA
+128,000;118,000;1,000;1,000;1,000;3,000;Bello Sguardo;410 Amsterdam Avenue;410 Amsterdam Ave, New York, NY 10024, USA;Bello Sguardo;410 Amsterdam Ave;Upper West Side;Mediterranean;$$;410 Amsterdam Ave, New York, NY 10024, USA
+149,000;140,000;1,000;1,000;1,000;3,000;Blue Hill;75 Washington Place;75 Washington Pl, New York, NY 10011, USA;Blue Hill;75 Washington Place;Greenwich Village;American;$$$$;75 Washington Pl, New York, NY 10011, USA
+150,000;144,000;1,000;1,000;1,000;3,000;Blue Smoke;116 East 27th Street;116 E 27th St, New York, NY 10016, USA;Blue Smoke;116 E 27th St;Gramercy Park;Barbecue;$$;116 E 27th St, New York, NY 10016, USA
+160,000;163,000;1,000;1,000;1,000;3,000;Borgo Antico;22 East 13th Street;22 E 13th St, New York, NY 10003, USA;Borgo Antico;22 E 13th St;East Village;Italian;$$$;22 E 13th St, New York, NY 10003, USA
+174,000;176,000;1,000;1,000;1,000;3,000;Broadway Joe Steakhouse;315 West 46 Street;315 W 46th St, New York, NY 10036, USA;Broadway Joe Steakhouse;315 West 46th Street;Theater;Steakhouse;$$$;315 W 46th St, New York, NY 10036, USA
+178,000;179,000;1,000;1,000;1,000;3,000;Bubble Lounge;228 West Broadway;228 W Broadway, New York, NY 10013, USA;Bubble Loung;228 W Broadway;TriBeCa;Small Plates;$$$;228 W Broadway, New York, NY 10013, USA
+179,000;183,000;1,000;1,000;1,000;3,000;Buddha Bar;25 Little West 12th Street;25 Little W 12th St, New York, NY 10014, USA;Buddha Bar;25 Little West 12th Street;Meatpacking District;Asian;$$$$;25 Little W 12th St, New York, NY 10014, USA
+180,000;186,000;1,000;1,000;1,000;3,000;Bull Run;52 William Street;52 William St, New York, NY 10005, USA;Bull Run;52 William St;Financial District;American;$$$;52 William St, New York, NY 10005, USA
+188,000;189,000;1,000;1,000;1,000;3,000;Butai;115 East 18th Street;115 E 18th St, New York, NY 10003, USA;Butai;115 E 18th St;Gramercy Park;Japanese;$$$;115 E 18th St, New York, NY 10003, USA
+189,000;190,000;1,000;1,000;1,000;3,000;Butter;415 Lafayette Street;415 Lafayette St, New York, NY 10003, USA;Butter;415 Lafayette St;East Village;American;$$$;415 Lafayette St, New York, NY 10003, USA
+196,000;201,000;1,000;1,000;1,000;3,000;Cafe Espanol;172 Bleecker Street;172 Bleecker St, New York, NY 10012, USA;Cafe Espanol;172 Bleecker Street;Greenwich Village;American;$;172 Bleecker St, New York, NY 10012, USA
+197,000;202,000;1,000;1,000;1,000;3,000;Cafe Frida;368 Columbus Avenue;368 Columbus Ave, New York, NY 10024, USA;Cafe Frida;368 Columbus Ave;Upper West Side;Mexican;$$;368 Columbus Ave, New York, NY 10024, USA
+199,000;207,000;1,000;1,000;1,000;3,000;Cafe Lalo;201 West 83 Street;201 W 83rd St, New York, NY 10024, USA;Cafe Lalo;201 W 83rd St;Upper West Side;American;$;201 W 83rd St, New York, NY 10024, USA
+209,000;220,000;1,000;1,000;1,000;3,000;Calle Ocho;446 Columbus Avenue;446 Columbus Ave, New York, NY 10024, USA;Calle Ocho;446 Columbus Avenue;Upper West Side;Cuban;$$;446 Columbus Ave, New York, NY 10024, USA
+211,000;225,000;1,000;1,000;1,000;3,000;Candle 79;154 East 79th Street;154 E 79th St, New York, NY 10075, USA;Candle 79;154 E 79 St;Upper East Side;Vegetarian;$$;154 E 79th St, New York, NY 10075, USA
+213,000;227,000;1,000;1,000;1,000;3,000;Canyon Road;1470 1st Avenue;1470 1st Avenue, New York, NY 10075, USA;Canyon Road;1470 First Avenue;Upper East Side;Southwestern;$$;1470 1st Avenue, New York, NY 10075, USA
+216,000;230,000;1,000;1,000;1,000;3,000;Carmine's;2450 Broadway;2450 Broadway, New York, NY 10024, USA;Carmine's;2450 Broadway;Midtown West;Italian;$$;2450 Broadway, New York, NY 10024, USA
+230,000;242,000;1,000;1,000;1,000;3,000;Chanterelle;2 Harrison Street;2 Harrison St, San Francisco, CA 94105, USA;Chanterelle;2 Harrison St;TriBeCa;French;$$$$$;2 Harrison St, San Francisco, CA 94105, USA
+235,000;247,000;1,000;1,000;1,000;3,000;Chez Jacqueline;72 MacDougal Street;72 MacDougal St, New York, NY 10012, USA;Chez Jacqueline;72 Macdougal St;Greenwich Village;French;$$$;72 MacDougal St, New York, NY 10012, USA
+236,000;250,000;1,000;1,000;1,000;3,000;Chin Chin;216 East 49th Street;216 E 49th St, New York, NY 10017, USA;Chin Chin;216 E 49th St;Midtown East;Chinese;$$$;216 E 49th St, New York, NY 10017, USA
+243,000;254,000;1,000;1,000;1,000;3,000;Chinatown Brasserie;380 Lafayette Street;380 Lafayette St, New York, NY 10003, USA;Chinatown Brasserie;380 Lafayette St;NoLita;Chinese;$$$;380 Lafayette St, New York, NY 10003, USA
+252,000;264,000;1,000;1,000;1,000;3,000;Cibo;767 Second Avenue;767 2nd Ave, New York, NY 10017, USA;Cibo;767 Second Avenue;Midtown East;American;$$$;767 2nd Ave, New York, NY 10017, USA
+257,000;268,000;1,000;1,000;1,000;3,000;Citrus Bar & Grill;320 Amsterdam Avenue;320 Amsterdam Ave, New York, NY 10023, USA;Citrus Bar & Grill;320 Amsterdam Ave;Upper West Side;Asian;$$;320 Amsterdam Ave, New York, NY 10023, USA
+258,000;271,000;1,000;1,000;1,000;3,000;City Crab & Seafood Company;235 Park Avenue South;235 Park Ave S, New York, NY 10003, USA;City Crab & Seafood;235 Park Ave S;Lower East Side;Seafood;$$$;235 Park Ave S, New York, NY 10003, USA
+259,000;272,000;1,000;1,000;1,000;3,000;City Hall;131 Duane Street;131 Duane St, New York, NY 10013, USA;City Hall;131 Duane St;TriBeCa;Seafood;$$$;131 Duane St, New York, NY 10013, USA
+265,000;274,000;1,000;1,000;1,000;3,000;Colors;417 Lafayette Street;417 Lafayette St, New York, NY 10003, USA;Colors;417 Lafayette St;East Village;International;$$$;417 Lafayette St, New York, NY 10003, USA
+266,000;275,000;1,000;1,000;1,000;3,000;Columbus Bakery;474 Columbus Avenue;474 Columbus Ave, New York, NY 10024, USA;Columbus Bakery;474 Columbus Ave;;;;474 Columbus Ave, New York, NY 10024, USA
+271,000;279,000;1,000;1,000;1,000;3,000;Cookshop;156 10th Avenue;156 10th Ave, New York, NY 10011, USA;Cookshop;156 10th Ave;Chelsea;American;$$$$;156 10th Ave, New York, NY 10011, USA
+274,000;281,000;1,000;1,000;1,000;3,000;Cornelia Street Cafe;29 Cornelia Street;29 Cornelia St, New York, NY 10014, USA;Cornelia Street Cafe;29 Cornelia Street;Greenwich Village;American;$$$;29 Cornelia St, New York, NY 10014, USA
+284,000;289,000;1,000;1,000;1,000;3,000;Craftbar;900 Broadway;900 Broadway;Craftbar;900 Broadway;Flatiron;American;$$$;900 Broadway
+286,000;291,000;1,000;1,000;1,000;3,000;Crema Restaurante;111 West 17th Street;111 W 17th St, New York, NY 10011, USA;Crema Restaurante;111 West 17th Street;Chelsea;Mexican;$$$;111 W 17th St, New York, NY 10011, USA
+287,000;294,000;1,000;1,000;1,000;3,000;Crispo;240 West 14th Street;240 W 14th St, New York, NY 10011, USA;Crispo;240 W 14th St;West Village;Italian;$$$;240 W 14th St, New York, NY 10011, USA
+291,000;298,000;1,000;1,000;1,000;3,000;Cuba;222 Thompson Street;222 Thompson St, New York, NY 10012, USA;Cuba;222 Thompson Street;Greenwich Village;Cuban;$$;222 Thompson St, New York, NY 10012, USA
+292,000;299,000;1,000;1,000;1,000;3,000;Cuba Cafe;200 8th Avenue;200 8th Ave, New York, NY 10011, USA;Cuba Cafe;200 Eighth Ave;Chelsea;Cuban;$;200 8th Ave, New York, NY 10011, USA
+294,000;1066,000;1,000;1,000;1,000;3,000;DB Bistro Moderne;55 West 44th Street;55 W 44th St, New York, NY 10036, USA;db Bistro Moderne;55 W 44th Street;Midtown West;French;$$$$;55 W 44th St, New York, NY 10036, USA
+301,000;314,000;1,000;1,000;1,000;3,000;Davidburke & Donatella;133 East 61st Street;133 E 61st St, New York, NY 10065, USA;Davidburke & Donatella;133 E 61st St;Upper East Side;American;$$$$;133 E 61st St, New York, NY 10065, USA
+306,000;320,000;1,000;1,000;1,000;3,000;Delmonico's;56 Beaver Street;56 Beaver St, New York, NY 10004, USA;Delmonico's;56 Beaver Street;Financial District;American;$$$$$;56 Beaver St, New York, NY 10004, USA
+308,000;327,000;1,000;1,000;1,000;3,000;Dinosaur Bar B Que;646 West 131st Street;646 W 131st St, New York, NY 10027, USA;Dinosaur Bar-B-Que;646 W 131st St;Harlem;American;$;646 W 131st St, New York, NY 10027, USA
+317,000;336,000;1,000;1,000;1,000;3,000;Donguri;309 East 83rd Street;309 E 83rd St, New York, NY 10028, USA;Donguri;309 E 83rd St;Upper East Side;Japanese;$$$;309 E 83rd St, New York, NY 10028, USA
+326,000;343,000;1,000;1,000;1,000;3,000;Dylan Prime;62 Laight Street;62 Laight St, New York, NY 10013, USA;Dylan Prime;62 Laight St;TriBeCa;Steakhouse;$$$$$;62 Laight St, New York, NY 10013, USA
+327,000;361,000;1,000;1,000;1,000;3,000;EN Japanese Brasserie;435 Hudson Street;435 Hudson St, New York, NY 10014, USA;En Japanese Brasserie;435 Hudson St;West Village;Japanese;$$$;435 Hudson St, New York, NY 10014, USA
+336,000;354,000;1,000;1,000;1,000;3,000;El Rio Grande;160 East 38th Street;160 East 38th Street, New York, NY 10016, USA;El Rio Grande;160 East 38th Street;Midtown East;Southwestern;$$$;160 East 38th Street, New York, NY 10016, USA
+343,000;365,000;1,000;1,000;1,000;3,000;Esca;402 West 43 Street;402 W 43rd St, New York, NY 10036, USA;Esca;402 W 43rd St;Midtown West;Italian;$$$$;402 W 43rd St, New York, NY 10036, USA
+351,000;375,000;1,000;1,000;1,000;3,000;Extra Virgin;259 West 4th Street;259 West 4th Street, New York, NY 10014, USA;Extra Virgin;259 W 4th St;West Village;Mediterranean;$$;259 West 4th Street, New York, NY 10014, USA
+355,000;380,000;1,000;1,000;1,000;3,000;Fatty Crab;Manhattan · 643 Hudson Street;643 Hudson St, New York, NY 10014, USA;Fatty Crab;643 Hudson Street;Meatpacking District;Indonesian;$$;643 Hudson St, New York, NY 10014, USA
+356,000;381,000;1,000;1,000;1,000;3,000;Felidia;243 East 58th Street;243 E 58th St, New York, NY 10022, USA;Felidia;243 East 58th Street;Midtown East;Italian;$$$$;243 E 58th St, New York, NY 10022, USA
+358,000;386,000;1,000;1,000;1,000;3,000;Film Center Cafe;635 Ninth Avenue;635 9th Ave, New York, NY 10036, USA;Film Center Cafe;635 9th Avenue;Midtown West;American;$$;635 9th Ave, New York, NY 10036, USA
+363,000;11,000;1,000;1,000;1,000;3,000;Five Napkin Burger;630 9th Avenue;630 9th Ave, New York, NY 10036, USA;5 Napkin Burger;630 Ninth Ave;Hell's Kitchen;American;$$;630 9th Ave, New York, NY 10036, USA
+365,000;390,000;1,000;1,000;1,000;3,000;Fleur de Sel;5 East 20th Street;5 E 20th St, New York, NY 10003, USA;Fleur De Sel;5 E 20th St;Flatiron;French;$$$$$;5 E 20th St, New York, NY 10003, USA
+370,000;398,000;1,000;1,000;1,000;3,000;Frankie & Johnnie's Steakhouse;32 West 37th Street;32 W 37th St, New York, NY 10018, USA;Frankie & Johnnie's Steakhouse;32 W 37th St;Midtown West;Steakhouse;$$$;32 W 37th St, New York, NY 10018, USA
+371,000;402,000;1,000;1,000;1,000;3,000;Frederick's Madison;768 Madison Avenue;768 Madison Ave, New York, NY 10065, USA;Frederick's Madison;768 Madison Ave;Upper East Side;Mediterranean;$$$$;768 Madison Ave, New York, NY 10065, USA
+373,000;405,000;1,000;1,000;1,000;3,000;Fresco by Scotto;34 East 52nd Street;34 E 52nd St, New York, NY 10022, USA;Fresco by Scotto;34 E 52nd St;Midtown East;Italian;$$$;34 E 52nd St, New York, NY 10022, USA
+378,000;410,000;1,000;1,000;1,000;3,000;Gabriela's;688 Columbus Avenue;688 Columbus Ave, New York, NY 10025, USA;Gabriela's;688 Columbus Avenue;Upper West Side;Mexican;$$;688 Columbus Ave, New York, NY 10025, USA
+382,000;414,000;1,000;1,000;1,000;3,000;Gari;370 Columbus Avenue;370 Columbus Ave, New York, NY 10024, USA;Gari;370 Columbus Ave;Upper West Side;Sushi;$$$$$;370 Columbus Ave, New York, NY 10024, USA
+393,000;432,000;1,000;1,000;1,000;3,000;Gramercy Tavern;42 East 20th Street;42 E 20th St, New York, NY 10003, USA;Gramercy Tavern;42 E 20th St;Union Square;American;$$$$;42 E 20th St, New York, NY 10003, USA
+396,000;434,000;1,000;1,000;1,000;3,000;Grays Papaya;539 8th Avenue;539 8th Ave, New York, NY 10018, USA;Gray's Papaya;539 8th Avenue;Hell's Kitchen;Fast Food;$;539 8th Ave, New York, NY 10018, USA
+403,000;443,000;1,000;1,000;1,000;3,000;Gyu-Kaku;805 3rd Avenue;805 3rd Ave, New York, NY 10022, USA;Gyu-Kaku;805 3rd Ave;Midtown East;Japanese;$$;805 3rd Ave, New York, NY 10022, USA
+410,000;453,000;1,000;1,000;1,000;3,000;Havana Alma de Cuba;94 Christopher Street;94 Christopher St, New York, NY 10014, USA;Havana Alma De Cuba;94 Christopher St;West Village;Cuban;$$;94 Christopher St, New York, NY 10014, USA
+411,000;454,000;1,000;1,000;1,000;3,000;Havana Central;151 West 46th Street;151 W 46th St, New York, NY 10036, USA;Havana Central;151 W 46th Street;Midtown West;Cuban;$$;151 W 46th St, New York, NY 10036, USA
+417,000;464,000;1,000;1,000;1,000;3,000;Hill Country;30 West 26th Street;30 W 26th St, New York, NY 10010, USA;Hill Country;30 W. 26th St.;Chelsea;Barbecue;$$;30 W 26th St, New York, NY 10010, USA
+419,000;472,000;1,000;1,000;1,000;3,000;Hudson River Cafe;697 West 133rd Street;697 W 133rd St, New York, NY 10027, USA;Hudson River Café;697 West 133rd ST.;Harlem;American;$$;697 W 133rd St, New York, NY 10027, USA
+423,000;478,000;1,000;1,000;1,000;3,000;I Trulli;122 East 27th Street;122 E 27th St, New York, NY 10016, USA;I Trulli;122 E 27th St;Gramercy Park;Italian;$$$;122 E 27th St, New York, NY 10016, USA
+426,000;481,000;1,000;1,000;1,000;3,000;Iguana;240 West 54th Street;240 W 54th St, New York, NY 10019, USA;Iguana;240 W 54th St;;;;240 W 54th St, New York, NY 10019, USA
+430,000;486,000;1,000;1,000;1,000;3,000;Il Cantinori;32 East 10th Street;32 E 10th St, New York, NY 10003, USA;Il Cantinori;32 East 10th St;Greenwich Village;Italian;$$$$;32 E 10th St, New York, NY 10003, USA
+432,000;491,000;1,000;1,000;1,000;3,000;Il Valentino;330 East 56th Street;330 E 56th St, New York, NY 10022, USA;Il Valentino;330 East 56th Street;Midtown East;Italian;$$$;330 E 56th St, New York, NY 10022, USA
+435,000;492,000;1,000;1,000;1,000;3,000;Inagiku;111 East 49 Street;111 E 49th St, New York, NY 10017, USA;Inagiku;111 East 49th Street;Midtown East;Sushi;$$$$;111 E 49th St, New York, NY 10017, USA
+438,000;493,000;1,000;1,000;1,000;3,000;Indochine;430 Lafayette Street;430 Lafayette St, New York, NY 10003, USA;Indochine;430 Lafayette St;East Village;French;$$$;430 Lafayette St, New York, NY 10003, USA
+476,000;535,000;1,000;1,000;1,000;3,000;Kellari Taverna;19 West 44th Street;19 W 44th St, New York, NY 10036, USA;Kellari Taverna;19 W 44th St;Midtown West;Greek;$$;19 W 44th St, New York, NY 10036, USA
+460,000;512,000;1,000;1,000;1,000;3,000;Jean Georges;1 Central Park West;1 Central Park West, New York, NY 10023, USA;Jean Georges;1 Central Park W;Upper West Side;French;$$$$$;1 Central Park West, New York, NY 10023, USA
+462,000;515,000;1,000;1,000;1,000;3,000;Jewel of India;15 West 44th Street;15 W 44th St, New York, NY 10036, USA;Jewel Of India;15 W 44th St;Midtown West;Indian;$$;15 W 44th St, New York, NY 10036, USA
+464,000;517,000;1,000;1,000;1,000;3,000;JoJo;160 East 64th Street;160 E 64th St, New York, NY 10065, USA;JoJo;160 E 64th St;Upper East Side;French;$$$$;160 E 64th St, New York, NY 10065, USA
+467,000;517,000;1,000;1,000;1,000;3,000;Jojo;160 East 64th Street;160 E 64th St, New York, NY 10065, USA;JoJo;160 E 64th St;Upper East Side;French;$$$$;160 E 64th St, New York, NY 10065, USA
+475,000;533,000;1,000;1,000;1,000;3,000;Keens Steakhouse;72 West 36th Street;72 W 36th St, New York, NY 10018, USA;Keens Steakhouse;72 W 36th St;Midtown West;Steakhouse;$$$;72 W 36th St, New York, NY 10018, USA
+484,000;557,000;1,000;1,000;1,000;3,000;La Belle Vie;184 8th Avenue;184 8th Ave, New York, NY 10011, USA;La Belle Vie;184 Eighth Ave;Chelsea;French;$$;184 8th Ave, New York, NY 10011, USA
+497,000;580,000;1,000;1,000;1,000;3,000;Le Bernardin;155 West 51st Street;155 W 51st St, New York, NY 10019, USA;Le Bernardin;155 W 51st St;Midtown West;Seafood;$$$$$;155 W 51st St, New York, NY 10019, USA
+502,000;591,000;1,000;1,000;1,000;3,000;Le Souk;47 Avenue B;47 Avenue B, New York, NY 10009, USA;Le Souk;47 Ave B;Midtown East;African;$$;47 Avenue B, New York, NY 10009, USA
+507,000;605,000;1,000;1,000;1,000;3,000;Lomito;300 Spring Street;300 Spring St, New York, NY 10013, USA;Lomito;300 Spring St;SOHO;Argentinean;$$$;300 Spring St, New York, NY 10013, USA
+512,000;613,000;1,000;1,000;1,000;3,000;Lucy Latin Kitchen;35 East 18th Street;35 E 18th St, New York, NY 10003, USA;Lucy Latin Kitchen;35 E 18th St;Flatiron;Nuevo Latino;$$$;35 E 18th St, New York, NY 10003, USA
+514,000;614,000;1,000;1,000;1,000;3,000;Lupa;170 Thompson Street;170 Thompson St, New York, NY 10012, USA;Lupa;170 Thompson St;Greenwich Village;Italian;$$$$;170 Thompson St, New York, NY 10012, USA
+520,000;622,000;1,000;1,000;1,000;3,000;Maloney and Porcelli;37 East 50th Street;37 E 50th St, New York, NY 10022, USA;Maloney & Porcelli;37 E 50th St;Midtown East;Steakhouse;$$$$;37 E 50th St, New York, NY 10022, USA
+522,000;631,000;1,000;1,000;1,000;3,000;Mara's Homemade;342 East 6th Street;342 E 6th St, New York, NY 10003, USA;Mara's Homemade;342 E Sixth St;East Village;Creole-Cajun;$$;342 E 6th St, New York, NY 10003, USA
+527,000;640,000;1,000;1,000;1,000;3,000;Mary's Fish Camp;64 Charles Street;Via Charles Gounod, 20092 Cinisello Balsamo MI, Italy;Mary's Fish Camp;64 Charles St;West Village;Seafood;$$;Via Charles Gounod, 20092 Cinisello Balsamo MI, Italy
+546,000;654,000;1,000;1,000;1,000;3,000;Mercer Kitchen;99 Prince Street;99 Prince St, New York, NY 10012, USA;Mercer Kitchen;99 Prince Street;SOHO;American;$$$$;99 Prince St, New York, NY 10012, USA
+550,000;662,000;1,000;1,000;1,000;3,000;Mezzaluna;1295 3rd Avenue;1295 3rd Ave, New York, NY 10021, USA;Mezzaluna;1295 3rd Ave;Upper East Side;American;$$;1295 3rd Ave, New York, NY 10021, USA
+553,000;665,000;1,000;1,000;1,000;3,000;Michael's;24 West 55th Street;24 W 55th St, New York, NY 10019, USA;Michael's;24 W 55th St;Midtown West;Californian;$$$$;24 W 55th St, New York, NY 10019, USA
+557,000;676,000;1,000;1,000;1,000;3,000;Molyvos;871 7th Avenue;871 7th Ave, New York, NY 10019, USA;Molyvos;871 7th Avenue;Midtown West;Greek;$$$;871 7th Ave, New York, NY 10019, USA
+568,000;699,000;1,000;1,000;1,000;3,000;Neo Sushi;2298 Broadway;2298 Broadway, New York, NY 10024, USA;Neo Sushi;2298 Broadway;Upper West Side;Sushi;$$$$;2298 Broadway, New York, NY 10024, USA
+576,000;721,000;1,000;1,000;1,000;3,000;Novecento;343 West Broadway;343 W Broadway, New York, NY 10013, USA;Novecento;343 W Broadway;SOHO;South American;$$$;343 W Broadway, New York, NY 10013, USA
+578,000;725,000;1,000;1,000;1,000;3,000;Oceana;55 East 54th Street;55 E 54th St, New York, NY 10022, USA;Oceana;55 E 54th St;Midtown East;Seafood;$$$$;55 E 54th St, New York, NY 10022, USA
+591,000;759,000;1,000;1,000;1,000;3,000;Park East Grill;1564 2nd Avenue;1564 2nd Ave, New York, NY 10028, USA;Park East Grill;1564 2nd Avenue;Upper East Side;Jewish;$;1564 2nd Ave, New York, NY 10028, USA
+594,000;767,000;1,000;1,000;1,000;3,000;Pearl Oyster Bar;18 Cornelia Street;18 Cornelia St, New York, NY 10014, USA;Pearl Oyster Bar;18 Cornelia Street;Greenwich Village;Seafood;$$$;18 Cornelia St, New York, NY 10014, USA
+597,000;783,000;1,000;1,000;1,000;3,000;Petrossian;182 West 58th Street;182 W 58th St, New York, NY 10019, USA;Petrossian;182 W 58th St;Midtown West;Continental;$$$$;182 W 58th St, New York, NY 10019, USA
+601,000;790,000;1,000;1,000;1,000;3,000;Picholine;35 West 64th Street;35 W 64th St, New York, NY 10023, USA;Picholine;35 W 64th St;Upper West Side;Mediterranean;$$$$;35 W 64th St, New York, NY 10023, USA
+608,000;810,000;1,000;1,000;1,000;3,000;Primitivo Osteria;202 West 14th Street;202 W 14th St, New York, NY 10011, USA;Primitivo Osteria;202 West 14th Street;West Village;Italian;$$$;202 W 14th St, New York, NY 10011, USA
+627,000;855,000;1,000;1,000;1,000;3,000;Ruth's Chris Steak House;148 West 51st Street;148 W 51st St, New York, NY 10019, USA;Ruth's Chris Steak House;148 West 51st Street;Midtown West;Steakhouse;$$$$;148 W 51st St, New York, NY 10019, USA
+631,000;862,000;1,000;1,000;1,000;3,000;Salmon River;3 East 40th Street;3 E 40th St, New York, NY 10016, USA;Salmon River;3 East 40th Street;Murray Hill;Seafood;$$;3 E 40th St, New York, NY 10016, USA
+636,000;873,000;1,000;1,000;1,000;3,000;Sapa;43 West 24th Street;43 W 24th St, New York, NY 10010, USA;Sapa;43 West 24th Street;Chelsea;Asian;$$$;43 W 24th St, New York, NY 10010, USA
+638,000;875,000;1,000;1,000;1,000;3,000;Sardi's;234 West 44th Street;234 W 44th St, New York, NY 10036, USA;Sardi's;234 West 44th Street;Midtown West;Continental;$$$;234 W 44th St, New York, NY 10036, USA
+641,000;887,000;1,000;1,000;1,000;3,000;Sea Grill;19 West 49th Street;19 W 49th St, New York, NY 10020, USA;Sea Grill;19 West 49th Street;Midtown West;Seafood;$$$$;19 W 49th St, New York, NY 10020, USA
+647,000;898,000;1,000;1,000;1,000;3,000;Shun Lee Cafe;43 West 65th Street;43 W 65th St, New York, NY 10023, USA;Shun Lee Cafe;43 W 65th St;;;;43 W 65th St, New York, NY 10023, USA
+649,000;900,000;1,000;1,000;1,000;3,000;Shun Lee West;43 West 65th Street;43 W 65th St, New York, NY 10023, USA;Shun Lee West;43 W. 65th St.;Chinese;$$$;;43 W 65th St, New York, NY 10023, USA
+648,000;899,000;1,000;1,000;1,000;3,000;Shun Lee Palace;155 East 55th Street;157 E 55th St, New York, NY 10022, United States;Shun Lee Palace;155 E 55th Street;Midtown East;Chinese;$$$;157 E 55th St, New York, NY 10022, United States
+652,000;903,000;1,000;1,000;1,000;3,000;Smith & Wollensky;797 Third Avenue;797 3rd Ave, New York, NY 10022, USA;Smith & Wollensky;797 Third Ave;Midtown East;Steakhouse;$$$;797 3rd Ave, New York, NY 10022, USA
+654,000;910,000;1,000;1,000;1,000;3,000;Solera;216 East 53rd Street;216 E 53rd St, New York, NY 10022, USA;Solera;216 E 53rd St;Midtown East;Spanish;$$$;216 E 53rd St, New York, NY 10022, USA
+706,000;927,000;1,000;1,000;1,000;3,000;Steak Frites;9 East 16th Street;9 E 16th St, New York, NY 10003, USA;Steak Frites;9 East 16th Street;Union Square;French;$$;9 E 16th St, New York, NY 10003, USA
+746,000;953,000;1,000;1,000;1,000;3,000;Tao;42 East 58th Street;42 E 58th St, New York, NY 10022, USA;Tao;42 E 58th Street;Midtown East;Asian;$$$;42 E 58th St, New York, NY 10022, USA
+759,000;700,000;1,000;1,000;1,000;3,000;The Neptune Room;511 Amsterdam Avenue;511 Amsterdam Ave, New York, NY 10024, USA;Neptune Room;511 Amsterdam Ave;Upper West Side;Seafood;$$$$;511 Amsterdam Ave, New York, NY 10024, USA
+765,000;925,000;1,000;1,000;1,000;3,000;The Stanton Social;99 Stanton Street;99 Stanton St, New York, NY 10002, USA;Stanton Social;99 Stanton St;Lower East Side;International;$$$;99 Stanton St, New York, NY 10002, USA
+769,000;965,000;1,000;1,000;1,000;3,000;The Terrace In The Sky;400 West 119th Street;Butler Hall, 400 W 119th St, New York, NY 10027, USA;Terrace In The Sky;400 West 119th Street;Upper West Side;French;$$;Butler Hall, 400 W 119th St, New York, NY 10027, USA
+773,000;984,000;1,000;1,000;1,000;3,000;Tocqueville;1 East 15th Street;1 E 15th St, New York, NY 10003, USA;Tocqueville;1 E 15th St;Union Square;American;$$$$;1 E 15th St, New York, NY 10003, USA
+783,000;991,000;1,000;1,000;1,000;3,000;Tribeca Grill;375 Greenwich Street;375 Greenwich St, New York, NY 10013, USA;Tribeca Grill;375 Greenwich St;TriBeCa;American;$$$;375 Greenwich St, New York, NY 10013, USA
+784,000;1006,000;1,000;1,000;1,000;3,000;Uncle Jack's Steakhouse;440 9th Avenue;440 9th Ave, New York, NY 10001, USA;Uncle Jack's Steakhouse-Nyc;440 9th Avenue;Midtown East;Steakhouse;$$$;440 9th Ave, New York, NY 10001, USA
+785,000;1007,000;1,000;1,000;1,000;3,000;Uncle Nick's;747 9th Avenue;747 9th Ave, New York, NY 10019, USA;Uncle Nick's;747 9th Ave;Midtown West;Greek;$$;747 9th Ave, New York, NY 10019, USA
+787,000;1010,000;1,000;1,000;1,000;3,000;Urena;37 East 28th Street;37 E 28th St, New York, NY 10016, USA;Urena;37 E 28th St;Gramercy Park;Spanish;$$$;37 E 28th St, New York, NY 10016, USA
+791,000;1020,000;1,000;1,000;1,000;3,000;Via Brasil;34 West 46 Street;34 W 46th St, New York, NY 10036, USA;Via Brasil;34 W 46 St;Midtown West;South American;$$;34 W 46th St, New York, NY 10036, USA
+792,000;1023,000;1,000;1,000;1,000;3,000;Victor's Cafe;236 West 52nd Street;236 W 52nd St, New York, NY 10019, USA;Victor's Cafe;236 West 52 St;Midtown West;Cuban;$$$;236 W 52nd St, New York, NY 10019, USA
+797,000;1028,000;1,000;1,000;1,000;3,000;Vong;200 East 54th Street;200 E 54th St, New York, NY 10022, USA;Vong;200 East 54th St;Midtown East;Thai;$$$$;200 E 54th St, New York, NY 10022, USA
+798,000;1029,000;1,000;1,000;1,000;3,000;Waikiki Wally's;101 East 2nd Street;101 E 2nd St, New York, NY 10009, USA;Waikiki Wally's;101 East 2nd Street;East Village;Hawaiian;$$$;101 E 2nd St, New York, NY 10009, USA
+807,000;1055,000;1,000;1,000;1,000;3,000;Zarela;953 Second Avenue;953 2nd Ave, New York, NY 10022, USA;Zarela's;953 Second Ave;Midtown East;Mexican;$$$;953 2nd Ave, New York, NY 10022, USA
+810,000;1058,000;1,000;1,000;1,000;3,000;Zerza;304 East 6th Street;304 E 6th St, New York, NY 10003, USA;Zerza;304 E Sixth St;East Village;Moroccan;$$;304 E 6th St, New York, NY 10003, USA
+812,000;1062,000;1,000;1,000;1,000;3,000;Zona Rosa;40 West 56th Street;40 W 56th St, New York, NY 10019, USA;Zona Rosa;40 W 56th St;;;;40 W 56th St, New York, NY 10019, USA
+1,000;;;;;;10 Downing Food and Wine;10 Downing Street;10 Downing St, Westminster, London SW1A 2AA, United Kingdom;;;;;;
+4,000;;;;;;212 Restaurant & Bar;133 East 65th Street;133 E 65th St, New York, NY 10065, USA;;;;;;
+5,000;;;;;;3 J's Pizza;1603 2nd Avenue;1603 2nd Ave, New York, NY 10028, USA;;;;;;
+6,000;;;;;;44 Restaurant;44 West 44th Street;44 West 44th Street;;;;;;
+7,000;;;;;;5 Brothers Gourmet Market;689 10th Avenue;689 10th Ave, New York, NY 10036, USA;;;;;;
+8,000;;;;;;5 Ninth Restaurant;5 Ninth Avenue;5 9th Ave, New York, NY 10014, USA;;;;;;
+9,000;;;;;;88 Noodle & Oriental House;565 Columbus Avenue;565 Columbus Ave, New York, NY 10024, USA;;;;;;
+10,000;;;;;;A Slice of New York;727 8th Avenue;727 8th Ave, Brackenridge, PA 15014, USA;;;;;;
+13,000;;;;;;Abboccato Restaurant;136 West 55th Street;136 W 55th St, New York, NY 10019, USA;;;;;;
+14,000;;;;;;Abitino's;947 1st Avenue;947 1st Avenue, New York, NY 10022, USA;;;;;;
+15,000;;;;;;Above;234 West 42nd Street;234 W 42nd St, New York, NY 10036, USA;;;;;;
+16,000;;;;;;Accademia Di Vino;1081 Third Avenue;1081 3rd Ave, New York, NY 10065, USA;;;;;;
+17,000;;;;;;Acqua Pazza;36 West 52nd Street;36 West 52nd Street;;;;;;
+19,000;;;;;;Adour Alain Ducasse;Two East 55th Street;Two E 55th St, New York, NY 10022, United States;;;;;;
+20,000;;;;;;Adrienne's Pizzabar;54 Stone Street;54 Stone St, New York, NY 10004, USA;;;;;;
+21,000;;;;;;Agata & Valentina Ristorante;1513 First Avenue;1513 1st Avenue, New York, NY 10075, USA;;;;;;
+23,000;;;;;;Ago Restaurant;377 Greenwich Street;377 Greenwich St, New York, NY 10013, USA;;;;;;
+24,000;;;;;;Agozar;324 Bowery;324 Bowery, New York, NY 10012, USA;;;;;;
+25,000;;;;;;Aix Restaurant;2398 Broadway;2398 Broadway, New York, NY 10024, USA;;;;;;
+26,000;;;;;;Aja;1068 First Avenue;1068 1st Avenue, New York, NY 10022, USA;;;;;;
+27,000;;;;;;Aja Asian Bistro and Lounge;432 6th Avenue;432 6th Ave, New York, NY 10011, USA;;;;;;
+28,000;;;;;;Aki Sushi;1425 York Avenue;1425 York Ave, New York, NY 10021, USA;;;;;;
+29,000;;;;;;Aki Sushi West;128 West 36th Street;128 W 36th St, New York, NY 10018, USA;;;;;;
+30,000;;;;;;Akita Sushi;1771 1st Avenue;1771 1st Avenue, New York, NY 10128, USA;;;;;;
+31,000;;;;;;Al Forno;1484 2nd Avenue;1484 2nd Ave, New York, NY 10075, USA;;;;;;
+32,000;;;;;;Alamo Restaurant;304 East 48th Street;304 E 48th St, New York, NY 10017, USA;;;;;;
+33,000;;;;;;Alcala;342 East 46th Street;342 E 46th St, New York, NY 10017, USA;;;;;;
+34,000;;;;;;Aleo Restaurant;7 West 20th Street;7 W 20th St, New York, NY 10011, USA;;;;;;
+39,000;;;;;;Alloro;307 East 77th Street;307 E 77th St, New York, NY 10075, USA;;;;;;
+41,000;;;;;;Alto Restaurant;520 Madison Avenue;520 Madison Ave, New York, NY 10022, USA;;;;;;
+42,000;;;;;;Ama;48 Macdougal Street;48 MacDougal St, New York, NY 10012, USA;;;;;;
+43,000;;;;;;Amalia;204 West 55th Street;204 W 55th St, New York, NY 10019, USA;;;;;;
+44,000;;;;;;Ambassador Grill;1 United Nations Plaza;1 United Nations Plaza, New York, NY 10017, United States;;;;;;
+46,000;;;;;;American (Show All);9 Jones Street;9 Jones St, New York, NY 10014, USA;;;;;;
+47,000;;;;;;American (Show All);Inside Battery Park;Inside Battery Park;;;;;;
+48,000;;;;;;American (Show All);116 East 16th Street;116 E 16th St, New York, NY 10003, USA;;;;;;
+49,000;;;;;;American (Show All);152 West 52nd Street;152 W 52nd St, New York, NY 10019, USA;;;;;;
+50,000;;;;;;American (Show All);885 Second Avenue;885 2nd Ave, New York, NY 10017, USA;;;;;;
+51,000;;;;;;American (Show All);2315 Broadway;2315 Broadway, New York, NY 10024, USA;;;;;;
+52,000;;;;;;American (Show All);45 East 20th Street;45 E 20th St, New York, NY 10003, USA;;;;;;
+53,000;;;;;;American Burger Co.;100 West 32nd Street;100 W 32nd St, New York, NY 10001, USA;;;;;;
+54,000;;;;;;American Gourmet Foods Deli;831 6th Avenue;831 6th Ave, New York, NY 10001, USA;;;;;;
+55,000;;;;;;American Spirits Grill;1744 2nd Avenue;1744 2nd Ave, New York, NY 10128, USA;;;;;;
+58,000;;;;;;Amor Cubano;2018 Third Avenue;2018 3rd Ave, New York, NY 10029, USA;;;;;;
+59,000;;;;;;Amsterdam Restaurant & Tapas Lounge;1207 Amsterdam Avenue;1207 Amsterdam Ave, New York, NY 10027, USA;;;;;;
+60,000;;;;;;Angelo & Maxie's;233 Park Avenue;233 Park Avenue;;;;;;
+61,000;;;;;;Annisa Restaurant;13 Barrow Street;13 Barrow Street;;;;;;
+62,000;;;;;;Antonucci's;170 East 81 Street;170 E 81st St, New York, NY 10028, USA;;;;;;
+63,000;;;;;;Any Time Cafe;17 John Street;17 John St, New York, NY 10038, USA;;;;;;
+64,000;;;;;;Aoki;234 West 48th Street;234 W 48th St, New York, NY 10036, USA;;;;;;
+68,000;;;;;;Arabelle at the Hotel Plaza Athenee;37 East 64th Street;37 E 64th St, New York, NY 10065, USA;;;;;;
+69,000;;;;;;Arby's;100 West 33rd Street;100 W 33rd St, New York, NY 10001, USA;;;;;;
+70,000;;;;;;Archipelago SoHo;333 Hudson Street;333 Hudson St, New York, NY 10013, USA;;;;;;
+71,000;;;;;;Arriba Arriba! - East;1463 Third Avenue;1463 3rd Ave, New York, NY 10028, USA;;;;;;
+74,000;;;;;;Asia Grill;1239 2nd Avenue;1239 2nd Ave, New York, NY 10065, USA;;;;;;
+75,000;;;;;;Asia de Cuba New York;237 Madison Avenue;237 Madison Ave, New York, NY 10016, USA;;;;;;
+76,000;;;;;;Asiana Restaurant and Bar;120 East 34th Street;120 E 34th St, New York, NY 10016, USA;;;;;;
+77,000;;;;;;Asiate;80 Columbus Cir. at 60th St.;80 Columbus Cir, New York, NY 10023, United States;;;;;;
+80,000;;;;;;Astor Court;2 East 55th Street;2 E 55th St, New York, NY 10022, USA;;;;;;
+81,000;;;;;;Atomic Wings;528 9th Avenue;528 9th Ave, New York, NY 10018, USA;;;;;;
+82,000;;;;;;Atomic Wings;1644 3rd Avenue;1644 3rd Ave, New York, NY 10128, USA;;;;;;
+83,000;;;;;;Atomic Wings at Down the Hatch;179 West 4th Street;179 West 4th Street, New York, NY 10014, USA;;;;;;
+84,000;;;;;;Auntie Anne's Pretzels;664 8th Avenue;664 8th Ave, New York, NY 10036, USA;;;;;;
+85,000;;;;;;Aureole;34 East 61st Street;34 E 61st St, New York, NY 10065, USA;;;;;;
+86,000;;;;;;Aurora;510 Broome Street;510 Broome St, New York, NY 10013, USA;;;;;;
+87,000;;;;;;Avi and David's;1046 3rd Avenue;1046 3rd Ave, Croydon, PA 19021, USA;;;;;;
+90,000;;;;;;Azza;137 E. 55th St. at Lexington;137 E. 55th St. at Lexington;;;;;;
+91,000;;;;;;B & T Supreme Pizza;132 East 86th Street;132 East 86th St, New York, NY 10028, USA;;;;;;
+92,000;;;;;;B. Cafe;240 East 75th Street;240 E 75th St, New York, NY 10021, USA;;;;;;
+94,000;;;;;;BLT Fish Bistro Laurent Tourondel;21 West 17th Street;21 W 17th St, New York, NY 10011, USA;;;;;;
+95,000;;;;;;BLT Fish Bistro Laurent Tourondel;111 East 22nd Street;111 E 22nd St, New York, NY 10010, USA;;;;;;
+96,000;;;;;;BLT Market;1430 Avenue of the Americas;1430 6th Ave, New York, NY 10019, USA;;;;;;
+97,000;;;;;;BLT Steak, Bistro Laurent Tourondel;106 East 57th Street;106 E 57th St, New York, NY 10022, USA;;;;;;
+99,000;;;;;;Babouche SoHo;92 Prince Street;92 Prince St, New York, NY 10012, USA;;;;;;
+100,000;;;;;;Bagel & Bean;828 7th Avenue;828 7th Ave, New York, NY 10019, USA;;;;;;
+101,000;;;;;;Bagicha;226 West 79th Street;226 W 79th St, New York, NY 10024, USA;;;;;;
+103,000;;;;;;Baluchi's West 56th Street;240 West 56th Street;240 W 56th St, New York, NY 10019, USA;;;;;;
+104,000;;;;;;Banana Leaf;103 Lexington Avenue;103 Lexington Ave, New York, NY 10016, USA;;;;;;
+105,000;;;;;;Bangkok House;360 West 360 46th Street;360 W 46th St, New York, NY 10036, USA;;;;;;
+108,000;;;;;;Bar Blanc;142 West 10th Street;142 W 10th St, New York, NY 10014, USA;;;;;;
+109,000;;;;;;Bar Boulud;1900 Broadway;1900 Broadway, New York, NY 10023, USA;;;;;;
+110,000;;;;;;Bar Q;308-310 Bleecker Street;308 Bleecker St, New York, NY 10014, USA;;;;;;
+111,000;;;;;;Bar Stuzzichini;928 Broadway;928 Broadway, New York, NY 10010, USA;;;;;;
+114,000;;;;;;Barbounia;250 Park Avenue South;250 Park Avenue South;;;;;;
+115,000;;;;;;Barbuto Restaurant;775 Washington Avenue;775 Washington Ave, Muskegon, MI 49441, USA;;;;;;
+116,000;;;;;;Barking Dog;1453 York Avenue;1453 York Ave, New York, NY 10075, USA;;;;;;
+117,000;;;;;;Barna;365 Park Avenue South;365 Park Ave S, New York, NY 10016, USA;;;;;;
+118,000;;;;;;Barocco Kitchen;42 Union Square East;42 Union Square E, New York, NY 10003, USA;;;;;;
+119,000;;;;;;Baton Rouge Restaurant & Lounge;458 West 145th Street;458 W 145th St, New York, NY 10031, USA;;;;;;
+120,000;;;;;;Battery Gardens Restaurant;Inside Battery Park;Inside Battery Park;;;;;;
+121,000;;;;;;Beacon Restaurant;25 West 56th Street;25 W 56th St, New York, NY 10019, USA;;;;;;
+123,000;;;;;;Beijing Wok Restaurant;1324 2nd Avenue;1324 2nd Ave, New York, NY 10021, USA;;;;;;
+124,000;;;;;;Bella Blu;967 Lexington Avenue;967 Lexington Ave, New York, NY 10021, USA;;;;;;
+125,000;;;;;;Bella Luna;584 Columbus Avenue;584 Columbus Avenue;;;;;;
+126,000;;;;;;Bellavitae;24 Minetta Lane;24 Minetta Ln, New York, NY 10012, USA;;;;;;
+127,000;;;;;;Bellini;208 East 52nd Street;208 East 52nd Street;;;;;;
+129,000;;;;;;Belluno;340 Lexington Avenue;340 Lexington Ave, New York, NY 10016, USA;;;;;;
+130,000;;;;;;Ben & Jerry's;Grand Central Terminal;89 E 42nd St, New York, NY 10017, United States;;;;;;
+131,000;;;;;;Ben & Jerry's;680 8th Avenue;680 8th Ave, New York, NY 10036, USA;;;;;;
+132,000;;;;;;Ben Benson's;123 West 52 Street;123 W 52nd St, New York, NY 10019, USA;;;;;;
+133,000;;;;;;Ben's Kosher Delicatessen;2099 West 38 Street;2099 W 38th St, Norfolk, VA 23508, USA;;;;;;
+134,000;;;;;;Benihana Japanese Steak House;47 West 56th Street;47 W 56th St, New York, NY 10019, USA;;;;;;
+135,000;;;;;;Benjamin Steakhouse;Manhattan · 52 East 41 Street;52 E 41st St, New York, NY 10017, USA;;;;;;
+136,000;;;;;;Bergdorf Goodman;2 West 58th Street;Bergdorf Goodman, 2 W 58th St, New York, NY 10019, USA;;;;;;
+137,000;;;;;;Berger's Delicatessen;44 West 47 Street;44 W 47th St, New York, NY 10036, USA;;;;;;
+138,000;;;;;;Best Pizza;1038 1st Avenue;1038 1st Avenue, New York, NY 10022, USA;;;;;;
+139,000;;;;;;Big Nick;2175 Broadway;2175 Broadway, New York, NY 10024, USA;;;;;;
+140,000;;;;;;Big Nick's Burger Joint and Pizza Joint;2175 Broadway;2175 Broadway, New York, NY 10024, USA;;;;;;
+141,000;;;;;;Bistecca Fiorentina;317 West 46th Street;317 W 46th St, New York, NY 10036, USA;;;;;;
+142,000;;;;;;Bistro Chat Noir;22 East 66th Street;22 E 66th St, New York, NY 10065, USA;;;;;;
+143,000;;;;;;Bistro Desaret;227 East 56th Street;227 E 56th St, New York, NY 10022, USA;;;;;;
+144,000;;;;;;Bistro Les Amis;180 Spring Street;180 Spring Street;;;;;;
+145,000;;;;;;Bistro Milano;1350 Avenue of the Americas;1350 6th Ave, New York, NY 10019, USA;;;;;;
+146,000;;;;;;Bivio Restaurant;637 Hudson Street;637 Hudson St, New York, NY 10014, USA;;;;;;
+147,000;;;;;;Blair Perrone Steak House;885 Second Avenue;885 2nd Ave, New York, NY 10017, USA;;;;;;
+148,000;;;;;;Blockhead's Burritos;499 3rd Avenue;499 3rd Ave, New York, NY 10016, USA;;;;;;
+151,000;;;;;;Bobby Van's Steakhouse;25 Broad Street;25 Broad St, New York, NY 10004, United States;;;;;;
+152,000;;;;;;Bobby Van's Steakhouse;131 East 54th Street;131 E 54th St, New York, NY 10022, USA;;;;;;
+153,000;;;;;;Bobby Van's Steakhouse;230 Park Ave. at 46th St.;230 Park Ave. at 46th St.;;;;;;
+154,000;;;;;;Bocca Restaurant;39 East 19th Street;39 E 19th St, New York, NY 10003, USA;;;;;;
+155,000;;;;;;Bocca di Bacco;828 Nineth Avenue;828 9th Ave, New York, NY 10019, USA;;;;;;
+156,000;;;;;;Body Restaurant and Lounge Harlem;701 West 135th Street;701 W 135th St, New York, NY 10031, USA;;;;;;
+157,000;;;;;;Bolo Restaurant & Bar;23 East 22nd Street;23 E 22nd St, New York, NY 10010, USA;;;;;;
+158,000;;;;;;Bond Street;6 Bond Street;6 Bond St, New York, NY 10012, USA;;;;;;
+159,000;;;;;;Boom Restaurant;152 Spring Street;152 Spring St, Charleston, SC 29403, USA;;;;;;
+161,000;;;;;;Bottega Del Vino;7 East 59th Street;7 E 59th St, New York, NY 10022, USA;;;;;;
+162,000;;;;;;Bottino Restaurant;246 10th Avenue;246 10th Ave, New York, NY 10001, USA;;;;;;
+163,000;;;;;;Bouley Bakery Restaurant;120 West Broadway;120 W Broadway, Louisville, KY 40202, USA;;;;;;
+164,000;;;;;;Braai;329 West 51st Street;329 W 51st St, New York, NY 10019, USA;;;;;;
+165,000;;;;;;Braeburn Restaurant;117 Perry Street;117 Perry St, New York, NY 10014, USA;;;;;;
+166,000;;;;;;Brasserie 52;772 9th Avenue;772 9th Ave, New York, NY 10019, USA;;;;;;
+167,000;;;;;;Brasserie Cognac;1740 Broadway;1740 Broadway, New York, NY 10019, USA;;;;;;
+168,000;;;;;;Brasserie Julien;1422 Third Avenue;1422 3rd Ave, New York, NY 10028, USA;;;;;;
+169,000;;;;;;Brasserie Ruhlmann;45 Rockefeller Plaza;45 Rockefeller Plaza, New York, NY 10111, United States;;;;;;
+170,000;;;;;;Brazil Brazil;330 West 46th Street;330 W 46th St, New York, NY 10036, USA;;;;;;
+171,000;;;;;;Brazil Grill;787 8th Avenue;787 8th Ave, New York, NY 10036, USA;;;;;;
+172,000;;;;;;Brian Deli;153 Amsterdam Avenue;153 Amsterdam Ave, New York, NY 10023, USA;;;;;;
+173,000;;;;;;Brick Lane Curry House;306-308 East 6th Street;306 E 6th St #308, New York, NY 10003, USA;;;;;;
+175,000;;;;;;Brother Jimmy's;181 Lexington Avenue;181 Lexington Ave, New York, NY 10016, USA;;;;;;
+176,000;;;;;;Brother Jimmy's;1644 3rd Avenue;1644 3rd Ave, New York, NY 10128, USA;;;;;;
+177,000;;;;;;Bryant Park Grill;25 West 40th Street;25 W 40th St, New York, NY 10018, USA;;;;;;
+181,000;;;;;;Burger King;130 West 125th Street;130 W 125th St, New York, NY 10027, USA;;;;;;
+182,000;;;;;;Burger King;226 East 86th Street;226 East 86th St, New York, NY 10028, USA;;;;;;
+183,000;;;;;;Burger King;485 5th Avenue;485 5th Ave, New York, NY 10017, United States;;;;;;
+184,000;;;;;;Burger King;129 East 47th Street;129 E 47th St, New York, NY 10017, USA;;;;;;
+185,000;;;;;;Burger King;182 Broadway;182 Broadway, Dobbs Ferry, NY 10522, USA;;;;;;
+186,000;;;;;;Burger King;146 Delancey Street;146 Delancey St, New York, NY 10002, USA;;;;;;
+187,000;;;;;;Burritoville;1487 2nd Avenue;1487 2nd Ave, New York, NY 10075, USA;;;;;;
+190,000;;;;;;Buzina Pop;1022A Lexington Avenue;1022A Lexington Ave, New York, NY 10021, USA;;;;;;
+191,000;;;;;;Cabana Carioca;123 West 45th Street;123 W 45th St, New York, NY 10036, USA;;;;;;
+192,000;;;;;;Cafe 82;2282 Broadway;2282 Broadway, New York, NY 10024, USA;;;;;;
+193,000;;;;;;Cafe Cluny;284 West 12th Street;284 W 12th St, New York, NY 10014, USA;;;;;;
+194,000;;;;;;Cafe D' Alsace;1695 2nd Avenue;1695 2nd Ave, New York, NY 10128, USA;;;;;;
+195,000;;;;;;Cafe Du Soleil;2723 Broadway Avenue;2723 Broadway Ave, Pittsburgh, PA 15216, USA;;;;;;
+198,000;;;;;;Cafe Gray;10 Columbus Circle;10 Columbus Cir, New York, NY 10019, USA;;;;;;
+200,000;;;;;;Cafe Luxembourg;200 West 70th;200 W 70th St, New York, NY 10023, USA;;;;;;
+201,000;;;;;;Cafe On Broadway;2350 Broadway;2350 Broadway, New York, NY 10024, USA;;;;;;
+202,000;;;;;;Cafe Pierre;5th Avenue at 61 Street;5th Ave & E 61st St, New York, NY 10019, USA;;;;;;
+203,000;;;;;;Cafe Socialista;505 West Street;505 West Street;;;;;;
+204,000;;;;;;Cafe St. Bart's;109 East 50th Street;109 E 50th St, New York, NY 10022, USA;;;;;;
+205,000;;;;;;Cafetasia;38 East 8th Street;38 East 8th Street;;;;;;
+206,000;;;;;;Caffe Grazie;26 East 84th Street;26 E 84th St, New York, NY 10028, USA;;;;;;
+207,000;;;;;;Caffe Palermo;148 Mulberry Street;148 Mulberry St, New York, NY 10013, USA;;;;;;
+208,000;;;;;;Calico Jack's Cantina;800 Second Avenue;800 2nd Ave, New York, NY 10017, USA;;;;;;
+210,000;;;;;;Candela;116 East 16th Street;116 E 16th St, New York, NY 10003, USA;;;;;;
+212,000;;;;;;Cannonau;205 East 4th Street;205 E 4th St, New York, NY 10009, USA;;;;;;
+214,000;;;;;;Capital Grille New York City;155 East 42nd Street;155 E 42nd St, New York, NY 10017, USA;;;;;;
+215,000;;;;;;Cara Mia;654 9th Avenue;654 9th Ave, New York, NY 10036, USA;;;;;;
+217,000;;;;;;Carne Vale;46 Avenue B;46 Avenue B, New York, NY 10009, USA;;;;;;
+218,000;;;;;;Caroline's Comedy Nation Restaurant;1626 Broadway;1626 Broadway, New York, NY 10019, USA;;;;;;
+219,000;;;;;;Carve Unique Sandwiches;760 8th Avenue;760 8th Ave, New York, NY 10036, USA;;;;;;
+220,000;;;;;;Casa Brasil;316 East 53 Street;316 E 53rd St, New York, NY 10022, USA;;;;;;
+221,000;;;;;;Casaville;633 Second Avenue;633 2nd Ave, New York, NY 10016, USA;;;;;;
+222,000;;;;;;Cascina Ristorante;647 Ninth Avenue;647 9th Ave, New York, NY 10036, USA;;;;;;
+223,000;;;;;;Caviar & Banana Brasserio;12 East 22nd Street;12 E 22nd St, New York, NY 10010, USA;;;;;;
+224,000;;;;;;Center Cut;44 West 63rd Street;44 W 63rd St., New York, NY 10023, USA;;;;;;
+225,000;;;;;;Centovini;25 West Houston Street;25 West Houston Street;;;;;;
+226,000;;;;;;Central Park BoatHouse;E. 72nd St. and Park Dr. N.;E. 72nd St. and Park Dr. N.;;;;;;
+227,000;;;;;;Centrico;211 West Broadway;211 W Broadway, New York, NY 10013, USA;;;;;;
+228,000;;;;;;Centro Vinoteca;74 Seventh Avenue;74 Seventh Avenue;;;;;;
+229,000;;;;;;Cesca Restaurant;164 West 75th Street;164 W 75th St, New York, NY 10023, USA;;;;;;
+231,000;;;;;;Chanto;133 Seventh Avenue South;133 7th Ave S, New York, NY 10014, USA;;;;;;
+232,000;;;;;;Charley's Grilled Subs;100 West 33rd Street;100 W 33rd St, New York, NY 10001, USA;;;;;;
+233,000;;;;;;Charlie Palmer's Metrazur;404 Grand Central Terminal, 42nd St.;New York, NY, United States;;;;;;
+234,000;;;;;;Chef Roland's;1354 Amsterdam Avenue;1354 Amsterdam Ave, New York, NY 10027, USA;;;;;;
+237,000;;;;;;China 1 Restaurant & Lounge;50 Avenue B;50 Avenue B, New York, NY 10009, USA;;;;;;
+238,000;;;;;;China Evian;144 West 46 Street;144 W 46th St, New York, NY 10036, USA;;;;;;
+239,000;;;;;;China Grill New York;60 West 53rd Street;60 W 53rd St, New York, NY 10019, USA;;;;;;
+240,000;;;;;;China Moon;7 East 47 Street;7 East 47 Street;;;;;;
+241,000;;;;;;China Place;3141 Broadway At W. 123rd St.;3141 Broadway At W. 123rd St.;;;;;;
+242,000;;;;;;China Regency;850 Seventh Avenue;850 7th Ave, New York, NY 10019, USA;;;;;;
+244,000;;;;;;Chinese Mirch;120 Lexington Avenue;120 Lexington Ave, New York, NY 10016, USA;;;;;;
+245,000;;;;;;Chipotle Mexican Grill;55 East 8th Street;55 E 8th St, New York, NY 10003, USA;;;;;;
+246,000;;;;;;Chipotle Mexican Grill;129 West 48th Street;129 W 48th St, New York, NY 10036, USA;;;;;;
+247,000;;;;;;Chop Suey;714 Seventh Avenue;714 7th Ave, New York, NY 10036, USA;;;;;;
+248,000;;;;;;Chubo Restaurant;6 Clinton Street;6 Clinton St, New York, NY 10002, USA;;;;;;
+249,000;;;;;;Chumley's;86 Bedford Street;86 Bedford St, New York, NY 10014, USA;;;;;;
+250,000;;;;;;Churrascaria Plataforma;316 West 49 Street;316 W 49th St, New York, NY 10019, USA;;;;;;
+251,000;;;;;;Ciaobella Ristorante Lounge;1640 2nd Avenue;1640 2nd Ave, New York, NY 10028, USA;;;;;;
+253,000;;;;;;Cinco De Mayo;1711 2nd Avenue;1711 2nd Ave, New York, NY 10128, USA;;;;;;
+254,000;;;;;;Cinnabon;901 Avenue Of The Americas;901 6th Ave, New York, NY 10001, USA;;;;;;
+255,000;;;;;;Ciro Trattoria;813 8th Avenue;813 8th Ave, Brooklyn, NY 11215, USA;;;;;;
+256,000;;;;;;Cite;120 West 51st Street;120 W 51st St, New York, NY 10019, USA;;;;;;
+260,000;;;;;;City Lobster & Crab Company;121 West 49th Street;121 W 49th St, New York, NY 10020, USA;;;;;;
+261,000;;;;;;City Winery;155 Varick Street;155 Varick St, New York, NY 10013, USA;;;;;;
+262,000;;;;;;Claudio Pizzeria;598 10th Avenue;598 10th Ave, New York, NY 10036, USA;;;;;;
+263,000;;;;;;Coffee & Desserts (Show All);195 Grand Street;195 Grand St, New York, NY 10013, USA;;;;;;
+264,000;;;;;;Cold Stone Creamery;1651 Second Avenue;1651 2nd Ave, Walnut Creek, CA 94597, USA;;;;;;
+267,000;;;;;;Columbus Cafe;556 Columbus Avenue;556 Columbus Ave, Boston, MA 02118, USA;;;;;;
+268,000;;;;;;Compass Restaurant New York;208 West 70th Street;208 W 70th St, New York, NY 10023, USA;;;;;;
+269,000;;;;;;Concord Garden Chinese & Thai Cuisine;990 Amsterdam Avenue;990 Amsterdam Ave, New York, NY 10025, USA;;;;;;
+270,000;;;;;;Conservatory;15 Central Park West;15 Central Park West, 15 Central Park West, New York, NY 10023, USA;;;;;;
+272,000;;;;;;Cooper's Tavern;481 Eighth Avenue;481 8th Ave, New York, NY 10001, USA;;;;;;
+273,000;;;;;;Core One Nine One;191 Orchard Street;191 Orchard Street;;;;;;
+275,000;;;;;;Cosi;54 Pine Street;54 Pine St, New York, NY 10005, USA;;;;;;
+276,000;;;;;;Cosi;2160 Broadway;2160 Broadway, New York, NY 10024, USA;;;;;;
+277,000;;;;;;Cosi;61 West 48th Street;61 W 48th St, New York, NY 10020, USA;;;;;;
+278,000;;;;;;Cosi;700 6th Avenue;700 6th Ave, New York, NY 10010, USA;;;;;;
+279,000;;;;;;Cosi;257 Park Avenue;257 Park Ave, New York, NY 10167, USA;;;;;;
+280,000;;;;;;Cost Legend (Average Price/Person):;"""Inexpensive"" = Generally < $15";"""Inexpensive"" = Generally < $15";;;;;;
+281,000;;;;;;Counter;105 First Avenue;105 1st Avenue, New York, NY 10003, USA;;;;;;
+282,000;;;;;;Country;90 Madison Avenue;90 Madison Ave, New York, NY 10016, USA;;;;;;
+283,000;;;;;;Craft Restaurant;43 East 19th Street;43 E 19th St, New York, NY 10003, USA;;;;;;
+285,000;;;;;;Craftsteak;85 Tenth Avenue;85 10th Ave, New York, NY 10011, United States;;;;;;
+288,000;;;;;;Croton Reservoir Tavern;108 West 40th Street;108 W 40th St, New York, NY 10018, USA;;;;;;
+289,000;;;;;;Cru Restaurant;24 5th Avenue;24 5th Ave, New York, NY 10011, USA;;;;;;
+290,000;;;;;;Cub Room;131 Sullivan Street;131 Sullivan St, New York, NY 10012, USA;;;;;;
+293,000;;;;;;D and S Pizza;691 10th Avenue;691 10th Ave, New York, NY 10036, USA;;;;;;
+295,000;;;;;;Da Marino;220 West 49th Street;220 W 49th St, New York, NY 10019, USA;;;;;;
+296,000;;;;;;Da Nico Ristorante;164 Mulberry Street;164 Mulberry St, New York, NY 10013, USA;;;;;;
+297,000;;;;;;Dalga Seafood Grill;401 East 62nd Street;401 E 62nd St, New York, NY 10065, USA;;;;;;
+298,000;;;;;;Daniel;60 East 65th Street;60 E 65th St, New York, NY 10065, USA;;;;;;
+299,000;;;;;;Danny's Grand Sea Palace;346 West 46th Street;346 W 46th St, New York, NY 10036, USA;;;;;;
+300,000;;;;;;Danube;30 Hudson Street;30 Hudson Street;;;;;;
+302,000;;;;;;Decade;1117 1st Avenue;1117 1st Avenue;;;;;;
+303,000;;;;;;Del Frisco's of New York;1221 Avenue of the Americas;1221 Avenue of the Americas, New York, NY 10020, USA;;;;;;
+304,000;;;;;;Del Posto Ristorante;85 10th Avenue;US-NYC-8510, 85 10th Ave, New York, NY 10011, USA;;;;;;
+305,000;;;;;;Delicatessen;54 Prince Street;54 Prince St, New York, NY 10012, USA;;;;;;
+307,000;;;;;;Destino;891 1st Avenue;891 1st Avenue, New York, NY 10022, USA;;;;;;
+309,000;;;;;;Dip Cafe;416 Third Avenue;416 3rd Ave, New York, NY 10016, USA;;;;;;
+310,000;;;;;;Dirt Candy;430 East 9th Street;430 E 9th St, New York, NY 10009, USA;;;;;;
+311,000;;;;;;District;130 West 46th Street;130 W 46th St, New York, NY 10036, USA;;;;;;
+312,000;;;;;;Divalicious Chocolate! Cafe;365 Broome Street;365 Broome St, New York, NY 10013, USA;;;;;;
+313,000;;;;;;Divertimento Bistro;432 East 13th Street;432 E 13th St, New York, NY 10009, USA;;;;;;
+314,000;;;;;;Domenico's;120 East 40th Street;120 E 40th St, New York, NY 10016, USA;;;;;;
+315,000;;;;;;Domino's Pizza;943 1st Avenue;943 1st Avenue, New York, NY 10022, USA;;;;;;
+316,000;;;;;;Domino's Pizza;799 East 13th Street;799 East 13th Street;;;;;;
+318,000;;;;;;Dovetail;103 West 77th Street;103 W 77th St, New York, NY 10024, USA;;;;;;
+319,000;;;;;;Duke's;560 Third Avenue;560 3rd Ave, New York, NY 10016, USA;;;;;;
+320,000;;;;;;Dunkin Doughnuts;132 Nassau Street;132 Nassau St, New York, NY 10038, USA;;;;;;
+321,000;;;;;;Dunkin' Donuts;105 West 125th Street;105 W 125th St, New York, NY 10027, USA;;;;;;
+322,000;;;;;;Dunkin' Donuts;1391 Madison Avenue;1391 Madison Ave, New York, NY 10029, USA;;;;;;
+323,000;;;;;;Dunkin' Donuts;1630 Madison Avenue;1630 Madison Ave, New York, NY 10029, USA;;;;;;
+324,000;;;;;;Dunkin' Donuts;15 Penn Plaza;401 7th Ave, New York, NY 10001, United States;;;;;;
+325,000;;;;;;Dunkin' Donuts;1024 1st Avenue;1024 1st Avenue;;;;;;
+328,000;;;;;;Earl's Restaurant Bar;560 3rd Avenue;560 3rd Ave, New York, NY 10016, USA;;;;;;
+329,000;;;;;;Earth;116A 10th Avenue;116A 10th Avenue;;;;;;
+330,000;;;;;;East Bay;491 1st Avenue;491 1st Avenue, New York, NY 10016, USA;;;;;;
+331,000;;;;;;East River Cafe;1111 First Avenue;1111 1st Avenue, New York, NY 10065, USA;;;;;;
+332,000;;;;;;Eighty One;45 West 81st Street;45 W 81st St, New York, NY 10024, USA;;;;;;
+333,000;;;;;;El Azteca;783 Ninth Avenue;783 9th Ave, New York, NY 10019, USA;;;;;;
+334,000;;;;;;El Parador;325 East 34th Street;325 E 34th St, New York, NY 10016, USA;;;;;;
+335,000;;;;;;El Puerto Seafood & Fish Market;511 West 125th Street;511 W 125th St, New York, NY 10027, USA;;;;;;
+337,000;;;;;;El Tina #2;511 West 125th Street;511 W 125th St, New York, NY 10027, USA;;;;;;
+338,000;;;;;;Emack & Bolio's;81st Street and First Avenue;81st Street and First Avenue;;;;;;
+339,000;;;;;;Emperor Japanese Tapas Shabu;96 Bowery;96 Bowery, New York, NY 10013, USA;;;;;;
+340,000;;;;;;English Is Italian;622 3rd Avenue;622 3rd Ave, New York, NY 10017, USA;;;;;;
+341,000;;;;;;Epoque;401 West 50th Street;401 W 50th St, New York, NY 10019, USA;;;;;;
+342,000;;;;;;Erminia Ristorante;250 East 83rd Street;250 E 83rd St, New York, NY 10028, USA;;;;;;
+344,000;;;;;;Estiatorio Milos Restaurant;125 West 55th Street;125 West 55th Street;;;;;;
+345,000;;;;;;Etats-Unis;242 East 81st Street;242 East 81st Street;;;;;;
+346,000;;;;;;Etrusca Restaurant;125 West 53rd Street;125 W 53rd St, New York, NY 10019, USA;;;;;;
+347,000;;;;;;Euro Diner;738 8th Avenue;738 8th Ave, New York, NY 10036, USA;;;;;;
+348,000;;;;;;Euzkadi Restaurant;108 East Fourth Street;108 E 4th St, New York, NY 10003, USA;;;;;;
+349,000;;;;;;Expensive;1633 2nd Avenue;1633 2nd Ave, New York, NY 10028, United States;;;;;;
+350,000;;;;;;Expensive;1600 Broadway;1600 Broadway, New York, NY 10019, USA;;;;;;
+352,000;;;;;;Famiglia;686 8th Avenue;686 8th Ave, New York, NY 10036, USA;;;;;;
+353,000;;;;;;Fantino;112 Central Park South;112 Central Park S, New York, NY 10019, USA;;;;;;
+354,000;;;;;;Fast Food & Chains (Show All);221 7th Avenue;221 7th Avenue;;;;;;
+357,000;;;;;;Ferrara's Cafe Italiano;195 Grand Street;195 Grand St, New York, NY 10013, USA;;;;;;
+359,000;;;;;;Financier Patisserie;35 Cedar Street;35 Cedar Street;;;;;;
+360,000;;;;;;Fiorini;209 East 56th Street;209 E 56th St, New York, NY 10022, USA;;;;;;
+361,000;;;;;;Firebird Russian Restaurant;365 West 46th Street;365 W 46th St, New York, NY 10036, USA;;;;;;
+362,000;;;;;;Firenze Restaurant;1594 2nd Avenue;1594 2nd Ave, New York, NY 10028, USA;;;;;;
+364,000;;;;;;Fives;700 Fifth Avenue;700 5th Ave, New York, NY 10019, USA;;;;;;
+366,000;;;;;;Flor de Sol Restaurant;361 Greenwich Street;361 Greenwich St, New York, NY 10013, USA;;;;;;
+367,000;;;;;;Floridita Restaurant;3219 Broadway;3219 Broadway, New York, NY 10027, USA;;;;;;
+368,000;;;;;;Foley's Fish House;714 Seventh Avenue;714 7th Ave, New York, NY 10036, USA;;;;;;
+369,000;;;;;;Frank's;410 West 12th Street;410 W 12th Ave, Vancouver, BC V5Y 4A4, Canada;;;;;;
+372,000;;;;;;Frere Jacques;13 East 37th Street;13 E 37th St, New York, NY 10016, USA;;;;;;
+374,000;;;;;;Fresh Restaurant;105 Reade Street;105 Reade St, New York, NY 10013, USA;;;;;;
+375,000;;;;;;Fresh Tortillas;1739 2nd Avenue;1739 2nd Ave, New York, NY 10128, USA;;;;;;
+376,000;;;;;;Fulton;205 East 75th Street;205 E 75th St, New York, NY 10021, USA;;;;;;
+377,000;;;;;;Funky Nassau;127 East 7th Street;127 E 7th St, New York, NY 10009, USA;;;;;;
+379,000;;;;;;Gaby Restaurant;44 West 45th Street;44 W 45th St, New York, NY 10036, USA;;;;;;
+380,000;;;;;;Garage Restaurant and Cafe;99 Seventh Avenue South;99 7th Ave S, New York, NY 10014, USA;;;;;;
+381,000;;;;;;Garden Of Ono;18 Ninth Avenue;18 Ninth Ave, Railway Estate QLD 4810, Australia;;;;;;
+383,000;;;;;;Geisha Restaurant;33 East 61st Street;33 E 61st St, New York, NY 10065, USA;;;;;;
+384,000;;;;;;Genki Sushi;9 East 46 Street;9 East 46 Street;;;;;;
+385,000;;;;;;Gente;153 East 45th Street;153 East 45th Street;;;;;;
+386,000;;;;;;Geronimo;1600 3rd Avenue;1600 3rd Avenue;;;;;;
+387,000;;;;;;Gizzi's Coffee;16 West 8th Street;16 W 8th St, New York, NY 10011, USA;;;;;;
+388,000;;;;;;Gobo Upper East Side;1426 3rd Avenue;1426 3rd Ave, New York, NY 10028, USA;;;;;;
+389,000;;;;;;Good Friend Restaurant;3210 Broadway;3210 Broadway, New York, NY 10027, USA;;;;;;
+390,000;;;;;;Gordon Ramsay;151 West 54th Street;151 W 54th St, New York, NY 10019, USA;;;;;;
+391,000;;;;;;Gotham Bar and Grill;12 East 12 Street;12 East 12 Street;;;;;;
+392,000;;;;;;Gramercy 24;323 3rd Avenue;323 3rd Avenue;;;;;;
+394,000;;;;;;Grand Central Oyster Bar;89 East 42nd Street;89 E 42nd St, New York, NY 10017, USA;;;;;;
+395,000;;;;;;Grand Tier Restaurant;150 West 65th Street;150 W 65th St, New York, NY 10023, USA;;;;;;
+397,000;;;;;;Grayz;13-15 West 54th Street;13 W 54th St, New York, NY 10019, USA;;;;;;
+398,000;;;;;;Great China Chinese Restaurant;1461 Amsterdam Avenue;1461 Amsterdam Ave, New York, NY 10027, USA;;;;;;
+399,000;;;;;;Grill 21;346 East 21st Street;346 E 21st St, New York, NY 10010, USA;;;;;;
+400,000;;;;;;Guantanamera;939 Eighth Avenue;939 8th Ave, New York, NY 10001, USA;;;;;;
+401,000;;;;;;Gusto Ristorante e Bar Americano;60 Greenwich Avenue;60 Greenwich Ave, New York, NY 10011, USA;;;;;;
+402,000;;;;;;Gyu-Kaku;34 Cooper Square;34 Cooper Sq, New York, NY 10003, USA;;;;;;
+404,000;;;;;;HQ New York Bistro;90 Thompson Street;90 Thompson St, New York, NY 10012, USA;;;;;;
+405,000;;;;;;Hakata Grill;230 West 48th Street;230 W 48th St, New York, NY 10036, USA;;;;;;
+406,000;;;;;;Hale & Hearty Soups;Grand Central Terminal;89 E 42nd St, New York, NY 10017, United States;;;;;;
+407,000;;;;;;Happy Taco;1167 2nd Avenue;1167 2nd Ave, New York, NY 10065, USA;;;;;;
+408,000;;;;;;Harlem Tea Room;1793A Madison Avenue;1793A Madison Ave, New York, NY 10035, USA;;;;;;
+409,000;;;;;;Havana;27 West 38th Street;27 W 38th St, New York, NY 10018, USA;;;;;;
+412,000;;;;;;Havana Central;22 East 17th Street;22 E 17th St, New York, NY 10003, USA;;;;;;
+413,000;;;;;;Havana Central at The West End;2911 Broadway;2911 Broadway, New York, NY 10025, USA;;;;;;
+414,000;;;;;;Hawaiian Tropic Zone;729 Seventh Avenue;729 7th Ave, New York, NY 10019, USA;;;;;;
+415,000;;;;;;Heartland Brewery and Chophouse;127 W. 43rd St. at Times Square;127 W 43rd St, New York, NY 10036, USA;;;;;;
+416,000;;;;;;Hell's Kitchen;691 10th Avenue;691 10th Ave, New York, NY 10036, USA;;;;;;
+418,000;;;;;;Houlihan's;2 Penn Plaza;2 Pennsylvania Plaza, New York, NY 10121, USA;;;;;;
+420,000;;;;;;Hurapan Kitchen;29 7th Avenue South;29 7th Avenue South;;;;;;
+421,000;;;;;;Hurley's;232 West 48th Street;232 West 48th Street;;;;;;
+422,000;;;;;;Hurricane Island;1303 Third Avenue;1303 3rd Ave, New York, NY 10021, USA;;;;;;
+424,000;;;;;;II Mulino;86 West 3 Street;86 W 3rd St, New York, NY 10012, USA;;;;;;
+425,000;;;;;;Ida Mae Kitchen -n- Lounge;111 West 38th Street;111 W 38th St, Indianapolis, IN 46208, USA;;;;;;
+427,000;;;;;;Il Bastardo;191 7th Avenue;191 7th Ave, New York, NY 10011, USA;;;;;;
+428,000;;;;;;Il Buco Restaurant;47 Bond Street;47 Bond St, New York, NY 10012, USA;;;;;;
+429,000;;;;;;Il Campanello Ristorante;136 West 31 Street;136 W 31st St, Bayonne, NJ 07002, USA;;;;;;
+431,000;;;;;;Il Melograno;501 West 51st Street;501 W 51st St, New York, NY 10019, USA;;;;;;
+433,000;;;;;;Imperial Dragon;45 West 55th Street;45 W 55th St, New York, NY 10019, USA;;;;;;
+434,000;;;;;;In Vino Wine Bar and Restaurant;215 East Fourth Street;215 E 4th St, New York, NY 10009, USA;;;;;;
+436,000;;;;;;Incredi Fusion;363 Third Avenue;363 3rd Ave, New York, NY 10016, USA;;;;;;
+437,000;;;;;;Indian Taj;181 Bleecker Street;181 Bleecker St, New York, NY 10012, USA;;;;;;
+439,000;;;;;;Inexpensive;3 East 37th Street;3 E 37th St, Hamilton, ON L8V 4A7, Canada;;;;;;
+440,000;;;;;;Inexpensive;738 8th Avenue;738 8th Ave, New York, NY 10036, USA;;;;;;
+441,000;;;;;;Insomnia Cookies;148 West 4th Street;148 West 4th Street, New York, NY 10012, USA;;;;;;
+442,000;;;;;;International (Show All);45 Tudor City Place;45 Tudor City Pl, New York, NY 10017, USA;;;;;;
+443,000;;;;;;International (Show All);537 9th Avenue;537 9th Ave, New York, NY 10018, USA;;;;;;
+444,000;;;;;;International (Show All);19 West 44th Street;19 W 44th St, New York, NY 10036, USA;;;;;;
+445,000;;;;;;International (Show All);2315 Broadway;2315 Broadway, New York, NY 10024, USA;;;;;;
+446,000;;;;;;International (Show All);45 East 20th Street;45 E 20th St, New York, NY 10003, USA;;;;;;
+447,000;;;;;;International (Show All);105 Hudson Street;105 Hudson St, New York, NY 10013, USA;;;;;;
+448,000;;;;;;International (Show All);430 Lafayette Street;430 Lafayette St, New York, NY 10003, USA;;;;;;
+449,000;;;;;;International (Show All);768 Madison Avenue;768 Madison Ave, New York, NY 10065, USA;;;;;;
+450,000;;;;;;Italian (Show All);191 7th Avenue;191 7th Ave, New York, NY 10011, USA;;;;;;
+451,000;;;;;;Italian (Show All);355 West 46 Street;355 W 46th St, New York, NY 10036, USA;;;;;;
+452,000;;;;;;Italian (Show All);85 10th Avenue;US-NYC-8510, 85 10th Ave, New York, NY 10011, USA;;;;;;
+453,000;;;;;;Italian (Show All);45 Tudor City Place;45 Tudor City Pl, New York, NY 10017, USA;;;;;;
+454,000;;;;;;Italian (Show All);135 East 62nd Street;135 E 62nd St, New York, NY 10065, USA;;;;;;
+455,000;;;;;;Italian (Show All);501 West 51st Street;501 W 51st St, New York, NY 10019, USA;;;;;;
+456,000;;;;;;Italian (Show All);2315 Broadway;2315 Broadway, New York, NY 10024, USA;;;;;;
+457,000;;;;;;Jack's Luxury Oyster Bar;101 Second Avenue;101 2nd Ave, New York, NY 10003, USA;;;;;;
+458,000;;;;;;Jamba Juice;1026 Third Avenue;1026 3rd Ave, New York, NY 10065, USA;;;;;;
+459,000;;;;;;Jamba Juice;2341 Broadway;2341 Broadway, New York, NY 10024, USA;;;;;;
+461,000;;;;;;Jewel Bako;239 East 5th Street;239 E 5th St, New York, NY 10003, USA;;;;;;
+463,000;;;;;;Jimmy Sung's;219 East 44th Street;219 E 44th St, New York, NY 10017, USA;;;;;;
+465,000;;;;;;Joe The Art of Coffee;141 Waverly Place;141 Waverly Pl, New York, NY 10014, USA;;;;;;
+466,000;;;;;;John's Pizzeria;260 West 44th Street;260 W 44th St, New York, NY 10036, USA;;;;;;
+468,000;;;;;;Josie's Restaurant;565 3rd Avenue;565 3rd Ave, San Bruno, CA 94066, USA;;;;;;
+469,000;;;;;;Josie's West;300 Amsterdam Avenue;300 Amsterdam Ave, New York, NY 10023, USA;;;;;;
+470,000;;;;;;Jovia;135 East 62nd Street;135 E 62nd St, New York, NY 10065, USA;;;;;;
+471,000;;;;;;KFC;301 West 125th Street;301 W 125th St, New York, NY 10027, USA;;;;;;
+472,000;;;;;;KFC;One Penn Plaza;1 Pennsylvania Plaza, New York, NY 10119, United States;;;;;;
+473,000;;;;;;KFC;1402 Second Avenue;1402 2nd Ave, New York, NY 10021, USA;;;;;;
+474,000;;;;;;Kai;22 Madison Avenue;22 Madison Ave, Toronto, ON M5R 2S1, Canada;;;;;;
+477,000;;;;;;Kion;509 East 6th Street;509 E 6th St, New York, NY 10009, USA;;;;;;
+478,000;;;;;;Kobe Club;68 West 58th Street;68 W 58th St, New York, NY 10019, USA;;;;;;
+479,000;;;;;;Koi;40 West 40th Street;40 West 40th Street;;;;;;
+480,000;;;;;;Kouzan;685 Amsterdam Avenue;685 Amsterdam Ave NE, Atlanta, GA 30306, USA;;;;;;
+481,000;;;;;;Krispy Kreme;141 West 72nd Street;141 W 72nd St, New York, NY 10023, USA;;;;;;
+482,000;;;;;;Kurve;87 2nd Avenue;87 2nd Avenue;;;;;;
+483,000;;;;;;L'Impero Restaurant;45 Tudor City Place;45 Tudor City Pl, New York, NY 10017, USA;;;;;;
+485,000;;;;;;La Carne Grill;340 Lexington Avenue;340 Lexington Ave, New York, NY 10016, USA;;;;;;
+486,000;;;;;;La Giara;501 3rd Avenue;501 3rd Ave, New York, NY 10016, USA;;;;;;
+487,000;;;;;;La Goulue Restaurant;746 Madison Avenue;746 Madison Ave, New York, NY 10065, USA;;;;;;
+488,000;;;;;;La Grenouille;3 East 52 Street;3 E 52nd St, New York, NY 10022, USA;;;;;;
+489,000;;;;;;La Grolla Ristorante;413 Amsterdam Avenue;413 Amsterdam Ave, New York, NY 10024, USA;;;;;;
+490,000;;;;;;La Mediterranee;947 Second Avenue;947 2nd Ave, New York, NY 10022, USA;;;;;;
+491,000;;;;;;La Rivista;313 West 46th Street;313 W 46th St, New York, NY 10036, USA;;;;;;
+492,000;;;;;;La Rosita;2809 Broadway;2809 Broadway St, San Antonio, TX 78209, USA;;;;;;
+493,000;;;;;;La Zarza;166 First Avenue;166 1st Avenue, New York, NY 10009, USA;;;;;;
+494,000;;;;;;Lasaro's;29 East 30th Street;29 E 30th St, New York, NY 10016, USA;;;;;;
+495,000;;;;;;Latin, Cuban, Spanish (Show All);1022A Lexington Avenue;1022A Lexington Ave, New York, NY 10021, USA;;;;;;
+496,000;;;;;;Latin, Cuban, Spanish (Show All);324 Bowery;324 Bowery, New York, NY 10012, USA;;;;;;
+498,000;;;;;;Le Cirque;151 East 58th Street;151 E 58th St, New York, NY 10022, USA;;;;;;
+499,000;;;;;;Le Figaro Cafe;184 Bleecker Street;184 Bleecker St, New York, NY 10012, USA;;;;;;
+500,000;;;;;;Le Perigord;405 East 52nd Street;405 E 52nd St, New York, NY 10022, USA;;;;;;
+501,000;;;;;;Le Rivage;340 West 46th Street;340 W 46th St, New York, NY 10036, USA;;;;;;
+503,000;;;;;;Lenny's Sub Shop;60 West 48th Street;60 W 48th St, New York, NY 10036, USA;;;;;;
+504,000;;;;;;Lenox Room;1278 3rd Avenue;1278 3rd Ave, New York, NY 10021, USA;;;;;;
+505,000;;;;;;Little Saigon;374 West 46 Street;374 W 46th St, New York, NY 10036, USA;;;;;;
+506,000;;;;;;Lobby Lounge;80 Columbus Circle;80 Columbus Cir, New York, NY 10023, USA;;;;;;
+508,000;;;;;;Los Dados;73 Gansevoort Street;73 Gansevoort St, New York, NY 10014, USA;;;;;;
+509,000;;;;;;Lotus;409 West 14th Street;409 West 14th Street;;;;;;
+510,000;;;;;;Lou's Cafe;1301 Sixth Avenue;1301 6th Ave, New York, NY 10019, USA;;;;;;
+511,000;;;;;;Lucky Cheng's;24 First Avenue;24 1st Avenue, New York, NY 10009, USA;;;;;;
+513,000;;;;;;Lunetta;920 Broadway;920 Broadway, New York, NY 10010, USA;;;;;;
+515,000;;;;;;MR CHOW;324 East 57th Street;324 East 57th Street;;;;;;
+516,000;;;;;;Macao Trading Company;311 Church Street;311 Church St, New York, NY 10013, USA;;;;;;
+517,000;;;;;;Maggie Moo's;1437 2nd Avenue;1437 2nd Ave, New York, NY 10021, USA;;;;;;
+518,000;;;;;;Maison;1700 Broadway;1700 Broadway, New York, NY 10019, USA;;;;;;
+519,000;;;;;;Malaga;406 East 73rd Street;406 E 73rd St, New York, NY 10021, USA;;;;;;
+521,000;;;;;;Manhattan Sky;Park Avenue at Grand Central;89 E 42nd St, New York, NY 10017, United States;;;;;;
+523,000;;;;;;Maria Pia Restaurant;319 West 51st Street;319 W 51st St, New York, NY 10019, USA;;;;;;
+524,000;;;;;;Marichu Restaurant & Tapas Bar;342 East 46 Street;342 E 46th St, New York, NY 10017, USA;;;;;;
+525,000;;;;;;Marseille Restaurant;630 Ninth Avenue;630 9th Ave, New York, NY 10036, USA;;;;;;
+526,000;;;;;;Mary Ann's;1503 2nd Avenue;1503 2nd Ave, New York, NY 10075, USA;;;;;;
+528,000;;;;;;Matador;57 Greenwich Avenue;57 Greenwich Ave, New York, NY 10014, USA;;;;;;
+529,000;;;;;;Matsugen;241 Church Street;241 Church St, Toronto, ON M5B 1Z4, Canada;;;;;;
+530,000;;;;;;Maya New York;1191 First Avenue;1191 1st Avenue, New York, NY 10065, USA;;;;;;
+531,000;;;;;;McCormick & Schmick's;1285 Avenue of the Americas;1285 6th Ave, New York, NY 10019, USA;;;;;;
+532,000;;;;;;McDonald's;Lower Level;Lower Level;;;;;;
+533,000;;;;;;McDonald's;2271 Broadway;2271 Broadway, New York, NY 10024, USA;;;;;;
+534,000;;;;;;McDonald's;39 Union Square West;39 Union Square W, New York, NY 10003, USA;;;;;;
+535,000;;;;;;McDonald's;969 1st Avenue;969 1st Avenue, New York, NY 10022, USA;;;;;;
+536,000;;;;;;McDonald's;215 West 125th Street;215 W 125th St, New York, NY 10027, USA;;;;;;
+537,000;;;;;;McDonald's;136 West 3rd Street;136 W 3rd St, New York, NY 10012, USA;;;;;;
+538,000;;;;;;McDonald's;638 Columbus Avenue;638 Columbus Ave, New York, NY 10024, United States;;;;;;
+539,000;;;;;;McDonald's;354 West 125th Street;354 W 125th St, New York, NY 10027, USA;;;;;;
+540,000;;;;;;McDonald's;444 Lenox Avenue @ 132Nd;444 Malcolm X Blvd #132Nd, New York, NY 10037, USA;;;;;;
+541,000;;;;;;McDonald's;600 West 125th;600 W 125th St, New York, NY 10027, USA;;;;;;
+542,000;;;;;;McDonald's;688 8th Avenue;688 8th Ave, New York, NY 10036, USA;;;;;;
+543,000;;;;;;McDonald's;79 West 125th Street;79 W 125th St, New York, NY 10027, USA;;;;;;
+544,000;;;;;;Mcnulty's Tea & Coffee Company;109 Christopher Street;109 Christopher St, New York, NY 10014, USA;;;;;;
+545,000;;;;;;Megu;845 UN Plaza;845 United Nations Plaza, New York, NY 10017, USA;;;;;;
+547,000;;;;;;Merkato 55;55 Gansevoort Street;55 Gansevoort Street;;;;;;
+548,000;;;;;;Mesa Grill Restaurant;102 Fifth Avenue;102 5th Ave, New York, NY 10011, USA;;;;;;
+549,000;;;;;;Meson Sevilla Restaurant;344 West 46th Street;344 W 46th St, New York, NY 10036, USA;;;;;;
+551,000;;;;;;Mia Dona;206 East 58th Street;206 E 58th St, New York, NY 10022, USA;;;;;;
+552,000;;;;;;Michael Jordan's The Steakhouse N.Y.C.;23 Vanderbilt Avenue;23 Vanderbilt Avenue;;;;;;
+554,000;;;;;;Mickey Mantle's Restaurant;42 Central Park South;42 Central Park S, New York, NY 10019, USA;;;;;;
+555,000;;;;;;Mima's CubanFusion;2056 Second Avenue;2056 2nd Ave, New York, NY 10029, USA;;;;;;
+556,000;;;;;;Mindy's Restaurant;212 East 42nd Street;212 E 42nd St, New York, NY 10017, USA;;;;;;
+558,000;;;;;;Mondello;3 East 37th Street;3 E 37th St, Hamilton, ON L8V 4A7, Canada;;;;;;
+559,000;;;;;;Monica's Gourmet Deli;1603 2nd Avenue;1603 2nd Ave, New York, NY 10028, USA;;;;;;
+560,000;;;;;;Morton's, the Steakhouse;551 5th Avenue;551 5th Avenue;;;;;;
+561,000;;;;;;Mr. Broadway Kosher Deli;1372 Broadway;1372 Broadway, New York, NY 10018, USA;;;;;;
+562,000;;;;;;Murals on 54;65 West 54th Street;65 W 54th St, New York, NY 10019, USA;;;;;;
+563,000;;;;;;Mustang Grill;1633 2nd Avenue;1633 2nd Ave, New York, NY 10028, United States;;;;;;
+564,000;;;;;;Nacho Mama's Burritos;2867 Broadway;2867 Broadway, New York, NY 10025, USA;;;;;;
+565,000;;;;;;Nathan's Famous;100 West 33rd Street;100 W 33rd St, New York, NY 10001, USA;;;;;;
+566,000;;;;;;Nathan's Famous;705 8th Avenue;705 8th Ave, New York, NY 10036, USA;;;;;;
+567,000;;;;;;Natsumi Restaurant;226 West 50th Street;226 W 50th St, New York, NY 10019, USA;;;;;;
+569,000;;;;;;Nespresso Boutique Bar;761 Madison Avenue;761 Madison Avenue;;;;;;
+570,000;;;;;;Nicole's Restaurant;10 East 60th Street;10 E 60th St, New York, NY 10022, USA;;;;;;
+571,000;;;;;;Nippon;155 East 52nd Street;155 E 52nd St, New York, NY 10022, USA;;;;;;
+572,000;;;;;;Nirvana;30 Central Park South;30 Central Park S, New York, NY 10019, USA;;;;;;
+573,000;;;;;;Nobu;105 Hudson Street;105 Hudson St, New York, NY 10013, USA;;;;;;
+574,000;;;;;;Nolia;158 Avenue C;158 Loisaida Ave, New York, NY 10009, USA;;;;;;
+575,000;;;;;;North West Restaurant;392 Columbus Avenue;392 Columbus Ave, New York, NY 10024, USA;;;;;;
+577,000;;;;;;ONE c.p.s.;One Central Park South;One Central Park South;;;;;;
+579,000;;;;;;Old Homestead Steak House;56 9th Avenue;56 9th Ave, New York, NY 10011, USA;;;;;;
+580,000;;;;;;Ole Restaurant;434 2nd Avenue;434 2nd Ave, Deptford Township, NJ 08096, USA;;;;;;
+581,000;;;;;;One If by Land Two If by Sea;17 Barrow Street;17 Barrow St, New York, NY 10014, USA;;;;;;
+582,000;;;;;;Osteria Gelsi;507-509 9th Ave. at 38th St.;507-509 9th Ave. at 38th St.;;;;;;
+584,000;;;;;;Pala;198 Allen Street;198 Allen St, New York, NY 10002, USA;;;;;;
+585,000;;;;;;Pampano Restaurant;209 East 49th Street;209 E 49th St, New York, NY 10017, USA;;;;;;
+586,000;;;;;;Paola's Restaurant;245 East 84th Street;245 E 84th St, New York, NY 10028, USA;;;;;;
+587,000;;;;;;Papa John's;765 8th Avenue;765 8th Ave, New York, NY 10036, USA;;;;;;
+588,000;;;;;;Papillon Bistro and Bar;22 East 54th Street;22 E 54th St, New York, NY 10022, USA;;;;;;
+589,000;;;;;;Paris Match;29 East 65th Street;29 E 65th St, New York, NY 10065, USA;;;;;;
+590,000;;;;;;Park Avenue Cafe;100 East 63rd Street;100 E 63rd St, New York, NY 10065, USA;;;;;;
+592,000;;;;;;Payard Patisserie & Bistro;1032 Lexington Avenue;1032 Lexington Ave, New York, NY 10021, USA;;;;;;
+593,000;;;;;;Peacock Alley;301 Park Avenue;301 Park Ave, New York, NY 10016, USA;;;;;;
+595,000;;;;;;Per Se;10 Columbus Circle;10 Columbus Cir, New York, NY 10019, USA;;;;;;
+596,000;;;;;;Perilla Restaurant;9 Jones Street;9 Jones St, New York, NY 10014, USA;;;;;;
+598,000;;;;;;Philippe;35 East 60th Street;35 E 60th St, New York, NY 10022, USA;;;;;;
+599,000;;;;;;Picasso;303 East 56th Street;303 E 56th St, New York, NY 10022, USA;;;;;;
+600,000;;;;;;Piccolino;8 East 36 Street;8 East 36 Street;;;;;;
+602,000;;;;;;Pier 2110;2110 Adam Clayton Powell Jr. Blvd.;2110 Adam Clayton Powell Jr Blvd, New York, NY 10027, USA;;;;;;
+603,000;;;;;;Pipa;38 East 19th Street;38 E 19th St, New York, NY 10003, USA;;;;;;
+604,000;;;;;;Plantain;20 West 38th Street;20 W 38th St, New York, NY 10018, USA;;;;;;
+605,000;;;;;;Pomaire;371 West 46th Street;371 W 46th St, New York, NY 10036, USA;;;;;;
+606,000;;;;;;Pongsri Thai Restaurant;244 West 48 Street;244 W 48th St, New York, NY 10036, USA;;;;;;
+607,000;;;;;;Popeyes Chicken & Biscuits;1558 3rd Avenue;1558 3rd Ave, New York, NY 10128, USA;;;;;;
+609,000;;;;;;Public House;140 East 41st Street;140 E 41st St, New York, NY 10017, USA;;;;;;
+610,000;;;;;;Pure Food and Wine;54 Irving Place;54 Irving Place;;;;;;
+611,000;;;;;;R & G Deli;348 West 36th Street;348 W 36th St, New York, NY 10018, USA;;;;;;
+612,000;;;;;;Rain West;100 West 82nd Street;100 W 82nd St, New York, NY 10024, USA;;;;;;
+613,000;;;;;;Rainbow Room Grill;30 Rockefeller Plaza;Rockefeller Plaza, New York, NY 10111, USA;;;;;;
+614,000;;;;;;Red Lobster;5 Times Square;Five Times Square, New York, NY 10036, USA;;;;;;
+615,000;;;;;;Regional;2607 Broadway;2607 Broadway, New York, NY 10025, USA;;;;;;
+616,000;;;;;;Rene Pujol Restaurant;321 West 51st Street;321 W 51st St, New York, NY 10019, USA;;;;;;
+617,000;;;;;;Restaurant Carlyle;35 East 76th Street;35 E 76th St, New York, NY 10021, USA;;;;;;
+618,000;;;;;;Restaurant Charlotte;145 West 44th Street;145 W 44th St, New York, NY 10036, USA;;;;;;
+619,000;;;;;;Rock Center Cafe;20 West 50th Street;20 W 50th St, New York, NY 10020, USA;;;;;;
+620,000;;;;;;Rosa Mexicano;1063 1st Avenue;1063 1st Avenue, New York, NY 10022, USA;;;;;;
+621,000;;;;;;Rosa Mexicano Lincoln Center;61 Columbus Avenue;61 Columbus Ave, New York, NY 10023, USA;;;;;;
+622,000;;;;;;Rosanjin;141 Duane Street;141 Duane St, New York, NY 10013, USA;;;;;;
+623,000;;;;;;Rosie O'Grady's;149 West 46th Street;149 West 46th Street;;;;;;
+624,000;;;;;;Roth's Westside Steakhouse;680 Columbus Avenue;680 Columbus Ave, New York, NY 10025, USA;;;;;;
+625,000;;;;;;Roy's New York;Manhattan · 130 Washington St.;130 Washington St, New York, NY 10006, USA;;;;;;
+626,000;;;;;;Ruby Foo's;1626 Broadway;1626 Broadway, New York, NY 10019, USA;;;;;;
+628,000;;;;;;Sable's;1489 2nd Avenue;1489 2nd Ave, New York, NY 10075, USA;;;;;;
+629,000;;;;;;Sabora Mexico;1744 1st Avenue;1744 1st Avenue, New York, NY 10128, USA;;;;;;
+630,000;;;;;;Sakagura Restaurant;211 East 43rd Street;211 E 43rd St, New York, NY 10017, USA;;;;;;
+632,000;;;;;;San Domenico;240 Central Park South;240 Central Park S, New York, NY 10019, USA;;;;;;
+633,000;;;;;;San Luigi's;311 Amsterdam Avenue;311 Amsterdam Ave, New York, NY 10023, USA;;;;;;
+634,000;;;;;;San Martin Restaurant;143 East 49th Street;143 E 49th St, New York, NY 10017, USA;;;;;;
+635,000;;;;;;Sangria 46;338 West 46th Street;338 W 46th St, New York, NY 10036, USA;;;;;;
+637,000;;;;;;Sapphire Restaurant;1845 Broadway;1845 Broadway, New York, NY 10023, USA;;;;;;
+639,000;;;;;;Saurin Parke Cafe;301 West 110th Street;301 W 110th St, New York, NY 10026, USA;;;;;;
+640,000;;;;;;Scaletta Restaurant;50 West 77th Street;50 W 77th St, New York, NY 10024, USA;;;;;;
+642,000;;;;;;Seppi's;123 West 56th Street;123 W 56th St, New York, NY 10019, USA;;;;;;
+643,000;;;;;;Serafina's;210 West 55th Street;210 W 55th St, New York, NY 10019, USA;;;;;;
+644,000;;;;;;Shinbashi;7 East 48th Street;7 E 48th St, New York, NY 10017, USA;;;;;;
+645,000;;;;;;Shrimp Box;62 West 125th Street;62 W 125th St, New York, NY 10027, USA;;;;;;
+646,000;;;;;;Shula's Steak House;270 W. 43rd St. at 8th Ave.;270 W 43rd St, New York, NY 10036, USA;;;;;;
+650,000;;;;;;Siam Inn Too;854 Eighth Avenue;854 8th Ave, New York, NY 10019, USA;;;;;;
+651,000;;;;;;Silverleaf Tavern;43 East 38th Street;43 East 38th Street;;;;;;
+653,000;;;;;;Smoke Jazz Club;2751 Broadway;2751 Broadway, New York, NY 10025, USA;;;;;;
+655,000;;;;;;Solo Restaurant;550 Madison Avenue;550 Madison Ave, New York, NY 10022, United States;;;;;;
+656,000;;;;;;Sombrero;303 West 48th Street;303 W 48th St, New York, NY 10036, USA;;;;;;
+657,000;;;;;;Sombrero Mexican;303 West 48th Street;303 W 48th St, New York, NY 10036, USA;;;;;;
+658,000;;;;;;Son Cubano Restaurant;405 West 14th Street;405 W 14th St, New York, NY 10014, USA;;;;;;
+659,000;;;;;;Sosa Borella;832 8th Avenue;832 8th Ave, New York, NY 10019, USA;;;;;;
+660,000;;;;;;Southern Hospitality BBQ;1460 Second Avenue;1460 2nd Ave, New York, NY 10075, USA;;;;;;
+661,000;;;;;;Spice Market;403 West 13th Street;403 W 13th St, New York, NY 10014, USA;;;;;;
+662,000;;;;;;St. Andrews Restaurant;120 West 44th Street;120 W 44th St, New York, NY 10036, USA;;;;;;
+663,000;;;;;;Stage Delicatessen;834 7th Avenue;834 7th Avenue;;;;;;
+664,000;;;;;;Star Diner;839 Seventh Avenue;839 7th Ave, Longview, WA 98632, USA;;;;;;
+665,000;;;;;;Starbucks;152-154 Columbus Avenue;152-154 Columbus Ave, New York, NY 10023, USA;;;;;;
+666,000;;;;;;Starbucks;1460 Broadway;1460 Broadway, New York, NY 10036, USA;;;;;;
+667,000;;;;;;Starbucks Coffee;875 Sixth Avenue;875 6th Ave, New York, NY 10001, USA;;;;;;
+668,000;;;;;;Starbucks Coffee;21 East 8th Street;21 E 8th St, Hinsdale, IL 60521, USA;;;;;;
+669,000;;;;;;Starbucks Coffee;195 Broadway;195 Broadway #2, New York, NY 10007, United States;;;;;;
+670,000;;;;;;Starbucks Coffee;1128 Third Avenue;1128 3rd Ave, New York, NY 10065, USA;;;;;;
+671,000;;;;;;Starbucks Coffee;10 Union Square East;10 Union Square E, New York, NY 10003, USA;;;;;;
+672,000;;;;;;Starbucks Coffee;One Penn Plaza;1 Pennsylvania Plaza, New York, NY 10119, United States;;;;;;
+673,000;;;;;;Starbucks Coffee;3 Park Avenue;3 Park Avenue, New York, NY 10016, USA;;;;;;
+674,000;;;;;;Starbucks Coffee;540 Columbus Avenue;540 Columbus Ave, New York, NY 10024, USA;;;;;;
+675,000;;;;;;Starbucks Coffee;455 Main Street;455 Main St, New York, NY 10044, USA;;;;;;
+676,000;;;;;;Starbucks Coffee;233 Broadway;233 Broadway, Dobbs Ferry, NY 10522, USA;;;;;;
+677,000;;;;;;Starbucks Coffee;76 9th Avenue;76 9th Ave, New York, NY 10011, USA;;;;;;
+678,000;;;;;;Starbucks Coffee;750 6th Avenue;750 6th Ave, New York, NY 10010, USA;;;;;;
+679,000;;;;;;Starbucks Coffee;2929 Broadway;2929 Broadway, New York, NY 10025, USA;;;;;;
+680,000;;;;;;Starbucks Coffee;79 Washington Square;79 Washington Square E, New York, NY 10003, USA;;;;;;
+681,000;;;;;;Starbucks Coffee;72 Grove Street;72 Grove St, New York, NY 10014, USA;;;;;;
+682,000;;;;;;Starbucks Coffee;2 Broadway;2 Broadway;;;;;;
+683,000;;;;;;Starbucks Coffee;725 5th Avenue;725 5th Ave, New York, NY 10022, USA;;;;;;
+684,000;;;;;;Starbucks Coffee;2252 Broadway;2252 Broadway, New York, NY 10024, USA;;;;;;
+685,000;;;;;;Starbucks Coffee;77-83 West 125th Street;77 W 125th St, New York, NY 10027, USA;;;;;;
+686,000;;;;;;Starbucks Coffee;280 Park Avenue;280 Park Ave, New York, NY 10020, USA;;;;;;
+687,000;;;;;;Starbucks Coffee;230 Park Avenue;The Helmsley Building, New York, NY 10017, USA;;;;;;
+688,000;;;;;;Starbucks Coffee;125 Park Avenue;125 Park Ave, New York, NY 10017, USA;;;;;;
+689,000;;;;;;Starbucks Coffee;30 Rockefeller Plaza;Rockefeller Plaza, New York, NY 10111, USA;;;;;;
+690,000;;;;;;Starbucks Coffee;545 Fifth Avenue;545 5th Ave, New York, NY 10017, USA;;;;;;
+691,000;;;;;;Starbucks Coffee;565 Fifth Avenue;565 5th Ave, New York, NY 10017, USA;;;;;;
+692,000;;;;;;Starbucks Coffee;1021 Third Avenue;1021 3rd Ave, New York, NY 10065, USA;;;;;;
+693,000;;;;;;Starbucks Coffee;41 Union Square West;41 Union Square W, New York, NY 10003, USA;;;;;;
+694,000;;;;;;Starbucks Coffee;1378 Madison Avenue;1378 Madison Ave, New York, NY 10128, USA;;;;;;
+695,000;;;;;;Starbucks Coffee;1642 Third Avenue;1642 3rd Ave, New York, NY 10128, USA;;;;;;
+696,000;;;;;;Starbucks Coffee;120 East 87th Street;120 E 87th St, New York, NY 10128, USA;;;;;;
+697,000;;;;;;Starbucks Coffee;1515 York Avenue;1515 York Ave, New York, NY 10028, USA;;;;;;
+698,000;;;;;;Starbucks Coffee;1449 Second Avenue;1449 2nd Ave, New York, NY 10021, USA;;;;;;
+699,000;;;;;;Starbucks Coffee;444 Columbus Avenue;444 Columbus Ave, San Francisco, CA 94133, USA;;;;;;
+700,000;;;;;;Starbucks Coffee;1559 2nd Avenue;1559 2nd Ave, New York, NY 10028, USA;;;;;;
+701,000;;;;;;Starbucks Coffee;684 Eighth Avenue;684 8th Ave, New York, NY 10036, USA;;;;;;
+702,000;;;;;;Starwich;525 West 42nd Street;525 W 42nd St, New York, NY 10036, USA;;;;;;
+703,000;;;;;;Steak & Seafood (Show All);Inside Battery Park;Inside Battery Park;;;;;;
+704,000;;;;;;Steak & Seafood (Show All);885 Second Avenue;885 2nd Ave, New York, NY 10017, USA;;;;;;
+705,000;;;;;;Steak & Seafood (Show All);147 West 43rd Street;147 W 43rd St, New York, NY 10036, USA;;;;;;
+707,000;;;;;;Steak Frites;225 Varick Street;225 Varick St, New York, NY 10014, USA;;;;;;
+708,000;;;;;;Stone Rose;10 Columbus Circle;10 Columbus Cir, New York, NY 10019, USA;;;;;;
+709,000;;;;;;Stout NYC;133 West 33rd Street;133 W 33rd St, New York, NY 10001, USA;;;;;;
+710,000;;;;;;Strada 57 Ristorante;315 West 57th Street;315 W 57th St, New York, NY 10019, USA;;;;;;
+711,000;;;;;;Strip House - New York;13 East 12th Street;13 E 12th St, New York, NY 10003, USA;;;;;;
+712,000;;;;;;Subway;112 John Street;112 John St, New York, NY 10038, USA;;;;;;
+713,000;;;;;;Subway;475 Columbus Avenue;475 Columbus Ave, New York, NY 10024, USA;;;;;;
+714,000;;;;;;Subway;2458 Broadway;Broadway, New York, USA;;;;;;
+715,000;;;;;;Subway;124 West 72nd Street;124 W 72nd St, New York, NY 10023, USA;;;;;;
+716,000;;;;;;Subway;48 West 125th Street;48 W 125th St, New York, NY 10027, USA;;;;;;
+717,000;;;;;;Subway;578 West 125th Street;578 W 125th St, New York, NY 10027, USA;;;;;;
+718,000;;;;;;Subway;30 Rockefeller Plaza;Rockefeller Plaza, New York, NY 10111, USA;;;;;;
+719,000;;;;;;Subway;1585 3rd Avenue;1585 3rd Ave, New York, NY 10128, USA;;;;;;
+720,000;;;;;;Subway;901 Avenue Of The Americas;901 6th Ave, New York, NY 10001, USA;;;;;;
+721,000;;;;;;Subway;8 East 41st Street;8 E 41st St, New York, NY 10017, USA;;;;;;
+722,000;;;;;;Subway;1411 2nd Avenue;1411 2nd Ave, New York, NY 10021, USA;;;;;;
+723,000;;;;;;Subway;237 Park Avenue;237 Park Ave, New York, NY 10017, USA;;;;;;
+724,000;;;;;;Subway;900 Main Street;900 Main St, New York, NY 10044, USA;;;;;;
+725,000;;;;;;Subway;29 East 8th Street;29 East 8th Street;;;;;;
+726,000;;;;;;Subway;401 8th Avenue;401 8th Avenue;;;;;;
+727,000;;;;;;Subway;221 7th Avenue;221 7th Avenue;;;;;;
+728,000;;;;;;Subway;765 8th Avenue;765 8th Ave, New York, NY 10036, USA;;;;;;
+729,000;;;;;;Subway;106 Greenwich Street;106 Greenwich St, New York, NY 10006, USA;;;;;;
+730,000;;;;;;Subway;139 East 47th Street;139 E 47th St, New York, NY 10017, USA;;;;;;
+731,000;;;;;;Subway;89 Worth Street;89 Worth St, New York, NY 10013, USA;;;;;;
+732,000;;;;;;Subway;705 8th Avenue;705 8th Ave, New York, NY 10036, USA;;;;;;
+733,000;;;;;;Subway;165 Church Street;165 Church St, New York, NY 10007, USA;;;;;;
+734,000;;;;;;Subway;561 Tenth Avenue;561 Amsterdam Ave, New York, NY 10024, USA;;;;;;
+735,000;;;;;;Subway;1776 2nd Avenue;1776 2nd Ave, New York, NY 10128, USA;;;;;;
+736,000;;;;;;Subway;1171 2nd Avenue;1171 2nd Ave, New York, NY 10065, USA;;;;;;
+737,000;;;;;;Subway;1613 2nd Avenue;1613 2nd Ave, New York, NY 10075, USA;;;;;;
+738,000;;;;;;Subway;113 Lafayette Street;113 Lafayette St, New York, NY 10013, USA;;;;;;
+739,000;;;;;;Sukhothai West;411 West 42 Street;411 W 42nd St, New York, NY 10036, USA;;;;;;
+740,000;;;;;;Sushi Zen;57 West 46 Street;57 W 46th St, New York, NY 10036, USA;;;;;;
+741,000;;;;;;Sushisamba Park;245 Park Avenue South;245 Park Ave S, New York, NY 10003, USA;;;;;;
+742,000;;;;;;Tagine Dining Gallery;537 9th Avenue;537 9th Ave, New York, NY 10018, USA;;;;;;
+743,000;;;;;;Tal Bagels;977 1st Avenue;977 1st Avenue, New York, NY 10022, USA;;;;;;
+744,000;;;;;;Talay Restaurant;701 West 135th Street;701 W 135th St, New York, NY 10031, USA;;;;;;
+745,000;;;;;;Talia's Steakhouse & Bar;668 Amsterdam Avenue;668 Amsterdam Ave, New York, NY 10025, USA;;;;;;
+747,000;;;;;;Taqueria California;3151 Broadway;3151 Broadway, New York, NY 10027, USA;;;;;;
+748,000;;;;;;Taste D-lite;146 West 72nd Street;146 W 72nd St, New York, NY 10023, USA;;;;;;
+749,000;;;;;;Tavern on the Green;1 West 67th Street;1 W 67th St, New York, NY 10023, USA;;;;;;
+750,000;;;;;;Terrace 5;11 West 53 Street;11 W 53rd St, New York, NY 10019, USA;;;;;;
+751,000;;;;;;Texas Texas;1600 Broadway;1600 Broadway, New York, NY 10019, USA;;;;;;
+752,000;;;;;;Thalassa;179 Franklin Street;179 Franklin St, New York, NY 10013, USA;;;;;;
+753,000;;;;;;The Cafe Carlyle;35 East 76th Street;35 E 76th St, New York, NY 10021, USA;;;;;;
+754,000;;;;;;The Center Room;W. 64th St. and Columbus Ave.;20 W 64th St, New York, NY 10023, United States;;;;;;
+755,000;;;;;;The Gamut Bistro & Lounge;102 East 25th Street;102 E 25th St, New York, NY 10010, USA;;;;;;
+756,000;;;;;;The Mermaid Inn;96 2nd Avenue;96 2nd Ave, New York, NY 10003, USA;;;;;;
+757,000;;;;;;The Modern;11 West 53 Street;11 W 53rd St, New York, NY 10019, USA;;;;;;
+758,000;;;;;;The Modern Dining Room;9 West 53rd Street;9 W 53rd St, New York, NY 10019, USA;;;;;;
+760,000;;;;;;The Parlour;250 W. 86th Street;250 W 86th St, New York, NY 10024, USA;;;;;;
+761,000;;;;;;The Post House;28 East 63rd Street;28 E 63rd St, New York, NY 10065, USA;;;;;;
+762,000;;;;;;The Pump Energy Food;113 East 31st Street;113 E 31st St, New York, NY 10016, USA;;;;;;
+763,000;;;;;;The Rainbow Room;30 Rockefeller Plaza;Rockefeller Plaza, New York, NY 10111, USA;;;;;;
+764,000;;;;;;The Sea Grill Restaurant;19 West 49th Street;19 W 49th St, New York, NY 10020, USA;;;;;;
+766,000;;;;;;The Steakhouse at Monkey Bar;60 East 54th Street;60 E 54th St, New York, NY 10022, USA;;;;;;
+767,000;;;;;;The Sugar Bar;254 West 72nd Street;254 W 72nd St, New York, NY 10023, USA;;;;;;
+768,000;;;;;;The Tasting Room;264 Elizabeth Street;264 Elizabeth St, New York, NY 10012, USA;;;;;;
+770,000;;;;;;The View Restaurant;1535 Broadway;1535 Broadway, New York, NY 10036, USA;;;;;;
+771,000;;;;;;The Water Club;The E. River at 30th St.;The E. River at 30th St.;;;;;;
+772,000;;;;;;Think Coffee;248 Mercer Street;248 Mercer St, New York, NY 10012, USA;;;;;;
+774,000;;;;;;Toloache;251 West 50th Street;251 W 50th St, New York, NY 10019, USA;;;;;;
+775,000;;;;;;Tony's Burger;34 East 32nd Street;34 E 32nd St, New York, NY 10016, USA;;;;;;
+776,000;;;;;;Tony's Di Napoli;1606 2nd Avenue;1606 2nd Ave, New York, NY 10028, USA;;;;;;
+777,000;;;;;;Tony's Di Napoli Midtown;147 West 43rd Street;147 W 43rd St, New York, NY 10036, USA;;;;;;
+778,000;;;;;;Town;15 West 56th Street;15 W 56th St, New York, NY 10019, USA;;;;;;
+779,000;;;;;;Trata Estiatorio;1331 2nd Avenue;1331 2nd Avenue;;;;;;
+780,000;;;;;;Trattoria Dopo Teatro;125 West 44th Street;125 W 44th St, New York, NY 10036, USA;;;;;;
+781,000;;;;;;Trattoria Pesce Pasta;536 Ninth Avenue;536 9th Ave, New York, NY 10018, USA;;;;;;
+782,000;;;;;;Trattoria Sambuca;20 West 72nd Street;20 W 72nd St, New York, NY 10023, USA;;;;;;
+786,000;;;;;;Uncle Nick's West Village;569 Hudson Street;569 Hudson St, New York, NY 10014, USA;;;;;;
+788,000;;;;;;Utsav Festive India;1185 Ave. of the Americas / 6th Avenue;1185 Ave. of the Americas / 6th Avenue;;;;;;
+789,000;;;;;;Vela;55 West 21st Street;55 W 21st St, New York, NY 10010, USA;;;;;;
+790,000;;;;;;Veritas;45 East 20th Street;45 E 20th St, New York, NY 10003, USA;;;;;;
+793,000;;;;;;Vince and Eddie's;212-580-8700 · Expensive;212-580-8700 · Expensive;;;;;;
+794,000;;;;;;Vintage Irving;118 East 15th Street;118 E 15th St, New York, NY 10003, USA;;;;;;
+795,000;;;;;;Virgil's Real BBQ;152 West 44th Street;152 W 44th St, New York, NY 10036, USA;;;;;;
+796,000;;;;;;Viva Pancho;156 West 44th Street;156 W 44th St, New York, NY 10036, USA;;;;;;
+799,000;;;;;;Wakiya;Two Lexingtron Avenue;Two Lexingtron Avenue;;;;;;
+800,000;;;;;;Wave Sushi At Caviar Russe;538 Madison Avenue;538 Madison Ave, New York, NY 10022, USA;;;;;;
+801,000;;;;;;Wendy's;85 Nassau Street;85 Nassau St, New York, NY 10038, USA;;;;;;
+802,000;;;;;;White Castle;2092-2094 7th Avenue;2092 7th Ave, New York, NY 10036, USA;;;;;;
+803,000;;;;;;Windfall Lounge and Grill;23 West 39th Street;23 W 39th St, New York, NY 10018, USA;;;;;;
+804,000;;;;;;Windows Over Harlem;163 West 125th Street;Adam Clayton Powell Jr. State Office Building, 163 W 125th St, New York, NY 10027, USA;;;;;;
+805,000;;;;;;Wok N' Roll;705 8th Avenue At 44 Street;705 8th Ave, New York, NY 10036, USA;;;;;;
+806,000;;;;;;Wu Liang Ye;36 West 48th Street;36 W 48th St, New York, NY 10036, USA;;;;;;
+808,000;;;;;;Ze Nitln;311 West 48th Street;311 W 48th St, New York, NY 10019, USA;;;;;;
+809,000;;;;;;Zen Palate;34 Union Square East;34 Union Square E, New York, NY 10003, USA;;;;;;
+811,000;;;;;;Zocalo at Grand Central;109 East 42nd Street;109 E 42nd St, New York, NY 10017, USA;;;;;;
+813,000;;;;;;Zorzi;One East 35th Street;One East 35th Street;;;;;;
+;0,000;;;;;;;;'Cesca;164 W 75th St;Upper West Side;Italian;$$$;164 W 75th St, New York, NY 10023, USA
+;1,000;;;;;;;;'Ino;21 Bedford St;Greenwich Village;Italian;$;21 Bedford St, New York, NY 10014, USA
+;2,000;;;;;;;;'Inoteca;98 Rivington St;Lower East Side;Italian;$$;98 Rivington St, New York, NY 10002, USA
+;3,000;;;;;;;;107 West;811 W 187th St;Harlem;Creole-Cajun;$$$;811 W 187th St, New York, NY 10033, USA
+;4,000;;;;;;;;15 East;15 E. 15th Street;Union Square;Japanese;$$$$;E 15th St, New York, NY, USA
+;5,000;;;;;;;;2 Rivers Bar and ReStaurant;10 Murray St;American;----;;10 Murray Street, Hobart TAS 7000, Australia
+;8,000;;;;;;;;26 Seats;168 Ave B;East Village;French;$$;168 Avenue B, New York, NY 10009, USA
+;9,000;;;;;;;;44;44 W 44th Street;Midtown West;American;$$$;44 W 44th St, New York, NY 10036, USA
+;10,000;;;;;;;;44 & X Hell's Kitchen;622 10th Ave;Midtown West;American;$$$;622 10th Ave, New York, NY 10036, USA
+;12,000;;;;;;;;5 Ninth;5 Ninth Ave;Meatpacking District;International;$$$;5 9th Ave, New York, NY 10014, USA
+;13,000;;;;;;;;71 Irving Place;71 Irving Pl;Gramercy Park;American;$;71 Irving Pl, New York, NY 10003, USA
+;14,000;;;;;;;;77493;1633 Broadway;Midtown West;American;$$;Paramount Plaza, 1633 Broadway, New York, NY 10019, USA
+;15,000;;;;;;;;A;947 Columbus Ave;Harlem;Caribbean;$;947 Columbus Ave, New York, NY 10025, USA
+;16,000;;;;;;;;A Cafe;973 Columbus Avenue;Upper West Side;French;$$$;973 Columbus Ave, New York, NY 10025, USA
+;18,000;;;;;;;;A.O.C.;314 Bleecker St;West Village;French;$$;314 Bleecker St, New York, NY 10014, USA
+;19,000;;;;;;;;A.O.C. Bedford;14 Bedford St;Greenwich Village;French;$$$;14 Bedford St, New York, NY 10014, USA
+;20,000;;;;;;;;Abboccato;136 W 55th St;Midtown West;Italian;$$$$;136 W 55th St, New York, NY 10019, USA
+;21,000;;;;;;;;Acqua;718 Amsterdam Ave.;Italian;$$$$;;718 Amsterdam Ave, New York, NY 10025, USA
+;24,000;;;;;;;;Aix Brasserie;2398 Broadway;Upper West Side;French;$$$$;2398 Broadway, New York, NY 10024, USA
+;26,000;;;;;;;;Akdeniz;19 W 46th St;Midtown West;Mediterranean;$;19 W 46th St, New York, NY 10036, USA
+;27,000;;;;;;;;Aki;181 W Fourth St;Greenwich Village;Caribbean;$$$;181 West 4th Street, New York, NY 10014, USA
+;28,000;;;;;;;;Al Bustan Restaurant;827 Third Ave;Midtown East;Middle Eastern;$$$;827 3rd Ave, New York, NY 10022, USA
+;29,000;;;;;;;;Alexandra;455 Hudson St;West Village;American;$$;455 Hudson St, New York, NY 10014, USA
+;32,000;;;;;;;;Ali Baba;206 E 34th St;Murray Hill;Turkish;$;206 E 34th St, New York, NY 10016, USA
+;33,000;;;;;;;;Alias;76 Clinton St;Lower East Side;American;$$$;76 Clinton St, New York, NY 10002, USA
+;34,000;;;;;;;;Alice's Tea Cup;102 West. 73 st;Upper West Side;American;$;102 W 73rd St, New York, NY 10023, USA
+;37,000;;;;;;;;Almond;12 E 22nd Street;Flatiron;French;$$$$$;12 E 22nd St, New York, NY 10010, USA
+;39,000;;;;;;;;Alouette;2588 Broadway;Upper West Side;French;$$$;2588 Broadway
+;40,000;;;;;;;;Alta;64 West 10th Street;Greenwich Village;Mediterranean;$$$;64 W 10th St, New York, NY 10011, USA
+;41,000;;;;;;;;Alto;520 Madison Ave;Midtown East;Italian;$$$$$;520 Madison Ave, New York, NY 10022, USA
+;42,000;;;;;;;;Amalia;;Midtown West;Mediterranean;$$$$;
+;43,000;;;;;;;;Amaranth;21 E. 62nd St.;Mediterranean;$$$;;21 E 62nd St, New York, NY 10065, USA
+;44,000;;;;;;;;Amazing 66;66 Mott Street;Chinatown;Chinese;$$;66 Mott St, New York, NY 10013, USA
+;45,000;;;;;;;;Ambassador Grill and Lounge;1 United Nations Plaza;Midtown East;International;$$$;1 United Nations Plaza, New York, NY 10017, United States
+;49,000;;;;;;;;Amy Ruth's;113 W 116th St;Harlem;Southern;$;113 W 116th St, New York, NY 10026, USA
+;50,000;;;;;;;;Amy's Bread;75 Ninth Ave;Midtown West;American;$;75 9th Ave, New York, NY 10011, USA
+;51,000;;;;;;;;Angelica Kitchen;300 E 12th St;East Village;Vegetarian;$;300 E 12th St, New York, NY 10003, USA
+;52,000;;;;;;;;Angelo & Maxies Steakhouse;233 Park Ave South (19th St);Midtown West;Steakhouse;$$$;233 Park Ave South (19th St)
+;53,000;;;;;;;;Angelo's Of Mulberry Street;146 Mulberry St Fl 1;Little Italy;Italian;$$$;146 Mulberry St Fl 1, New York, NY 10013, USA
+;54,000;;;;;;;;Angon on The Sixth;320 E Sixth St;East Village;Indian;$;320 E 6th St, Dallas, TX 75203, USA
+;55,000;;;;;;;;Annisa;13 Barrow Street;Greenwich Village;American;$$$$$;13 Barrow Street
+;56,000;;;;;;;;Anthos;36 W 52nd St;Midtown West;Mediterranean;$$$$;36 W 52nd St, Bayonne, NJ 07002, USA
+;59,000;;;;;;;;Aq Cafe;58 Park Ave;Murray Hill;Scandinavian;$;Park Ave, United States
+;60,000;;;;;;;;Aquagrill;210 Spring St;SOHO;Seafood;$$$$;210 Spring St, New York, NY 10012, USA
+;62,000;;;;;;;;Arezzo;46 W 22nd St;Flatiron;Italian;$$$;46 W 22nd St, New York, NY 10010, USA
+;63,000;;;;;;;;Aroma;36 E Fourth St;NoLita;Italian;$$;Bartlett Building, 36 E 4th St, Cincinnati, OH 45202, USA
+;64,000;;;;;;;;Arqua;281 Church Street;TriBeCa;Italian;$$$;281 Church St, New York, NY 10013, USA
+;65,000;;;;;;;;Arriba Arriba!;1463 Third Ave;Upper East Side;American;$;1463 3rd Ave, New York, NY 10028, USA
+;67,000;;;;;;;;Artichoke;328 E 14th St;East Village;Pizza;$$;328 E 14th St, New York, NY 10003, USA
+;68,000;;;;;;;;Artie's Deli;2290 Broadway;;;;2290 Broadway, New York, NY 10024, USA
+;70,000;;;;;;;;Arturo's Restaurants;106 W Houston St;Greenwich Village;Italian;$;106 W Houston St, New York, NY 10012, USA
+;71,000;;;;;;;;Asia De Cuba;237 Madison Ave;Murray Hill;Asian;$$$$;237 Madison Ave, New York, NY 10016, USA
+;72,000;;;;;;;;Asiakan;710 Amsterdam Ave.;Upper West Side;Pan-Asian;$;710 Amsterdam Ave, New York, NY 10025, USA
+;73,000;;;;;;;;Asiate;80 Columbus Cir at 60th Street;Upper West Side;French;$$$$;80 Columbus Cir at 60th Street
+;76,000;;;;;;;;Atlantic Grill;1341 Third Ave;Upper East Side;Seafood;$$$;1341 3rd Ave, New York, NY 10021, USA
+;77,000;;;;;;;;Atnhos;36 W. 52nd Street;Greek;$$$$;;36 W 52nd St, Bayonne, NJ 07002, USA
+;78,000;;;;;;;;Au Mandarin;200-250 Vesey St;Financial District;Chinese;$$;200-250 Vesey St
+;79,000;;;;;;;;August;359 Bleecker St;West Village;European;$$$;359 Bleecker St, New York, NY 10014, USA
+;80,000;;;;;;;;Aureole;34 E 61st St (Between Park and Madison);Midtown East;American;$$$$$;34 E 61st St (Between Park and Madison)
+;81,000;;;;;;;;Aurora;51 Broome St.;SOHO;Italian;$$;51 Broome St, Maroubra NSW 2035, Australia
+;83,000;;;;;;;;Awash;947 Amsterdam Ave.;Ethiopian;;;947 Amsterdam Ave, New York, NY 10025, USA
+;85,000;;;;;;;;Azucar;939 Eighth Avenue;Midtown West;Cuban;$$;939 8th Ave, New York, NY 10001, USA
+;86,000;;;;;;;;Azuri Cafe;465 W 51st St;Midtown West;Jewish;$;465 W 51st St, New York, NY 10019, USA
+;87,000;;;;;;;;Azza;137 E. 55th Street;Midtown East;Moroccan;$$$$;137 E 55th St, New York, NY 10022, USA
+;89,000;;;;;;;;BLT Fish;21 W 17th St;Flatiron;Seafood;$$;21 W 17th St, New York, NY 10011, USA
+;90,000;;;;;;;;BLT Prime;111 East 22nd Street;Gramercy Park;American;$$$$;111 E 22nd St, New York, NY 10010, USA
+;91,000;;;;;;;;BLT Steak;106 E 57th St;Midtown East;Steakhouse;$$$$$;106 E 57th St, New York, NY 10022, USA
+;94,000;;;;;;;;Bali Nusa Indah Restaurant Inc;651 9th Ave;Indonesian;;;651 9th Ave, New York, NY 10036, USA
+;95,000;;;;;;;;Balthazar;80 Spring Street;SOHO;French;$$$;80 Spring St, New York, NY 10012, USA
+;96,000;;;;;;;;Banjara;97 First Ave;East Village;Indian;$$;97 First Ave, Marsden QLD 4132, Australia
+;98,000;;;;;;;;Bao 111;111 Ave C;East Village;Asian;$$;111 Loisaida Ave, New York, NY 10009, USA
+;100,000;;;;;;;;Bar Boa;100 W 82nd Street;Upper West Side;Vietnamese;$$$$;100 W 82nd St, New York, NY 10024, USA
+;101,000;;;;;;;;Bar Jamon;52 Irving Pl.;NY;Spanish;$$$;52 Irving Pl, New York, NY 10003, USA
+;102,000;;;;;;;;Bar Martignetti;406 Broome St.;;;;406 Broome St, New York, NY 10013, USA
+;103,000;;;;;;;;Bar Pitti;268 Sixth Avenue;Greenwich Village;Italian;$$;268 6th Ave, New York, NY 10012, USA
+;106,000;;;;;;;;Barbounia;250 Park Ave South;Flatiron;Mediterranean;$$$$;250 Park Ave S, New York, NY 10003, USA
+;107,000;;;;;;;;Barmarche;14 Spring St;NoLita;American;$$;14 Spring St, New York, NY 10012, USA
+;108,000;;;;;;;;Barney Greengrass;541 Amsterdam Ave;Upper West Side;Deli;$;541 Amsterdam Ave, New York, NY 10024, USA
+;109,000;;;;;;;;Barolo;398 West Broadway;SOHO;Italian;$$$;398 W Broadway, New York, NY 10012, USA
+;110,000;;;;;;;;Basta Pasta;37 W 17th St;Flatiron;Italian;$$;37 W 17th St, New York, NY 10011, USA
+;111,000;;;;;;;;Battery Gardens;Inside Battery Parkacross From 17 State St;Financial District;American;$$$;New York, NY 10004, United States
+;112,000;;;;;;;;Bay Leaf;49 W 56th Street;Midtown West;Indian;$$;49 W 56th St, New York, NY 10019, USA
+;113,000;;;;;;;;Bb Sandwich Bar;120 W Third St;West Village;American;$;120 W Third St, Dayton, OH 45402, USA
+;114,000;;;;;;;;Beacon;25 West 56th St (Between 5th & 6th Avenues);Midtown West;American;$$$$;25 West 56th St (Between 5th & 6th Avenues)
+;116,000;;;;;;;;Bellavitae;21 Minetta Ln;Greenwich Village;Italian;$$$;21 Minetta Ln, New York, NY 10012, USA
+;117,000;;;;;;;;Bello;863 Ninth Ave;;;;863 9th Ave, New York, NY 10019, USA
+;119,000;;;;;;;;Ben & Jack's Steak House;219 E 44th St;Midtown East;Steakhouse;$$$$;219 E 44th St, New York, NY 10017, USA
+;120,000;;;;;;;;Ben's Kosher Deli;209 West 38th Street;Midtown West;Deli;$;209 W 38th St, New York, NY 10018, USA
+;121,000;;;;;;;;Beppe;45 E 22nd St;Flatiron;Italian;$$$;45 E 22nd St, New York, NY 10010, United States
+;122,000;;;;;;;;Bette;461 W 23rd St;Chelsea;European;$$$;461 W 23rd St, New York, NY 10011, USA
+;123,000;;;;;;;;Bettola;412 Amsterdam Ave;Upper West Side;Italian;$$;412 Amsterdam Ave, New York, NY 10024, USA
+;124,000;;;;;;;;Beyoglu;1431 Third Avenue;Upper East Side;Mediterranean;$$;1431 3rd Ave, New York, NY 10028, USA
+;125,000;;;;;;;;Bianca;5 Bleecker St;NoLita;Italian;$$;5 Bleecker St, New York, NY 10012, USA
+;126,000;;;;;;;;Big Nick's Burger Joint;2175 Broadway;Upper West Side;American;$;2175 Broadway, New York, NY 10024, USA
+;127,000;;;;;;;;Big Wong;67 Mott St;;;;67 Mott St, New York, NY 10013, USA
+;128,000;;;;;;;;Bistro Cassis;225 Columbus Ave;Upper West Side;French;$$;225 Columbus Ave, New York, NY 10023, USA
+;129,000;;;;;;;;Bistro Citron;473 Columbus Ave.;;;;473 Columbus Ave, New York, NY 10024, USA
+;130,000;;;;;;;;Bistro Les Amis;180 Spring St/Thompson;SOHO;French;$$;180 Spring St, New York, NY 10012, USA
+;131,000;;;;;;;;Bistro Ten 18;1018 Amsterdam Ave;Upper West Side;American;$$;1018 Amsterdam Ave, New York, NY 10025, USA
+;132,000;;;;;;;;Black Iron Burger Shop;540 E 5th St;East Village;American;$$$;540 E 5th St, New York, NY 10009, USA
+;133,000;;;;;;;;Black Pearl;37 W. 26th Street;Chelsea;Seafood;$$;37 W 26th St, New York, NY 10010, USA
+;134,000;;;;;;;;Blaue Gans;139 Duane Street;TriBeCa;German;$$$;139 Duane St, New York, NY 10013, USA
+;135,000;;;;;;;;Blockheads Mexican Diner;954 Second Ave;Midtown West;Mexican;$;954 2nd Ave, New York, NY 10022, USA
+;136,000;;;;;;;;Bloomingdale Road;2398 Broadway;American;$$$;;2398 Broadway, New York, NY 10024, USA
+;137,000;;;;;;;;Blossom;187 Ninth Ave.;Vegetarian;$$;;187 9th Ave, New York, NY 10011, USA
+;138,000;;;;;;;;Blue 9 Burger;92 3rd Ave;East Village;American;$;3rd Ave & E 92nd St, New York, NY 10128, USA
+;139,000;;;;;;;;Blue Fin;1567 Broadway at 47th;Midtown West;Seafood;$$$;1567 Broadway, New York, NY 10036, USA
+;141,000;;;;;;;;Blue Ribbon;97 Sullivan Street;SOHO;American;$$$;97 Sullivan St, New York, NY 10012, USA
+;142,000;;;;;;;;Blue Ribbon Bakery;33 Downing Street;Greenwich Village;American;$$;33 Downing St, Ladera Ranch, CA 92694, USA
+;143,000;;;;;;;;Blue Ribbon Sushi;119 Sullivan St;SOHO;Sushi;$$$;119 Sullivan St, New York, NY 10012, USA
+;145,000;;;;;;;;Blue Water Grill;31 Union Square West;Union Square;Seafood;$$$;31 Union Square W, New York, NY 10003, USA
+;146,000;;;;;;;;Bluechili;251 W 51st St;Midtown West;Asian;$$;251 W 51st St, New York, NY 10019, USA
+;147,000;;;;;;;;Bobby Van's Grill - 50th Street;135 W 50th St;Midtown West;Italian;$$$;135 W 50th St, New York, NY 10020, USA
+;148,000;;;;;;;;Bobby Van's Steakhouse-54th Street;131 E 54th Street;Midtown East;Steakhouse;$$$;131 E 54th St, New York, NY 10022, USA
+;149,000;;;;;;;;Bobby Van's Steakhouse-Park Avenue;230 Park Avenue;Midtown East;Steakhouse;$$$;The Helmsley Building, New York, NY 10017, USA
+;150,000;;;;;;;;Bobo;181 W. 10th St.;Greenwich Village;European;$$$$;181 W 10th St, New York, NY 10014, USA
+;151,000;;;;;;;;Boca Chica;13 First Avenue;East Village;South American;$;13 First Ave, Sawtell NSW 2452, Australia
+;152,000;;;;;;;;Boi;246 East 44th Street;Midtown East;Vietnamese;$$;246 E 44th St, New York, NY 10017, USA
+;153,000;;;;;;;;Boi To Go;800 Second Ave;Midtown East;Vietnamese;$$;800 2nd Ave, New York, NY 10017, USA
+;154,000;;;;;;;;Bolo;23 E 22nd St;Flatiron;Spanish;$$$$;23 E 22nd St, New York, NY 10010, USA
+;155,000;;;;;;;;Bombay Grill;344 Lexington Ave;Indian;$$;;344 Lexington Ave, New York, NY 10016, USA
+;156,000;;;;;;;;Bombay Palace;30 W 52nd St;Midtown West;Indian;$$;30 W 52nd St
+;157,000;;;;;;;;Bombay Talkie;189 Ninth Ave;Chelsea;Indian;$$;189 9th Ave, New York, NY 10011, USA
+;158,000;;;;;;;;Bond 45;154 W 45th St;Midtown West;Italian;$$$;154 W 45th St, New York, NY 10036, USA
+;159,000;;;;;;;;Bondi Road;153 Rivington St.;Australian;$$;;153 Rivington St, New York, NY 10002, USA
+;160,000;;;;;;;;Bondst;6 Bond Street;TriBeCa;Japanese;$$$$;6 Bond St, New York, NY 10012, USA
+;161,000;;;;;;;;Boom;152 Spring Street;SOHO;Italian;$$;152 Spring St, Charleston, SC 29403, USA
+;162,000;;;;;;;;Boqueria;53 W. 19th St.;Spanish;$$$;;53 W 19th St, New York, NY 10011, USA
+;164,000;;;;;;;;Bottino;246 10th Ave;Chelsea;Italian;$$$;246 10th Ave, New York, NY 10001, USA
+;165,000;;;;;;;;Bouley;120 West Broadway;TriBeCa;French;$$$$$;120 W Broadway, Louisville, KY 40202, USA
+;166,000;;;;;;;;Bourbon Street Bar & Grille;346 W 46th Street;Creole-Cajun;$$$$;;346 W 46th St, New York, NY 10036, USA
+;167,000;;;;;;;;Brasserie;100 East 53rd St;Midtown East;French;$$$;100 E 53rd St, New York, NY 10022, United States
+;168,000;;;;;;;;Brasserie 8 1/2;9 W 57th St;Midtown West;French;$$$$;East River Realty Company, LLC, 9 W 57th St, New York, NY 10019, USA
+;169,000;;;;;;;;Brasserie Julien;1422 3rd Ave (Between 80th & 81st Streets);Upper East Side;French;$$;1420-1422 3rd Ave, New York, NY 10028, United States
+;170,000;;;;;;;;Bread;20 Spring St;NoLita;American;$$;20 Spring St, New York, NY 10012, USA
+;171,000;;;;;;;;Bricco Ristorante;304 W 56th St;;;;304 W 56th St, New York, NY 10019, USA
+;172,000;;;;;;;;Brick Lane Curry;342 East 6th St;East Village;Indian;$;342 E 6th St, New York, NY 10003, USA
+;173,000;;;;;;;;Bridge Cafe;279 Water St;Financial District;American;$$$;279 Water St, Brooklyn, NY 11201, USA
+;174,000;;;;;;;;Bright Food Shop;218 Eighth Ave;Chelsea;Asian;$;218 Eighth Ave, Rosebud VIC 3939, Australia
+;175,000;;;;;;;;Broadway East;171 East Broadway;Lower East Side;American;$$$;171 E Broadway, New York, NY 10002, USA
+;177,000;;;;;;;;Brother Jimmy's Bbq;1461 1st Ave;Midtown East;Southern;$;1461 1st Avenue, New York, NY 10075, USA
+;178,000;;;;;;;;Bubba Gump Shrimp Co.;1501 Broadway;Midtown West;American;$;1501 Broadway 12th Floor, Manhattan, NY 10036, United States
+;180,000;;;;;;;;Bubby's;120 Hudson St;TriBeCa;American;$;120 Hudson St, New York, NY 10013, USA
+;181,000;;;;;;;;Buddakan;75 Ninth Ave;Chelsea;Fusion;$$$$;75 9th Ave, New York, NY 10011, USA
+;182,000;;;;;;;;Buddha BBeeQ;1750 Second Ave.;Upper East Side;Korean;$;1750 2nd Ave, New York, NY 10128, USA
+;184,000;;;;;;;;Buenos Aires;513 E Sixth St;East Village;Argentinean;$$;513 E 6th St, Newport, KY 41071, USA
+;185,000;;;;;;;;Bukhara Grill;217 E 49th St;Midtown East;Indian;$$;217 E 49th St, New York, NY 10017, USA
+;187,000;;;;;;;;Burger Joint;190 Bleecker St;Gramercy Park;American;$;190 Bleecker St, New York, NY 10012, USA
+;188,000;;;;;;;;Burritoville;352 W 39th St;Midtown West;Southwestern;$;352 W 39th St, New York, NY 10018, USA
+;191,000;;;;;;;;Cabana;89 S St Pier 17 Pavilion;Upper East Side;Nuevo Latino;$$;89 S St Pier 17 Pavilion
+;192,000;;;;;;;;Cabrito;50 Carmine St.;Fusion;;;50 Carmine St, New York, NY 10014, USA
+;193,000;;;;;;;;Cacio E Pepe;182 Second Ave;East Village;Italian;$$;182 2nd Ave, New York, NY 10003, USA
+;194,000;;;;;;;;Cafe Asean;117 West 10th Street;;;;117 W 10th St, New York, NY 10011, USA
+;195,000;;;;;;;;Cafe Blossom;466 Columbus Ave;;;;466 Columbus Ave, New York, NY 10024, USA
+;196,000;;;;;;;;Cafe Centro;200 Park Ave;Midtown East;Mediterranean;$$$;MetLife Building, 200 Park Ave, New York, NY 10166, USA
+;197,000;;;;;;;;Cafe Con Leche;726 Amsterdam Ave;Upper West Side;Cuban;$;726 Amsterdam Ave, New York, NY 10025, USA
+;198,000;;;;;;;;Cafe De Bruxelles;118 Greenwich Ave;West Village;Belgian;$$;118 Greenwich Ave, New York, NY 10011, USA
+;199,000;;;;;;;;Cafe Des Artistes;1 W 67th Street;Upper West Side;French;$$$;1 W 67th St, New York, NY 10023, USA
+;200,000;;;;;;;;Cafe Du Soleil;2723 Broadway;Upper West Side;French;$$$;2723 Broadway, New York, NY 10025, USA
+;203,000;;;;;;;;Cafe Gitane;242 Mott St;NoLita;French;$;242 Mott St, New York, NY 10012, USA
+;204,000;;;;;;;;Cafe Gray;10 Columbus Circle, 3rd Fl;Upper West Side;French;$$$$$;10 Columbus Cir 3rd Fl, New York, NY 10019, USA
+;205,000;;;;;;;;Cafe Habana;229 Elizabeth St;NoLita;Cuban;$;229 Elizabeth St, New York, NY 10012, USA
+;206,000;;;;;;;;Cafe Joul;1070 First Avenue;Midtown East;French;$$;1070 1st Avenue, New York, NY 10022, USA
+;208,000;;;;;;;;Cafe Loup;105 W 13th St;Greenwich Village;French;$$$;105 W 13th St, New York, NY 10011, USA
+;209,000;;;;;;;;Cafe Mogador;101 St Marks Pl;East Village;Moroccan;$;101 St Marks Pl, New York, NY 10009, USA
+;210,000;;;;;;;;Cafe Ronda;249-251 Columbus Ave;Upper West Side;Mediterranean;$$;249 Columbus Ave, New York, NY 10023, USA
+;211,000;;;;;;;;Cafe Rustico East;230 East 29th St.;Midtown East;Italian;$$$;230 E 29th St, New York, NY 10016, USA
+;212,000;;;;;;;;Cafe Select;212 Lafayette Street;International;$$$;;212 Lafayette St, New York, NY 10012, USA
+;213,000;;;;;;;;Cafe Spice;72 University Pl;;;;72 University Pl, New York, NY 10003, USA
+;214,000;;;;;;;;Cafe St. Barts;Park Avenue @ 50th St.;Upper East Side;American;$$$;Park Ave & E 50th St, New York, NY 10022, USA
+;215,000;;;;;;;;Cafe Un Deux Trois;123 W 44th St;Midtown West;French;$$$;123 W 44th St, New York, NY 10036, USA
+;216,000;;;;;;;;Cafeteria;119 Seventh Avenue;Chelsea;American;$;119 7th Ave, New York, NY 10010, USA
+;217,000;;;;;;;;Caffe Falai;68 Clinton St.;SOHO;Italian;$$;68 Clinton St, New York, NY 10002, USA
+;218,000;;;;;;;;Café Boulud;20 East 76th St;Upper East Side;French;$$$$;20 E 76th St, New York, NY 10021, USA
+;219,000;;;;;;;;Café Sabarsky;1048 Fifth Ave;Upper East Side;Austrian;$$;1048 5th Ave, New York, NY 10028, USA
+;221,000;;;;;;;;Camaje;85 Macdougal St;Greenwich Village;American;$$;85 MacDougal St, New York, NY 10012, USA
+;222,000;;;;;;;;Camino Sur;336 W 37th St;Midtown West;South American;$$$;336 W 37th St, New York, NY 10018, USA
+;223,000;;;;;;;;Campagnola;1382 First Ave;Upper East Side;Italian;$$$$;1382 1st Avenue, New York, NY 10021, USA
+;224,000;;;;;;;;Candela;Candela, 92 Second Avenue;East Village;Cuban;$$;92 2nd Ave, New York, NY 10003, United States
+;226,000;;;;;;;;Candle Cafe;1307 Third Avenue;Upper East Side;Vegetarian;$;1307 3rd Ave, New York, NY 10021, USA
+;228,000;;;;;;;;Capital Grille;155 E 42nd St;Midtown East;Steakhouse;$$$$;155 E 42nd St, New York, NY 10017, USA
+;229,000;;;;;;;;Caracas Arepa Bar;91 East 7th St;East Village;South American;$;1/2, 91 E 7th St, New York, NY 10009, USA
+;231,000;;;;;;;;Carnegie Deli;854 7th Ave;Midtown West;Deli;$;854 7th Ave, New York, NY 10019, USA
+;232,000;;;;;;;;Casa;72 Bedford St;West Village;South American;$$;72 Bedford St, New York, NY 10014, USA
+;233,000;;;;;;;;Casa La Femme North;1076 First Ave;Midtown East;African;$$$;1076 1st Avenue, New York, NY 10022, USA
+;234,000;;;;;;;;Casa Mono;125 East 17th;Gramercy Park;Spanish;$$$;125 E 17th St, New York, NY 10003, USA
+;235,000;;;;;;;;Casimir;103-105 Ave B;East Village;French;$$;103 Avenue B, New York, NY 10009, USA
+;236,000;;;;;;;;Caterina's;316 East 53rd Street;Midtown East;Hungarian;$$$;316 E 53rd St, New York, NY 10022, USA
+;237,000;;;;;;;;Celeste;502 Amsterdam Ave;Upper West Side;Italian;$$;502 Amsterdam Ave, New York, NY 10024, USA
+;238,000;;;;;;;;Cellini Restaurant;65 E 54th St;Midtown East;Italian;$$$;65 E 54th St, New York, NY 10022, USA
+;239,000;;;;;;;;Cendrillon;45 Mercer St;SOHO;Southeast Asian;$$;45 Mercer St, New York, NY 10013, USA
+;240,000;;;;;;;;Central Park Boathouse;Enter on E 72nd St;;;;Enter on E 72nd St
+;241,000;;;;;;;;Cercle Rouge;241 W Broadway;TriBeCa;American;$$$;241 W Broadway, New York, NY 10013, USA
+;243,000;;;;;;;;Charlie Palmer's Metrazur;East Balcony #4, 404 Grand Central Terminal, 42nd Street;Midtown East;American;$$$;89 E 42nd St, New York, NY 10017, United States
+;244,000;;;;;;;;Chat 'N Chew;10 E 16th St;Union Square;American;$;10 E 16th St, New York, NY 10003, USA
+;245,000;;;;;;;;Chemist Club Grill;Dylan Hotel;Midtown East;American;$$$;Eastmoreland Pl, Saint Peter's, Dublin, Ireland
+;246,000;;;;;;;;Chennai Garden;129 E 27 St;Gramercy Park;Indian;$;129 E 27th St, New York, NY 10016, USA
+;248,000;;;;;;;;Chikalicious Dessert Bar;203 E 10th St;East Village;American;$;203 E 10th St
+;249,000;;;;;;;;Chimichurri Grill;606 9th Avenue;Midtown West;South American;$$$;606 9th Ave, New York, NY 10036, USA
+;251,000;;;;;;;;China Fun;246 Columbus Ave;Upper West Side;Chinese;$;246 Columbus Ave, New York, NY 10023, USA
+;252,000;;;;;;;;China Grill;60 W 53rd St;Midtown West;Asian;$$$$;60 W 53rd St, New York, NY 10019, USA
+;253,000;;;;;;;;China de Puebla;3143 Broadway;Harlem;Asian;;3143 Broadway, New York, NY 10027, USA
+;255,000;;;;;;;;Chino's;173 Third Ave;Gramercy Park;Asian;$;173 Third Ave
+;256,000;;;;;;;;Chipotle;100 Maiden Ln.;Financial District;Mexican;$;100 Maiden Ln, New York, NY 10038, USA
+;257,000;;;;;;;;Chiyono;328 E. Sixth St.;Japanese;$$;;328 E 6th St, New York, NY 10003, USA
+;258,000;;;;;;;;Cho Dang Gol;55 W 35th St;Midtown West;Korean;$;55 W 35th St, New York, NY 10001, USA
+;259,000;;;;;;;;Chocolate Bar;48 8th Ave;Greenwich Village;Dessert;$$$;48 8th Ave, New York, NY 10014, USA
+;260,000;;;;;;;;Chola;232 E 58th St;Midtown East;Indian;$$;232 E 58th St, New York, NY 10022, USA
+;261,000;;;;;;;;Choshi Restaurant;77 Irving Pl;Greenwich Village;Japanese;$$;77 Irving Pl, New York, NY 10003, USA
+;262,000;;;;;;;;Chow Bar;230 W Fourth St;West Village;Asian;$$;230 West 4th Street, New York, NY 10014, USA
+;263,000;;;;;;;;Churrascaria Plataforma Ny;316 W 49th Street;Midtown West;South American;$$$;316 W 49th St, New York, NY 10019, United States
+;265,000;;;;;;;;Cilantro;1712 2nd Ave;Upper East Side;Southwestern;$;1712 2nd Ave, New York, NY 10128, USA
+;266,000;;;;;;;;Cinema Cafe On 34th;505 3rd Ave;;;;505 3rd Ave
+;267,000;;;;;;;;Circus;132 E 61st St;Upper East Side;South American;$$$;132 E 61st St, New York, NY 10065, USA
+;269,000;;;;;;;;City Bakery;3 W 18th St;Flatiron;American;$;3 W 18th St, New York, NY 10011, USA
+;270,000;;;;;;;;City Burger;1410 Broadway;Midtown West;American;$$;1410 Broadway, New York, NY 10018, USA
+;273,000;;;;;;;;Coffee Shop;29 Union Square West;Union Square;American;$;29 Union Square W, New York, NY 10003, USA
+;276,000;;;;;;;;Comfort Diner;25 W 23rd St;Midtown East;American;$;25 W 23rd St, New York, NY 10010, USA
+;277,000;;;;;;;;Compass;208 W 70th Street;Upper West Side;American;$$$;208 W 70th St, New York, NY 10023, USA
+;278,000;;;;;;;;Convivio;45 Tudor City Pl;Midtown East;Italian;$$$$$;45 Tudor City Pl, New York, NY 10017, USA
+;280,000;;;;;;;;Coppola's Pizzeria Restaurant;206 W 79th St;Upper West Side;Italian;$$;206 W 79th St, New York, NY 10024, USA
+;282,000;;;;;;;;Corner Bistro;331 W 4th St;West Village;American;$;331 W 4th St
+;283,000;;;;;;;;Cosette;163 E 33rd St;Murray Hill;French;$$;163 E 33rd St, New York, NY 10016, USA
+;284,000;;;;;;;;Cosi;53 E. Eighth St.;Greenwich Village;American;$;53 E 8th St, New York, NY 10003, USA
+;285,000;;;;;;;;Counter;105 First Ave;East Village;Vegetarian;$$;105 First Ave
+;286,000;;;;;;;;Country;90 Madison Ave, 2nd Fl;Gramercy Park;American;$$$$;90 Madison Ave 2nd Fl, Westbury, NY 11590, USA
+;287,000;;;;;;;;Cowgirl;519 Hudson Street;West Village;Southwestern;$;519 Hudson St, New York, NY 10014, USA
+;288,000;;;;;;;;Craft;43 E 19th St;Union Square;American;$$$$$;43 E 19th St, New York, NY 10003, USA
+;290,000;;;;;;;;Craftsteak;85 10th Ave;Chelsea;Steakhouse;$$$$$;US-NYC-8510, 85 10th Ave, New York, NY 10011, USA
+;292,000;;;;;;;;Creole;2167 Third Ave;Harlem;Creole-Cajun;$$;2167 3rd Ave, New York, NY 10035, USA
+;293,000;;;;;;;;Crisp;684 3rd Ave;Midtown East;Middle Eastern;$$;684 3rd Ave, Cherry Hill, NJ 08002, USA
+;295,000;;;;;;;;Crooked Knife;29 E. 30th Street;Murray Hill;British;$$;29 E 30th St, New York, NY 10016, USA
+;296,000;;;;;;;;Cru;24 Fifth Ave;Greenwich Village;Mediterranean;$$$$;24 5th Ave, New York, NY 10011, USA
+;297,000;;;;;;;;Crumbs Bake Shop;1371 3rd Ave;;;;1371 3rd Ave, New York, NY 10075, USA
+;300,000;;;;;;;;Cubana Cafe;110 Thompson St;Greenwich Village;Cuban;$;110 Thompson St, New York, NY 10012, USA
+;301,000;;;;;;;;Cube 63;63 Clinton St;Lower East Side;Japanese;$$;63 Clinton St, New York, NY 10002, USA
+;302,000;;;;;;;;Cucina Di Pesce;87 E 4th St;East Village;Italian;$;87 E 4th St, New York, NY 10003, USA
+;303,000;;;;;;;;Da Andrea;557 Hudson St;West Village;Italian;$$;557 Hudson St, New York, NY 10014, USA
+;304,000;;;;;;;;Da Antonio;157 E 55th St;Midtown East;Italian;$$$$;157 E 55th St, New York, NY 10022, USA
+;305,000;;;;;;;;Da Ciro;229 Lexington Ave;Murray Hill;Italian;$$;229 Lexington Ave, New York, NY 10016, USA
+;306,000;;;;;;;;Da Nico;164 Mulberry St.;Italian;$$;;164 Mulberry St, New York, NY 10013, USA
+;307,000;;;;;;;;Da Silvano;260 6th Avenue;Greenwich Village;Italian;$$$;260 6th Ave, New York, NY 10014, USA
+;308,000;;;;;;;;Da Umberto;107 West 17th Street;Italian;$$$;;107 W 17th St, New York, NY 10011, USA
+;309,000;;;;;;;;Dallas Bbq;27 W 72nd St;Upper West Side;American;$;27 W 72nd St, New York, NY 10023, USA
+;310,000;;;;;;;;Danal;90 E 10th St;East Village;French;$$;90 E 10th St, New York, NY 10003, USA
+;311,000;;;;;;;;Daniel;60 E 65th St;Upper East Side;French;$$$$$;60 E 65th St
+;312,000;;;;;;;;Danube;30 Hudson St;TriBeCa;Austrian;$$$$$;30 Hudson St
+;313,000;;;;;;;;David Burke at Bloomingdales;1000 Third Avenue;American;$$$;;1000 3rd Ave, New York, NY 10022, USA
+;315,000;;;;;;;;Dawat;210 E 58th St;Midtown East;Indian;$$$;210 E 58th St, New York, NY 10022, USA
+;316,000;;;;;;;;DeGrezia;231 E 50th St;Midtown East;Italian;$$$;231 E 50th St, New York, NY 10022, USA
+;317,000;;;;;;;;Degustation;239 E Fifth St;East Village;Spanish;$$$;239 E 5th St, New York, NY 10003, USA
+;318,000;;;;;;;;Del Frisco's;1221 Sixth Ave;Midtown West;Steakhouse;$$$$;1221 6th Ave, New York, NY 10020, USA
+;319,000;;;;;;;;Del Posto;85 10th Ave;Chelsea;Italian;$$$$$;US-NYC-8510, 85 10th Ave, New York, NY 10011, USA
+;321,000;;;;;;;;Delta Grill;700 Ninth Ave;Midtown West;Creole-Cajun;$$;700 Ninth Ave
+;322,000;;;;;;;;Demarchelier;50 E. 86th St.;;;;50 East 86th St, New York, NY 10028, USA
+;323,000;;;;;;;;Dervish Turkish;146 West 47th Street;Midtown West;Middle Eastern;$$;146 W 47th St, New York, NY 10036, USA
+;324,000;;;;;;;;Desnuda;122 E 7th St;East Village;Seafood;$$$;122 E 7th St, New York, NY 10009, USA
+;325,000;;;;;;;;Devi;8 E 18th St;Flatiron;Indian;$$$$;8 E 18th St, New York, NY 10003, USA
+;326,000;;;;;;;;Dim Sum Go Go;5 E Broadway;Chinatown;Chinese;$;5 E Broadway, New York, NY 10038, USA
+;328,000;;;;;;;;Ditch Plains;29 Bedford St.;;;;29 Bedford St, New York, NY 10014, USA
+;329,000;;;;;;;;Diva;341 W Broadway;SOHO;Italian;$$$;341 W Broadway, Boston, MA 02127, USA
+;330,000;;;;;;;;Django;480 Lexington Avenue;Midtown East;French;$$$;480 Lexington Ave, New York, NY 10172, USA
+;331,000;;;;;;;;Do Hwa;55 Carmine St;Greenwich Village;Korean;$$;55 Carmine St, New York, NY 10014, USA
+;332,000;;;;;;;;Dok Suni;119 First Ave;East Village;Korean;$$;1st Avenue & E 119th St, New York, NY 10035, USA
+;333,000;;;;;;;;Dolce Vita;181 Grand Street;;;;181 Grand St, New York, NY 10013, USA
+;334,000;;;;;;;;Don Giovanni Ristorante;214 Tenth Avenue;Chelsea;Italian;$;214 Amsterdam Ave, New York, NY 10023, USA
+;335,000;;;;;;;;Don Pedro's;1865 Second Ave;Upper East Side;Caribbean;$$;1865 2nd Ave, New York, NY 10029, USA
+;337,000;;;;;;;;Dos Caminos;825 Third Ave.;Mexican;$$$;;825 3rd Ave, New York, NY 10022, USA
+;338,000;;;;;;;;Dos Caminos Park;373 Park Ave South;Gramercy Park;Mexican;$$;373 Park Ave S, New York, NY 10154, USA
+;339,000;;;;;;;;Dos Caminos Soho;475 West Broadway;SOHO;Mexican;$$$;475 W Broadway, New York, NY 10012, USA
+;340,000;;;;;;;;Doyers Vietnamese;11-13 Doyers St;Chinatown;Asian;$;11 Doyers St #13, New York, NY 10013, USA
+;341,000;;;;;;;;Duane Park Cafe;157 Duane St;TriBeCa;American;$$$;157 Duane St, New York, NY 10013, USA
+;342,000;;;;;;;;Duke's;99 E. 19th St.;Barbecue;$$$;;99 E 19th St, New York, NY 10003, USA
+;344,000;;;;;;;;E.A.T.;1064 Madison Avenue;Upper East Side;American;$$;1064 Madison Ave, New York, NY 10028, USA
+;345,000;;;;;;;;East Of Eighth;254 West 23rd St;;;;254 W 23rd St, New York, NY 10011, USA
+;346,000;;;;;;;;Eatery;798 9th Ave;Midtown West;American;$;798 9th Ave, New York, NY 10019, USA
+;347,000;;;;;;;;Eight Mile Creek;240 Mulberry St;Little Italy;Australian;$$;240 Mulberry St, New York, NY 10012, USA
+;348,000;;;;;;;;El Charro Espanol;4 Charles St;Greenwich Village;Spanish;$$$;4 Charles St #3004, New York, NY 10014, United States
+;349,000;;;;;;;;El Faro;823 Greenwich St;West Village;Spanish;$$;823 Greenwich St, New York, NY 10014, USA
+;350,000;;;;;;;;El Malecon;4141 Broadway;Harlem;Caribbean;$;4141 Broadway, New York, NY 10033, USA
+;351,000;;;;;;;;El Parador Cafe;325 E 34th St;Murray Hill;Mexican;$$;325 E 34th St, New York, NY 10016, USA
+;352,000;;;;;;;;El Pote;718 2nd Ave;Murray Hill;Spanish;$$;718 2nd Ave, New York, NY 10016, USA
+;353,000;;;;;;;;El Quijote;226 W 23rd St;Chelsea;Spanish;$$;226 W 23rd St
+;355,000;;;;;;;;Elaine's Restaurant;1703 Second Ave;Upper East Side;American;$$$;1703 2nd Ave, New York, NY 10128, USA
+;356,000;;;;;;;;Elephant;The, 58 E First St;East Village;French;$$;The, 58 E First St
+;357,000;;;;;;;;Eleven Madison Park;11 Madison Ave;Gramercy Park;American;$$$$$;11 Madison Ave, New York, NY 10010, United States
+;358,000;;;;;;;;Elmo;156 Seventh Ave;Chelsea;American;$$;156 7th Ave, New York, NY 10011, USA
+;359,000;;;;;;;;Emack & Bolio's;389 Amsterdam Ave;Upper West Side;American;$;389 Amsterdam Ave, New York, NY 10024, USA
+;360,000;;;;;;;;Employees Only;510 Hudson St;West Village;European;$$$;510 Hudson St, Redwood City, CA 94062, USA
+;362,000;;;;;;;;Epicerie;170 Orchard St;East Village;French;$$;170 Orchard St, New York, NY 10002, USA
+;363,000;;;;;;;;Epices Inc;103 W 70th St;Upper West Side;Mediterranean;$$;103 W 70th St, New York, NY 10023, USA
+;364,000;;;;;;;;Erminia;250 E 83rd St;Upper East Side;Italian;$$$;250 E 83rd St, New York, NY 10028, USA
+;366,000;;;;;;;;Esperanto;145 Ave C;East Village;Nuevo Latino;$$;145 Loisaida Ave, New York, NY 10009, USA
+;367,000;;;;;;;;Espn Zone;1472 Broadway;Midtown West;American;$;1472 Broadway, New York, NY 10036, USA
+;368,000;;;;;;;;Essex;120 Essex St;Lower East Side;American;$;120 Essex St, New York, NY 10002, USA
+;369,000;;;;;;;;Estancia 460;460 Greenwich St;Midtown West;Argentinean;$$;460 Greenwich St, New York, NY 10013, USA
+;370,000;;;;;;;;Estiatorio Milos;125 West 55th Street;Midtown West;Greek;$$$$;125 West 55th Street
+;371,000;;;;;;;;Etats-Unis;242 E 81st St;Upper East Side;American;$$$;242 E 81st St
+;372,000;;;;;;;;Etcetera Etcetera;352 W 44th St;Theater;Italian;$;352 W 44th St, New York, NY 10036, USA
+;373,000;;;;;;;;Ethiopian Restaurant;The, 1582 York Ave;Upper East Side;African;$;1582 York Ave, New York, NY 10028, USA
+;374,000;;;;;;;;Eva's Health Food;11 W. 8th Street;;;;11 W 8th St, New York, NY 10011, USA
+;376,000;;;;;;;;F.illi Ponte;39 Desbrosses St.;Italian;$$$$;;39 Desbrosses St, New York, NY 10013, USA
+;377,000;;;;;;;;FR.OG;71 Spring Street;SOHO;French;$$$;71 Spring St, New York, NY 10012, USA
+;378,000;;;;;;;;Falai;68 Clinton St;Lower East Side;Italian;$$$;68 Clinton St, New York, NY 10002, USA
+;379,000;;;;;;;;Fat Hippo;71 Clinto St.;;;;71 Clinton St, New York, NY 10002, USA
+;382,000;;;;;;;;Felix;340 W Broadway;SOHO;French;$$;340 W Broadway, New York, NY 10013, USA
+;383,000;;;;;;;;Fiamma Osteria;206 Spring Street;SOHO;Italian;$$$;206 Spring St, New York, NY 10012, USA
+;384,000;;;;;;;;Fig & Olive Kitchen & Tasting Bar;808 Lexington Ave;Upper East Side;Mediterranean;$$;808 Lexington Ave, New York, NY 10065, USA
+;385,000;;;;;;;;Fig and Olive Downton;420 W. 13th Street;Meatpacking District;Mediterranean;$$$;420 W 13th St, New York, NY 10014, USA
+;387,000;;;;;;;;Fish;280 Bleecker St;Greenwich Village;Seafood;$$;280 Bleecker St, New York, NY 10014, USA
+;388,000;;;;;;;;Five Points;31 Great Jones Street;NoLita;American;$$$;31 Great Jones St, New York, NY 10012, USA
+;389,000;;;;;;;;Flea Market Cafe;131 Ave A;East Village;French;$;131 Avenue A, New York, NY 10009, USA
+;391,000;;;;;;;;Flor De Mayo;484 Amsterdam Ave;Upper West Side;Chinese;$;484 Amsterdam Ave, New York, NY 10024, USA
+;392,000;;;;;;;;Florent;69 Gansevoort St;Meatpacking District;American;$;69 Gansevoort St, New York, NY 10014, USA
+;393,000;;;;;;;;Forge;134 Reade St;TriBeCa;American;$$$$;134 Reade St, New York, NY 10013, USA
+;394,000;;;;;;;;Franchia Teahouse & Restaurant;12 Park Ave;Murray Hill;Korean;$$;12 Park Ave, New York, NY 10016, USA
+;395,000;;;;;;;;Francisco's Centro Vasco;159 W 23rd St;;;;159 W 23rd St, New York, NY 10011, USA
+;396,000;;;;;;;;Frank Restaurant;88 Second Ave;East Village;Italian;$;88 2nd Ave, New York, NY 10003, USA
+;397,000;;;;;;;;Frank's;410 W 16th St;Chelsea;Italian;$$$;410 W 16th St, New York, NY 10011, USA
+;399,000;;;;;;;;Frankie & Johnnie's Steakhouse;269 West 45th Street;Midtown West;Steakhouse;$$$;269 W 45th St, New York, NY 10036, USA
+;400,000;;;;;;;;Fred's Restaurant;476 Amsterdam Ave;;;;476 Amsterdam Ave, New York, NY 10024, USA
+;401,000;;;;;;;;Frederick's;8 West 58th Street;Midtown West;Asian;$$$;8 West 58th Street
+;403,000;;;;;;;;Freeman;Freeman Alley;Lower East Side;American;$$;Freeman Alley, New York, NY 10002, USA
+;404,000;;;;;;;;French Roast;2340 Broadway;Upper West Side;Breakfast;$;2340 Broadway, New York, NY 10024, USA
+;406,000;;;;;;;;Fresh;105 Reade St;TriBeCa;Seafood;$$$;105 Reade St, New York, NY 10013, USA
+;407,000;;;;;;;;Friend Of a Farmer;77 Irving Pl;Gramercy Park;American;$;77 Irving Pl, New York, NY 10003, USA
+;408,000;;;;;;;;Funky Diner;466 Columbus Ave.;Upper West Side;American;$;466 Columbus Ave, New York, NY 10024, USA
+;409,000;;;;;;;;Gabriel's Bar & Restaurant;11 W 60th St;Upper West Side;Italian;$$$;11 W 60th St, New York, NY 10023, USA
+;411,000;;;;;;;;Gallaghers;228 W 52nd St;Midtown West;Steakhouse;$$$$;228 W 52nd St, New York, NY 10019, USA
+;412,000;;;;;;;;Gammeeok Restaurant;43 W 32nd St;Midtown West;Korean;$;43 W 32nd St, New York, NY 10001, USA
+;413,000;;;;;;;;Garage Restaurant and Cafe;99 7th Avenue;Chelsea;American;$$$;99 7th Avenue
+;415,000;;;;;;;;Gascogne;158 8th Avenue;Chelsea;French;$$$;158 8th Ave, New York, NY 10011, USA
+;416,000;;;;;;;;Gaucho Steak Co.;752 10th Ave.;Argentinean;$$;;752 10th Ave, New York, NY 10019, USA
+;417,000;;;;;;;;Gavroche;212 W 14th St;West Village;French;$$$;212 W 14th St, New York, NY 10011, USA
+;418,000;;;;;;;;Geisha;33 E 61st St;Upper East Side;Japanese;$$$$;33 E 61st St, New York, NY 10065, USA
+;419,000;;;;;;;;Gennaro;665 Amsterdam Ave;Upper West Side;Italian;$$;665 Amsterdam Ave, New York, NY 10025, USA
+;420,000;;;;;;;;Ghenet Restaurant;284 Mulberry St;NoLita;African;$;284 Mulberry St, New York, NY 10012, USA
+;421,000;;;;;;;;Ginger;1400 Fifth Ave;Upper East Side;Chinese;$;1400 5th Ave, New York, NY 10026, USA
+;422,000;;;;;;;;Giorgione 508;508 Greenwich St;SOHO;Continental;$$$;508 Greenwich St, New York, NY 10013, USA
+;423,000;;;;;;;;Gobo;1426 Third Ave.;Vegetarian;$$;;1426 3rd Ave, New York, NY 10028, USA
+;424,000;;;;;;;;Golden Unicorn;18 E Broadway;;;;18 E Broadway, New York, NY 10002, USA
+;425,000;;;;;;;;Gonzalez Y Gonzalez;625 Broadway;SOHO;Mexican;$$$;625 Broadway
+;426,000;;;;;;;;Good;89 Greenwich St;West Village;American;$$;89 Greenwich St, New York, NY 10006, USA
+;427,000;;;;;;;;Good Enough To Eat;483 West Amsterdam Avenue;Upper West Side;American;$;483 Amsterdam Ave, New York, NY 10024, USA
+;428,000;;;;;;;;Goodies;1 E Broadway;Chinatown;Chinese;$;1 E Broadway
+;429,000;;;;;;;;Gordon Ramsay;The London NYC;Midtown West;French;$$$$$;151 W 54th St, New York, NY 10019, United States
+;430,000;;;;;;;;Gotham Bar & Grill;12 E 12th St;Greenwich Village;American;$$$$;12 E 12th St
+;431,000;;;;;;;;Grace's Trattoria Cafe & Grill;201 E 71st St;Upper East Side;Italian;$$$;201 E 71st St, New York, NY 10021, USA
+;433,000;;;;;;;;Grand Central Oyster Bar/Saloon;89 E 42nd Street, Grand Central Terminal (Lower L;Midtown West;Seafood;$$;89 E 42nd St, New York, NY 10017, United States
+;435,000;;;;;;;;Gray's Papaya;2090 Broadway;Upper West Side;American;$;2090 Broadway, San Francisco, CA 94115, USA
+;436,000;;;;;;;;Great Jones Cafe;54 Great Jones St;NoLita;Southern;$;54 Great Jones St, New York, NY 10012, USA
+;437,000;;;;;;;;Great N.Y. Noodle Town;28 Bowery;Chinatown;Chinese;$;28 Bowery, New York, NY 10013, USA
+;438,000;;;;;;;;Greenwich Grill;428 Greenwich St;TriBeCa;Californian;$$$;428 Greenwich St, New York, NY 10013, USA
+;439,000;;;;;;;;Grey Dog's Coffee Ltd;33 Carmine St;Greenwich Village;American;$;33 Carmine St, New York, NY 10014, USA
+;440,000;;;;;;;;Grifone Restaurant;244 E 46th St;Midtown East;Italian;$$$;244 E 46th St, New York, NY 10017, USA
+;441,000;;;;;;;;Grotto Azzurra;177 Mulberry St;Little Italy;Italian;$$$;177 Mulberry St, New York, NY 10013, USA
+;442,000;;;;;;;;Gus's Place;192 Bleecker Street;Greenwich Village;Greek;$;192 Bleecker St, New York, NY 10012, USA
+;444,000;;;;;;;;Gyu-Kaku Japanese;34 Cooper Square;East Village;Japanese;$$;34 Cooper Sq, New York, NY 10003, USA
+;445,000;;;;;;;;HQ;90 Thompson St;;;;90 Thompson St, New York, NY 10012, USA
+;446,000;;;;;;;;Hallo Berlin;626 10th Ave.;German;$;;626 10th Ave, New York, NY 10036, USA
+;447,000;;;;;;;;Hangawi;12 E 32nd Street;Murray Hill;Korean;$$$;12 E 32nd St, New York, NY 10016, USA
+;448,000;;;;;;;;Haru;433 Amsterdam Ave;Upper West Side;Japanese;$$;433 Amsterdam Ave, New York, NY 10024, USA
+;449,000;;;;;;;;Haru Japanese;205 West 43rd St;Midtown West;Japanese;$$;205 W 43rd St, New York, NY 10036, USA
+;450,000;;;;;;;;Haru-Park Ave.;280 Park Ave;Flatiron;Sushi;$$;280 Park Ave, New York, NY 10020, USA
+;451,000;;;;;;;;Hasaki;210 E Ninth St;East Village;Sushi;$$;210 E 9th St SW, Rome, GA 30161, USA
+;452,000;;;;;;;;Hatsuhana;237 Park Ave;Midtown East;Sushi;$$$$;237 Park Ave, New York, NY 10017, USA
+;455,000;;;;;;;;Havana Central - Union Square;22 E 17th St;Union Square;Cuban;$$;22 E 17th St, New York, NY 10003, USA
+;456,000;;;;;;;;Haveli;100 Second Ave;East Village;Indian;$$;100 2nd Ave, New York, NY 10003, USA
+;457,000;;;;;;;;Hea;145 E. 13th St.;East Village;Pan-Asian;$$$;145 E 13th St, North Vancouver, BC V7L 2L3, Canada
+;458,000;;;;;;;;Hearth;403 E 12th St;East Village;American;$$$$;403 E 12th St, New York, NY 10009, USA
+;459,000;;;;;;;;Heartland Brewery;1285 Sixth Ave;Midtown West;American;$$;1285 6th Ave, New York, NY 10019, USA
+;460,000;;;;;;;;Hedeh;57 Great Jones St;NoLita;Sushi;$$$;57 Great Jones St, New York, NY 10012, USA
+;461,000;;;;;;;;Heidelberg;1648 2nd Ave;Upper East Side;German;$$;1648 2nd Ave, New York, NY 10028, USA
+;462,000;;;;;;;;Hell's Kitchen;679 Ninth Ave;Midtown West;Mexican;$$$;679 9th Ave, New York, NY 10036, USA
+;463,000;;;;;;;;Highline;835 Washington St;Meatpacking District;Asian;$$;835 Washington St, New York, NY 10014, USA
+;465,000;;;;;;;;Hispaniola;839 W 181st St;Harlem;Asian;$$;839 W 181st St, New York, NY 10033, USA
+;466,000;;;;;;;;Holy Basil;149 Second Ave;East Village;Asian;$;149 2nd Ave, New York, NY 10003, USA
+;467,000;;;;;;;;Home;20 Cornelia St;Greenwich Village;American;$$;20 Cornelia St, New York, NY 10014, USA
+;468,000;;;;;;;;Houston's;378 Park Ave. S.;American;$$;;378 Park Ave S, New York, NY 10010, USA
+;469,000;;;;;;;;Houston's Restaurant;153 E 53rd St;Midtown East;American;$$;153 E 53rd St, New York, NY 10022, USA
+;470,000;;;;;;;;Hsf;46 Bowery;Chinatown;Chinese;$;46 Bowery, New York, NY 10013, USA
+;471,000;;;;;;;;Hudson Cafeteria;356 West 58th Street;Midtown West;American;$$$;356 W 58th St, New York, NY 10019, USA
+;473,000;;;;;;;;Hummus Place;109 St. Marks Pl.;;;;109 St Marks Pl, New York, NY 10009, USA
+;474,000;;;;;;;;Hunan Park Restaurant;235 Columbus Ave;;;;235 Columbus Ave, New York, NY 10023, USA
+;475,000;;;;;;;;I Coppi;432 E Ninth St;East Village;Italian;$$$;432 E 9th St, New York, NY 10009, USA
+;476,000;;;;;;;;I Sodi;105 Christopher St;Greenwich Village;Italian;$$$;105 Christopher St, New York, NY 10014, USA
+;477,000;;;;;;;;I Tre Merli;463 W Broadway;SOHO;Italian;$$$;463 W Broadway, New York, NY 10012, USA
+;479,000;;;;;;;;Icon;130 E 39th Street;Midtown East;American;$$$;130 E 39th St, New York, NY 10016, USA
+;480,000;;;;;;;;Ideya;349 W Broadway;SOHO;Caribbean;$$;349 W Broadway, New York, NY 10013, USA
+;482,000;;;;;;;;Il Bagatto;192 E Second St;East Village;Italian;$$;192 E 2nd St, New York, NY 10009, USA
+;483,000;;;;;;;;Il Bastardo;191 Seventh Ave;Chelsea;Steakhouse;$$$;191 7th Ave, New York, NY 10011, USA
+;484,000;;;;;;;;Il Brigante;214 Front St.;Financial District;Italian;$$;214 Front St, New York, NY 10038, USA
+;485,000;;;;;;;;Il Buco;47 Bond St;NoLita;Italian;$$$;47 Bond St, New York, NY 10012, USA
+;487,000;;;;;;;;Il Cortile;125 Mulberry St;Little Italy;Italian;$$$;125 Mulberry St, New York, NY 10013, USA
+;488,000;;;;;;;;Il Gattopardo;33 W 54th St;Midtown West;Italian;$$$;33 W 54th St
+;489,000;;;;;;;;Il Giglio;81 Warren St;TriBeCa;Italian;$$$$;81 Warren St, Brooklyn, NY 11201, USA
+;490,000;;;;;;;;Il Mulino;86 W 3rd St;Greenwich Village;Italian;$$$$;86 W 3rd St, New York, NY 10012, USA
+;494,000;;;;;;;;Indus Valley;2636 Broadway;Upper West Side;Indian;$$;2636 SW Broadway St, Albany, OR 97321, USA
+;495,000;;;;;;;;Industria Argentina;329 Greenwich St.;Argentinean;$$$;;329 Greenwich St, New York, NY 10013, USA
+;496,000;;;;;;;;Inn LW12;7 Ninth Avenue;Meatpacking District;British;$$$;7 Ninth Ave, Coorparoo QLD 4151, Australia
+;497,000;;;;;;;;Insieme;777 Seventh Avenue;Midtown West;Italian;$$$$;777 6th Ave, New York, NY 10001, USA
+;498,000;;;;;;;;Ippudo;65 4th Ave;East Village;Japanese;$$$;65 4th Ave, New York, NY 10003, USA
+;499,000;;;;;;;;Isabella's;359 Columbus Ave;Upper West Side;American;$$;359 Columbus Ave, New York, NY 10024, USA
+;500,000;;;;;;;;Island Burgers & Shakes;766 9th Ave;Midtown West;American;$;766 9th Ave, New York, NY 10019, USA
+;501,000;;;;;;;;It's A Dominican Thing;144 W 19th St;Chelsea;Caribbean;$;144 W 19th St, New York, NY 10011, USA
+;502,000;;;;;;;;Ithaka;308 E 86th St;Upper East Side;Greek;$$$;308 East 86th St, New York, NY 10028, USA
+;503,000;;;;;;;;Ivo & Lulu;558 Broome St;SOHO;Caribbean;$;558 Broome St, New York, NY 10013, USA
+;504,000;;;;;;;;Jack's Luxury Oyster Bar;246 E Fifth St;East Village;Continental;$$$$;246 E Fifth St
+;505,000;;;;;;;;Jacks Bar and Restaurant;147West 40th Street;Theater;American;$$$;W 40th St, New York, NY 10018, USA
+;506,000;;;;;;;;Jackson Hole;232 E 64th St;;;;232 E 64th St, New York, NY 10065, USA
+;507,000;;;;;;;;Jacques-Imo's;366 Columbus Ave;Upper West Side;Creole-Cajun;$$;366 Columbus Ave, New York, NY 10024, USA
+;508,000;;;;;;;;Jaipur's;1007 2nd Avenue;Midtown East;Indian;$;1007 2nd Ave, New York, NY 10022, USA
+;509,000;;;;;;;;Jane;100 W Houston St;Greenwich Village;American;$$$;100 W Houston St
+;510,000;;;;;;;;Japonica;100 University Pl;Greenwich Village;Sushi;$$$;100 University Pl, New York, NY 10003, USA
+;511,000;;;;;;;;Jarnac;328 W 12th St;West Village;French;$$$;328 W 12th St, New York, NY 10014, USA
+;513,000;;;;;;;;Jekyll & Hyde Club;1409 Ave Of The Americas;Greenwich Village;American;$$;1409 6th Ave, New York, NY 10019, USA
+;514,000;;;;;;;;Jerry's;101 Prince St;SOHO;American;$$;101 Prince St, Boston, MA 02113, USA
+;516,000;;;;;;;;Jezebel;630 Ninth Ave;Midtown West;Southern;$$$;630 9th Ave, New York, NY 10036, USA
+;518,000;;;;;;;;Joe's Pizza;7 Carmine St;Greenwich Village;Pizza;$;7 Carmine St, New York, NY 10014, USA
+;519,000;;;;;;;;Joe's Shanghai Restaurant;St Pell St Fl 1;Midtown West;Chinese;$;Pell St, New York, NY, USA
+;520,000;;;;;;;;John's Of 12th Street;302 E 12th St;East Village;Italian;$$;302 E 12th St, New York, NY 10003, USA
+;521,000;;;;;;;;John's Pizzeria;408 E 64th St;Upper East Side;Pizza;$;408 E 64th St, New York, NY 10065, USA
+;522,000;;;;;;;;Johnny Utah's;25 W. 51st St.;;;;25 W 51st St, New York, NY 10104, USA
+;523,000;;;;;;;;Joseph's Restaurant;St Hanover Sq;Wall Street;Italian;$$$;St Hanover Sq
+;524,000;;;;;;;;Josie's;300 Amsterdam Avenue;Upper West Side;International;$$;300 Amsterdam Ave, New York, NY 10023, USA
+;525,000;;;;;;;;Jules;65 St Marks Pl;East Village;French;$$;65 St Marks Pl, New York, NY 10003, USA
+;526,000;;;;;;;;Kabab Factory;101 Lexington Avenue;Murray Hill;Indian;$$;101 Lexington Ave, New York, NY 10016, USA
+;527,000;;;;;;;;Kai;822 Madison Ave;Upper East Side;Japanese;$$$$;822 Madison Ave
+;528,000;;;;;;;;Kaijou;21 South End Street;Financial District;Japanese;$$;21 South End Ave, New York, NY 10280, USA
+;529,000;;;;;;;;Kampuchea;78 Rivington St.;Cambodian;;;78 Rivington St, New York, NY 10002, USA
+;530,000;;;;;;;;Kang Such Restaurant;1250 Broadway;Midtown West;Korean;$$;1250 Broadway, New York, NY 10001, USA
+;531,000;;;;;;;;Kanoyama;175 Second Ave;East Village;Sushi;$$;175 Second Ave
+;532,000;;;;;;;;Katz's Delicatessen;205 East Houston Street;Lower East Side;Deli;$;205 E Houston St, New York, NY 10002, USA
+;534,000;;;;;;;;Kefi;222 W. 79th St.;Upper West Side;Greek;$$$;222 W 79th St, New York, NY 10024, USA
+;536,000;;;;;;;;Kelley & Ping;127 Greene St;SOHO;Asian;$;127 Greene St, New York, NY 10012, USA
+;537,000;;;;;;;;Kin Khao;171 Spring Street;SOHO;Asian;$$;171 Spring St, New York, NY 10012, USA
+;538,000;;;;;;;;Kings' Carriage House;251 E 82nd St;Upper East Side;Continental;$$$;251 E 82nd St, New York, NY 10028, USA
+;539,000;;;;;;;;Kinoko Japanese Restaurant;165 W 72nd Street;Japanese;$$;;165 W 72nd St, New York, NY 10023, USA
+;540,000;;;;;;;;Kittichai;60 Thompson St;SOHO;Thai;$$$$;60 Thompson St, New York, NY 10012, USA
+;541,000;;;;;;;;Klee Brasserie;200 9th Avenue;Chelsea;American;$$$;200 9th Ave, New York, NY 10011, USA
+;542,000;;;;;;;;Klong;7 St Marks Pl;East Village;Asian;$;7 St Marks Pl, New York, NY 10003, USA
+;543,000;;;;;;;;Knickerbocker Bar & Grill;33 University Pl;Greenwich Village;American;$$$;33 University Pl Blvd, Jersey City, NJ 07305, USA
+;544,000;;;;;;;;Koi;40 W 40th St;Midtown West;Asian;$$$$;W 40th St, New York, NY 10018, USA
+;545,000;;;;;;;;Kori;253 Church St;TriBeCa;Korean;$$;253 Church St, New York, NY 10013, USA
+;546,000;;;;;;;;Kum Gang San;49 W 32nd St;Midtown West;Korean;$$;49 W 32nd St, New York, NY 10001, USA
+;547,000;;;;;;;;Kuma Inn;113 Ludlow St;Lower East Side;Southeast Asian;$$;113 Ludlow St, New York, NY 10002, USA
+;548,000;;;;;;;;Kuruma Zushi;7 E 47th St, 2nd Fl;Midtown East;Sushi;$$$$$;7 E 47th St 2nd Fl, New York, NY 10017, USA
+;549,000;;;;;;;;Kwik Meal;Food Cart;Theater;Middle Eastern;$;Food Cart
+;550,000;;;;;;;;Kyma;300 W 46th St;Midtown West;Greek;$$$;300 W 46th St, New York, NY 10036, USA
+;551,000;;;;;;;;Kyo Ya;94 E 7th St;East Village;Japanese;$$$$;94 E 7th St, New York, NY 10009, USA
+;552,000;;;;;;;;L'Allegria;623 9th Ave;Theater;Italian;$$;623 9th Ave, New York, NY 10036, USA
+;553,000;;;;;;;;L'Atelier de Joel Robuchon;57 E. 57th Street;Midtown East;French;$$$$$;57 E. 57th Street
+;554,000;;;;;;;;L'Ecole;462 Broadway;SOHO;French;$$$;462 Broadway
+;555,000;;;;;;;;L'Entrecote;1057 First Ave.;;;;1057 1st Avenue, New York, NY 10022, USA
+;556,000;;;;;;;;L'Impero - CLOSED;45 Tudor City Pl;Midtown East;Italian;$$$$;45 Tudor City Pl, New York, NY 10017, USA
+;558,000;;;;;;;;La Bergamote;169 Ninth Ave;Chelsea;French;$;169 9th Ave, New York, NY 10011, USA
+;559,000;;;;;;;;La Boite En Bois;75 W 68th St;Upper West Side;French;$$$;75 W 68th St, New York, NY 10023, USA
+;560,000;;;;;;;;La Goulue;746 Madison Ave;Upper East Side;French;$$$;746 Madison Ave, New York, NY 10065, USA
+;561,000;;;;;;;;La Grenouille;3 E 52nd St;Midtown East;French;$$$$;3 E 52nd St, New York, NY 10022, USA
+;562,000;;;;;;;;La Grolla;413 Amsterdam Ave;;;;413 Amsterdam Ave, New York, NY 10024, USA
+;563,000;;;;;;;;La Lunchonette;130 10th Ave;Chelsea;French;$$;130 10th Ave, New York, NY 10011, USA
+;564,000;;;;;;;;La Mela Ristorante;167 Mulberry St;Little Italy;Italian;$$;167 Mulberry St, New York, NY 10013, USA
+;565,000;;;;;;;;La Paella;214 E Ninth St;East Village;Spanish;$$;214 E 9th St, New York, NY 10003, USA
+;566,000;;;;;;;;La Palapa;77 St Marks Pl;Greenwich Village;Mexican;$$;77 St Marks Pl, New York, NY 10003, USA
+;567,000;;;;;;;;La Pizza Fresca Ristorante;31 E 20th St;Union Square;Italian;$$;31 E 20th St, New York, NY 10003, USA
+;568,000;;;;;;;;La Taza De Oro;96 Eighth Ave;Chelsea;Caribbean;$;96 8th Ave, New York, NY 10011, USA
+;569,000;;;;;;;;La Tour;1319 3rd Ave.;French;$$$$;;1319 3rd Ave.
+;570,000;;;;;;;;La Vela;373 Amsterdam Ave;Upper West Side;Italian;$$;373 Amsterdam Ave, New York, NY 10024, USA
+;571,000;;;;;;;;La Vineria;737 9th Ave.;;;;737 9th Ave, New York, NY 10019, USA
+;572,000;;;;;;;;Lan;56 Third Ave;East Village;Sushi;$$;56 Third Ave, Port Kembla NSW 2505, Australia
+;573,000;;;;;;;;Land;450 Amsterdam Ave;;;;450 Amsterdam Ave, New York, NY 10024, USA
+;574,000;;;;;;;;Land Thai Kitchen;450 Amsterdam Ave;Upper West Side;Thai;$$;450 Amsterdam Ave, New York, NY 10024, USA
+;575,000;;;;;;;;Land Thai Kitchen;1565 Second Avenue;;;;1565 2nd Ave, New York, NY 10028, USA
+;576,000;;;;;;;;Landmarc;10 Columbus Circle, 3rd floor;Upper West Side;French;$$$;10 Columbus Cir 3rd floor, New York, NY 10019, USA
+;577,000;;;;;;;;Landmarc;179 W Broadway;Gramercy Park;French;$$$;179 W Broadway, New York, NY 10013, USA
+;578,000;;;;;;;;Lasagna Ristorante;785 9th ave;Hell's Kitchen;Italian;$$;785 9th Ave, New York, NY 10019, USA
+;579,000;;;;;;;;Lavagna;545 E. Fifth St.;Italian;$$$;;545 E 5th St, Boston, MA 02127, USA
+;581,000;;;;;;;;Le Bilboquet;25 E 63rd St;Upper East Side;French;$$$;25 E 63rd St, New York, NY 10065, USA
+;582,000;;;;;;;;Le Boeuf a La Mode;539 E 81st St;Upper East Side;French;$$$;539 E 81st St
+;583,000;;;;;;;;Le Gamin;522 Hudson St;West Village;French;$;522 Hudson St, Hoboken, NJ 07030, USA
+;584,000;;;;;;;;Le Gigot;18 Cornelia St;Greenwich Village;French;$$$;18 Cornelia St, New York, NY 10014, USA
+;585,000;;;;;;;;Le Jardin Bistro;25 Cleveland Pl;NoLita;French;$$$;25 Cleveland Pl, New York, NY 10012, USA
+;586,000;;;;;;;;Le Madeleine;403 W 43rd Street;Midtown West;French;$$$;403 W 43rd St, New York, NY 10036, USA
+;587,000;;;;;;;;Le Miu;107 Ave. A;Sushi;$$$;;107 Avenue A, New York, NY 10009, USA
+;588,000;;;;;;;;Le Monde;2885 Broadway;Harlem;French;$$;2885 Broadway, New York, NY 10025, USA
+;589,000;;;;;;;;Le Pere Pinard;175 Ludlow St;Lower East Side;French;$$;175 Ludlow St, New York, NY 10002, USA
+;590,000;;;;;;;;Le Perigord;405 E 52nd St (Between Fdr Dr & 1st Avenue);Midtown East;French;$$$;405 E 52nd St (Between Fdr Dr & 1st Avenue)
+;592,000;;;;;;;;Le Zie 2000;172 Seventh Ave;Chelsea;Italian;$$;172 7th Ave, New York, NY 10011, USA
+;593,000;;;;;;;;Leela Lounge;1 W. Third St.;Indian;$$;;1 W 3rd St, Media, PA 19063, USA
+;594,000;;;;;;;;Les Enfants Terribles;37 Canal St;Lower East Side;African;$$;37 Canal St, New York, NY 10002, USA
+;595,000;;;;;;;;Les Halles;411 Park Ave S;Gramercy Park;French;$$$;411 Park Ave S, New York, NY 10016, USA
+;596,000;;;;;;;;Les Halles;15 John St;Financial District;French;$$$;15 John St, Selden, NY 11784, USA
+;597,000;;;;;;;;Lima's Taste;122 Christopher St;West Village;South American;$;122 Christopher St, New York, NY 10014, USA
+;598,000;;;;;;;;Lime Leaf;2799 Broadway;;;;2799 Broadway, San Francisco, CA 94115, USA
+;599,000;;;;;;;;Lisca;660 Amsterdam Ave;;;;660 Amsterdam Ave, New York, NY 10025, USA
+;600,000;;;;;;;;Little Giant;85 Orchard St;Lower East Side;American;$$$$;85 Orchard St
+;601,000;;;;;;;;Little Owl;90 Bedford Street;West Village;American;$$$;Apartment Building from the TV Show Friends, 90 Bedford St, New York, NY 10014, USA
+;602,000;;;;;;;;Little Pie Company;Grand Central Station;Midtown East;Bakery;$;Grand Central Station
+;603,000;;;;;;;;Loft;505 Columbus Ave;Upper West Side;Mediterranean;$$;505 Columbus Ave, New York, NY 10024, USA
+;604,000;;;;;;;;Lombardi's;32 Spring St;NoLita;Pizza;$;32 Spring St, New York, NY 10012, USA
+;606,000;;;;;;;;Londel's Supper Club;2620 Frederick Douglas Blvd;Harlem;Southern;$$;2620 Frederick Douglass Blvd, New York, NY 10030, USA
+;607,000;;;;;;;;London Bar;151 W. 54th Street;Midtown West;French;$$$$;151 W 54th St, New York, NY 10019, USA
+;608,000;;;;;;;;Loreley;7 Rivington St.;German;;;7 Rivington St, New York, NY 10002, USA
+;609,000;;;;;;;;Los Dos Molinos;119 E 18th St;Gramercy Park;Southwestern;$$;119 E 18th St, Chicago, IL 60616, USA
+;610,000;;;;;;;;Loside;157 E Houston Street;Lower East Side;American;$;157 E Houston St, New York, NY 10002, USA
+;611,000;;;;;;;;LuLu;235 Mulberry Street;;;;235 Mulberry St, New York, NY 10012, USA
+;612,000;;;;;;;;Lucien;14 1st Ave;East Village;French;$$;14 1st Avenue, New York, NY 10009, USA
+;615,000;;;;;;;;Lure;142 Mercer St, Downstairs;SOHO;Seafood;$$$$;142 Mercer St, New York, NY 10012, USA
+;616,000;;;;;;;;Lusardi's;1494 Second Ave;Upper East Side;Italian;$$$$;1494 2nd Ave, New York, NY 10075, USA
+;617,000;;;;;;;;Luzia's;429 Amsterdam Ave.;;;;429 Amsterdam Ave, New York, NY 10024, USA
+;618,000;;;;;;;;Macelleria;48 Gansevoort St;Meatpacking District;Italian;$$$;48 Gansevoort St, New York, NY 10014, USA
+;619,000;;;;;;;;Madison Bistro;238 Madison Ave;Murray Hill;French;$$$;238 Madison Ave, New York, NY 10016, USA
+;620,000;;;;;;;;Mai House;186 Franklin Street;TriBeCa;Vietnamese;$$$;186 Franklin St, New York, NY 10013, USA
+;621,000;;;;;;;;Malatesta Trattoria;649 Washington St;West Village;Italian;$$;649 Washington St, New York, NY 10014, USA
+;623,000;;;;;;;;Mama Mexico;214 E. 49th St.;;;;214 E 49th St, New York, NY 10017, USA
+;624,000;;;;;;;;Mama! Mexico;2672 Broadway;Midtown East;Mexican;$$;2672 Broadway, New York, NY 10025, USA
+;625,000;;;;;;;;Mama's Food Shop;200 E Third St;East Village;American;$;200 E Third St
+;626,000;;;;;;;;Mamlouk;211 East 4th St;East Village;Middle Eastern;$$$;211 E 4th St, New York, NY 10009, USA
+;627,000;;;;;;;;Mamoun's Falafel Restaurant;119 MacDougal St.;;;;119 MacDougal St, New York, NY 10012, USA
+;628,000;;;;;;;;Mandarin Court;61 Mott St;Chinatown;Chinese;$;61 Mott St, New York, NY 10013, USA
+;629,000;;;;;;;;Mandoo Bar;2 W 32nd St;Midtown West;Korean;$;2 W 32nd St, New York, NY 10001, USA
+;630,000;;;;;;;;Mangia;50 W 57th St Fl 1;Midtown East;Italian;$;50 W 57th St Fl 1, New York, NY 10019, USA
+;632,000;;;;;;;;Mare;198 Eighth Ave;Chelsea;Seafood;$$;198 8th Ave, New York, NY 10011, USA
+;633,000;;;;;;;;Maremma;228 W 10th St;West Village;Italian;$$$;228 W 10th St, New York, NY 10014, USA
+;634,000;;;;;;;;MarkJoseph Steakhouse;261 Water St;Financial District;Steakhouse;$$$$;261 Water St, Augusta, ME 04330, USA
+;635,000;;;;;;;;Market Table;54 Carmine St;American;$$$$;;54 Carmine St, New York, NY 10014, USA
+;636,000;;;;;;;;Markt;676 6th Avenue;Flatiron;Belgian;$$$;676 6th Ave, New York, NY 10010, USA
+;637,000;;;;;;;;Maroons;244 W 16th St;Chelsea;Southern;$$;244 W 16th St, New York, NY 10011, USA
+;638,000;;;;;;;;Marseille;630 Ninth Ave;Midtown West;French;$$$;630 9th Ave, New York, NY 10036, USA
+;639,000;;;;;;;;Mary Anns Mexican Restaurant;1503 2nd Ave;;;;1503 2nd Ave, New York, NY 10075, USA
+;641,000;;;;;;;;Mas (farmhouse);39 Downing St;Greenwich Village;American;$$$$;39 Downing St, New York, NY 10014, USA
+;642,000;;;;;;;;Masa;10 Columbus Circle;Upper West Side;Japanese;$$$$$;10 Columbus Cir, New York, NY 10019, USA
+;643,000;;;;;;;;Matsuri;369 W 16th St;;;;369 W 16th St, New York, NY 10011, USA
+;644,000;;;;;;;;Max;1274 Amsterdam Ave;East Village;Italian;$;1274 Amsterdam Ave, New York, NY 10027, USA
+;645,000;;;;;;;;Maya;1191 First Avenue;Midtown East;Mexican;$$$$;1191 First Avenue
+;646,000;;;;;;;;Mccormick & Schmick's;1285 Sixth Ave;Midtown West;Seafood;$$$;1285 6th Ave, New York, NY 10019, USA
+;647,000;;;;;;;;Mediterraneo;1260 Second Ave;Upper East Side;Italian;$$;1260 2nd Ave, New York, NY 10065, USA
+;648,000;;;;;;;;Megu;62 Thomas St;TriBeCa;Japanese;$$$$$;62 Thomas St
+;649,000;;;;;;;;Megu Midtown;845 United Nations Plaza;Midtown East;Japanese;$$$$$;845 United Nations Plaza, New York, NY 10017, USA
+;650,000;;;;;;;;Meltemi;905 First Ave;Midtown East;Greek;$$$;905 1st Avenue, New York, NY 10022, USA
+;651,000;;;;;;;;Mercadito;179 Ave B;East Village;Mexican;$$;179 Avenue B, New York, NY 10009, USA
+;652,000;;;;;;;;Mercadito Grove;100 Seventh Ave S;West Village;Mexican;$$;100 Seventh Ave S
+;653,000;;;;;;;;Mercat;45 Bond Street;SOHO;Spanish;$$$$;45 Bond St, New York, NY 10012, USA
+;655,000;;;;;;;;Mermaid Inn;96 Second Ave;East Village;Seafood;$$$;96 2nd Ave, New York, NY 10003, USA
+;656,000;;;;;;;;Mesa Grill;102 5th Ave;Flatiron;Southwestern;$$$$;102 5th Ave, New York, NY 10011, USA
+;657,000;;;;;;;;Meskerem;468 W. 47th St.;Ethiopian;;;468 W 47th St, New York, NY 10036, USA
+;658,000;;;;;;;;Metisse;239 W 105th St;Upper West Side;French;$$$;239 W 105th St, New York, NY 10025, USA
+;659,000;;;;;;;;Metropol;234 W Fourth St;Greenwich Village;French;$$$;234 W Fourth St
+;660,000;;;;;;;;Mexican Radio;250 Mulberry St;NoLita;Mexican;$$;250 Mulberry St, New York, NY 10012, USA
+;661,000;;;;;;;;Mexicana Mama;525 Hudson St;West Village;Mexican;$$;525 Hudson St, New York, NY 10014, USA
+;663,000;;;;;;;;Mi Cocina;57 Jane St;West Village;Mexican;$$$;57 Jane St, New York, NY 10014, USA
+;664,000;;;;;;;;Michael Jordan's The Steakhouse N.Y.C.;23 Vanderbilt Ave - Grand Central Staion;Midtown East;Steakhouse;$$$;23 Vanderbilt Ave - Grand Central Staion
+;666,000;;;;;;;;Mickey Mantle's;42 Central Park South;Midtown East;American;$$$;42 Central Park S, New York, NY 10019, USA
+;667,000;;;;;;;;Midtown;155 E 55th Street;Midtown East;American;$;157 E 55th St, New York, NY 10022, United States
+;668,000;;;;;;;;Mill Korean;2895 Broadway;Harlem;Korean;$;2895 Broadway, New York, NY 10025, USA
+;669,000;;;;;;;;Minetta Tavern;113 Macdougal Street;Greenwich Village;Italian;$$$;113 MacDougal St, New York, NY 10012, USA
+;670,000;;;;;;;;Mingala Burmese;21-23 E Seventh St;East Village;Southeast Asian;$;21 E 7th St #23, New York, NY 10003, USA
+;671,000;;;;;;;;Miracle Bar & Grill;415 Bleecker St;West Village;Southwestern;$$;415 Bleecker St, New York, NY 10014, USA
+;672,000;;;;;;;;Miss Maude's Spoonbread Too;547 Lenox Ave;Harlem;Southern;$;547 Lenox Ave, New York, NY 10037, USA
+;673,000;;;;;;;;Mo Pitkin's;34 Ave A;East Village;Jewish;$$;34 Avenue A, New York, NY 10009, USA
+;674,000;;;;;;;;Mobay Uptown Restaurant & Barbecue;17 W 125th St;Harlem;Caribbean;$;17 W 125th St, New York, NY 10027, USA
+;675,000;;;;;;;;Mofongo Depot;931 Amsterdam Ave;Upper West Side;Nuevo Latino;$$;931 Amsterdam Ave, New York, NY 10025, USA
+;677,000;;;;;;;;Momofuku Ko;163 First Ave;East Village;Chinese;$$$$;163 1st Avenue, New York, NY 10003, USA
+;678,000;;;;;;;;Momofuku Noodle Bar;171 First Ave.;East Village;Chinese;$$$;171 1st Avenue, New York, NY 10003, USA
+;679,000;;;;;;;;Momofuku Ssam Bar;207 2nd Ave;East Village;Asian;$$$;207 2nd Ave, New York, NY 10003, USA
+;680,000;;;;;;;;Momoya;185 Seventh Ave;;;;185 Seventh Ave, Inglewood WA 6052, Australia
+;681,000;;;;;;;;Mon Petit Cafe;801 Lexington Ave;Upper East Side;French;$$;801 Lexington Ave, New York, NY 10065, USA
+;682,000;;;;;;;;Monkey Bar;60 E 54th Street;Midtown East;American;$$$$;60 E 54th St, New York, NY 10022, USA
+;683,000;;;;;;;;Monster Sushi;158 West 23rd St;;;;158 W 23rd St, New York, NY 10011, USA
+;684,000;;;;;;;;Montebello;120 E 56th St;Midtown East;Italian;$$$;120 E 56th St, New York, NY 10022, USA
+;685,000;;;;;;;;Montrachet - CLOSED;239 W Broadway;West Village;French;$$$$;239 W Broadway, Granville, OH 43023, USA
+;686,000;;;;;;;;Moran's;146 Tenth Ave;Chelsea;Seafood;$$$;146 Amsterdam Ave, New York, NY 10023, USA
+;687,000;;;;;;;;Morandi;211 Waverly Place;Greenwich Village;Italian;$$$;211 Waverly Pl, New York, NY 10014, USA
+;688,000;;;;;;;;Morimoto;88 10th Ave;Chelsea;Japanese;$$$$;88 10th Ave, New York, NY 10011, USA
+;689,000;;;;;;;;Morrell Wine Bar & Cafe;1 Rockefeller Plaza;Midtown West;American;$$$;1 Rockefeller Plaza 48Th and, W 49th St, New York, NY 10020, United States
+;690,000;;;;;;;;Morton's;The Steakhouse, 551 Fifth Ave;Midtown East;Seafood;$$$$;551 5th Ave, New York, NY 10017, United States
+;691,000;;;;;;;;Moustache;90 Bedford Street;West Village;Middle Eastern;$;Apartment Building from the TV Show Friends, 90 Bedford St, New York, NY 10014, USA
+;692,000;;;;;;;;Mr. Chow;324 E 57th St;Midtown East;Chinese;$$$$;324 E 57th St, New York, NY 10022, USA
+;693,000;;;;;;;;Mr. K's;570 Lexington Ave;Midtown East;Chinese;$$$;570 Lexington Ave
+;694,000;;;;;;;;Mrs Lee & Shabu Shabu Wok;121 University Pl;West Village;Asian;$;121 University Pl, New York, NY 10003, USA
+;695,000;;;;;;;;Mughlai;320 Columbus Ave;Upper West Side;Indian;$$;320 Columbus Ave, New York, NY 10023, USA
+;696,000;;;;;;;;Mustang Sally's;324 Seventh Avenue;Chelsea;American;$$;324 7th Ave, New York, NY 10001, USA
+;697,000;;;;;;;;Nebraska Beef;15 Stone St;Wall Street;Steakhouse;$$$$;15 Stone St, New York, NY 10004, USA
+;698,000;;;;;;;;Nelson Blue;233 Front Street;Financial District;British;$$;233 Front Street
+;701,000;;;;;;;;Nero;46 Gansevoort St;Meatpacking District;Italian;$$$;46 Gansevoort St, New York, NY 10014, USA
+;702,000;;;;;;;;New Bo-Ky;80 Bayard St;Chinatown;Asian;$;80 Bayard St, New York, NY 10013, USA
+;703,000;;;;;;;;New York Noodle Town;28 Bowery at Bayard Street;SOHO;Asian;$;28 Bowery, New York, NY 10013, USA
+;704,000;;;;;;;;Nha Trang;87 Baxter St;Chinatown;Asian;$;87 Baxter St, New York, NY 10013, USA
+;705,000;;;;;;;;Nice;35 E Broadway;Chinatown;Chinese;$;35 E Broadway, New York, NY 10002, USA
+;706,000;;;;;;;;Nick's;1814 Second Ave;Upper East Side;Italian;$;1814 2nd Ave, New York, NY 10128, USA
+;707,000;;;;;;;;Nicky's Vietnamese Sandwiches;150 E 2nd St;East Village;American;$;150 E 2nd St, Brooklyn, NY 11218, USA
+;708,000;;;;;;;;Nicole's;10 East 60th Street;Midtown East;British;$$;10 E 60th St, New York, NY 10022, USA
+;709,000;;;;;;;;Niko's Mediterranean Grill;2161 Broadway;Upper West Side;Greek;$;2161 Broadway, New York, NY 10024, USA
+;710,000;;;;;;;;Nino's Bellissima Pizza;890 Second Ave.;Midtown East;Italian;$$$;890 2nd Ave, New York, NY 10017, USA
+;711,000;;;;;;;;Noble Food & Wine;7 Spring Street;NoLita;American;$$$;7 Spring St, New York, NY 10012, USA
+;712,000;;;;;;;;Nobu Fifty Seven;40 W 57th St;Midtown West;Japanese;$$$$$;40 W 57th St, New York, NY 10019, USA
+;713,000;;;;;;;;Nobu New York;105 Hudson St;TriBeCa;Japanese;$$$$;105 Hudson St, New York, NY 10013, USA
+;714,000;;;;;;;;Nobu Next Door;105 Hudson St;TriBeCa;Sushi;$$$$;105 Hudson St, New York, NY 10013, USA
+;717,000;;;;;;;;Nonna;520 Columbus Ave;;;;520 Columbus Ave, New York, NY 10024, USA
+;718,000;;;;;;;;Norma's;118 West 57th Street;Midtown West;American;$$;118 W 57th St, New York, NY 10019, USA
+;719,000;;;;;;;;North Square Restaurant and Lounge;103 Waverly Place;Greenwich Village;American;$$$$;103 Waverly Pl, New York, NY 10011, USA
+;720,000;;;;;;;;Nougatine;1 Central Park West;American;$$$$;;1 Central Park West, New York, NY 10023, USA
+;722,000;;;;;;;;Novita;102 E 22nd Street;Gramercy Park;Italian;$$$;102 E 22nd St, New York, NY 10010, USA
+;723,000;;;;;;;;Nyonya;194 Grand Street;Little Italy;Malaysian;$;194 Grand St, New York, NY 10013, USA
+;724,000;;;;;;;;Ocean Grill;384 Columbus Ave;Upper West Side;Seafood;$$$;384 Columbus Ave, New York, NY 10024, USA
+;726,000;;;;;;;;Odeon;145 W Broadway;TriBeCa;French;$$$;145 W Broadway, New York, NY 10013, USA
+;727,000;;;;;;;;Old Devil Moon;511 E 12th St;East Village;Southern;$;511 E 12th St, New York, NY 10009, USA
+;728,000;;;;;;;;Old Homestead;56 9th Ave;Meatpacking District;Steakhouse;$$$$;56 9th Ave, New York, NY 10011, USA
+;729,000;;;;;;;;Oliva;161 East Houston Street;Lower East Side;American;$$;161 E Houston St, New York, NY 10002, USA
+;730,000;;;;;;;;Olives;201 Park Ave S - W Hotel;Union Square;Mediterranean;$$$;201 Park Ave S, New York, NY 10003, United States
+;731,000;;;;;;;;Ollie's Restaurant;1991 Broadway;Upper West Side;Chinese;$;1991 Broadway, New York, NY 10023, USA
+;732,000;;;;;;;;Omen;113 Thompson Street;SOHO;Japanese;$$$;113 Thompson St, New York, NY 10012, USA
+;733,000;;;;;;;;Once Upon a Tart;135 Sullivan Street;SOHO;American;$;135 Sullivan St, New York, NY 10012, USA
+;734,000;;;;;;;;One;1 Little West 12th St;Meatpacking District;American;$$$;1 Little W 12th St, New York, NY 10014, United States
+;735,000;;;;;;;;One If by Land;Two If by Sea, 17 Barrow St;Greenwich Village;American;$$$$;17 Barrow St, New York, NY 10014, United States
+;736,000;;;;;;;;One Little West 12;1 Little West 12th St.;Meatpacking District;American;$$;1 Little W 12th St, New York, NY 10014, United States
+;737,000;;;;;;;;Onieal's Grand Street;174 Grand St;SOHO;American;$$$;174 Grand St, New York, NY 10013, USA
+;738,000;;;;;;;;Ono;18 Ninth Ave;Meatpacking District;Sushi;$$$$;18 Ninth Ave, Railway Estate QLD 4810, Australia
+;739,000;;;;;;;;Open the Sesame;198A Orchard St.;Lower East Side;Thai;$;198 Orchard St, New York, NY 10002, USA
+;740,000;;;;;;;;Oriental Garden;14 Elizabeth St;Chinatown;Chinese;$;14 Elizabeth St, Charleston, SC 29403, USA
+;741,000;;;;;;;;Osteria Al Doge;142 West 44th St;Midtown West;Italian;$$$;142 W 44th St, New York, NY 10036, USA
+;742,000;;;;;;;;Osteria Del Circo;120 W 55th St;Midtown West;Italian;$$$$;120 W 55th St, New York, NY 10019, USA
+;743,000;;;;;;;;Osteria Gelsi;507 Ninth Ave;Midtown West;Italian;$$$;507 Ninth Ave
+;744,000;;;;;;;;Ostia Tapeo;113 Seventh Ave. S.;Greenwich Village;Small Plates;$$;113 7th Ave S, New York, NY 10014, USA
+;745,000;;;;;;;;Otto;1 Fifth Ave;Greenwich Village;Italian;$$$$;1 5th Ave, New York, NY 10001, USA
+;747,000;;;;;;;;Outback Steakhouse;60 W 23rd St;Flatiron;Steakhouse;$$;60 W 23rd St, New York, NY 10010, USA
+;748,000;;;;;;;;P.J. Clarke's;915 Third Ave;;;;915 3rd Ave, New York, NY 10022, USA
+;749,000;;;;;;;;P.J. Clarke's;44 W. 63rd Street;;;;44 W 63rd St., New York, NY 10023, USA
+;750,000;;;;;;;;Paladar;161 Ludlow St;Lower East Side;Nuevo Latino;$$;161 Ludlow St, New York, NY 10002, USA
+;751,000;;;;;;;;Pam Real Thai Food;404 W 49th St;Midtown West;Asian;$;404 W 49th St, New York, NY 10019, USA
+;752,000;;;;;;;;Pampa;768 Amsterdam Avenue;Upper West Side;South American;$$;768 Amsterdam Ave, New York, NY 10025, USA
+;753,000;;;;;;;;Pampano;209 E 49th St;Midtown East;Mexican;$$$;209 E 49th St, New York, NY 10017, USA
+;754,000;;;;;;;;Paradou;8 Little W 12th St;Meatpacking District;French;$$;8 Little W 12th St, New York, NY 10014, USA
+;755,000;;;;;;;;Paris Commune;99 Bank St;West Village;Continental;$$;99 Bank St, New York, NY 10014, USA
+;756,000;;;;;;;;Park;The, 118 10th Ave;Chelsea;Mediterranean;$$$;118 10th Ave, New York, NY 10011, USA
+;757,000;;;;;;;;Park Avenue Cafe;100 East 63rd St (@ Park Avenue);Upper East Side;American;$$$$;100 East 63rd St (@ Park Avenue)
+;758,000;;;;;;;;Park Bistro;414 Park Ave South;SOHO;French;$$$;414 Park Ave S, New York, NY 10016, USA
+;760,000;;;;;;;;Parlor Steakhouse;1600 3rd Ave;Upper East Side;Steakhouse;$$$$;1600 3rd Ave, New York, NY 10128, USA
+;761,000;;;;;;;;Pasha;70 W 71st St;Upper West Side;Middle Eastern;$$$;70 W 71st St, New York, NY 10023, USA
+;762,000;;;;;;;;Pastis;9 Ninth Ave;Meatpacking District;French;$$$;9 Ninth Ave
+;763,000;;;;;;;;Patsy's;236 W 56th St;Midtown West;Italian;$$$;236 W 56th St, New York, NY 10019, USA
+;764,000;;;;;;;;Paul's Da Burger Joint;131 2nd avenue;East Village;American;$$;131 2nd avenue
+;765,000;;;;;;;;Payard Bistro;1032 Lexington Avenue;Upper East Side;French;$$$;1032 Lexington Ave, New York, NY 10021, USA
+;766,000;;;;;;;;Peanut Butter & Co.;240 Sullivan St;;;;D'Agostino Hall, 240 Sullivan St, New York, NY 10012, USA
+;768,000;;;;;;;;Peasant;194 Elizabeth St;NoLita;Italian;$$$;194 Elizabeth St, New York, NY 10012, USA
+;769,000;;;;;;;;Peep;177 Prince St;SOHO;Asian;$$;LOFTS AT PRINCE (WEDDING), 177 Prince St, New York, NY 10012, USA
+;770,000;;;;;;;;Penelope;159 Lexington Ave;Murray Hill;American;$;159 Lexington Ave, New York, NY 10016, USA
+;771,000;;;;;;;;Pepe Giallo;253 10th Ave;;;;253 Tenth Ave, San Diego, CA 92101, USA
+;772,000;;;;;;;;Pepe Rosso;149 Sullivan St;SOHO;Italian;$;149 Sullivan St, New York, NY 10012, USA
+;773,000;;;;;;;;Per Se;10 Columbus Circle, 4th Fl (60th St);Upper West Side;American;$$$$$;10 Columbus Circle, 4th Fl (60th St)
+;774,000;;;;;;;;Pera;303 Madison Avenue;Midtown East;Mediterranean;$$$$;303 Madison Ave, New York, NY 10017, USA
+;775,000;;;;;;;;Perbacco;234 E Fourth St;East Village;Italian;$$$;234 E 4th St, New York, NY 10009, USA
+;776,000;;;;;;;;Peri Ela;1361 Lexington Avenue;Upper East Side;Turkish;$$;1361 Lexington Ave, New York, NY 10128, USA
+;777,000;;;;;;;;Perilla;9 Jones Street;Greenwich Village;American;$$$$;9 Jones St, New York, NY 10014, USA
+;778,000;;;;;;;;Periyali;35 W 20th St;Flatiron;Greek;$$$$;35 W 20th St, New York, NY 10011, USA
+;779,000;;;;;;;;Perry St.;176 Perry St;West Village;French;$$$$;176 Perry St, New York, NY 10014, USA
+;780,000;;;;;;;;Persimmon;277 E 10th St;Korean;$$$$;;277 E 10th St, New York, NY 10009, USA
+;781,000;;;;;;;;Pescatore;955-957 2nd Ave;Midtown East;Indian;$$$;955 2nd Ave, New York, NY 10022, USA
+;782,000;;;;;;;;Petite Abeille;400 West 14th St;Chelsea;Belgian;$;400 W 14th St, New York, NY 10014, USA
+;784,000;;;;;;;;Philip Marie;569 Hudson St;West Village;American;$$$;569 Hudson St, New York, NY 10014, USA
+;785,000;;;;;;;;Pho Bang Restaurant Inc;St Pike St;Chinatown;Asian;$;St Pike St
+;786,000;;;;;;;;Piadina;57 W 10th St;Greenwich Village;Italian;$$;57 W 10th St, New York, NY 10011, USA
+;787,000;;;;;;;;Piano Due;151 W 51st St;Midtown West;Italian;$$$$;151 W 51st St, New York, NY 10019, USA
+;788,000;;;;;;;;Piccolo Angolo;621 Hudson St;West Village;Italian;$$;621 Hudson St, New York, NY 10014, USA
+;789,000;;;;;;;;Piccolo Ristorante;226 Third Ave;Chelsea;Mediterranean;$$;226 3rd Ave, New York, NY 10003, USA
+;791,000;;;;;;;;Pig Heaven;1540 Second Ave;Midtown West;Chinese;$$;1540 2nd Ave, New York, NY 10028, USA
+;792,000;;;;;;;;Pinch;416 Park Ave S;Gramercy Park;Pizza;$;416 Park Ave S, New York, NY 10016, USA
+;793,000;;;;;;;;Ping's Seafood;22 Mott St;Chinatown;Chinese;$;22 Mott St, New York, NY 10013, USA
+;794,000;;;;;;;;Pinkberry Frozen Yogurt;240 E 82nd St;Dessert;;;240 E 82nd St, New York, NY 10028, USA
+;795,000;;;;;;;;Pipa;38 E 19th Street;Flatiron;$$$;;38 E 19th St, New York, NY 10003, United States
+;796,000;;;;;;;;Pisticci;125 La Salle St;Harlem;Italian;$;125 La Salle St, New York, NY 10027, USA
+;797,000;;;;;;;;Pizza 33;171 W 23rd St;Chelsea;Pizza;$;171 W 23rd St, New York, NY 10011, USA
+;798,000;;;;;;;;Pizzeria de Santo;173 Ludlow St.;Lower East Side;Pizza;$;173 Ludlow St, New York, NY 10002, USA
+;799,000;;;;;;;;Po;31 Cornelia St;Greenwich Village;Italian;$$$;31 Cornelia St, New York, NY 10014, USA
+;800,000;;;;;;;;Poke;343 E. 85th St.;Sushi;$$;;343 E 85th St, New York, NY 10028, USA
+;801,000;;;;;;;;Pomme Frites;123 2nd Ave;Belgian;$;;123 2nd Ave, New York, NY 10003, USA
+;802,000;;;;;;;;Pongal;110 Lexington Ave.;Murray Hill;Indian;$$;Lexington Ave & E 110th St, New York, NY 10029, USA
+;803,000;;;;;;;;Popover Cafe;551 Amsterdam Ave;Upper West Side;American;$;551 Amsterdam Ave, New York, NY 10024, USA
+;804,000;;;;;;;;Porchetta;110 East 7th Street;East Village;Italian;$$$;110 E 7th St, New York, NY 10009, USA
+;805,000;;;;;;;;Porters New York;216 Seventh Avenue;Chelsea;American;$$;216 7th Ave, New York, NY 10011, USA
+;806,000;;;;;;;;Positano;122 Mulberry St;Little Italy;Italian;$$;122 Mulberry St, New York, NY 10013, USA
+;807,000;;;;;;;;Post House;28 E 63rd St (Between Park Ave & Madison Ave);Upper East Side;Steakhouse;$$$$;28 E 63rd St, New York, NY 10065, United States
+;808,000;;;;;;;;Prem-On Thai;138 W Houston St;Greenwich Village;Thai;$$;138 W Houston St, New York, NY 10012, USA
+;809,000;;;;;;;;Prime Grill;60 E 49th St;Midtown East;Jewish;$$$$;60 E 49th St, New York, NY 10017, USA
+;811,000;;;;;;;;Provence;38 Macdougal Street;SOHO;French;$$;38 MacDougal St, New York, NY 10012, USA
+;812,000;;;;;;;;Prune;54 E First St;East Village;American;$$$;54 E 1st St, New York, NY 10003, USA
+;813,000;;;;;;;;Public;210 Elizabeth St;NoLita;International;$$$;210 Elizabeth St, New York, NY 10012, USA
+;814,000;;;;;;;;Pukk;71 First Ave;East Village;Thai;$;71 First Ave
+;815,000;;;;;;;;Pump Energy Food;40 West 55th Street;Midtown West;International;$;40 W 55th St, New York, NY 10019, USA
+;816,000;;;;;;;;Pure Food and Wine;54 Irving Pl;Gramercy Park;Vegetarian;$$$$;54 Irving Pl
+;817,000;;;;;;;;Puttanesca;859 9th Avenue;Midtown West;Italian;$$;859 9th Ave, New York, NY 10019, USA
+;818,000;;;;;;;;Pylos;128 E Seventh St;East Village;Greek;$$;128 E 7th St, New York, NY 10009, USA
+;819,000;;;;;;;;P’ONG;150 W 10th St;Continental;$$$;;150 W 10th St, New York, NY 10014, USA
+;820,000;;;;;;;;Quality Meats;57 W 58th St;Midtown West;Steakhouse;$$$$;57 W 58th St, New York, NY 10019, USA
+;821,000;;;;;;;;Quartino;21 Peck Slip;;;;21 Peck Slip, New York, NY 10038, USA
+;822,000;;;;;;;;Rack and Soul;2818 Broadway;Upper West Side;Barbecue;$$;2818 Broadway, New York, NY 10025, USA
+;823,000;;;;;;;;Radio Perfecto;190 Ave B;East Village;American;$$;190 Avenue B, New York, NY 10009, USA
+;824,000;;;;;;;;Rain West - CLOSED;100 West 82nd Street;Upper West Side;Asian;$$;100 W 82nd St, New York, NY 10024, USA
+;825,000;;;;;;;;Rainbow Room;30 Rockefeller Plaza65th Floor;Midtown West;Italian;$$$$;30 Rockefeller Plaza 65th floor, New York, NY 10112, United States
+;826,000;;;;;;;;Rao's;455 East 114th St;Harlem;Italian;$$$$;455 E 114th St, New York, NY 10029, USA
+;827,000;;;;;;;;Raoul's;180 Prince St;SOHO;French;$$$;180 Prince St, New York, NY 10012, USA
+;828,000;;;;;;;;Red Cat;227 Tenth Avenue;Chelsea;American;$$$;227 Amsterdam Ave, New York, NY 10023, USA
+;829,000;;;;;;;;Redeye Grill;890 Seventh Ave;Midtown West;American;$$$;890 7th Ave, New York, NY 10106, USA
+;830,000;;;;;;;;Remi;145 W 53rd St;Midtown West;Italian;$$$;145 W 53rd St, New York, NY 10019, USA
+;831,000;;;;;;;;Republic;37 Union Square W;Union Square;Asian;$;37 Union Square W, New York, NY 10003, USA
+;832,000;;;;;;;;Resto;111 E. 29th Street;Gramercy Park;Belgian;$$;111 E 29th St, New York, NY 10016, USA
+;833,000;;;;;;;;Revel;10 Little W. 12th Street;Meatpacking District;International;$$$$;10 Little W 12th St, New York, NY 10014, USA
+;834,000;;;;;;;;Revival;2367 Frederick Douglass Blvd;Harlem;Caribbean;$$;2367 Frederick Douglass Blvd, New York, NY 10027, USA
+;835,000;;;;;;;;Ribot;780 Third Ave;;;;780 3rd Ave, New York, NY 10017, USA
+;836,000;;;;;;;;Rice;277 Mott Street;NoLita;International;$;277 Mott St, New York, NY 10012, USA
+;837,000;;;;;;;;Rice 'N' Beans;744 9th Ave;Midtown West;South American;$;744 9th Ave, New York, NY 10019, USA
+;838,000;;;;;;;;Riingo;205 E. 45th St;Midtown East;Japanese;$$$$;205 E 45th St, New York, NY 10017, USA
+;839,000;;;;;;;;Risotteria;270 Bleecker St;;;;270 Bleecker St, New York, NY 10014, USA
+;840,000;;;;;;;;Roberto Passon;741 Ninth Ave;Midtown West;Italian;$$$;741 9th Ave, New York, NY 10019, USA
+;841,000;;;;;;;;Rocco Restaurant;181 Thompson St;Greenwich Village;Italian;$$;181 Thompson St, New York, NY 10012, USA
+;842,000;;;;;;;;Rock Center Cafe;2 W 50th St;Midtown West;American;$$$;2 W 50th St, Los Angeles, CA 90037, USA
+;843,000;;;;;;;;Rocking Horse;182 Eighth Ave;Chelsea;Mexican;$$;182 Eighth Ave, Rosebud VIC 3939, Australia
+;844,000;;;;;;;;Rolf's;281 Third Ave.;German;$$;;281 3rd Ave, New York, NY 10010, USA
+;845,000;;;;;;;;Roppongi Restaurant;200 W 81st St;Upper West Side;Sushi;$$;200 W 81st St, New York, NY 10024, USA
+;846,000;;;;;;;;Rosa Mexicano;61 Columbus Avenue;Upper West Side;Mexican;$$$;61 Columbus Ave, New York, NY 10023, USA
+;847,000;;;;;;;;Rosa Mexicano;9 E 18th St;Flatiron;Mexican;$$$;9 E 18th St
+;848,000;;;;;;;;Rosa Mexicano - First Avenue;1063 First Ave;Midtown East;Mexican;$$$;1063 1st Avenue, New York, NY 10022, USA
+;849,000;;;;;;;;Roy's;130 Washington St;TriBeCa;Fusion;$$$;130 Washington St
+;850,000;;;;;;;;Rub Bbq;208 W 23rd St;;;;208 W 23rd St, New York, NY 10011, USA
+;851,000;;;;;;;;Ruby Foo's Times Square;1626 Broadway;Midtown West;Pan-Asian;$$$;1626 Broadway, New York, NY 10019, USA
+;852,000;;;;;;;;Ruby Foo's Uptown;2182 Broadway;Upper West Side;Pan-Asian;$$$;2182 Broadway, New York, NY 10024, USA
+;853,000;;;;;;;;Rue 57;60 West 57th Street;;;;60 W 57th St, New York, NY 10019, USA
+;854,000;;;;;;;;Russian Samovar;256 W 52nd St;Midtown West;Continental;$$$;256 W 52nd St, New York, NY 10019, USA
+;856,000;;;;;;;;S.O.B.'s;200 Varick St;SOHO;Brazilian;$;200 Varick St, New York, NY 10014, USA
+;857,000;;;;;;;;Sachiko's On 25 Clinton;25 Clinton St;Lower East Side;Japanese;$$$;25 Clinton St, New York, NY 10002, USA
+;858,000;;;;;;;;Sacred Chow;227 Sullivan Street;Greenwich Village;Vegetarian;$;227 Sullivan St, New York, NY 10012, USA
+;859,000;;;;;;;;Sal Anthony's S.P.Q.R.;133 Mulberry St;Little Italy;Italian;$$;133 Mulberry St, New York, NY 10013, USA
+;860,000;;;;;;;;Sala;344 Bowery;NoLita;Spanish;$$;344 Bowery, New York, NY 10012, USA
+;861,000;;;;;;;;Salaam Bombay;319 Greenwich St;TriBeCa;Indian;$$;319 Greenwich St, New York, NY 10013, USA
+;863,000;;;;;;;;Salt;58 Macdougal St;SOHO;American;$$$;58 MacDougal St, New York, NY 10012, USA
+;864,000;;;;;;;;Salt Bar;29 Clinton St;Lower East Side;American;$$$;29 Clinton St, New York, NY 10002, USA
+;865,000;;;;;;;;Salud Restaurant and Bar;142 Beekman Street;;;;142 Beekman St, New York, NY 10038, USA
+;866,000;;;;;;;;Salute;270 Madison Ave;Murray Hill;Italian;$;270 Madison Ave, New York, NY 10016, USA
+;867,000;;;;;;;;Sambuca;20 W 72nd St;Upper West Side;Italian;$$;20 W 72nd St, New York, NY 10023, USA
+;868,000;;;;;;;;Sammy's Roumanian;157 Chrystie St;Lower East Side;European;$$$;157 Chrystie St, New York, NY 10002, USA
+;869,000;;;;;;;;San Domenico;240 Central Park South;Midtown West;Italian;$$$$;240 Central Park S, New York, NY 10019, United States
+;870,000;;;;;;;;Sanctuary T;337 West Broadway;SOHO;Continental;$$$;337 W Broadway, New York, NY 10013, USA
+;871,000;;;;;;;;Sant Ambroeus;259 W Fourth St;West Village;Italian;$$$;259 West 4th Street, New York, NY 10014, USA
+;872,000;;;;;;;;Santa Fe;73 W 71st St;Upper West Side;Southwestern;$$;73 W 71st St, New York, NY 10023, USA
+;874,000;;;;;;;;Sapphire;1845 Broadway;Upper West Side;Indian;$$$;1845 Broadway, New York, NY 10023, USA
+;876,000;;;;;;;;Sarge's Deli;548 Third Avenue;Murray Hill;Deli;$;548 3rd Ave, New York, NY 10016, USA
+;877,000;;;;;;;;Saucy;1409 York Avenue;Upper East Side;International;$$;1409 York Ave, New York, NY 10021, USA
+;878,000;;;;;;;;Savann;414 Amsterdam Ave;Upper West Side;French;$$;414 Amsterdam Ave, New York, NY 10024, USA
+;879,000;;;;;;;;Savoy;70 Prince St;SOHO;American;$$$;70 Prince St
+;880,000;;;;;;;;Scaletta;50 W 77th St;Midtown West;Italian;$$$;50 W 77th St, New York, NY 10024, USA
+;881,000;;;;;;;;Scalinatella;201 East 61st Street;Upper East Side;Italian;$$$$;201 E 61st St, New York, NY 10065, USA
+;882,000;;;;;;;;Scalini Fedeli;165 Duane St;TriBeCa;Italian;$$$$;165 Duane St, New York, NY 10013, USA
+;883,000;;;;;;;;Scarlatto;250 W 47th St;Midtown West;Italian;$$;250 W 47th St, New York, NY 10036, USA
+;884,000;;;;;;;;Scarpetta;355 W 14th St;Meatpacking District;Italian;$$$$;355 W 14th St, New York, NY 10014, USA
+;885,000;;;;;;;;Schiller's Restaurant;131 Rivington St;Lower East Side;International;$$;131 Rivington St, New York, NY 10002, USA
+;886,000;;;;;;;;Sea;75 Second Ave;East Village;Asian;$;75 2nd Ave, New York, NY 10003, USA
+;888,000;;;;;;;;Sequoia;Pier 17;Wall Street;Seafood;$$;Pier 17
+;889,000;;;;;;;;Serendipity 3;225 E 60th St;Upper East Side;American;$;225 E 60th St, New York, NY 10022, USA
+;890,000;;;;;;;;Sevilla Restaurant and Bar;62 Charles St& West 4th St;West Village;Spanish;$$;62 Charles St, New York, NY 10014, USA
+;891,000;;;;;;;;Sezz Medi';1260 Amsterdam Ave;Harlem;Mediterranean;$$;1260 Amsterdam Ave, New York, NY 10027, USA
+;892,000;;;;;;;;Sfoglia;1402 Lexington Avenue;Upper East Side;Italian;$$$$;1402 Lexington Ave, New York, NY 10128, USA
+;893,000;;;;;;;;Shaburi;125 E 39th St;Murray Hill;Japanese;$$$;125 E 39th St, New York, NY 10016, USA
+;894,000;;;;;;;;Shaffer City Oyster Bar & Grill;5 W 21st St;Flatiron;Seafood;$$$;5 W 21st St, New York, NY 10010, USA
+;895,000;;;;;;;;Shake Shack;366 Columbus Ave;Upper West Side;American;$$;366 Columbus Ave, New York, NY 10024, USA
+;896,000;;;;;;;;Shake Shack;11 Madison Ave;Flatiron;American;$$;11 Madison Ave, New York, NY 10010, United States
+;897,000;;;;;;;;Shula's Steak House;270 W 43rd St;Midtown West;American;$$$$;270 W 43rd St, New York, NY 10036, USA
+;901,000;;;;;;;;Sip Sak;928 Second Ave;Midtown East;Middle Eastern;$;928 2nd Ave, New York, NY 10022, USA
+;902,000;;;;;;;;Slane;102 MacDougal St;West Village;Irish;$$;102 MacDougal St, New York, NY 10012, USA
+;904,000;;;;;;;;Smorgas Chef;283 W. 12th St.;Scandinavian;----;;283 W 12th St, New York, NY 10014, USA
+;905,000;;;;;;;;Snack;105 Thompson St;SOHO;Greek;$;105 Thompson St, New York, NY 10012, USA
+;906,000;;;;;;;;Snack Taverna;63 Bedford St;West Village;Greek;$$;63 Bedford St, New York, NY 10014, USA
+;907,000;;;;;;;;Soba-Ya;229 E Ninth St;East Village;Asian;$;229 E 9th St, New York, NY 10003, USA
+;908,000;;;;;;;;Sofrito;400 E. 57th St.;Nuevo Latino;$$;;400 E 57th St, New York, NY 10022, USA
+;909,000;;;;;;;;Sol Y Sombra;462 Amsterdam Ave;Upper West Side;Spanish;$;462 Amsterdam Ave, New York, NY 10024, USA
+;911,000;;;;;;;;Son Cubano;361 Greenwich St;Meatpacking District;Cuban;$$$;361 Greenwich St, New York, NY 10013, USA
+;912,000;;;;;;;;Soto;357 Sixth;Greenwich Village;Sushi;$$$;357 6th Ave, New York, NY 10014, USA
+;913,000;;;;;;;;Soto;357 Sixth Avenue;Greenwich Village;Sushi;$$$$;357 6th Ave, New York, NY 10014, USA
+;914,000;;;;;;;;Southside Cafe;252 W 47th Street;Theater;Italian;$$;252 W 47th St, New York, NY 10036, USA
+;915,000;;;;;;;;Sparks Steak House;210 E 46th Street;Midtown East;Steakhouse;$$$;210 E 46th St, New York, NY 10017, USA
+;916,000;;;;;;;;Spice;1411 Second Ave;Upper East Side;Asian;$;1411 2nd Ave, New York, NY 10021, USA
+;917,000;;;;;;;;Spice;104 Second Ave.;East Village;Thai;$$;104 2nd Ave, New York, NY 10003, USA
+;918,000;;;;;;;;Spice Market;403 W 13th St;Meatpacking District;Malaysian;$$$;403 W 13th St, Benton, KY 42025, USA
+;919,000;;;;;;;;Spigolo;1561 Second Ave;Upper East Side;Italian;$$$;1561 2nd Ave, New York, NY 10028, USA
+;920,000;;;;;;;;Spotlight Live;1604 Broadway;Theater;American;$$$$;1604 Broadway, New York, NY 10019, USA
+;921,000;;;;;;;;Spotted Pig;The, 314 W 11th St;West Village;British;$$$;The, 314 W 11th St
+;922,000;;;;;;;;Spring St Natural Restaurant;62 Spring St;NoLita;Vegetarian;$;62 Spring St
+;923,000;;;;;;;;Stage Deli;834 Seventh Avenue;Midtown West;Deli;$;834 7th Ave, New York, NY 10019, USA
+;924,000;;;;;;;;Stand;24 E. 12th Street;Greenwich Village;American;$;24 E 12th St, New York, NY 10003, USA
+;926,000;;;;;;;;Stanton Social Club;99 Stanton Street;Small Plates;$$$;;99 Stanton St, New York, NY 10002, USA
+;928,000;;;;;;;;Stella Di Mare;346 Lexington Avenue;Murray Hill;Italian;$$$;346 Lexington Ave, New York, NY 10016, USA
+;929,000;;;;;;;;Stella Maris;213 Front St.;Financial District;European;$$;213 Front St, New York, NY 10038, USA
+;930,000;;;;;;;;Strip House;13 E 12th St;Greenwich Village;Steakhouse;$$$;13 E 12th St, New York, NY 10003, USA
+;931,000;;;;;;;;Suba;109 Ludlow St;Lower East Side;Spanish;$$$;109 Ludlow St, New York, NY 10002, USA
+;932,000;;;;;;;;Suenos;311 W 17th St;Chelsea;Mexican;$$$;311 W 17th St, New York, NY 10011, USA
+;933,000;;;;;;;;Sugiyama;251 W 55th St;Midtown West;Japanese;$$$$;251 W 55th St, New York, NY 10019, USA
+;934,000;;;;;;;;Sui;54 Spring Street;Lower East Side;Japanese;$$$;54 Spring St, New York, NY 10012, USA
+;935,000;;;;;;;;Supper;156 E Second St;East Village;Italian;$$;156 E 2nd St, New York, NY 10009, USA
+;936,000;;;;;;;;Surya;302 Bleecker St;West Village;Indian;$$;302 Bleecker St, New York, NY 10014, USA
+;937,000;;;;;;;;Sushi Of Gari;402 E 78th St;Upper East Side;Sushi;$$$$;402 E 78th St, New York, NY 10075, USA
+;938,000;;;;;;;;Sushi Samba;245 Park Ave South;Flatiron;Sushi;$$$;245 Park Ave S, New York, NY 10003, USA
+;939,000;;;;;;;;Sushi Seki;1143 1st Ave;Upper East Side;Sushi;$$$;1143 1st Avenue, New York, NY 10065, USA
+;940,000;;;;;;;;Sushi Yasuda;204 E 43rd St;Midtown East;Japanese;$$$$$;204 E 43rd St, New York, NY 10017, USA
+;941,000;;;;;;;;Sushi Zen;108 W 44th St;Midtown West;Sushi;$$$;108 W 44th St, New York, NY 10036, USA
+;942,000;;;;;;;;Sushisamba 7;87 Seventh Ave South;Greenwich Village;Sushi;$$$;87 7th Ave S, New York, NY 10014, USA
+;943,000;;;;;;;;Swagat Indian Cuisine;411a Amsterdam Ave;;;;411A Amsterdam Ave, New York, NY 10024, USA
+;944,000;;;;;;;;Swing 46;349 W. 46 St;Theater;American;$$$;349 W 46th St, New York, NY 10036, USA
+;945,000;;;;;;;;Swizz;310 W 53rd St;Midtown West;Swiss;$$;310 W 53rd St, New York, NY 10019, USA
+;946,000;;;;;;;;Tabla;11 Madison Ave;Gramercy Park;Indian;$$$$;11 Madison Ave, New York, NY 10010, United States
+;947,000;;;;;;;;Taboon;773 10th Ave;Midtown West;Mediterranean;$$$;773 10th Ave, New York, NY 10019, USA
+;948,000;;;;;;;;Tailor;525 Broome St.;;;;525 Broome St, New York, NY 10013, USA
+;949,000;;;;;;;;Takahachi Tribeca;145 Duane St;TriBeCa;Japanese;$$;145 Duane St, New York, NY 10013, USA
+;950,000;;;;;;;;Talay;701 W 135th St;Harlem;Thai;$$$;701 W 135th St, New York, NY 10031, USA
+;951,000;;;;;;;;Tamarind;41-43 E 22nd St;Flatiron;Indian;$$$;41 E 22nd St #43, New York, NY 10010, USA
+;952,000;;;;;;;;Tang Pavilion;65 W 55th St;Midtown West;Chinese;$$;65 W 55th St, New York, NY 10019, USA
+;954,000;;;;;;;;Taormina;147 Mulberry St;Little Italy;Italian;$$;147 Mulberry St
+;955,000;;;;;;;;Tartine;253 W 11th St;West Village;French;$;253 W 11th St, New York, NY 10014, USA
+;956,000;;;;;;;;Tasting Room;72 E First St;East Village;American;$$$;72 E 1st St, New York, NY 10003, USA
+;957,000;;;;;;;;Tavern on the Green;Central Park W.;;;;Central Park W.
+;958,000;;;;;;;;Tea & Sympathy;108 Greenwich Ave;West Village;British;$;108 Greenwich Ave, New York, NY 10011, USA
+;959,000;;;;;;;;Telepan;72 West 69th Street;Midtown West;American;$$$$;72 W 69th St, New York, NY 10023, USA
+;960,000;;;;;;;;Tello's;263 W 19th St;Chelsea;Italian;$$;263 W 19th St, New York, NY 10011, USA
+;961,000;;;;;;;;Tenzan;285 Columbus Ave;Upper West Side;Japanese;$$;285 Columbus Ave, Boston, MA 02116, United States
+;962,000;;;;;;;;Tenzan;988 Second Avenue;Midtown East;Sushi;$$$$;988 2nd Ave, New York, NY 10022, USA
+;963,000;;;;;;;;Tequila's Chito's Mexican Bar & Grill;358 W 23rd St;Chelsea;Mexican;$$;358 W 23rd St, New York, NY 10011, USA
+;964,000;;;;;;;;Teresa's;103 1st Ave;East Village;Polish;$;103 1st Avenue, New York, NY 10003, USA
+;966,000;;;;;;;;The American;235 Mulberry St.;NoLita;American;$;235 Mulberry St, New York, NY 10012, USA
+;967,000;;;;;;;;The Cafe Carlyle;35 E 76 St;;;;E76, Italy
+;968,000;;;;;;;;The Cupping Room Cafe;359 West Broadway;;;;359 W Broadway, New York, NY 10013, USA
+;969,000;;;;;;;;The Four Seasons;99 E 52nd St;Midtown East;Continental;$$$$;99 E 52nd St, New York, NY 10022, USA
+;970,000;;;;;;;;The Harrison;355 Greenwich St;TriBeCa;American;$$$;355 Greenwich St, New York, NY 10013, USA
+;971,000;;;;;;;;The House;121 E. 17th Street;Gramercy Park;Mediterranean;$$$$;121 E 17th St, New York, NY 10003, USA
+;972,000;;;;;;;;The Mezzanine Restaurant;235 W 46th Street;Theater;Mediterranean;$$;235 W 46th St, New York, NY 10036, USA
+;973,000;;;;;;;;The Modern;9 W 53rd St;Midtown West;American;$$$$;9 W 53rd St, New York, NY 10019, USA
+;974,000;;;;;;;;The New French;522 Hudson St;Greenwich Village;French;$$$;522 Hudson St, Hoboken, NJ 07030, USA
+;975,000;;;;;;;;The Pink Tea Cup;42 Grove St;West Village;Southern;$;42 Grove St, New York, NY 10014, USA
+;976,000;;;;;;;;The Place;310 W Fourth St;West Village;American;$$$;310 West 4th Street, New York, NY 10014, USA
+;977,000;;;;;;;;The Place on West 10th;142 W 10th St;Greenwich Village;American;$$$;142 W 10th St, New York, NY 10014, USA
+;978,000;;;;;;;;The Pump Energy Food;275 Madison Ave.;;;;275 Madison Ave, New York, NY 10016, USA
+;979,000;;;;;;;;The Redhead;349 E. 13th Street;East Village;American;$$$;349 E 13th St, New York, NY 10003, USA
+;980,000;;;;;;;;The Sunburnt Cow;137 Avenue C;East Village;Australian;$;137 Loisaida Ave, New York, NY 10009, USA
+;981,000;;;;;;;;Thor;Hotel on Rivington;Lower East Side;American;$$$$;Hotel on Rivington
+;982,000;;;;;;;;Three Of Cups;83 First Ave;East Village;Italian;$;83 First Ave, Marsden QLD 4132, Australia
+;983,000;;;;;;;;Tia Pol;205 Tenth Ave;Chelsea;Spanish;$$;205 Tenth Ave
+;985,000;;;;;;;;Tomo;2850 Broadway;Harlem;Sushi;$;2850 Broadway, New York, NY 10025, USA
+;986,000;;;;;;;;Tomoe Sushi;172 Thompson St;Greenwich Village;Sushi;$$;172 Thompson St, New York, NY 10012, USA
+;987,000;;;;;;;;Tong;39 E. 13th St.;Thai;$$$;;39 E 13th St, New York, NY 10003, USA
+;988,000;;;;;;;;Tony's Di Napoli;1606 2nd Avenue;;;;1606 2nd Avenue
+;989,000;;;;;;;;Town;Chambers Hotel, 15 West 56th St;Midtown West;American;$$$$;15 W 56th St, New York, NY 10019, United States
+;990,000;;;;;;;;Trattoria Dell'Arte;900 Seventh Ave;Midtown West;Italian;$$$;900 7th Ave, New York, NY 10019, USA
+;992,000;;;;;;;;Triomphe;49 West 44th Street;Midtown West;French;$$$$;49 W 44th St, New York, NY 10036, USA
+;993,000;;;;;;;;Troy Turkish Grill;539 9th Ave;Midtown West;Turkish;$;539 9th Ave
+;994,000;;;;;;;;Tsampa;212 E Ninth St;East Village;Southeast Asian;$;212 E 9th St, New York, NY 10003, USA
+;995,000;;;;;;;;Tse Yang;34 East 51st Street;Midtown East;Chinese;$$$;34 E 51st St, New York, NY 10022, USA
+;996,000;;;;;;;;Turkish Cuisine;631 9th Ave;Midtown West;Middle Eastern;$$;631 9th Ave, New York, NY 10036, USA
+;997,000;;;;;;;;Turkish Kitchen;386 Third Ave;Midtown East;Turkish;$$$$;386 3rd Ave, New York, NY 10016, USA
+;998,000;;;;;;;;Turkuaz;2637 Broadway;Harlem;Middle Eastern;$$;2637 Broadway, New York, NY 10025, USA
+;999,000;;;;;;;;Tuscan Square;16 W 51st St;Midtown West;Italian;$$$;16 W 51st St, New York, NY 10111, USA
+;1000,000;;;;;;;;Two Boots Lower East Side;384 Grand Street;Lower East Side;Pizza;$;384 Grand St, New York, NY 10002, USA
+;1001,000;;;;;;;;Two Boots Rock Center;30 Rockefeller Plaza;Midtown West;Pizza;$;Rockefeller Plaza, New York, NY 10111, USA
+;1002,000;;;;;;;;Two Boots To Go;42 Avenue A;East Village;Pizza;$;42 Avenue A, New York, NY 10009, USA
+;1003,000;;;;;;;;Two Boots To Go Go;74 Bleecker Street;SOHO;Pizza;$;74 Bleecker St, Brooklyn, NY 11221, USA
+;1004,000;;;;;;;;Two Boots To Go West;201 West 11th Street;West Village;Pizza;$;201 W 11th St, New York, NY 10014, USA
+;1005,000;;;;;;;;Una Pizza Napoletana;349 E 12th St;East Village;Pizza;$;349 E 12th St, New York, NY 10003, USA
+;1008,000;;;;;;;;Union Square Cafe;21 E 16th St;Union Square;American;$$$$;21 E 16th St, New York, NY 10003, USA
+;1009,000;;;;;;;;Upstairs;130 W Broadway, 2nd Fl;TriBeCa;International;$$$;130 W Broadway 2nd Fl, Vancouver, BC V5Y 1P3, Canada
+;1011,000;;;;;;;;Uskudar Turkish Restaurantt;1405 Second Ave;Upper East Side;Middle Eastern;$$;1405 2nd Ave, New York, NY 10021, USA
+;1012,000;;;;;;;;Utsav;1185 Sixth Ave, 2nd Fl;Midtown West;Indian;$$$;1185 6th Ave 2nd Fl, New York, NY 10036, USA
+;1013,000;;;;;;;;Varietal;138 W. 25th Street;Chelsea;American;$$$$;138 W 25th St, New York, NY 10001, USA
+;1014,000;;;;;;;;Vatan;409 Third Ave;Gramercy Park;Indian;$$;409 3rd Ave, New York, NY 10016, USA
+;1015,000;;;;;;;;Veniero's;342 E 11th St;East Village;American;$;342 E 11th St, New York, NY 10003, USA
+;1016,000;;;;;;;;Vento;675 Hudson St;Meatpacking District;Italian;$$$;675 Hudson St, New York, NY 10014, USA
+;1017,000;;;;;;;;Veritas;43 E 20th St;Union Square;American;$$$$;43 E 20th St, New York, NY 10003, USA
+;1018,000;;;;;;;;Veselka Restaurant;144 2nd Ave;East Village;American;$;144 2nd Ave, New York, NY 10003, USA
+;1019,000;;;;;;;;Vespa Cibobouno;1625 Second Ave;;;;1625 2nd Ave, New York, NY 10028, USA
+;1021,000;;;;;;;;Viceversa;325 W 51st St;Midtown West;Italian;$$$$;325 W 51st St, New York, NY 10019, USA
+;1022,000;;;;;;;;Vico Ristorante;1302 Madison Ave;Upper East Side;Italian;$$$;1302 Madison Ave, New York, NY 10128, USA
+;1024,000;;;;;;;;Villa Mosconi Restaurant;69 Macdougal St;Greenwich Village;Italian;$$$;69 MacDougal St, New York, NY 10012, USA
+;1025,000;;;;;;;;Village;62 W Ninth St;Greenwich Village;French;$$$;62 W 9th St, New York, NY 10011, USA
+;1026,000;;;;;;;;Vincent's Restaurant;119 Mott St;Little Italy;Italian;$$;119 Mott St, New York, NY 10013, USA
+;1027,000;;;;;;;;Vintage Irving;118A E. 15th St.;Union Square;Small Plates;$$$;118A E 15th St, New York, NY 10003, USA
+;1030,000;;;;;;;;Walker's;16 N Moore St;TriBeCa;American;$;16 N Moore St, New York, NY 10013, USA
+;1031,000;;;;;;;;Wallse;344 W 11th St;West Village;Austrian;$$$$;344 W 11th St, New York, NY 10014, USA
+;1032,000;;;;;;;;Wd-50;50 Clinton St;Murray Hill;American;$$$$;50 Clinton St, New York, NY 10002, USA
+;1033,000;;;;;;;;Westville;210 W 10th St;West Village;American;$;210 W 10th St, New York, NY 10014, USA
+;1034,000;;;;;;;;Westville East;173 Ave. A;East Village;American;$;173 Avenue A, New York, NY 10009, USA
+;1035,000;;;;;;;;Whym;889 Ninth Ave.;;;;889 9th Ave, New York, NY 10019, USA
+;1036,000;;;;;;;;Wichcraft;397 Greenwich St;TriBeCa;American;$;397 Greenwich St
+;1037,000;;;;;;;;Wild Ginger;51 Grove St.;Thai;$$$;;51 Grove St, New York, NY 10014, USA
+;1038,000;;;;;;;;Wildwood BBQ;225 Park Avenue South;Gramercy Park;Barbecue;$$$;225 Park Avenue South
+;1039,000;;;;;;;;Wo Hop Restaurant;17 Mott St;;;;17 Mott St, New York, NY 10013, USA
+;1040,000;;;;;;;;Wogies Restaurant;39 Greenwich Ave;West Village;American;$;39 Greenwich Ave, New York, NY 10014, USA
+;1041,000;;;;;;;;Wolfgang's Steakhouse;4 Park Avenue;Murray Hill;Steakhouse;$$$$;Park Ave, United States
+;1042,000;;;;;;;;Wollensky's Grill;205 East 49th Street;Midtown East;American;$$$;205 E 49th St, Savannah, GA 31405, USA
+;1043,000;;;;;;;;Won Jo;23 W 32nd St;Midtown West;Korean;$$;23 W 32nd St, New York, NY 10001, USA
+;1044,000;;;;;;;;Woo Lae Oak;148 Mercer St;SOHO;Korean;$$$;148 Mercer St, New York, NY 10012, USA
+;1045,000;;;;;;;;Xing;785 Ninth Ave;Midtown West;Asian;$$$;785 9th Ave, New York, NY 10019, USA
+;1046,000;;;;;;;;Xunta;174 First Ave;East Village;Spanish;$;174 1st Avenue, New York, NY 10009, USA
+;1047,000;;;;;;;;Yakitori Totto;251 W. 55th St., 2nd fl;Midtown West;Japanese;$$$;251 W 55th St 2nd fl, New York, NY 10019, USA
+;1048,000;;;;;;;;Yama;38-40 Carmine St;Midtown East;Sushi;$$;38-40 Carmine St, New York, NY 10014, USA
+;1049,000;;;;;;;;Yozakura Kushiyaki Bar;168 Ludlow St;Lower East Side;Japanese;$;168 Ludlow St, New York, NY 10002, USA
+;1050,000;;;;;;;;Yuca Bar;111 Ave A;East Village;Nuevo Latino;$;111 Avenue A, New York, NY 10009, USA
+;1051,000;;;;;;;;Yuka;1557 2nd Ave;;;;1557 2nd Ave, New York, NY 10028, USA
+;1052,000;;;;;;;;Yuki Sushi;656 Amsterdam Ave;Upper West Side;Sushi;$;656 Amsterdam Ave, New York, NY 10025, USA
+;1053,000;;;;;;;;Za3calo;174 E 82nd St;Upper East Side;Mexican;$$;174 E 82nd St, New York, NY 10028, USA
+;1054,000;;;;;;;;Zabar's Cafe;2245 Broadway;Upper West Side;Deli;$;2245 Broadway, New York, NY 10024, USA
+;1056,000;;;;;;;;Zebu Grill;305 E 92nd St;Upper East Side;South American;$$;305 E 92nd St, New York, NY 10128, USA
+;1057,000;;;;;;;;Zen Palate;34 East Union Sq;Union Square;Vegetarian;$;34 Union Square E, New York, NY 10003, USA
+;1059,000;;;;;;;;Zeytin;519 Columbus Ave;Upper West Side;Turkish;$$;519 Columbus Ave, New York, NY 10024, USA
+;1060,000;;;;;;;;Zoe;90 Prince St;SOHO;American;$$$;90 Prince St, New York, NY 10012, USA
+;1061,000;;;;;;;;Zoma;2084 Frederick Douglass Blvd.;Harlem;Ethiopian;$$;2084 Frederick Douglass Blvd, New York, NY 10026, USA
+;1063,000;;;;;;;;Zum Schneider;107 Ave C;East Village;German;$;107 Loisaida Ave, New York, NY 10009, USA
+;1064,000;;;;;;;;Zuni;598 Ninth Ave;Theater;American;$$;598 9th Ave, New York, NY 10036, USA
+;1065,000;;;;;;;;Zutto;77 Hudson Street;TriBeCa;Sushi;$$;77 Hudson Street
+;1067,000;;;;;;;;earth NYC;116a 10th Avenue;Chelsea;Asian;$$;116a 10th Avenue
+;1068,000;;;;;;;;p*ong;150 W. 10th Street;Greenwich Village;Dessert;$$;150 W 10th St, New York, NY 10014, USA
