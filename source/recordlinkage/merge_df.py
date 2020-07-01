@@ -90,7 +90,7 @@ def firstDFgenerator():
 
     df.index = new_index
 
-    df.to_csv("./data/restaurants_integrated/output/prova_deduplication.csv", header=True, sep=";", decimal=',', float_format='%.3f', index=False)
+    df.to_csv("./data/restaurants_integrated/output_recordlinkage/prova_deduplication.csv", header=True, sep=";", decimal=',', float_format='%.3f', index=False)
     return df
     
 def secondDFgenerator():
@@ -143,7 +143,7 @@ def secondDFgenerator():
         new_index.append(i)
 
     df.index = new_index
-    df.to_csv("./data/restaurants_integrated/output/temp_df.csv", header=True, sep=";", decimal=',', float_format='%.3f', index=False)
+    df.to_csv("./data/restaurants_integrated/output_recordlinkage/temp_df.csv", header=True, sep=";", decimal=',', float_format='%.3f', index=False)
      
     # DEDUPLICATION
    
@@ -166,7 +166,7 @@ def secondDFgenerator():
     final_merge.dropna(axis='columns', inplace=True, how = 'all') #rimuovo solo colonne tutte NaN
     final_merge.drop(columns = ['ristorante', 'indirizzo','Score'], inplace=True) # so che sono 1 1 2
     
-    final_merge.to_csv("./data/restaurants_integrated/output/final_merge_df2.csv", header=True, sep=";", decimal=',', float_format='%.3f', index=False)
+    final_merge.to_csv("./data/restaurants_integrated/output_recordlinkage/final_merge_df2.csv", header=True, sep=";", decimal=',', float_format='%.3f', index=False)
     
     final_list = []
     all_indexes = []
@@ -210,7 +210,7 @@ def secondDFgenerator():
 
     df.index = new_index
     
-    df.to_csv("./data/restaurants_integrated/output/prova_deduplication_2.csv", header=True, sep=";", decimal=',', float_format='%.3f', index=False)
+    df.to_csv("./data/restaurants_integrated/output_recordlinkage/prova_deduplication_2.csv", header=True, sep=";", decimal=',', float_format='%.3f', index=False)
     return df
 
 def main():

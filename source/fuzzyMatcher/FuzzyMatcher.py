@@ -21,7 +21,7 @@ def test_fuzzy_left_join():
 	pd.set_option('display.max_columns', None)
 	'''
 
-	ons = pd.read_csv("../../data/restaurants/grouped_by_restaurant/ActiveDiner.txt",
+	ons = pd.read_csv("./data/restaurants/grouped_by_restaurant/ActiveDiner.txt",
 						sep='\t',
 						names=["Fonte", "Ristorante", "Indirizzo"],
 						converters = {
@@ -29,7 +29,7 @@ def test_fuzzy_left_join():
 							'Ristorante' : strip,
 							'Indirizzo' : strip})
 
-	os = pd.read_csv("../../data/restaurants/grouped_by_restaurant/DiningGuide.txt",
+	os = pd.read_csv("./data/restaurants/grouped_by_restaurant/DiningGuide.txt",
 						sep='\t',
 						names=["Fonte2", "Ristorante2", "Indirizzo2"],
 						converters = {
@@ -47,7 +47,7 @@ def test_fuzzy_left_join():
 	rename = {"best_match_score": "Score"}
 	df_joined = df_joined.rename(columns=rename)
 	df_joined = df_joined.sort_values("Score", ascending=False)
-	df_joined.to_csv('test_OKAMI.csv', header=True, sep=";", decimal=',', float_format='%.3f')
+	df_joined.to_csv('./data/restaurants_integrated/output_fuzzyMatcher/results.csv', header=True, sep=";", decimal=',', float_format='%.3f')
 
 	col_order = ["Score", "Ristorante", "Ristorante2", "Indirizzo", "Indirizzo2"]
 	print(df_joined[col_order].sample(10))
@@ -56,7 +56,6 @@ def test_fuzzy_left_join():
 	correct_binary = (df_joined["Ristorante"] == df_joined["Ristorante2"])
 	perc_correct = correct_binary.sum()/num_records
 
-	pdb.set_trace()
 	print("The percentage of name restaurants correctly matched was {:,.1f}%".format(perc_correct*100))
 
 if __name__ == "__main__":
