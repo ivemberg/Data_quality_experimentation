@@ -1,104 +1,104 @@
-level_0;level_1;restaurant_x;address_x;country_x;neighborhood_x;type_x;phone_x;restaurant_y;address_y;country_y;neighborhood_y;type_y;phone_y
-3258;172;Ayurveda Cafe;706 Amsterdam Avenue Frnt;New York;;;;Ayurveda Café; 706 Amsterdam Ave-at 94th St;New York;Upper West Side;Indian;(212-932-2400)
-8206;5948;Lucky Cheng's;24 First Avenue;;;;;Lucky Chengs;24 First Avenue;New York;;;
-8230;6227;Mindy's Restaurant;212 East 42nd Street;;;;;Mindys Restaurant;212 E 42nd St;New York;;;
-8236;6354;Nacho Mama's Burritos;2867 Broadway;;;;;Nacho Mamas Burritos;2893 Broadway;New York;;;
-8551;166;Aurora SoHo;510 Broome St-Btwn Thompson St & W Broadway;;;;;Aurora Soho; 510 Broome St-between Thompson St and West Broadway;New York;Soho;Italian;(212-334-9020)
-8772;371;Brasserie AthenÃ©e;300 W 46th St-At 8th Ave;;;;;Brasserie Athenée; 300 W 46th St-at Eighth Ave;New York;Midtown West;French;(212-399-1100)
-8934;505;Capri Cafe;165 Church St-Btwn Chambers & Reade St;;;;;Capri Caffe; 165 Church St-between Chambers and Reade Sts;New York;Tribeca;Italian;(212-513-1358)
-9076;601;CiaoBella;1640 2nd Ave-At 85th St;;;;;Ciaobella; 1640 Second Ave-at 85th St;New York;Upper East Side;Italian;(212-794-8560)
-9194;673;Cubana Cafe;110 Thompson St-Btwn Prince & Spring St;;;;;Cubana Café; 110 Thompson St-between Prince and Spring Sts;New York;Soho;Caribbean: Cuban;(212-966-5366)
-9445;827;Elaine's;1703 2nd Ave-Btwn 88th & 89th St;;;;;Elaine’s; 1703 Second Ave-between 88th and 89th Sts;New York;Upper East Side;Italian;(212-534-8103)
-9574;891;Finnegan's Wake;1361 1st Ave-At 73rd St;;;;;Finnegans Wake; 1361 First Ave-at 73rd St;New York;Upper East Side;British & Irish;(212-737-3664)
-9596;4929;Flight 15;1151 8th Ave-;;;;;Flight 151;151 8th Ave;New York;;;
-9651;946;Friend of A Farmer;77 Irving Pl-Btwn 18th & 19th St;;;;;Friend of a Farmer; 77 Irving Pl-between 18th and 19th Sts;New York;Gramercy/Flatiron;American;(212-477-2188)
-9724;975;Georgia's Eastside BBQ;192 Orchard St-Btwn Houston & Stanton St;;;;;Georgia’s Eastside BBQ; 192 Orchard St-between Houston and Stanton Sts;New York;Lower East Side;Barbeque;(212-253-6280)
-9732;981;Gigino Wagner Park;20 Battery Pl-At West St;;;;;Gigino at Wagner Park; 20 Battery Pl-at West St;New York;Financial District;Italian;(212-528-2228)
-10047;1164;Itzocan Cafe;438 E 9th St-Btwn 1st Ave & Ave A;;;;;Itzocan Café; 438 E 9th St-between First Ave and Ave A;New York;East Village;Mexican;(212-677-5856)
-10168;1232;Kaffe 166;8275 Greenwich St-;;;;;Kaffe 1668;275 Greenwich St -;New York;;;
-10411;1403;Lima's Taste;122 Christopher St-At Bedford St;;;;;Lima’s Taste; 122 Christopher St-at Bedford St;New York;West Village;Peruvian;(212-242-0010)
-10529;1479;Mamoun's Falafel;119 MacDougal St-Btwn Bleecker & W 3rd St;;;;;Mamoun’s Falafel; 119 MacDougal St-between Bleecker and W 3rd Sts;New York;Greenwich Village;Middle Eastern;(212-674-8685)
-10652;1551;Metro Marche;625 8th Ave-At 41st St;;;;;Metro Marché; 625 Eighth Ave-at 41st St;New York;Midtown West;French;(212-239-1010)
-10731;1590;Momofuku Ssam Bar;207 2nd Ave-At 13th St;;;;;Momofuku Ssäm Bar; 207 Second Ave-at 13th St;New York;East Village;Korean;(212-254-3500)
-10913;1682;Noah's Ark;399 Grand St-Btwn Clinton & Suffolk St;;;;;Noah’s Ark; 399 Grand St-between Clinton and Suffolk Sts;New York;Lower East Side;Kosher;(212-674-2200)
-10946;1708;Obika Mozzarella Bar;590 Madison Ave-At 57th St;;;;;Obikà Mozzarella Bar; 590 Madison Ave-at 56th St;New York;Midtown East;Italian;(212-355-2217)
-11124;1810;Peanut Butter & Co;240 Sullivan St-Btwn Bleecker St & W 3rd St;;;;;Peanut Butter & Co.; 240 Sullivan St-between Bleecker and W 3rd Sts;New York;Greenwich Village;American;(212-677-3995)
-11151;1833;Perry St;176 Perry St-At West St;;;;;Perry St.; 176 Perry St-at West St;New York;West Village;American;(212-352-1900)
-11163;1843;Petrossian Boutique & Cafe;911 7th Ave-Btwn 57th & 58th St;;;;;Petrossian Boutique & Café; 911 Seventh Ave-between 57th and 58th Sts;New York;Midtown West;Russian;(212-245-2217)
-11168;1848;Philly Slim's Cheesesteaks;789 9th Ave-Btwn 52nd & 53rd St;;;;;Philly Slim’s Cheesesteaks; 789 Ninth Ave-between 52nd and 53rd Sts;New York;Midtown West;American;(212-333-3042)
-11507;2022;Sachiko's on Clinton;25 Clinton St-Btwn Houston & Stanton St;;;;;Sachiko’s on Clinton; 25 Clinton St-between Houston and Stanton Sts;New York;Lower East Side;Japanese;(212-253-2900)
-11590;2085;Schiller's Liquor Bar;131 Rivington St-At Norfolk St;;;;;Schiller’s Liquor Bar; 131 Rivington St-at Norfolk St;New York;Lower East Side;Eclectic;(212-260-4555)
-11774;2205;Spitzer's Corner;101 Rivington St-At Ludlow St;;;;;Spitzer’s Corner; 101 Rivington St-at Ludlow St;New York;Lower East Side;American;(212-228-0027)
-11777;2213;St. Dymphna's;118 St Marks Pl-Btwn Ave A & 1st Av;;;;;St. Dymphna’s; 118 St Marks Pl-between Ave A and First Ave;New York;East Village;British & Irish;(212-254-6636)
-11882;2260;Sweet Emily's;321 W 51st St-;;;;;Sweet Emily’s;321 W 51st St -;New York;;;
-11887;2264;Swifty's;1007 Lexington Ave-Btwn 72nd & 73rd St;;;;;Swifty’s; 1007 Lexington Ave-between 72nd and 73rd Sts;New York;Upper East Side;American;(212-535-6000)
-12155;2430;Tiny's Giant Sandwich Shop;129 Rivington St-At Norfolk St;;;;;Tiny’s Giant Sandwich Shop; 129 Rivington St-at Norfolk St;New York;Lower East Side;Cafés;(212-982-1690)
-12270;2491;Umbertos Clam House;386 Broome St-Btwn Mott & Mulberry St;;;;;Umberto’s Clam House; 386 Broome St-at Mulberry St;New York;Chinatown/Little Italy;Italian;(212-431-7545)
-12436;2579;Wogies Bar & Grill;39 Greenwich Ave-At Charles St;;;;;Wogie’s Bar & Grill; 39 Greenwich Ave-at Charles St;New York;West Village;American;(212-229-2171)
-12686;3117;Angon On The Sixth;320 East 6th Street;New York, NY, 10003;;;;Angon On the Sixth;320 East 6th Street Frnt;New York;;;
-12692;3148;Apple Restaurant & Bom Bar;17 Waverly Place;New York, NY, 10003;;;;Apple Restaurant & Bombar;17 Waverly Pl;New York;;;
-12744;3384;Basilica Restaurant;676 9th Avenue;New York, NY, 10036;;;;Basilico Restaurant;676 9th Avenue;New York;;;
-12757;271;Bennies Thai Cafe;88 Fulton Street at Gold Street;New York, NY, 10038;;;;Bennie’s Thai Cafe; 88 Fulton St-at Gold St;New York;Financial District;Thai;(212-587-8930)
-12881;4315;Chop't Creative Salad;60 East 56th Street;New York, NY, 10022;;;;Chop't Creative Salad CO;24 East 17th Street;New York;;;
-12997;4763;El Rey De La Caridad Restaurant;973 Amsterdam Avenue;New York, NY, 10025;;;;El Rey De La Caridad Restaurnt;973 Amsterdam Ave;New York;;;
-13018;876;Fanelli's Cafe;94 Prince Street at Mercer Street;New York, NY, 10012;;;;Fanelli’s Cafe; 94 Prince St-at Mercer St;New York;Soho;American;(212-226-9412)
-13018;9542;Fanelli's Cafe;94 Prince Street at Mercer Street;New York, NY, 10012;;;;Fanelli Cafe;94 Prince St-At Mercer St;;;;
-13123;5218;Hapon Japanese Restaurant;211 East 43rd Street;New York, NY, 10017;;;;Hapon Japannese Restaurant;211 E 43rd St;New York;;;
-13132;8161;Havana Alma De Cuba;94 Christopher Street;New York, NY, 10014;;;;Havana Alma de Cuba;94 Christopher Street;;;;
-13142;5297;Holy Basil Thai Bar & Restaurant;149 2nd Avenue;New York, NY, 10003;;;;Holy Basil Thai Bar & Rstrnt;149 2nd Ave;New York;;;
-13273;5766;La Paloma Burritors;359 West 45th Street;New York, NY, 10036;;;;La Paloma Burritos;359 W 45th St # 1;New York;;;
-13414;6357;Nadine's Restaurant;99 Bank Street;New York, NY, 10014;;;;Nadines Restaurant;99 Bank St;New York;;;
-13670;7124;Scotty's Diner;336 Lexington Avenue;New York, NY, 10016;;;;Scottys Diner;336 Lexington Ave;New York;;;
-13730;7285;Spanish Tavern;203 West 38th Street;New York, NY, 10018;;;;Spanish Taverna;203 W 38th St;New York;;;
-13763;7394;Sylvia's Restaurant;328 Lenox Avenue;New York, NY, 10027;;;;Sylvias Restaurant;328 Lenox Ave;New York;;;
-13801;7510;Thai Chai Yo;233 9th Avenue;New York, NY, 10001;;;;Thai Chai-Yo;233 9th Avenue;New York;;;
-13915;7803;Westside Coffee Shop;323 Church Street;New York, NY, 10013;;;;Westside Coffee Shop Ii;323 Church St;New York;;;
-13986;2937;Acapella;1 Hudson St.;New York;Little Italy;;;Acappella;1 Hudson Street;New York;;;
-14042;4457;Coppola's East;378 3rd Ave.;New York;Murray Hill;;;Coppolas East;378 3rd Ave;New York;;;
-14174;13427;New Naima Kada;124 Lexington Avenue;New York;Murray Hill;;;New Naimat Kada;124 Lexington Avenue;New York, NY, 10016;;;
-14215;13604;Rice 'N Beans;744 9th Ave.;New York;West 50s;;;Rice 'N' Beans;744 9th Avenue;New York, NY, 10019;;;
-29;28;99c Fresh Pizza; 569 Ninth Ave-at 41st St;New York;Midtown West;Italian;(212-268-1461);99? Fresh Pizza; 569 Ninth Ave-at 41st St;New York;Midtown West;Italian;(212-268-1461)
-644;643;Cornelia Street Café; 29 Cornelia St-between Bleecker and W 4th Sts;New York;Greenwich Village;American;(212-989-9319);Cornelia Street Cafe; 29 Cornelia St-between Bleecker and W 4th Sts;New York;West Village;American;(212-989-9319)
-709;708;Dave & Buster’s; 234 W 42nd St-between Seventh and Eighth Aves;New York;Midtown West;American;(646-495-2015);Dave & Buster's; 234 W 42nd St-between Seventh and Eighth Aves;New York;Midtown West;American;
-933;932;Frederick’s on Madison; 768 Madison Ave-between 65th and 66th Sts;New York;Upper East Side;French;(212-737-7300);Frederick’s Madison; 768 Madison Ave-between 65th and 66th Sts;New York;Upper East Side;Mediterranean;(212-737-7300)
-1025;1024;Great Jones Café; 54 Great Jones St-between Bowery and Lafayette St;New York;East Village;American Regional;(212-674-9304);Great Jones Cafe; 54 Great Jones St-between Bowery and Lafayette St;New York;East Village;American Regional;(212-674-9304)
-1293;1292;KushiQ; 723 3rd Ave-between 45th & 46th Sts;New York;Midtown East;Japanese;(212-682-5814);Kushi-Q; 23 Third Ave-between 45th and 46th Sts;New York;Midtown East;Japanese;(212-682-5814)
-1553;1552;MetroCafé & Wine Bar; 32 E 21st St-between Broadway and Park Ave South;New York;Gramercy/Flatiron;American Creative;(212-353-0800);MetroCafe & Wine Bar; 32 E 21st St-between Broadway and Park Ave South;New York;Gramercy/Flatiron;American Creative;(212-353-0800)
-2587;2586;Wondee Siam III; 641 Tenth Ave-between 45th and 46th Sts;New York;Midtown West;Thai;(212-245-4601);Wondee Siam II; 813 Ninth Ave-between 53rd and 54th Sts;New York;Midtown West;Thai;(917-286-1726)
-3413;3412;Beefsteak Charlies;851 8th Ave;New York;;;;Beefsteak Charleys;713 8th Ave;New York;;;
-7790;7789;West 63rd Street Steakhouse;44 W 63rd St;New York;;;;West 63 Street Steak House;44 W 63rd St;New York;;;
-7823;7822;Willies Burgers;274 W 145th St;New York;;;;Willie Burger;381 W 125th St;New York;;;
-8194;5746;La Grolla Ristorante;413 Amsterdam Avenue;;;;;La Grolla Risoranti;413 Amsterdam Ave;New York;;;
-8373;8372;40 Club6;0W 25th St-;;;;;40 Club;6 W 25th St-;;;;
-8787;3706;Broadway Joe's Steakhouse;315 W 46th St-Btwn 8th & 9th Ave;;;;;Broadway Joe Steakhouse;315 W 46th St. (Bet. 8th & 9th Ave's);New York;;;
-9638;940;Fresco on the go;40 E 52nd St-Btwn Madison Ave & Park Ave;;;;;Fresco on the Go; 40 E 52nd St-between Madison and Park Aves;New York;Midtown East;Italian;(212-754-2700)
-9708;968;Gazala's Place;709 9th Ave-Btwn 48th & 49th St;;;;;Gazala Place; 709 Ninth Ave-between 48th and 49th Sts;New York;Midtown West;Middle Eastern;(212-245-0709)
-9731;978;Giardino D'oro;5 Gold St-Btwn Maiden Ln & Platt St;;;;;Giardino D'Oro; 5 Gold St-between Maiden Ln and Platt St;New York;Financial District;Italian;(212-514-6400)
-10329;1343;Land Northeast Thai;1565 2nd Ave-Btwn 81st & 82nd St;;;;;Land NorthEast Thai; 1565 Second Ave-between 81st and 82nd Sts;New York;Upper East Side;Thai;(212-439-1847)
-10601;1530;Max Soha;1262 Amsterdam Ave-At 123rd St;;;;;Max SoHa; 1274 Amsterdam Ave-at 123rd St;New York;Columbia University–City College;Italian;(212-531-2221)
-10976;10975;Ollie's29;57 Broadway-;;;;;Ollie's23;15 Broadway-;;;;
-11593;11592;Scores West Side;536 W 28th St-Btwn 10th & 11th Ave;;;;;Scores East Side;333 E 60th St-Btwn 1st & 2nd Ave;;;;
-12688;3119;Anitas Deli Grocery;180 Lexington Avenue;New York, NY, 10016;;;;Anitas Deli & Grocery;180 Lexington Avenue;New York;;;
-12695;3202;Arte Café;106 West 73rd Street;New York, NY, 10023;;;;Arte Cafe;106 W 73rd St;New York;;;
-12713;3268;Azuri Café;465 West 51st Street;New York, NY, 10019;;;;Azuri Cafe;465 W 51st St;New York;;;
-12733;3335;Bangkok Café;27 East 20th Street;New York, NY, 10003;;;;Bangkok Cafe;27 East 20th Street;New York;;;
-12754;3443;Ben Benson's Steakhouse;123 West 52nd Street;New York, NY, 10019;;;;Ben Benson's Steak House;123 W 52nd St;New York;;;
-12786;3713;Broncas Restaurant Tapas Bar;91 Christopher Street;New York, NY, 10014;;;;Broncas Restaurant And Tapas Bar;91 Christopher Street;;;;
-12801;12800;Burritoville 1487 (CLOSED);1487 2nd Avenue;New York, NY, 10021;;;;Burritoville 141 (CLOSED);141 2nd Avenue;New York, NY, 10003;;;
-12803;12802;Burritoville 166 (CLOSED);166 West 72nd Street;New York, NY, 10023;;;;Burritoville 152 (CLOSED);152 East 43rd Street;New York, NY, 10017;;;
-12804;12803;Burritoville 264 (CLOSED);264 West 23rd Street;New York, NY, 10011;;;;Burritoville 166 (CLOSED);166 West 72nd Street;New York, NY, 10023;;;
-12812;8049;Cafe D'Alsace;1695 2nd Avenue;New York, NY, 10128;;;;Cafe D' Alsace;1695 2nd Avenue;;;;
-13645;7065;Salud Restaurant Bar;142 Beekman Street;New York, NY, 10038;;;;Salud Restaurant & Bar;142 Beekman Street;New York;;;
-13732;7286;Sparks Steakhouse;210 East 46th Street;New York, NY, 10017;;;;Sparks Steak House;210 E 46th St;New York;;;
-13756;7382;Suteishi;24 Peck Slip;New York, NY, 10038;;;;SuteiShi;24 Peck Slip;New York;;;
-13799;7506;Texas Rotisserie Grill;94 Fulton Street;New York, NY, 10038;;;;Texas Rotisserie & Grill;94 Fulton St # 2;New York;;;
-13817;13816;The Comfort Diner;214 East 45th Street;New York, NY, 10017;;;;The Comfert Diner;142 East 86th Street;New York, NY, 10028;;;
-13848;8324;Tony's Burgers;34 East 32nd Street;New York, NY, 10016;;;;Tony's Burger;34 East 32nd Street;;;;
-13943;7909;Yoro Restaurant;106 Fulton Street;New York, NY, 10038;;;;Yoro Restarurant;106 Fulton St;New York;;;
-13947;13946;Yura & Co. on 93rd Street;1659 3rd Avenue;New York, NY, 10128;;;;Yura & Co. on 92nd Street;1645 3rd Avenue;New York, NY, 10128;;;
-14035;4183;Chelsea Bistro and Bar;358 W 23rd St.;New York;Chelsea;;;Chelsea Bistro & Bar;358 West 23rd Street;New York;;;
-14038;8070;China 1 Restaurant and Lounge;50 Avenue B;New York;East Village;;;China 1 Restaurant & Lounge;50 Avenue B;;;;
-14084;4950;Forlini’s Restaurant;93 Baxter St.;New York;Chinatown;;;Forlinis Restaurant;93 Baxter St;New York;;;
-14104;9877;Harlem Wing and Waffle;2394 Adam Clayton Powell Blvd.;New York;Harlem;;;Harlem Wing & Waffle;2394 Adam Clayton Powell Blvd-At 140th St;;;;
-14199;13500;Pars Grill House and Bar;249 W 26th St.;New York;Garment District;;;Pars Grill House & Bar;249 West 26th Street;New York, NY, 10001;;;
-14225;7167;Shanghai Café;100 Mott St.;New York;Chinatown;;;Shanghai Cafe;100 Mott St;New York;;;
+level_0;level_1;ristorante;indirizzo;Score;restaurant_x;address_x;country_x;neighborhood_x;type_x;phone_x;restaurant_y;address_y;country_y;neighborhood_y;type_y;phone_y
+3258;172;1,000;1,000;2,000;Ayurveda Cafe;706 Amsterdam Avenue Frnt;New York;;;;Ayurveda Café; 706 Amsterdam Ave-at 94th St;New York;Upper West Side;Indian;(212-932-2400)
+8206;5948;1,000;1,000;2,000;Lucky Cheng's;24 First Avenue;;;;;Lucky Chengs;24 First Avenue;New York;;;
+8230;6227;1,000;1,000;2,000;Mindy's Restaurant;212 East 42nd Street;;;;;Mindys Restaurant;212 E 42nd St;New York;;;
+8236;6354;1,000;1,000;2,000;Nacho Mama's Burritos;2867 Broadway;;;;;Nacho Mamas Burritos;2893 Broadway;New York;;;
+8551;166;1,000;1,000;2,000;Aurora SoHo;510 Broome St-Btwn Thompson St & W Broadway;;;;;Aurora Soho; 510 Broome St-between Thompson St and West Broadway;New York;Soho;Italian;(212-334-9020)
+8772;371;1,000;1,000;2,000;Brasserie AthenÃ©e;300 W 46th St-At 8th Ave;;;;;Brasserie Athenée; 300 W 46th St-at Eighth Ave;New York;Midtown West;French;(212-399-1100)
+8934;505;1,000;1,000;2,000;Capri Cafe;165 Church St-Btwn Chambers & Reade St;;;;;Capri Caffe; 165 Church St-between Chambers and Reade Sts;New York;Tribeca;Italian;(212-513-1358)
+9076;601;1,000;1,000;2,000;CiaoBella;1640 2nd Ave-At 85th St;;;;;Ciaobella; 1640 Second Ave-at 85th St;New York;Upper East Side;Italian;(212-794-8560)
+9194;673;1,000;1,000;2,000;Cubana Cafe;110 Thompson St-Btwn Prince & Spring St;;;;;Cubana Café; 110 Thompson St-between Prince and Spring Sts;New York;Soho;Caribbean: Cuban;(212-966-5366)
+9445;827;1,000;1,000;2,000;Elaine's;1703 2nd Ave-Btwn 88th & 89th St;;;;;Elaine’s; 1703 Second Ave-between 88th and 89th Sts;New York;Upper East Side;Italian;(212-534-8103)
+9574;891;1,000;1,000;2,000;Finnegan's Wake;1361 1st Ave-At 73rd St;;;;;Finnegans Wake; 1361 First Ave-at 73rd St;New York;Upper East Side;British & Irish;(212-737-3664)
+9596;4929;1,000;1,000;2,000;Flight 15;1151 8th Ave-;;;;;Flight 151;151 8th Ave;New York;;;
+9651;946;1,000;1,000;2,000;Friend of A Farmer;77 Irving Pl-Btwn 18th & 19th St;;;;;Friend of a Farmer; 77 Irving Pl-between 18th and 19th Sts;New York;Gramercy/Flatiron;American;(212-477-2188)
+9724;975;1,000;1,000;2,000;Georgia's Eastside BBQ;192 Orchard St-Btwn Houston & Stanton St;;;;;Georgia’s Eastside BBQ; 192 Orchard St-between Houston and Stanton Sts;New York;Lower East Side;Barbeque;(212-253-6280)
+9732;981;1,000;1,000;2,000;Gigino Wagner Park;20 Battery Pl-At West St;;;;;Gigino at Wagner Park; 20 Battery Pl-at West St;New York;Financial District;Italian;(212-528-2228)
+10047;1164;1,000;1,000;2,000;Itzocan Cafe;438 E 9th St-Btwn 1st Ave & Ave A;;;;;Itzocan Café; 438 E 9th St-between First Ave and Ave A;New York;East Village;Mexican;(212-677-5856)
+10168;1232;1,000;1,000;2,000;Kaffe 166;8275 Greenwich St-;;;;;Kaffe 1668;275 Greenwich St -;New York;;;
+10411;1403;1,000;1,000;2,000;Lima's Taste;122 Christopher St-At Bedford St;;;;;Lima’s Taste; 122 Christopher St-at Bedford St;New York;West Village;Peruvian;(212-242-0010)
+10529;1479;1,000;1,000;2,000;Mamoun's Falafel;119 MacDougal St-Btwn Bleecker & W 3rd St;;;;;Mamoun’s Falafel; 119 MacDougal St-between Bleecker and W 3rd Sts;New York;Greenwich Village;Middle Eastern;(212-674-8685)
+10652;1551;1,000;1,000;2,000;Metro Marche;625 8th Ave-At 41st St;;;;;Metro Marché; 625 Eighth Ave-at 41st St;New York;Midtown West;French;(212-239-1010)
+10731;1590;1,000;1,000;2,000;Momofuku Ssam Bar;207 2nd Ave-At 13th St;;;;;Momofuku Ssäm Bar; 207 Second Ave-at 13th St;New York;East Village;Korean;(212-254-3500)
+10913;1682;1,000;1,000;2,000;Noah's Ark;399 Grand St-Btwn Clinton & Suffolk St;;;;;Noah’s Ark; 399 Grand St-between Clinton and Suffolk Sts;New York;Lower East Side;Kosher;(212-674-2200)
+10946;1708;1,000;1,000;2,000;Obika Mozzarella Bar;590 Madison Ave-At 57th St;;;;;Obikà Mozzarella Bar; 590 Madison Ave-at 56th St;New York;Midtown East;Italian;(212-355-2217)
+11124;1810;1,000;1,000;2,000;Peanut Butter & Co;240 Sullivan St-Btwn Bleecker St & W 3rd St;;;;;Peanut Butter & Co.; 240 Sullivan St-between Bleecker and W 3rd Sts;New York;Greenwich Village;American;(212-677-3995)
+11151;1833;1,000;1,000;2,000;Perry St;176 Perry St-At West St;;;;;Perry St.; 176 Perry St-at West St;New York;West Village;American;(212-352-1900)
+11163;1843;1,000;1,000;2,000;Petrossian Boutique & Cafe;911 7th Ave-Btwn 57th & 58th St;;;;;Petrossian Boutique & Café; 911 Seventh Ave-between 57th and 58th Sts;New York;Midtown West;Russian;(212-245-2217)
+11168;1848;1,000;1,000;2,000;Philly Slim's Cheesesteaks;789 9th Ave-Btwn 52nd & 53rd St;;;;;Philly Slim’s Cheesesteaks; 789 Ninth Ave-between 52nd and 53rd Sts;New York;Midtown West;American;(212-333-3042)
+11507;2022;1,000;1,000;2,000;Sachiko's on Clinton;25 Clinton St-Btwn Houston & Stanton St;;;;;Sachiko’s on Clinton; 25 Clinton St-between Houston and Stanton Sts;New York;Lower East Side;Japanese;(212-253-2900)
+11590;2085;1,000;1,000;2,000;Schiller's Liquor Bar;131 Rivington St-At Norfolk St;;;;;Schiller’s Liquor Bar; 131 Rivington St-at Norfolk St;New York;Lower East Side;Eclectic;(212-260-4555)
+11774;2205;1,000;1,000;2,000;Spitzer's Corner;101 Rivington St-At Ludlow St;;;;;Spitzer’s Corner; 101 Rivington St-at Ludlow St;New York;Lower East Side;American;(212-228-0027)
+11777;2213;1,000;1,000;2,000;St. Dymphna's;118 St Marks Pl-Btwn Ave A & 1st Av;;;;;St. Dymphna’s; 118 St Marks Pl-between Ave A and First Ave;New York;East Village;British & Irish;(212-254-6636)
+11882;2260;1,000;1,000;2,000;Sweet Emily's;321 W 51st St-;;;;;Sweet Emily’s;321 W 51st St -;New York;;;
+11887;2264;1,000;1,000;2,000;Swifty's;1007 Lexington Ave-Btwn 72nd & 73rd St;;;;;Swifty’s; 1007 Lexington Ave-between 72nd and 73rd Sts;New York;Upper East Side;American;(212-535-6000)
+12155;2430;1,000;1,000;2,000;Tiny's Giant Sandwich Shop;129 Rivington St-At Norfolk St;;;;;Tiny’s Giant Sandwich Shop; 129 Rivington St-at Norfolk St;New York;Lower East Side;Cafés;(212-982-1690)
+12270;2491;1,000;1,000;2,000;Umbertos Clam House;386 Broome St-Btwn Mott & Mulberry St;;;;;Umberto’s Clam House; 386 Broome St-at Mulberry St;New York;Chinatown/Little Italy;Italian;(212-431-7545)
+12436;2579;1,000;1,000;2,000;Wogies Bar & Grill;39 Greenwich Ave-At Charles St;;;;;Wogie’s Bar & Grill; 39 Greenwich Ave-at Charles St;New York;West Village;American;(212-229-2171)
+12686;3117;1,000;1,000;2,000;Angon On The Sixth;320 East 6th Street;New York, NY, 10003;;;;Angon On the Sixth;320 East 6th Street Frnt;New York;;;
+12692;3148;1,000;1,000;2,000;Apple Restaurant & Bom Bar;17 Waverly Place;New York, NY, 10003;;;;Apple Restaurant & Bombar;17 Waverly Pl;New York;;;
+12744;3384;1,000;1,000;2,000;Basilica Restaurant;676 9th Avenue;New York, NY, 10036;;;;Basilico Restaurant;676 9th Avenue;New York;;;
+12757;271;1,000;1,000;2,000;Bennies Thai Cafe;88 Fulton Street at Gold Street;New York, NY, 10038;;;;Bennie’s Thai Cafe; 88 Fulton St-at Gold St;New York;Financial District;Thai;(212-587-8930)
+12881;4315;1,000;1,000;2,000;Chop't Creative Salad;60 East 56th Street;New York, NY, 10022;;;;Chop't Creative Salad CO;24 East 17th Street;New York;;;
+12997;4763;1,000;1,000;2,000;El Rey De La Caridad Restaurant;973 Amsterdam Avenue;New York, NY, 10025;;;;El Rey De La Caridad Restaurnt;973 Amsterdam Ave;New York;;;
+13018;876;1,000;1,000;2,000;Fanelli's Cafe;94 Prince Street at Mercer Street;New York, NY, 10012;;;;Fanelli’s Cafe; 94 Prince St-at Mercer St;New York;Soho;American;(212-226-9412)
+13018;9542;1,000;1,000;2,000;Fanelli's Cafe;94 Prince Street at Mercer Street;New York, NY, 10012;;;;Fanelli Cafe;94 Prince St-At Mercer St;;;;
+13123;5218;1,000;1,000;2,000;Hapon Japanese Restaurant;211 East 43rd Street;New York, NY, 10017;;;;Hapon Japannese Restaurant;211 E 43rd St;New York;;;
+13132;8161;1,000;1,000;2,000;Havana Alma De Cuba;94 Christopher Street;New York, NY, 10014;;;;Havana Alma de Cuba;94 Christopher Street;;;;
+13142;5297;1,000;1,000;2,000;Holy Basil Thai Bar & Restaurant;149 2nd Avenue;New York, NY, 10003;;;;Holy Basil Thai Bar & Rstrnt;149 2nd Ave;New York;;;
+13273;5766;1,000;1,000;2,000;La Paloma Burritors;359 West 45th Street;New York, NY, 10036;;;;La Paloma Burritos;359 W 45th St # 1;New York;;;
+13414;6357;1,000;1,000;2,000;Nadine's Restaurant;99 Bank Street;New York, NY, 10014;;;;Nadines Restaurant;99 Bank St;New York;;;
+13670;7124;1,000;1,000;2,000;Scotty's Diner;336 Lexington Avenue;New York, NY, 10016;;;;Scottys Diner;336 Lexington Ave;New York;;;
+13730;7285;1,000;1,000;2,000;Spanish Tavern;203 West 38th Street;New York, NY, 10018;;;;Spanish Taverna;203 W 38th St;New York;;;
+13763;7394;1,000;1,000;2,000;Sylvia's Restaurant;328 Lenox Avenue;New York, NY, 10027;;;;Sylvias Restaurant;328 Lenox Ave;New York;;;
+13801;7510;1,000;1,000;2,000;Thai Chai Yo;233 9th Avenue;New York, NY, 10001;;;;Thai Chai-Yo;233 9th Avenue;New York;;;
+13915;7803;1,000;1,000;2,000;Westside Coffee Shop;323 Church Street;New York, NY, 10013;;;;Westside Coffee Shop Ii;323 Church St;New York;;;
+13986;2937;1,000;1,000;2,000;Acapella;1 Hudson St.;New York;Little Italy;;;Acappella;1 Hudson Street;New York;;;
+14042;4457;1,000;1,000;2,000;Coppola's East;378 3rd Ave.;New York;Murray Hill;;;Coppolas East;378 3rd Ave;New York;;;
+14174;13427;1,000;1,000;2,000;New Naima Kada;124 Lexington Avenue;New York;Murray Hill;;;New Naimat Kada;124 Lexington Avenue;New York, NY, 10016;;;
+14215;13604;1,000;1,000;2,000;Rice 'N Beans;744 9th Ave.;New York;West 50s;;;Rice 'N' Beans;744 9th Avenue;New York, NY, 10019;;;
+29;28;1,000;1,000;2,000;99c Fresh Pizza; 569 Ninth Ave-at 41st St;New York;Midtown West;Italian;(212-268-1461);99? Fresh Pizza; 569 Ninth Ave-at 41st St;New York;Midtown West;Italian;(212-268-1461)
+644;643;1,000;1,000;2,000;Cornelia Street Café; 29 Cornelia St-between Bleecker and W 4th Sts;New York;Greenwich Village;American;(212-989-9319);Cornelia Street Cafe; 29 Cornelia St-between Bleecker and W 4th Sts;New York;West Village;American;(212-989-9319)
+709;708;1,000;1,000;2,000;Dave & Buster’s; 234 W 42nd St-between Seventh and Eighth Aves;New York;Midtown West;American;(646-495-2015);Dave & Buster's; 234 W 42nd St-between Seventh and Eighth Aves;New York;Midtown West;American;
+933;932;1,000;1,000;2,000;Frederick’s on Madison; 768 Madison Ave-between 65th and 66th Sts;New York;Upper East Side;French;(212-737-7300);Frederick’s Madison; 768 Madison Ave-between 65th and 66th Sts;New York;Upper East Side;Mediterranean;(212-737-7300)
+1025;1024;1,000;1,000;2,000;Great Jones Café; 54 Great Jones St-between Bowery and Lafayette St;New York;East Village;American Regional;(212-674-9304);Great Jones Cafe; 54 Great Jones St-between Bowery and Lafayette St;New York;East Village;American Regional;(212-674-9304)
+1293;1292;1,000;1,000;2,000;KushiQ; 723 3rd Ave-between 45th & 46th Sts;New York;Midtown East;Japanese;(212-682-5814);Kushi-Q; 23 Third Ave-between 45th and 46th Sts;New York;Midtown East;Japanese;(212-682-5814)
+1553;1552;1,000;1,000;2,000;MetroCafé & Wine Bar; 32 E 21st St-between Broadway and Park Ave South;New York;Gramercy/Flatiron;American Creative;(212-353-0800);MetroCafe & Wine Bar; 32 E 21st St-between Broadway and Park Ave South;New York;Gramercy/Flatiron;American Creative;(212-353-0800)
+2587;2586;1,000;1,000;2,000;Wondee Siam III; 641 Tenth Ave-between 45th and 46th Sts;New York;Midtown West;Thai;(212-245-4601);Wondee Siam II; 813 Ninth Ave-between 53rd and 54th Sts;New York;Midtown West;Thai;(917-286-1726)
+3413;3412;1,000;1,000;2,000;Beefsteak Charlies;851 8th Ave;New York;;;;Beefsteak Charleys;713 8th Ave;New York;;;
+7790;7789;1,000;1,000;2,000;West 63rd Street Steakhouse;44 W 63rd St;New York;;;;West 63 Street Steak House;44 W 63rd St;New York;;;
+7823;7822;1,000;1,000;2,000;Willies Burgers;274 W 145th St;New York;;;;Willie Burger;381 W 125th St;New York;;;
+8194;5746;1,000;1,000;2,000;La Grolla Ristorante;413 Amsterdam Avenue;;;;;La Grolla Risoranti;413 Amsterdam Ave;New York;;;
+8373;8372;1,000;1,000;2,000;40 Club6;0W 25th St-;;;;;40 Club;6 W 25th St-;;;;
+8787;3706;1,000;1,000;2,000;Broadway Joe's Steakhouse;315 W 46th St-Btwn 8th & 9th Ave;;;;;Broadway Joe Steakhouse;315 W 46th St. (Bet. 8th & 9th Ave's);New York;;;
+9638;940;1,000;1,000;2,000;Fresco on the go;40 E 52nd St-Btwn Madison Ave & Park Ave;;;;;Fresco on the Go; 40 E 52nd St-between Madison and Park Aves;New York;Midtown East;Italian;(212-754-2700)
+9708;968;1,000;1,000;2,000;Gazala's Place;709 9th Ave-Btwn 48th & 49th St;;;;;Gazala Place; 709 Ninth Ave-between 48th and 49th Sts;New York;Midtown West;Middle Eastern;(212-245-0709)
+9731;978;1,000;1,000;2,000;Giardino D'oro;5 Gold St-Btwn Maiden Ln & Platt St;;;;;Giardino D'Oro; 5 Gold St-between Maiden Ln and Platt St;New York;Financial District;Italian;(212-514-6400)
+10329;1343;1,000;1,000;2,000;Land Northeast Thai;1565 2nd Ave-Btwn 81st & 82nd St;;;;;Land NorthEast Thai; 1565 Second Ave-between 81st and 82nd Sts;New York;Upper East Side;Thai;(212-439-1847)
+10601;1530;1,000;1,000;2,000;Max Soha;1262 Amsterdam Ave-At 123rd St;;;;;Max SoHa; 1274 Amsterdam Ave-at 123rd St;New York;Columbia University–City College;Italian;(212-531-2221)
+10976;10975;1,000;1,000;2,000;Ollie's29;57 Broadway-;;;;;Ollie's23;15 Broadway-;;;;
+11593;11592;1,000;1,000;2,000;Scores West Side;536 W 28th St-Btwn 10th & 11th Ave;;;;;Scores East Side;333 E 60th St-Btwn 1st & 2nd Ave;;;;
+12688;3119;1,000;1,000;2,000;Anitas Deli Grocery;180 Lexington Avenue;New York, NY, 10016;;;;Anitas Deli & Grocery;180 Lexington Avenue;New York;;;
+12695;3202;1,000;1,000;2,000;Arte Café;106 West 73rd Street;New York, NY, 10023;;;;Arte Cafe;106 W 73rd St;New York;;;
+12713;3268;1,000;1,000;2,000;Azuri Café;465 West 51st Street;New York, NY, 10019;;;;Azuri Cafe;465 W 51st St;New York;;;
+12733;3335;1,000;1,000;2,000;Bangkok Café;27 East 20th Street;New York, NY, 10003;;;;Bangkok Cafe;27 East 20th Street;New York;;;
+12754;3443;1,000;1,000;2,000;Ben Benson's Steakhouse;123 West 52nd Street;New York, NY, 10019;;;;Ben Benson's Steak House;123 W 52nd St;New York;;;
+12786;3713;1,000;1,000;2,000;Broncas Restaurant Tapas Bar;91 Christopher Street;New York, NY, 10014;;;;Broncas Restaurant And Tapas Bar;91 Christopher Street;;;;
+12801;12800;1,000;1,000;2,000;Burritoville 1487 (CLOSED);1487 2nd Avenue;New York, NY, 10021;;;;Burritoville 141 (CLOSED);141 2nd Avenue;New York, NY, 10003;;;
+12803;12802;1,000;1,000;2,000;Burritoville 166 (CLOSED);166 West 72nd Street;New York, NY, 10023;;;;Burritoville 152 (CLOSED);152 East 43rd Street;New York, NY, 10017;;;
+12804;12803;1,000;1,000;2,000;Burritoville 264 (CLOSED);264 West 23rd Street;New York, NY, 10011;;;;Burritoville 166 (CLOSED);166 West 72nd Street;New York, NY, 10023;;;
+12812;8049;1,000;1,000;2,000;Cafe D'Alsace;1695 2nd Avenue;New York, NY, 10128;;;;Cafe D' Alsace;1695 2nd Avenue;;;;
+13645;7065;1,000;1,000;2,000;Salud Restaurant Bar;142 Beekman Street;New York, NY, 10038;;;;Salud Restaurant & Bar;142 Beekman Street;New York;;;
+13732;7286;1,000;1,000;2,000;Sparks Steakhouse;210 East 46th Street;New York, NY, 10017;;;;Sparks Steak House;210 E 46th St;New York;;;
+13756;7382;1,000;1,000;2,000;Suteishi;24 Peck Slip;New York, NY, 10038;;;;SuteiShi;24 Peck Slip;New York;;;
+13799;7506;1,000;1,000;2,000;Texas Rotisserie Grill;94 Fulton Street;New York, NY, 10038;;;;Texas Rotisserie & Grill;94 Fulton St # 2;New York;;;
+13817;13816;1,000;1,000;2,000;The Comfort Diner;214 East 45th Street;New York, NY, 10017;;;;The Comfert Diner;142 East 86th Street;New York, NY, 10028;;;
+13848;8324;1,000;1,000;2,000;Tony's Burgers;34 East 32nd Street;New York, NY, 10016;;;;Tony's Burger;34 East 32nd Street;;;;
+13943;7909;1,000;1,000;2,000;Yoro Restaurant;106 Fulton Street;New York, NY, 10038;;;;Yoro Restarurant;106 Fulton St;New York;;;
+13947;13946;1,000;1,000;2,000;Yura & Co. on 93rd Street;1659 3rd Avenue;New York, NY, 10128;;;;Yura & Co. on 92nd Street;1645 3rd Avenue;New York, NY, 10128;;;
+14035;4183;1,000;1,000;2,000;Chelsea Bistro and Bar;358 W 23rd St.;New York;Chelsea;;;Chelsea Bistro & Bar;358 West 23rd Street;New York;;;
+14038;8070;1,000;1,000;2,000;China 1 Restaurant and Lounge;50 Avenue B;New York;East Village;;;China 1 Restaurant & Lounge;50 Avenue B;;;;
+14084;4950;1,000;1,000;2,000;Forlini’s Restaurant;93 Baxter St.;New York;Chinatown;;;Forlinis Restaurant;93 Baxter St;New York;;;
+14104;9877;1,000;1,000;2,000;Harlem Wing and Waffle;2394 Adam Clayton Powell Blvd.;New York;Harlem;;;Harlem Wing & Waffle;2394 Adam Clayton Powell Blvd-At 140th St;;;;
+14199;13500;1,000;1,000;2,000;Pars Grill House and Bar;249 W 26th St.;New York;Garment District;;;Pars Grill House & Bar;249 West 26th Street;New York, NY, 10001;;;
+14225;7167;1,000;1,000;2,000;Shanghai Café;100 Mott St.;New York;Chinatown;;;Shanghai Cafe;100 Mott St;New York;;;

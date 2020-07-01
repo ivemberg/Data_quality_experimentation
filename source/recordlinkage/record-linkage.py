@@ -67,10 +67,11 @@ def main():
 
 	df2 = pd.read_csv("data/restaurants/gbr_splitted_google/ActiveDiner_Fixed.csv", sep = ";")
 	df2 = df2.add_prefix('1_')
-
+	
 	final_merge = linkDB(df1, df2, type="sortedneighbourhood", showInfo=False)
 	final_merge.to_csv('DiningGuide_ActiveDiner.csv', header=True, sep=";", decimal=',', float_format='%.3f', index=False)
 	prova= final_merge['level_0'].nunique()
 	print(prova)
+	
 if __name__ == "__main__":
 	main()
