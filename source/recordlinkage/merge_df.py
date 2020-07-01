@@ -118,11 +118,15 @@ def secondDFgenerator():
     mp_cols = ['restaurant', 'address']
     mp = mp[mp_cols]
 
+    """
+    NON HA INDIRIZZO
+
     ny = pd.read_csv("data/restaurants/gbr_splitted/NewYork.csv", sep = ";")
     ny.drop(columns = ['country_code'], inplace = True, axis = 1)
     ny['address'] = 'NaN'
     ny_cols = ['restaurant', 'address', 'country']
     ny = ny[ny_cols]
+    """
 
     ts = pd.read_csv("data/restaurants/gbr_splitted/TasteSpace.csv", sep = ";")
 
@@ -131,7 +135,7 @@ def secondDFgenerator():
     vv_cols = ['restaurant', 'address', 'country', 'neighborhood']
     vv = vv[vv_cols]
 
-    df = to.append([ad,dg,mp,ny,ts,vv])
+    df = to.append([ad,dg,mp,ts,vv])
     
     df.drop_duplicates(subset =["restaurant"], keep = "first", inplace = True) 
 
@@ -142,37 +146,38 @@ def secondDFgenerator():
         new_index.append(i)
 
     df.index = new_index
-    
+    #df.to_csv("temp_df.csv", header=True, sep=";", decimal=',', float_format='%.3f', index=False)
+     
     # DEDUPLICATION
-    """
+   
     indexer = recordlinkage.Index()
     indexer.sortedneighbourhood(left_on=['restaurant'])
     candidate_links = indexer.index(df)
     
     compare_cl = recordlinkage.Compare()
     compare_cl.string('restaurant', 'restaurant', threshold=0.85, label='ristorante')
-    #compare_cl.string('address', 'address', threshold=0.85, label='indirizzo')
-    compare_cl.string('neighborhood', 'neighborhood', threshold=0.85, label='quartiere')
+    compare_cl.string('address', 'address', threshold=0.65, label='indirizzo') 
 
     features = compare_cl.compute(candidate_links, df)
    
     matches = features[features.sum(axis=1) > 1]
     
-    potential_matches = features[features.sum(axis=1) > 2].reset_index()
-    potential_matches['Score'] = potential_matches.loc[:, ['ristorante', 'indirizzo', 'quartiere']].sum(axis=1)
-
+    potential_matches = features[features.sum(axis=1) > 1].reset_index()
+    potential_matches['Score'] = potential_matches.loc[:, ['ristorante', 'indirizzo']].sum(axis=1)
+    
     # MATCHES 
     account_merge = potential_matches.merge(df, left_on="level_0", right_index=True) #, how='outer'
     final_merge = account_merge.merge(df, left_on="level_1", right_index=True)
     final_merge.dropna(axis='columns', inplace=True, how = 'all') #rimuovo solo colonne tutte NaN
-    final_merge.drop(columns = ['ristorante', 'indirizzo', 'quartiere', 'Score'], inplace=True) # so che sono 1 1 2
-    """
+    final_merge.drop(columns = ['ristorante', 'indirizzo','Score'], inplace=True) # so che sono 1 1 2
     
+    final_merge.to_csv("final_merge_df2.csv", header=True, sep=";", decimal=',', float_format='%.3f', index=False)
+     
     
 def main():
 
-    firstDFgenerator()
-    #secondDFgenerator()
+    #firstDFgenerator()
+    secondDFgenerator()
 
 if __name__ == '__main__':
     main()
