@@ -210,6 +210,7 @@ def secondDFgenerator():
 
     df.index = new_index
     
+    # df.to_csv("prova_deduplication_2.csv", header=True, sep=";", decimal=',', float_format='%.3f', index=False)
     return df
 
 def main():
