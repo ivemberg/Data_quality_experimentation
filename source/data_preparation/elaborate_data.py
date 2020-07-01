@@ -162,7 +162,7 @@ def cleanDatasets(strDir):
                 for k, row_k in df.iterrows():
                     if df.at[i, '1'] == df.at[k, '1']:
                         ifor_val = df.at[k, '2']
-                    break
+                        break
                 df.at[i, '2'] = ifor_val
 
         if 'TimeOut' in file_name:

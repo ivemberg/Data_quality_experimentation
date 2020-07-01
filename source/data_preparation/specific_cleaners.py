@@ -1,4 +1,5 @@
 import pandas as pd
+import pdb
 
 def stripCols(row, cols):
     for col in cols:
@@ -6,8 +7,8 @@ def stripCols(row, cols):
     return row
 
 def FoodBuzz_cleaner(row):
-
-    #Fill empty columns
+ 
+     #Fill empty columns
     if not row['3_x'] or row['3_x'].isspace():
         row['3_x'] = row['3_y']
     if not row['4_x'] or row['4_x'].isspace():
@@ -18,6 +19,13 @@ def FoodBuzz_cleaner(row):
         row['6_x'] = row['6_y']
     if not row['7_x'] or row['7_x'].isspace():
         row['7_x'] = row['7_y']
+
+    #Fix some specific problems
+    if '$' in row['6_x']:
+        row['7_x'] = row['6_x']
+        row['6_x'] = ''
+    if '----' in row['6_x']:
+        row['6_x'] = '' 
 
     #Merge over-separated fields    
     if (row['8_x'] != 'nan' and (not row['8_x'].isspace())) and (row['9_x'] != 'nan' and (not row['9_x'].isspace())):   #If cell not empty but not only white spaces
@@ -34,6 +42,11 @@ def FoodBuzz_cleaner(row):
         row['5_x'] = row['6_x']
         row['6_x'] = row['7_x']
         row['7_x'] = row['8_x']
+
+    # NewYork and NY are secure fields
+    row['3_x'] = "New York"
+    row['4_x'] = "NY"
+
 
     return row
 
