@@ -43,6 +43,7 @@ if __name__ == "__main__":
 
 	df1["addressFix"] = df1["address"].apply(googleAddress)
 
+	# MEGLIO LASCIARE IL PATH CORRENTE E POI SPOSTARLO A MANO NELLA CARTELLA gbr_splitted_google
 	df1.to_csv('ActiveDiner_Fixed.csv', header=True, sep=";", decimal=',', float_format='%.3f')
 
 

@@ -3,18 +3,18 @@ import recordlinkage
 import math as m
 
 def firstDFgenerator():
-    fb = pd.read_csv("data/restaurants/gbr_splitted/FoodBuzz.csv", sep = ";")
+    fb = pd.read_csv("../../data/restaurants/gbr_splitted/FoodBuzz.csv", sep = ";")
     fb_cols = ['restaurant', 'neighborhood', 'address', 'country', 'country_code', 'type', 'cost']
     fb = fb[fb_cols]
 
-    nym = pd.read_csv("data/restaurants/gbr_splitted/NYMag.csv", sep = ";")
+    nym = pd.read_csv("../../data/restaurants/gbr_splitted/NYMag.csv", sep = ";")
     nym.rename(columns={"address": "neighborhood"}, inplace = True)
 
-    nyt = pd.read_csv("data/restaurants/gbr_splitted/NYTimes.csv", sep = ";")
+    nyt = pd.read_csv("../../data/restaurants/gbr_splitted/NYTimes.csv", sep = ";")
     
-    ot = pd.read_csv("data/restaurants/gbr_splitted/OpenTable.csv", sep = ";")
+    ot = pd.read_csv("../../data/restaurants/gbr_splitted/OpenTable.csv", sep = ";")
 
-    sc = pd.read_csv("data/restaurants/gbr_splitted/SavoryCities.csv", sep = ";")
+    sc = pd.read_csv("../../data/restaurants/gbr_splitted/SavoryCities.csv", sep = ";")
     sc_cols = ['restaurant', 'neighborhood', 'address']
     sc = sc[sc_cols]
 
@@ -94,7 +94,7 @@ def firstDFgenerator():
     return df
     
 def secondDFgenerator():
-    to = pd.read_csv("data/restaurants/gbr_splitted/TimeOut.csv", sep = ";")
+    to = pd.read_csv("../../data/restaurants/gbr_splitted/TimeOut.csv", sep = ";")
     temp_to = to['in'].map(str) + ' ' + to['address1'].map(str) + '-' + to['address2'].map(str)+ to['address3'].map(str)
     temp_to = temp_to.str.replace("nan", "")
     to.drop(columns = ['in', 'address1', 'address2', 'address3'], inplace = True, axis = 1)
@@ -103,11 +103,11 @@ def secondDFgenerator():
     to_cols = ['restaurant', 'address', 'country', 'neighborhood', 'type', 'phone']
     to = to[to_cols]
 
-    ad = pd.read_csv("data/restaurants/gbr_splitted/ActiveDiner.csv", sep = ";")
+    ad = pd.read_csv("../../data/restaurants/gbr_splitted/ActiveDiner.csv", sep = ";")
     
-    dg = pd.read_csv("data/restaurants/gbr_splitted/DiningGuide.csv", sep = ";")
+    dg = pd.read_csv("../../data/restaurants/gbr_splitted/DiningGuide.csv", sep = ";")
 
-    mp = pd.read_csv("data/restaurants/gbr_splitted/MenuPages.csv", sep = ";")
+    mp = pd.read_csv("../../data/restaurants/gbr_splitted/MenuPages.csv", sep = ";")
     temp_mp = mp['address1'].map(str) + '-' + mp['address2'].map(str)
     temp_mp = temp_mp.str.replace("nan", "")
     mp.drop(columns = ['address1', 'address2'], inplace = True, axis = 1)
@@ -125,9 +125,9 @@ def secondDFgenerator():
     ny = ny[ny_cols]
     """
 
-    ts = pd.read_csv("data/restaurants/gbr_splitted/TasteSpace.csv", sep = ";")
+    ts = pd.read_csv("../../data/restaurants/gbr_splitted/TasteSpace.csv", sep = ";")
 
-    vv = pd.read_csv("data/restaurants/gbr_splitted/VillageVoice.csv", sep = ";")
+    vv = pd.read_csv("../../data/restaurants/gbr_splitted/VillageVoice.csv", sep = ";")
     vv['country'] = 'New York'
     vv_cols = ['restaurant', 'address', 'country', 'neighborhood']
     vv = vv[vv_cols]
@@ -143,7 +143,7 @@ def secondDFgenerator():
         new_index.append(i)
 
     df.index = new_index
-    #df.to_csv("temp_df.csv", header=True, sep=";", decimal=',', float_format='%.3f', index=False)
+    df.to_csv("temp_df.csv", header=True, sep=";", decimal=',', float_format='%.3f', index=False)
      
     # DEDUPLICATION
    
@@ -164,9 +164,9 @@ def secondDFgenerator():
     account_merge = potential_matches.merge(df, left_on="level_0", right_index=True) #, how='outer'
     final_merge = account_merge.merge(df, left_on="level_1", right_index=True)
     final_merge.dropna(axis='columns', inplace=True, how = 'all') #rimuovo solo colonne tutte NaN
-    #final_merge.drop(columns = ['ristorante', 'indirizzo','Score'], inplace=True) # so che sono 1 1 2
+    final_merge.drop(columns = ['ristorante', 'indirizzo','Score'], inplace=True) # so che sono 1 1 2
     
-    #final_merge.to_csv("final_merge_df2.csv", header=True, sep=";", decimal=',', float_format='%.3f', index=False)
+    final_merge.to_csv("final_merge_df2.csv", header=True, sep=";", decimal=',', float_format='%.3f', index=False)
     
     final_list = []
     all_indexes = []
@@ -210,7 +210,7 @@ def secondDFgenerator():
 
     df.index = new_index
     
-    # df.to_csv("prova_deduplication_2.csv", header=True, sep=";", decimal=',', float_format='%.3f', index=False)
+    df.to_csv("prova_deduplication_2.csv", header=True, sep=";", decimal=',', float_format='%.3f', index=False)
     return df
 
 def main():
