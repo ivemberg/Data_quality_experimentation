@@ -179,19 +179,27 @@ def secondDFgenerator():
         address = row.address_x
         country = "New York"
 
-        # Da sistemare
-
+        
         if row.type_x == row.type_y:
             type_r = str(row.type_x)
+        elif (row.type_x != row.type_x):
+            type_r = str(row.type_y)
         else:
-            type_r = str(row.type_x) + str(row.type_y)
+            type_r = str(row.type_x)
 
         if row.phone_x == row.phone_y:
             phone = str(row.phone_x)
+        elif (row.phone_x != row.phone_x):
+            phone = str(row.phone_y) 
         else:
-            phone = str(row.phone_x) + str(row.phone_y)
+            phone = str(row.phone_x)
 
-        neighborhood = row.neighborhood_y
+        if row.neighborhood_x == row.neighborhood_y:
+            neighborhood = str(row.neighborhood_x)
+        elif (row.neighborhood_x != row.neighborhood_x):
+            neighborhood = str(row.neighborhood_y) 
+        else:
+            neighborhood = str(row.neighborhood_x)
 
         new_row = (restaurant, address, country, neighborhood, type_r, phone)
         final_list.append(new_row)
@@ -210,9 +218,10 @@ def secondDFgenerator():
 
     df.index = new_index
     
-    df.to_csv("./data/restaurants_integrated/output_recordlinkage/prova_deduplication_2.csv", header=True, sep=";", decimal=',', float_format='%.3f', index=False)
+     # df.to_csv("./data/restaurants_integrated/output_recordlinkage/prova_deduplication_2.csv", header=True, sep=";", decimal=',', float_format='%.3f', index=False)
     return df
 
+"""
 def main():
 
     df1 = firstDFgenerator()
@@ -221,3 +230,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+"""
