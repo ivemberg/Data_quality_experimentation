@@ -38,7 +38,7 @@ restaurants = {
     'NYMag': [r'\t+',
               ['1'],
               ['2_y', '2'],
-              {'1': 'restaurant', '2_x': 'address'}],
+              {'1': 'restaurant', '2_x': 'neighborhood'}],
     'NYTimes': [r'\t+',
                 ['1', '2'],
                 [],

@@ -7,7 +7,6 @@ def stripCols(row, cols):
     return row
 
 def FoodBuzz_cleaner(row):
- 
      #Fill empty columns
     if not row['3_x'] or row['3_x'].isspace():
         row['3_x'] = row['3_y']
@@ -43,10 +42,17 @@ def FoodBuzz_cleaner(row):
         row['6_x'] = row['7_x']
         row['7_x'] = row['8_x']
 
-    # NewYork and NY are secure fields
+    #NewYork and NY are secure fields
     row['3_x'] = "New York"
     row['4_x'] = "NY"
 
+    #Move the type to the correct field
+    if row['5_x'] == 'Fusion':
+        pdb.set_trace()
+
+    if not row['6_x'] or row['6_x'].isspace() or row['6_x']=='nan':
+        row['6_x'] = row['5_x']
+        row['5_x'] = ''
 
     return row
 
