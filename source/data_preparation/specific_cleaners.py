@@ -47,9 +47,6 @@ def FoodBuzz_cleaner(row):
     row['4_x'] = "NY"
 
     #Move the type to the correct field
-    if row['5_x'] == 'Fusion':
-        pdb.set_trace()
-
     if not row['6_x'] or row['6_x'].isspace() or row['6_x']=='nan':
         row['6_x'] = row['5_x']
         row['5_x'] = ''
