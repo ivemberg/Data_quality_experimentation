@@ -37,19 +37,29 @@ def linkDB(df1, df2, type, showInfo) :
 
 	# ECM Classifier
 	ecm = recordlinkage.ECMClassifier()
-	train_matches = ecm.fit_predict(features, match_index=None) # Train the classifier
+	ecm.fit_predict(features, match_index=None) # Train the classifier
 	e_matches = ecm.predict(features)
 	prob_matches = ecm.prob(features)
-	print(e_matches)
-	print(prob_matches)
+	matches = []
+	for i, j in e_matches:
+		record_1 = df1.loc[i]
+		record_2 = df2.loc[j]
+		record = tuple(record_1) + tuple(record_2)
+		matches.append(record)
+	head = tuple(df1.head()) + tuple(df2.head())
+	
+	result = pd.DataFrame(matches)
+	result.columns = head
+	result.to_csv('./data/restaurants_integrated/output_recordlinkage/final_matches.csv', header=True, sep=";", decimal=',', float_format='%.3f', index=False)
 
+	"""
 	# K MEANS Classifier
 	kmeans = recordlinkage.KMeansClassifier()
 	kmeans.fit_predict(features)
 	k_matches = kmeans.predict(features)
 	print(k_matches)
-
-	return 0
+	"""
+	return result
 
 def main():
 	
