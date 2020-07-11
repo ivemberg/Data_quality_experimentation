@@ -1,815 +1,814 @@
-;restaurant;address;addressGoogle
-0;1 Nocello;257 West 55th Street;257 W 55th St
-1;10 Downing Food and Wine;10 Downing Street;10 Downing St
-2;2 West;2 West Street;2 West St
-3;21 Club;21 West 52nd Street;21 W 52nd St
-4;212 Restaurant & Bar;133 East 65th Street;133 E 65th St
-5;3 J's Pizza;1603 2nd Avenue;1603 2nd Ave
-6;44 Restaurant;44 West 44th Street;44 W 44th St
-7;5 Brothers Gourmet Market;689 10th Avenue;689 10th Ave
-8;5 Ninth Restaurant;5 Ninth Avenue;5 9th Ave
-9;88 Noodle & Oriental House;565 Columbus Avenue;565 Columbus Ave
-10;A Slice of New York;727 8th Avenue;727 8th Ave
-11;A Voce;41 Madison Avenue;Jerome Mansion
-12;A.J Maxwells - Steakhouse;57 West 48 Street;57 W 48th St
-13;Abboccato Restaurant;136 West 55th Street;136 W 55th St
-14;Abitino's;947 1st Avenue;947 1st Avenue
-15;Above;234 West 42nd Street;234 W 42nd St
-16;Accademia Di Vino;1081 Third Avenue;1081 3rd Ave
-17;Acqua Pazza;36 West 52nd Street;36 W 52nd St
-18;Ada;208 East 58th Street;208 E 58th St
-19;Adour Alain Ducasse;Two East 55th Street;Two E 55th St
-20;Adrienne's Pizzabar;54 Stone Street;54 Stone St
-21;Agata & Valentina Ristorante;1513 First Avenue;1513 1st Avenue
-22;Agave;140 7th Avenue South;140 7th Ave
-23;Ago Restaurant;377 Greenwich Street;377 Greenwich St
-24;Agozar;324 Bowery;324 Bowery
-25;Aix Restaurant;2398 Broadway;2398 Broadway
-26;Aja;1068 First Avenue;1068 1st Avenue
-27;Aja Asian Bistro and Lounge;432 6th Avenue;432 6th Ave
-28;Aki Sushi;1425 York Avenue;1425 York Ave
-29;Aki Sushi West;128 West 36th Street;128 W 36th St
-30;Akita Sushi;1771 1st Avenue;1771 1st Avenue
-31;Al Forno;1484 2nd Avenue;1484 2nd Ave
-32;Alamo Restaurant;304 East 48th Street;304 E 48th St
-33;Alcala;342 East 46th Street;342 E 46th St
-34;Aleo Restaurant;7 West 20th Street;7 W 20th St
-35;Alfama;551 Hudson Street;551 Hudson St
-36;Alfredo of Rome;4 West 49th Street;4 W 49th St
-37;Allegretti;46 West 22nd Street;46 W 22nd St
-38;Allen and Delancey;115 Allen Street;115 Allen St
-39;Alloro;307 East 77th Street;307 E 77th St
-40;Alonso's Steakhouse;265 West 20th Street;265 W 20th St
-41;Alto Restaurant;520 Madison Avenue;520 Madison Ave
-42;Ama;48 Macdougal Street;48 MacDougal St
-43;Amalia;204 West 55th Street;204 W 55th St
-44;Ambassador Grill;1 United Nations Plaza;1 United Nations Plaza
-45;Amber;1406 3rd Avenue;1406 3rd Ave
-46;American (Show All);9 Jones Street;9 Jones St
-47;American (Show All);Inside Battery Park;Inside Battery Park
-48;American (Show All);116 East 16th Street;116 E 16th St
-49;American (Show All);152 West 52nd Street;152 W 52nd St
-50;American (Show All);885 Second Avenue;885 2nd Ave
-51;American (Show All);2315 Broadway;2315 Broadway
-52;American (Show All);45 East 20th Street;45 E 20th St
-53;American Burger Co.;100 West 32nd Street;100 W 32nd St
-54;American Gourmet Foods Deli;831 6th Avenue;831 6th Ave
-55;American Spirits Grill;1744 2nd Avenue;1744 2nd Ave
-56;Amma;246 East 51st Street;246 E 51st St
-57;Ammos Estiatorio;52 Vanderbilt Avenue;52 Vanderbilt Ave
-58;Amor Cubano;2018 Third Avenue;2018 3rd Ave
-59;Amsterdam Restaurant & Tapas Lounge;1207 Amsterdam Avenue;1207 Amsterdam Ave
-60;Angelo & Maxie's;233 Park Avenue;233 Park Ave
-61;Annisa Restaurant;13 Barrow Street;13 Barrow St
-62;Antonucci's;170 East 81 Street;170 E 81st St
-63;Any Time Cafe;17 John Street;17 John St
-64;Aoki;234 West 48th Street;234 W 48th St
-65;Apiary;60 3rd Avenue;60 3rd Ave
-66;Apizz;217 Elridge Street;217 Eldridge St
-67;Aquavit;65 East 55th Street;65 E 55th St
-68;Arabelle at the Hotel Plaza Athenee;37 East 64th Street;37 E 64th St
-69;Arby's;100 West 33rd Street;100 W 33rd St
-70;Archipelago SoHo;333 Hudson Street;333 Hudson St
-71;Arriba Arriba! - East;1463 Third Avenue;1463 3rd Ave
-72;Arte Cafe;106 West 73rd Street;106 W 73rd St
-73;Artisanal;2 Park Avenue;2 Park Ave
-74;Asia Grill;1239 2nd Avenue;1239 2nd Ave
-75;Asia de Cuba New York;237 Madison Avenue;237 Madison Ave
-76;Asiana Restaurant and Bar;120 East 34th Street;120 E 34th St
-77;Asiate;80 Columbus Cir. at 60th St.;80 Columbus Cir
-78;Aspen;30 West 22nd Street;30 W 22nd St
-79;Aspen Social Club;157 West 47th Street;157 W 47th St
-80;Astor Court;2 East 55th Street;2 E 55th St
-81;Atomic Wings;528 9th Avenue;528 9th Ave
-82;Atomic Wings;1644 3rd Avenue;1644 3rd Ave
-83;Atomic Wings at Down the Hatch;179 West 4th Street;179 West 4th Street
-84;Auntie Anne's Pretzels;664 8th Avenue;664 8th Ave
-85;Aureole;34 East 61st Street;34 E 61st St
-86;Aurora;510 Broome Street;510 Broome St
-87;Avi and David's;1046 3rd Avenue;1046 3rd Ave
-88;Avra Estiatorio;141 East 48th Street;141 E 48th St
-89;Azafran;77 Warren Street;77 Warren St
-90;Azza;137 E. 55th St. at Lexington;136E E 55th St
-91;B & T Supreme Pizza;132 East 86th Street;132 East 86th St
-92;B. Cafe;240 East 75th Street;240 E 75th St
-93;B. Smith's Restaurant Row;320 West 46th Street;320 W 46th St
-94;BLT Fish Bistro Laurent Tourondel;21 West 17th Street;21 W 17th St
-95;BLT Fish Bistro Laurent Tourondel;111 East 22nd Street;111 E 22nd St
-96;BLT Market;1430 Avenue of the Americas;1430 6th Ave
-97;BLT Steak, Bistro Laurent Tourondel;106 East 57th Street;106 E 57th St
-98;Babbo;110 Waverly Place;110 Waverly Pl
-99;Babouche SoHo;92 Prince Street;92 Prince St
-100;Bagel & Bean;828 7th Avenue;828 7th Ave
-101;Bagicha;226 West 79th Street;226 W 79th St
-102;Baldoria;249 West 49th Street;249 W 49th St
-103;Baluchi's West 56th Street;240 West 56th Street;240 W 56th St
-104;Banana Leaf;103 Lexington Avenue;103 Lexington Ave
-105;Bangkok House;360 West 360 46th Street;360 W 43rd St
-106;Bann;350 West 50th Street;350 W 50th St
-107;Bar Americain;152 West 52nd Street;152 W 52nd St
-108;Bar Blanc;142 West 10th Street;142 W 10th St
-109;Bar Boulud;1900 Broadway;1900 Broadway
-110;Bar Q;308-310 Bleecker Street;308 Bleecker St
-111;Bar Stuzzichini;928 Broadway;928 Broadway
-112;Baraonda;1439 Second Avenue;1439 2nd Ave
-113;Barbetta;321 West 46th Street;321 W 46th St
-114;Barbounia;250 Park Avenue South;250 Park Ave S
-115;Barbuto Restaurant;775 Washington Avenue;775 Washington St
-116;Barking Dog;1453 York Avenue;1453 York Ave
-117;Barna;365 Park Avenue South;365 Park Ave S
-118;Barocco Kitchen;42 Union Square East;42 Union Square E
-119;Baton Rouge Restaurant & Lounge;458 West 145th Street;458 W 145th St
-120;Battery Gardens Restaurant;Inside Battery Park;Inside Battery Park
-121;Beacon Restaurant;25 West 56th Street;25 W 56th St
-122;Becco;355 West 46 Street;355 W 46th St
-123;Beijing Wok Restaurant;1324 2nd Avenue;1324 2nd Ave
-124;Bella Blu;967 Lexington Avenue;967 Lexington Ave
-125;Bella Luna;584 Columbus Avenue;584 Columbus Ave
-126;Bellavitae;24 Minetta Lane;24 Minetta Ln
-127;Bellini;208 East 52nd Street;208 E 52nd St
-128;Bello Sguardo;410 Amsterdam Avenue;410 Amsterdam Ave
-129;Belluno;340 Lexington Avenue;340 Lexington Ave
-130;Ben & Jerry's;Grand Central Terminal;89 E 42nd St
-131;Ben & Jerry's;680 8th Avenue;680 8th Ave
-132;Ben Benson's;123 West 52 Street;123 W 52nd St
-133;Ben's Kosher Delicatessen;2099 West 38 Street;W 38th St
-134;Benihana Japanese Steak House;47 West 56th Street;47 W 56th St
-135;Benjamin Steakhouse;Manhattan · 52 East 41 Street;52 E 41st St
-136;Bergdorf Goodman;2 West 58th Street;Bergdorf Goodman
-137;Berger's Delicatessen;44 West 47 Street;44 W 47th St
-138;Best Pizza;1038 1st Avenue;1038 1st Avenue
-139;Big Nick;2175 Broadway;2175 Broadway
-140;Big Nick's Burger Joint and Pizza Joint;2175 Broadway;2175 Broadway
-141;Bistecca Fiorentina;317 West 46th Street;317 W 46th St
-142;Bistro Chat Noir;22 East 66th Street;22 E 66th St
-143;Bistro Desaret;227 East 56th Street;227 E 56th St
-144;Bistro Les Amis;180 Spring Street;180 Spring St
-145;Bistro Milano;1350 Avenue of the Americas;1350 6th Ave
-146;Bivio Restaurant;637 Hudson Street;637 Hudson St
-147;Blair Perrone Steak House;885 Second Avenue;885 2nd Ave
-148;Blockhead's Burritos;499 3rd Avenue;499 3rd Ave
-149;Blue Hill;75 Washington Place;75 Washington Pl
-150;Blue Smoke;116 East 27th Street;116 E 27th St
-151;Bobby Van's Steakhouse;25 Broad Street;25 Broad St
-152;Bobby Van's Steakhouse;131 East 54th Street;131 E 54th St
-153;Bobby Van's Steakhouse;230 Park Ave. at 46th St.;230 Park Ave
-154;Bocca Restaurant;39 East 19th Street;39 E 19th St
-155;Bocca di Bacco;828 Nineth Avenue;828 9th Ave
-156;Body Restaurant and Lounge Harlem;701 West 135th Street;701 W 135th St
-157;Bolo Restaurant & Bar;23 East 22nd Street;23 E 22nd St
-158;Bond Street;6 Bond Street;6 Bond St
-159;Boom Restaurant;152 Spring Street;152 Spring St
-160;Borgo Antico;22 East 13th Street;22 E 13th St
-161;Bottega Del Vino;7 East 59th Street;7 E 59th St
-162;Bottino Restaurant;246 10th Avenue;246 10th Ave
-163;Bouley Bakery Restaurant;120 West Broadway;120 W Broadway
-164;Braai;329 West 51st Street;329 W 51st St
-165;Braeburn Restaurant;117 Perry Street;117 Perry St
-166;Brasserie 52;772 9th Avenue;772 9th Ave
-167;Brasserie Cognac;1740 Broadway;1740 Broadway
-168;Brasserie Julien;1422 Third Avenue;1422 3rd Ave
-169;Brasserie Ruhlmann;45 Rockefeller Plaza;45 Rockefeller Plaza
-170;Brazil Brazil;330 West 46th Street;330 W 46th St
-171;Brazil Grill;787 8th Avenue;787 8th Ave
-172;Brian Deli;153 Amsterdam Avenue;153 Amsterdam Ave
-173;Brick Lane Curry House;306-308 East 6th Street;306 E 6th St #308
-174;Broadway Joe Steakhouse;315 West 46 Street;315 W 46th St
-175;Brother Jimmy's;181 Lexington Avenue;181 Lexington Ave
-176;Brother Jimmy's;1644 3rd Avenue;1644 3rd Ave
-177;Bryant Park Grill;25 West 40th Street;25 W 40th St
-178;Bubble Lounge;228 West Broadway;228 W Broadway
-179;Buddha Bar;25 Little West 12th Street;25 Little W 12th St
-180;Bull Run;52 William Street;52 William St
-181;Burger King;130 West 125th Street;130 W 125th St
-182;Burger King;226 East 86th Street;226 East 86th St
-183;Burger King;485 5th Avenue;485 5th Ave
-184;Burger King;129 East 47th Street;129 E 47th St
-185;Burger King;182 Broadway;182 Broadway
-186;Burger King;146 Delancey Street;146 Delancey St
-187;Burritoville;1487 2nd Avenue;1487 2nd Ave
-188;Butai;115 East 18th Street;115 E 18th St
-189;Butter;415 Lafayette Street;415 Lafayette St
-190;Buzina Pop;1022A Lexington Avenue;1022A Lexington Ave
-191;Cabana Carioca;123 West 45th Street;123 W 45th St
-192;Cafe 82;2282 Broadway;2282 Broadway
-193;Cafe Cluny;284 West 12th Street;284 W 12th St
-194;Cafe D' Alsace;1695 2nd Avenue;1695 2nd Ave
-195;Cafe Du Soleil;2723 Broadway Avenue;2723 Broadway
-196;Cafe Espanol;172 Bleecker Street;172 Bleecker St
-197;Cafe Frida;368 Columbus Avenue;368 Columbus Ave
-198;Cafe Gray;10 Columbus Circle;10 Columbus Cir
-199;Cafe Lalo;201 West 83 Street;201 W 83rd St
-200;Cafe Luxembourg;200 West 70th;200 W 70th St
-201;Cafe On Broadway;2350 Broadway;2350 Broadway
-202;Cafe Pierre;5th Avenue at 61 Street;5th Ave & E 61st St
-203;Cafe Socialista;505 West Street;505 W 37th St
-204;Cafe St. Bart's;109 East 50th Street;109 E 50th St
-205;Cafetasia;38 East 8th Street;38 E 8th St
-206;Caffe Grazie;26 East 84th Street;26 E 84th St
-207;Caffe Palermo;148 Mulberry Street;148 Mulberry St
-208;Calico Jack's Cantina;800 Second Avenue;800 2nd Ave
-209;Calle Ocho;446 Columbus Avenue;446 Columbus Ave
-210;Candela;116 East 16th Street;116 E 16th St
-211;Candle 79;154 East 79th Street;154 E 79th St
-212;Cannonau;205 East 4th Street;205 E 4th St
-213;Canyon Road;1470 1st Avenue;1470 1st Avenue
-214;Capital Grille New York City;155 East 42nd Street;155 E 42nd St
-215;Cara Mia;654 9th Avenue;654 9th Ave
-216;Carmine's;2450 Broadway;2450 Broadway
-217;Carne Vale;46 Avenue B;46 Avenue B
-218;Caroline's Comedy Nation Restaurant;1626 Broadway;1626 Broadway
-219;Carve Unique Sandwiches;760 8th Avenue;760 8th Ave
-220;Casa Brasil;316 East 53 Street;316 E 53rd St
-221;Casaville;633 Second Avenue;633 2nd Ave
-222;Cascina Ristorante;647 Ninth Avenue;647 9th Ave
-223;Caviar & Banana Brasserio;12 East 22nd Street;12 E 22nd St
-224;Center Cut;44 West 63rd Street;44 W 63rd St.
-225;Centovini;25 West Houston Street;25 W Houston St
-226;Central Park BoatHouse;E. 72nd St. and Park Dr. N.;Park Ave & E 72nd St
-227;Centrico;211 West Broadway;211 W Broadway
-228;Centro Vinoteca;74 Seventh Avenue;74 7th Ave
-229;Cesca Restaurant;164 West 75th Street;164 W 75th St
-230;Chanterelle;2 Harrison Street;2 Harrison St
-231;Chanto;133 Seventh Avenue South;133 7th Ave S
-232;Charley's Grilled Subs;100 West 33rd Street;100 W 33rd St
-233;Charlie Palmer's Metrazur;404 Grand Central Terminal, 42nd St.;89 E 42nd St
-234;Chef Roland's;1354 Amsterdam Avenue;1354 Amsterdam Ave
-235;Chez Jacqueline;72 MacDougal Street;72 MacDougal St
-236;Chin Chin;216 East 49th Street;216 E 49th St
-237;China 1 Restaurant & Lounge;50 Avenue B;50 Avenue B
-238;China Evian;144 West 46 Street;144 W 46th St
-239;China Grill New York;60 West 53rd Street;60 W 53rd St
-240;China Moon;7 East 47 Street;7 E 47th St
-241;China Place;3141 Broadway At W. 123rd St.;3141 Broadway At W. 123rd St.
-242;China Regency;850 Seventh Avenue;850 7th Ave
-243;Chinatown Brasserie;380 Lafayette Street;380 Lafayette St
-244;Chinese Mirch;120 Lexington Avenue;120 Lexington Ave
-245;Chipotle Mexican Grill;55 East 8th Street;55 E 8th St
-246;Chipotle Mexican Grill;129 West 48th Street;129 W 48th St
-247;Chop Suey;714 Seventh Avenue;714 7th Ave
-248;Chubo Restaurant;6 Clinton Street;6 Clinton St
-249;Chumley's;86 Bedford Street;86 Bedford St
-250;Churrascaria Plataforma;316 West 49 Street;316 W 49th St
-251;Ciaobella Ristorante Lounge;1640 2nd Avenue;1640 2nd Ave
-252;Cibo;767 Second Avenue;767 2nd Ave
-253;Cinco De Mayo;1711 2nd Avenue;1711 2nd Ave
-254;Cinnabon;901 Avenue Of The Americas;901 6th Ave
-255;Ciro Trattoria;813 8th Avenue;813 8th Ave
-256;Cite;120 West 51st Street;120 W 51st St
-257;Citrus Bar & Grill;320 Amsterdam Avenue;320 Amsterdam Ave
-258;City Crab & Seafood Company;235 Park Avenue South;235 Park Ave S
-259;City Hall;131 Duane Street;131 Duane St
-260;City Lobster & Crab Company;121 West 49th Street;121 W 49th St
-261;City Winery;155 Varick Street;155 Varick St
-262;Claudio Pizzeria;598 10th Avenue;598 10th Ave
-263;Coffee & Desserts (Show All);195 Grand Street;195 Grand St
-264;Cold Stone Creamery;1651 Second Avenue;1651 2nd Ave
-265;Colors;417 Lafayette Street;417 Lafayette St
-266;Columbus Bakery;474 Columbus Avenue;474 Columbus Ave
-267;Columbus Cafe;556 Columbus Avenue;556 Columbus Ave
-268;Compass Restaurant New York;208 West 70th Street;208 W 70th St
-269;Concord Garden Chinese & Thai Cuisine;990 Amsterdam Avenue;990 Amsterdam Ave
-270;Conservatory;15 Central Park West;15 Central Park West
-271;Cookshop;156 10th Avenue;156 10th Ave
-272;Cooper's Tavern;481 Eighth Avenue;481 8th Ave
-273;Core One Nine One;191 Orchard Street;191 Orchard St
-274;Cornelia Street Cafe;29 Cornelia Street;29 Cornelia St
-275;Cosi;54 Pine Street;54 Pine St
-276;Cosi;2160 Broadway;2160 Broadway
-277;Cosi;61 West 48th Street;61 W 48th St
-278;Cosi;700 6th Avenue;700 6th Ave
-279;Cosi;257 Park Avenue;257 Park Ave
-280;Cost Legend (Average Price/Person):;"""Inexpensive"" = Generally < $15";"""Inexpensive"" = Generally < $15"
-281;Counter;105 First Avenue;105 1st Avenue
-282;Country;90 Madison Avenue;90 Madison Ave
-283;Craft Restaurant;43 East 19th Street;43 E 19th St
-284;Craftbar;900 Broadway;900 Broadway
-285;Craftsteak;85 Tenth Avenue;US-NYC-8510
-286;Crema Restaurante;111 West 17th Street;111 W 17th St
-287;Crispo;240 West 14th Street;240 W 14th St
-288;Croton Reservoir Tavern;108 West 40th Street;108 W 40th St
-289;Cru Restaurant;24 5th Avenue;24 5th Ave
-290;Cub Room;131 Sullivan Street;131 Sullivan St
-291;Cuba;222 Thompson Street;222 Thompson St
-292;Cuba Cafe;200 8th Avenue;200 8th Ave
-293;D and S Pizza;691 10th Avenue;691 10th Ave
-294;DB Bistro Moderne;55 West 44th Street;55 W 44th St
-295;Da Marino;220 West 49th Street;220 W 49th St
-296;Da Nico Ristorante;164 Mulberry Street;164 Mulberry St
-297;Dalga Seafood Grill;401 East 62nd Street;401 E 62nd St
-298;Daniel;60 East 65th Street;60 E 65th St
-299;Danny's Grand Sea Palace;346 West 46th Street;346 W 46th St
-300;Danube;30 Hudson Street;Goldman Sachs Tower
-301;Davidburke & Donatella;133 East 61st Street;133 E 61st St
-302;Decade;1117 1st Avenue;1117 1st Avenue
-303;Del Frisco's of New York;1221 Avenue of the Americas;1221 6th Ave
-304;Del Posto Ristorante;85 10th Avenue;US-NYC-8510
-305;Delicatessen;54 Prince Street;54 Prince St
-306;Delmonico's;56 Beaver Street;56 Beaver St
-307;Destino;891 1st Avenue;891 1st Avenue
-308;Dinosaur Bar B Que;646 West 131st Street;646 W 131st St
-309;Dip Cafe;416 Third Avenue;416 3rd Ave
-310;Dirt Candy;430 East 9th Street;430 E 9th St
-311;District;130 West 46th Street;130 W 46th St
-312;Divalicious Chocolate! Cafe;365 Broome Street;365 Broome St
-313;Divertimento Bistro;432 East 13th Street;432 E 13th St
-314;Domenico's;120 East 40th Street;120 E 40th St
-315;Domino's Pizza;943 1st Avenue;943 1st Avenue
-316;Domino's Pizza;799 East 13th Street;799 E 13th St
-317;Donguri;309 East 83rd Street;309 E 83rd St
-318;Dovetail;103 West 77th Street;103 W 77th St
-319;Duke's;560 Third Avenue;560 3rd Ave
-320;Dunkin Doughnuts;132 Nassau Street;132 Nassau St
-321;Dunkin' Donuts;105 West 125th Street;105 W 125th St
-322;Dunkin' Donuts;1391 Madison Avenue;1391 Madison Ave
-323;Dunkin' Donuts;1630 Madison Avenue;1630 Madison Ave
-324;Dunkin' Donuts;15 Penn Plaza;401 7th Ave
-325;Dunkin' Donuts;1024 1st Avenue;1024 1st Avenue
-326;Dylan Prime;62 Laight Street;62 Laight St
-327;EN Japanese Brasserie;435 Hudson Street;435 Hudson St
-328;Earl's Restaurant Bar;560 3rd Avenue;560 3rd Ave
-329;Earth;116A 10th Avenue;116A 10th Ave
-330;East Bay;491 1st Avenue;491 1st Avenue
-331;East River Cafe;1111 First Avenue;1111 1st Avenue
-332;Eighty One;45 West 81st Street;45 W 81st St
-333;El Azteca;783 Ninth Avenue;783 9th Ave
-334;El Parador;325 East 34th Street;325 E 34th St
-335;El Puerto Seafood & Fish Market;511 West 125th Street;511 W 125th St
-336;El Rio Grande;160 East 38th Street;160 E 38th St
-337;El Tina #2;511 West 125th Street;511 W 125th St
-338;Emack & Bolio's;81st Street and First Avenue;1st Avenue & E 81st St
-339;Emperor Japanese Tapas Shabu;96 Bowery;96 Bowery
-340;English Is Italian;622 3rd Avenue;622 3rd Ave
-341;Epoque;401 West 50th Street;401 W 50th St
-342;Erminia Ristorante;250 East 83rd Street;250 E 83rd St
-343;Esca;402 West 43 Street;402 W 43rd St
-344;Estiatorio Milos Restaurant;125 West 55th Street;125 W 55th St
-345;Etats-Unis;242 East 81st Street;242 E 81st St
-346;Etrusca Restaurant;125 West 53rd Street;125 W 53rd St
-347;Euro Diner;738 8th Avenue;738 8th Ave
-348;Euzkadi Restaurant;108 East Fourth Street;108 E 4th St
-349;Expensive;1633 2nd Avenue;1633 2nd Ave
-350;Expensive;1600 Broadway;1600 Broadway
-351;Extra Virgin;259 West 4th Street;259 West 4th Street
-352;Famiglia;686 8th Avenue;686 8th Ave
-353;Fantino;112 Central Park South;112 Central Park S
-354;Fast Food & Chains (Show All);221 7th Avenue;221 7th Ave
-355;Fatty Crab;Manhattan · 643 Hudson Street;643 Hudson St
-356;Felidia;243 East 58th Street;243 E 58th St
-357;Ferrara's Cafe Italiano;195 Grand Street;195 Grand St
-358;Film Center Cafe;635 Ninth Avenue;635 9th Ave
-359;Financier Patisserie;35 Cedar Street;35 Cedar St
-360;Fiorini;209 East 56th Street;209 E 56th St
-361;Firebird Russian Restaurant;365 West 46th Street;365 W 46th St
-362;Firenze Restaurant;1594 2nd Avenue;1594 2nd Ave
-363;Five Napkin Burger;630 9th Avenue;630 9th Ave
-364;Fives;700 Fifth Avenue;700 5th Ave
-365;Fleur de Sel;5 East 20th Street;5 E 20th St
-366;Flor de Sol Restaurant;361 Greenwich Street;361 Greenwich St
-367;Floridita Restaurant;3219 Broadway;3219 Broadway
-368;Foley's Fish House;714 Seventh Avenue;714 7th Ave
-369;Frank's;410 West 12th Street;410 W 12th St
-370;Frankie & Johnnie's Steakhouse;32 West 37th Street;32 W 37th St
-371;Frederick's Madison;768 Madison Avenue;768 Madison Ave
-372;Frere Jacques;13 East 37th Street;13 E 37th St
-373;Fresco by Scotto;34 East 52nd Street;34 E 52nd St
-374;Fresh Restaurant;105 Reade Street;105 Reade St
-375;Fresh Tortillas;1739 2nd Avenue;1739 2nd Ave
-376;Fulton;205 East 75th Street;205 E 75th St
-377;Funky Nassau;127 East 7th Street;127 E 7th St
-378;Gabriela's;688 Columbus Avenue;688 Columbus Ave
-379;Gaby Restaurant;44 West 45th Street;44 W 45th St
-380;Garage Restaurant and Cafe;99 Seventh Avenue South;99 7th Ave S
-381;Garden Of Ono;18 Ninth Avenue;18 9th Ave
-382;Gari;370 Columbus Avenue;370 Columbus Ave
-383;Geisha Restaurant;33 East 61st Street;33 E 61st St
-384;Genki Sushi;9 East 46 Street;9 E 46th St
-385;Gente;153 East 45th Street;153 E 45th St
-386;Geronimo;1600 3rd Avenue;1600 3rd Ave
-387;Gizzi's Coffee;16 West 8th Street;16 W 8th St
-388;Gobo Upper East Side;1426 3rd Avenue;1426 3rd Ave
-389;Good Friend Restaurant;3210 Broadway;3210 Broadway
-390;Gordon Ramsay;151 West 54th Street;151 W 54th St
-391;Gotham Bar and Grill;12 East 12 Street;12 E 12th St
-392;Gramercy 24;323 3rd Avenue;323 3rd Ave
-393;Gramercy Tavern;42 East 20th Street;42 E 20th St
-394;Grand Central Oyster Bar;89 East 42nd Street;89 E 42nd St
-395;Grand Tier Restaurant;150 West 65th Street;150 W 65th St
-396;Grays Papaya;539 8th Avenue;539 8th Ave
-397;Grayz;13-15 West 54th Street;13 W 54th St
-398;Great China Chinese Restaurant;1461 Amsterdam Avenue;1461 Amsterdam Ave
-399;Grill 21;346 East 21st Street;346 E 21st St
-400;Guantanamera;939 Eighth Avenue;939 8th Ave
-401;Gusto Ristorante e Bar Americano;60 Greenwich Avenue;60 Greenwich Ave
-402;Gyu-Kaku;34 Cooper Square;34 Cooper Sq
-403;Gyu-Kaku;805 3rd Avenue;805 3rd Ave
-404;HQ New York Bistro;90 Thompson Street;90 Thompson St
-405;Hakata Grill;230 West 48th Street;230 W 48th St
-406;Hale & Hearty Soups;Grand Central Terminal;89 E 42nd St
-407;Happy Taco;1167 2nd Avenue;1167 2nd Ave
-408;Harlem Tea Room;1793A Madison Avenue;1793A Madison Ave
-409;Havana;27 West 38th Street;27 W 38th St
-410;Havana Alma de Cuba;94 Christopher Street;94 Christopher St
-411;Havana Central;151 West 46th Street;151 W 46th St
-412;Havana Central;22 East 17th Street;22 E 17th St
-413;Havana Central at The West End;2911 Broadway;2911 Broadway
-414;Hawaiian Tropic Zone;729 Seventh Avenue;729 7th Ave
-415;Heartland Brewery and Chophouse;127 W. 43rd St. at Times Square;127 W 43rd St
-416;Hell's Kitchen;691 10th Avenue;691 10th Ave
-417;Hill Country;30 West 26th Street;30 W 26th St
-418;Houlihan's;2 Penn Plaza;2 Pennsylvania Plaza
-419;Hudson River Cafe;697 West 133rd Street;697 W 133rd St
-420;Hurapan Kitchen;29 7th Avenue South;29 7th Ave S
-421;Hurley's;232 West 48th Street;232 W 48th St
-422;Hurricane Island;1303 Third Avenue;1303 3rd Ave
-423;I Trulli;122 East 27th Street;122 E 27th St
-424;II Mulino;86 West 3 Street;86 W 3rd St
-425;Ida Mae Kitchen -n- Lounge;111 West 38th Street;111 W 38th St
-426;Iguana;240 West 54th Street;240 W 54th St
-427;Il Bastardo;191 7th Avenue;191 7th Ave
-428;Il Buco Restaurant;47 Bond Street;47 Bond St
-429;Il Campanello Ristorante;136 West 31 Street;136 W 31st St
-430;Il Cantinori;32 East 10th Street;32 E 10th St
-431;Il Melograno;501 West 51st Street;501 W 51st St
-432;Il Valentino;330 East 56th Street;330 E 56th St
-433;Imperial Dragon;45 West 55th Street;45 W 55th St
-434;In Vino Wine Bar and Restaurant;215 East Fourth Street;215 E 4th St
-435;Inagiku;111 East 49 Street;111 E 49th St
-436;Incredi Fusion;363 Third Avenue;363 3rd Ave
-437;Indian Taj;181 Bleecker Street;181 Bleecker St
-438;Indochine;430 Lafayette Street;430 Lafayette St
-439;Inexpensive;3 East 37th Street;3 E 37th St
-440;Inexpensive;738 8th Avenue;738 8th Ave
-441;Insomnia Cookies;148 West 4th Street;148 West 4th Street
-442;International (Show All);45 Tudor City Place;45 Tudor City Pl
-443;International (Show All);537 9th Avenue;537 9th Ave
-444;International (Show All);19 West 44th Street;19 W 44th St
-445;International (Show All);2315 Broadway;2315 Broadway
-446;International (Show All);45 East 20th Street;45 E 20th St
-447;International (Show All);105 Hudson Street;105 Hudson St
-448;International (Show All);430 Lafayette Street;430 Lafayette St
-449;International (Show All);768 Madison Avenue;768 Madison Ave
-450;Italian (Show All);191 7th Avenue;191 7th Ave
-451;Italian (Show All);355 West 46 Street;355 W 46th St
-452;Italian (Show All);85 10th Avenue;US-NYC-8510
-453;Italian (Show All);45 Tudor City Place;45 Tudor City Pl
-454;Italian (Show All);135 East 62nd Street;135 E 62nd St
-455;Italian (Show All);501 West 51st Street;501 W 51st St
-456;Italian (Show All);2315 Broadway;2315 Broadway
-457;Jack's Luxury Oyster Bar;101 Second Avenue;101 2nd Ave
-458;Jamba Juice;1026 Third Avenue;1026 3rd Ave
-459;Jamba Juice;2341 Broadway;2341 Broadway
-460;Jean Georges;1 Central Park West;1 Central Park West
-461;Jewel Bako;239 East 5th Street;239 E 5th St
-462;Jewel of India;15 West 44th Street;15 W 44th St
-463;Jimmy Sung's;219 East 44th Street;219 E 44th St
-464;JoJo;160 East 64th Street;160 E 64th St
-465;Joe The Art of Coffee;141 Waverly Place;141 Waverly Pl
-466;John's Pizzeria;260 West 44th Street;260 W 44th St
-467;Jojo;160 East 64th Street;160 E 64th St
-468;Josie's Restaurant;565 3rd Avenue;565 3rd Ave
-469;Josie's West;300 Amsterdam Avenue;300 Amsterdam Ave
-470;Jovia;135 East 62nd Street;135 E 62nd St
-471;KFC;301 West 125th Street;301 W 125th St
-472;KFC;One Penn Plaza;1 Pennsylvania Plaza
-473;KFC;1402 Second Avenue;1402 2nd Ave
-474;Kai;22 Madison Avenue;22 Madison Ave
-475;Keens Steakhouse;72 West 36th Street;72 W 36th St
-476;Kellari Taverna;19 West 44th Street;19 W 44th St
-477;Kion;509 East 6th Street;509 E 6th St
-478;Kobe Club;68 West 58th Street;68 W 58th St
-479;Koi;40 West 40th Street;40 W 40th St
-480;Kouzan;685 Amsterdam Avenue;685 Amsterdam Ave
-481;Krispy Kreme;141 West 72nd Street;141 W 72nd St
-482;Kurve;87 2nd Avenue;87 2nd Ave
-483;L'Impero Restaurant;45 Tudor City Place;45 Tudor City Pl
-484;La Belle Vie;184 8th Avenue;184 8th Ave
-485;La Carne Grill;340 Lexington Avenue;340 Lexington Ave
-486;La Giara;501 3rd Avenue;501 3rd Ave
-487;La Goulue Restaurant;746 Madison Avenue;746 Madison Ave
-488;La Grenouille;3 East 52 Street;3 E 52nd St
-489;La Grolla Ristorante;413 Amsterdam Avenue;413 Amsterdam Ave
-490;La Mediterranee;947 Second Avenue;947 2nd Ave
-491;La Rivista;313 West 46th Street;313 W 46th St
-492;La Rosita;2809 Broadway;2809 Broadway
-493;La Zarza;166 First Avenue;166 1st Avenue
-494;Lasaro's;29 East 30th Street;29 E 30th St
-495;Latin, Cuban, Spanish (Show All);1022A Lexington Avenue;1022A Lexington Ave
-496;Latin, Cuban, Spanish (Show All);324 Bowery;324 Bowery
-497;Le Bernardin;155 West 51st Street;155 W 51st St
-498;Le Cirque;151 East 58th Street;151 E 58th St
-499;Le Figaro Cafe;184 Bleecker Street;184 Bleecker St
-500;Le Perigord;405 East 52nd Street;405 E 52nd St
-501;Le Rivage;340 West 46th Street;340 W 46th St
-502;Le Souk;47 Avenue B;47 Avenue B
-503;Lenny's Sub Shop;60 West 48th Street;60 W 48th St
-504;Lenox Room;1278 3rd Avenue;1278 3rd Ave
-505;Little Saigon;374 West 46 Street;374 W 46th St
-506;Lobby Lounge;80 Columbus Circle;80 Columbus Cir
-507;Lomito;300 Spring Street;300 Spring St
-508;Los Dados;73 Gansevoort Street;73 Gansevoort St
-509;Lotus;409 West 14th Street;409 W 14th St
-510;Lou's Cafe;1301 Sixth Avenue;1301 6th Ave
-511;Lucky Cheng's;24 First Avenue;24 1st Avenue
-512;Lucy Latin Kitchen;35 East 18th Street;35 E 18th St
-513;Lunetta;920 Broadway;920 Broadway
-514;Lupa;170 Thompson Street;170 Thompson St
-515;MR CHOW;324 East 57th Street;324 E 57th St
-516;Macao Trading Company;311 Church Street;311 Church St
-517;Maggie Moo's;1437 2nd Avenue;1437 2nd Ave
-518;Maison;1700 Broadway;1700 Broadway
-519;Malaga;406 East 73rd Street;406 E 73rd St
-520;Maloney and Porcelli;37 East 50th Street;37 E 50th St
-521;Manhattan Sky;Park Avenue at Grand Central;Park Avenue at Grand Central
-522;Mara's Homemade;342 East 6th Street;342 E 6th St
-523;Maria Pia Restaurant;319 West 51st Street;319 W 51st St
-524;Marichu Restaurant & Tapas Bar;342 East 46 Street;342 E 46th St
-525;Marseille Restaurant;630 Ninth Avenue;630 9th Ave
-526;Mary Ann's;1503 2nd Avenue;1503 2nd Ave
-527;Mary's Fish Camp;64 Charles Street;64 Charles St
-528;Matador;57 Greenwich Avenue;57 Greenwich Ave
-529;Matsugen;241 Church Street;241 Church St
-530;Maya New York;1191 First Avenue;1191 1st Avenue
-531;McCormick & Schmick's;1285 Avenue of the Americas;1285 6th Ave
-532;McDonald's;Lower Level;New York
-533;McDonald's;2271 Broadway;2271 Broadway
-534;McDonald's;39 Union Square West;39 Union Square W
-535;McDonald's;969 1st Avenue;969 1st Avenue
-536;McDonald's;215 West 125th Street;215 W 125th St
-537;McDonald's;136 West 3rd Street;136 W 3rd St
-538;McDonald's;638 Columbus Avenue;638 Columbus Ave
-539;McDonald's;354 West 125th Street;354 W 125th St
-540;McDonald's;444 Lenox Avenue @ 132Nd;444 Malcolm X Blvd #132Nd
-541;McDonald's;600 West 125th;600 W 125th St
-542;McDonald's;688 8th Avenue;688 8th Ave
-543;McDonald's;79 West 125th Street;79 W 125th St
-544;Mcnulty's Tea & Coffee Company;109 Christopher Street;109 Christopher St
-545;Megu;845 UN Plaza;845 United Nations Plaza
-546;Mercer Kitchen;99 Prince Street;99 Prince St
-547;Merkato 55;55 Gansevoort Street;55 Gansevoort St
-548;Mesa Grill Restaurant;102 Fifth Avenue;102 5th Ave
-549;Meson Sevilla Restaurant;344 West 46th Street;344 W 46th St
-550;Mezzaluna;1295 3rd Avenue;1295 3rd Ave
-551;Mia Dona;206 East 58th Street;206 E 58th St
-552;Michael Jordan's The Steakhouse N.Y.C.;23 Vanderbilt Avenue;23 Vanderbilt Ave
-553;Michael's;24 West 55th Street;24 W 55th St
-554;Mickey Mantle's Restaurant;42 Central Park South;42 Central Park S
-555;Mima's CubanFusion;2056 Second Avenue;2056 2nd Ave
-556;Mindy's Restaurant;212 East 42nd Street;212 E 42nd St
-557;Molyvos;871 7th Avenue;871 7th Ave
-558;Mondello;3 East 37th Street;3 E 37th St
-559;Monica's Gourmet Deli;1603 2nd Avenue;1603 2nd Ave
-560;Morton's, the Steakhouse;551 5th Avenue;551 5th Ave
-561;Mr. Broadway Kosher Deli;1372 Broadway;1372 Broadway
-562;Murals on 54;65 West 54th Street;65 W 54th St
-563;Mustang Grill;1633 2nd Avenue;1633 2nd Ave
-564;Nacho Mama's Burritos;2867 Broadway;2867 Broadway
-565;Nathan's Famous;100 West 33rd Street;100 W 33rd St
-566;Nathan's Famous;705 8th Avenue;705 8th Ave
-567;Natsumi Restaurant;226 West 50th Street;226 W 50th St
-568;Neo Sushi;2298 Broadway;2298 Broadway
-569;Nespresso Boutique Bar;761 Madison Avenue;761 Madison Ave
-570;Nicole's Restaurant;10 East 60th Street;10 E 60th St
-571;Nippon;155 East 52nd Street;155 E 52nd St
-572;Nirvana;30 Central Park South;30 Central Park S
-573;Nobu;105 Hudson Street;105 Hudson St
-574;Nolia;158 Avenue C;158 Loisaida Ave
-575;North West Restaurant;392 Columbus Avenue;392 Columbus Ave
-576;Novecento;343 West Broadway;343 W Broadway
-577;ONE c.p.s.;One Central Park South;One Central Park South
-578;Oceana;55 East 54th Street;55 E 54th St
-579;Old Homestead Steak House;56 9th Avenue;56 9th Ave
-580;Ole Restaurant;434 2nd Avenue;434 2nd Ave
-581;One If by Land Two If by Sea;17 Barrow Street;17 Barrow St
-582;Osteria Gelsi;507-509 9th Ave. at 38th St.;507 9th Ave
-583;Ouest;2315 Broadway;2315 Broadway
-584;Pala;198 Allen Street;198 Allen St
-585;Pampano Restaurant;209 East 49th Street;209 E 49th St
-586;Paola's Restaurant;245 East 84th Street;245 E 84th St
-587;Papa John's;765 8th Avenue;765 8th Ave
-588;Papillon Bistro and Bar;22 East 54th Street;22 E 54th St
-589;Paris Match;29 East 65th Street;29 E 65th St
-590;Park Avenue Cafe;100 East 63rd Street;100 E 63rd St
-591;Park East Grill;1564 2nd Avenue;1564 2nd Ave
-592;Payard Patisserie & Bistro;1032 Lexington Avenue;1032 Lexington Ave
-593;Peacock Alley;301 Park Avenue;301 Park Ave
-594;Pearl Oyster Bar;18 Cornelia Street;18 Cornelia St
-595;Per Se;10 Columbus Circle;10 Columbus Cir
-596;Perilla Restaurant;9 Jones Street;9 Jones St
-597;Petrossian;182 West 58th Street;182 W 58th St
-598;Philippe;35 East 60th Street;35 E 60th St
-599;Picasso;303 East 56th Street;303 E 56th St
-600;Piccolino;8 East 36 Street;8 E 36th St
-601;Picholine;35 West 64th Street;35 W 64th St
-602;Pier 2110;2110 Adam Clayton Powell Jr. Blvd.;2110 Adam Clayton Powell Jr Blvd
-603;Pipa;38 East 19th Street;38 E 19th St
-604;Plantain;20 West 38th Street;20 W 38th St
-605;Pomaire;371 West 46th Street;371 W 46th St
-606;Pongsri Thai Restaurant;244 West 48 Street;244 W 48th St
-607;Popeyes Chicken & Biscuits;1558 3rd Avenue;1558 3rd Ave
-608;Primitivo Osteria;202 West 14th Street;202 W 14th St
-609;Public House;140 East 41st Street;140 E 41st St
-610;Pure Food and Wine;54 Irving Place;54 Irving Pl
-611;R & G Deli;348 West 36th Street;348 W 36th St
-612;Rain West;100 West 82nd Street;100 W 82nd St
-613;Rainbow Room Grill;30 Rockefeller Plaza;30 Rockefeller Plaza
-614;Red Lobster;5 Times Square;Five Times Square
-615;Regional;2607 Broadway;2607 Broadway
-616;Rene Pujol Restaurant;321 West 51st Street;321 W 51st St
-617;Restaurant Carlyle;35 East 76th Street;35 E 76th St
-618;Restaurant Charlotte;145 West 44th Street;145 W 44th St
-619;Rock Center Cafe;20 West 50th Street;20 W 50th St
-620;Rosa Mexicano;1063 1st Avenue;1063 1st Avenue
-621;Rosa Mexicano Lincoln Center;61 Columbus Avenue;61 Columbus Ave
-622;Rosanjin;141 Duane Street;141 Duane St
-623;Rosie O'Grady's;149 West 46th Street;149 W 46th St
-624;Roth's Westside Steakhouse;680 Columbus Avenue;680 Columbus Ave
-625;Roy's New York;Manhattan · 130 Washington St.;130 Washington St
-626;Ruby Foo's;1626 Broadway;1626 Broadway
-627;Ruth's Chris Steak House;148 West 51st Street;148 W 51st St
-628;Sable's;1489 2nd Avenue;1489 2nd Ave
-629;Sabora Mexico;1744 1st Avenue;1744 1st Avenue
-630;Sakagura Restaurant;211 East 43rd Street;211 E 43rd St
-631;Salmon River;3 East 40th Street;3 E 40th St
-632;San Domenico;240 Central Park South;240 Central Park S
-633;San Luigi's;311 Amsterdam Avenue;311 Amsterdam Ave
-634;San Martin Restaurant;143 East 49th Street;143 E 49th St
-635;Sangria 46;338 West 46th Street;338 W 46th St
-636;Sapa;43 West 24th Street;43 W 24th St
-637;Sapphire Restaurant;1845 Broadway;1845 Broadway
-638;Sardi's;234 West 44th Street;234 W 44th St
-639;Saurin Parke Cafe;301 West 110th Street;301 W 110th St
-640;Scaletta Restaurant;50 West 77th Street;50 W 77th St
-641;Sea Grill;19 West 49th Street;19 W 49th St
-642;Seppi's;123 West 56th Street;123 W 56th St
-643;Serafina's;210 West 55th Street;210 W 55th St
-644;Shinbashi;7 East 48th Street;7 E 48th St
-645;Shrimp Box;62 West 125th Street;62 W 125th St
-646;Shula's Steak House;270 W. 43rd St. at 8th Ave.;270 W 43rd St
-647;Shun Lee Cafe;43 West 65th Street;43 W 65th St
-648;Shun Lee Palace;155 East 55th Street;157 E 55th St
-649;Shun Lee West;43 West 65th Street;43 W 65th St
-650;Siam Inn Too;854 Eighth Avenue;854 8th Ave
-651;Silverleaf Tavern;43 East 38th Street;43 E 38th St
-652;Smith & Wollensky;797 Third Avenue;797 3rd Ave
-653;Smoke Jazz Club;2751 Broadway;2751 Broadway
-654;Solera;216 East 53rd Street;216 E 53rd St
-655;Solo Restaurant;550 Madison Avenue;550 Madison Ave
-656;Sombrero;303 West 48th Street;303 W 48th St
-657;Sombrero Mexican;303 West 48th Street;303 W 48th St
-658;Son Cubano Restaurant;405 West 14th Street;405 W 14th St
-659;Sosa Borella;832 8th Avenue;832 8th Ave
-660;Southern Hospitality BBQ;1460 Second Avenue;1460 2nd Ave
-661;Spice Market;403 West 13th Street;403 W 13th St
-662;St. Andrews Restaurant;120 West 44th Street;120 W 44th St
-663;Stage Delicatessen;834 7th Avenue;834 7th Ave
-664;Star Diner;839 Seventh Avenue;839 7th Ave
-665;Starbucks;152-154 Columbus Avenue;152-154 Columbus Ave
-666;Starbucks;1460 Broadway;1460 Broadway
-667;Starbucks Coffee;875 Sixth Avenue;875 6th Ave
-668;Starbucks Coffee;21 East 8th Street;21 E 8th St
-669;Starbucks Coffee;195 Broadway;195 Broadway
-670;Starbucks Coffee;1128 Third Avenue;1128 3rd Ave
-671;Starbucks Coffee;10 Union Square East;10 Union Square E
-672;Starbucks Coffee;One Penn Plaza;1 Pennsylvania Plaza
-673;Starbucks Coffee;3 Park Avenue;3 Park Avenue
-674;Starbucks Coffee;540 Columbus Avenue;540 Columbus Ave
-675;Starbucks Coffee;455 Main Street;455 Main St
-676;Starbucks Coffee;233 Broadway;233 Broadway
-677;Starbucks Coffee;76 9th Avenue;76 9th Ave
-678;Starbucks Coffee;750 6th Avenue;750 6th Ave
-679;Starbucks Coffee;2929 Broadway;2929 Broadway
-680;Starbucks Coffee;79 Washington Square;79 Washington Square E
-681;Starbucks Coffee;72 Grove Street;72 Grove St
-682;Starbucks Coffee;2 Broadway;2 Broadway
-683;Starbucks Coffee;725 5th Avenue;725 5th Ave
-684;Starbucks Coffee;2252 Broadway;2252 Broadway
-685;Starbucks Coffee;77-83 West 125th Street;77 W 125th St
-686;Starbucks Coffee;280 Park Avenue;280 Park Ave
-687;Starbucks Coffee;230 Park Avenue;The Helmsley Building
-688;Starbucks Coffee;125 Park Avenue;125 Park Ave
-689;Starbucks Coffee;30 Rockefeller Plaza;30 Rockefeller Plaza
-690;Starbucks Coffee;545 Fifth Avenue;545 5th Ave
-691;Starbucks Coffee;565 Fifth Avenue;565 5th Ave
-692;Starbucks Coffee;1021 Third Avenue;1021 3rd Ave
-693;Starbucks Coffee;41 Union Square West;41 Union Square W
-694;Starbucks Coffee;1378 Madison Avenue;1378 Madison Ave
-695;Starbucks Coffee;1642 Third Avenue;1642 3rd Ave
-696;Starbucks Coffee;120 East 87th Street;120 E 87th St
-697;Starbucks Coffee;1515 York Avenue;1515 York Ave
-698;Starbucks Coffee;1449 Second Avenue;1449 2nd Ave
-699;Starbucks Coffee;444 Columbus Avenue;444 Columbus Ave
-700;Starbucks Coffee;1559 2nd Avenue;1559 2nd Ave
-701;Starbucks Coffee;684 Eighth Avenue;684 8th Ave
-702;Starwich;525 West 42nd Street;525 W 42nd St
-703;Steak & Seafood (Show All);Inside Battery Park;Inside Battery Park
-704;Steak & Seafood (Show All);885 Second Avenue;885 2nd Ave
-705;Steak & Seafood (Show All);147 West 43rd Street;147 W 43rd St
-706;Steak Frites;9 East 16th Street;9 E 16th St
-707;Steak Frites;225 Varick Street;225 Varick St
-708;Stone Rose;10 Columbus Circle;10 Columbus Cir
-709;Stout NYC;133 West 33rd Street;133 W 33rd St
-710;Strada 57 Ristorante;315 West 57th Street;315 W 57th St
-711;Strip House - New York;13 East 12th Street;13 E 12th St
-712;Subway;112 John Street;112 John St
-713;Subway;475 Columbus Avenue;475 Columbus Ave
-714;Subway;2458 Broadway;2458 Broadway
-715;Subway;124 West 72nd Street;124 W 72nd St
-716;Subway;48 West 125th Street;48 W 125th St
-717;Subway;578 West 125th Street;578 W 125th St
-718;Subway;30 Rockefeller Plaza;30 Rockefeller Plaza
-719;Subway;1585 3rd Avenue;1585 3rd Ave
-720;Subway;901 Avenue Of The Americas;901 6th Ave
-721;Subway;8 East 41st Street;8 E 41st St
-722;Subway;1411 2nd Avenue;1411 2nd Ave
-723;Subway;237 Park Avenue;237 Park Ave
-724;Subway;900 Main Street;900 Main St
-725;Subway;29 East 8th Street;29 E 8th St
-726;Subway;401 8th Avenue;401 8th Ave
-727;Subway;221 7th Avenue;221 7th Ave
-728;Subway;765 8th Avenue;765 8th Ave
-729;Subway;106 Greenwich Street;106 Greenwich St
-730;Subway;139 East 47th Street;139 E 47th St
-731;Subway;89 Worth Street;89 Worth St
-732;Subway;705 8th Avenue;705 8th Ave
-733;Subway;165 Church Street;165 Church St
-734;Subway;561 Tenth Avenue;561 Amsterdam Ave
-735;Subway;1776 2nd Avenue;1776 2nd Ave
-736;Subway;1171 2nd Avenue;1171 2nd Ave
-737;Subway;1613 2nd Avenue;1613 2nd Ave
-738;Subway;113 Lafayette Street;113 Lafayette St
-739;Sukhothai West;411 West 42 Street;411 W 42nd St
-740;Sushi Zen;57 West 46 Street;57 W 46th St
-741;Sushisamba Park;245 Park Avenue South;245 Park Ave S
-742;Tagine Dining Gallery;537 9th Avenue;537 9th Ave
-743;Tal Bagels;977 1st Avenue;977 1st Avenue
-744;Talay Restaurant;701 West 135th Street;701 W 135th St
-745;Talia's Steakhouse & Bar;668 Amsterdam Avenue;668 Amsterdam Ave
-746;Tao;42 East 58th Street;42 E 58th St
-747;Taqueria California;3151 Broadway;3151 Broadway
-748;Taste D-lite;146 West 72nd Street;146 W 72nd St
-749;Tavern on the Green;1 West 67th Street;1 W 67th St
-750;Terrace 5;11 West 53 Street;11 W 53rd St
-751;Texas Texas;1600 Broadway;1600 Broadway
-752;Thalassa;179 Franklin Street;179 Franklin St
-753;The Cafe Carlyle;35 East 76th Street;35 E 76th St
-754;The Center Room;W. 64th St. and Columbus Ave.;20 W 64th St
-755;The Gamut Bistro & Lounge;102 East 25th Street;102 E 25th St
-756;The Mermaid Inn;96 2nd Avenue;96 2nd Ave
-757;The Modern;11 West 53 Street;11 W 53rd St
-758;The Modern Dining Room;9 West 53rd Street;9 W 53rd St
-759;The Neptune Room;511 Amsterdam Avenue;511 Amsterdam Ave
-760;The Parlour;250 W. 86th Street;250 W 86th St
-761;The Post House;28 East 63rd Street;28 E 63rd St
-762;The Pump Energy Food;113 East 31st Street;113 E 31st St
-763;The Rainbow Room;30 Rockefeller Plaza;30 Rockefeller Plaza
-764;The Sea Grill Restaurant;19 West 49th Street;19 W 49th St
-765;The Stanton Social;99 Stanton Street;99 Stanton St
-766;The Steakhouse at Monkey Bar;60 East 54th Street;60 E 54th St
-767;The Sugar Bar;254 West 72nd Street;254 W 72nd St
-768;The Tasting Room;264 Elizabeth Street;264 Elizabeth St
-769;The Terrace In The Sky;400 West 119th Street;Butler Hall
-770;The View Restaurant;1535 Broadway;1535 Broadway
-771;The Water Club;The E. River at 30th St.;E 30th St
-772;Think Coffee;248 Mercer Street;248 Mercer St
-773;Tocqueville;1 East 15th Street;1 E 15th St
-774;Toloache;251 West 50th Street;251 W 50th St
-775;Tony's Burger;34 East 32nd Street;34 E 32nd St
-776;Tony's Di Napoli;1606 2nd Avenue;1606 2nd Ave
-777;Tony's Di Napoli Midtown;147 West 43rd Street;147 W 43rd St
-778;Town;15 West 56th Street;15 W 56th St
-779;Trata Estiatorio;1331 2nd Avenue;1331 2nd Ave
-780;Trattoria Dopo Teatro;125 West 44th Street;125 W 44th St
-781;Trattoria Pesce Pasta;536 Ninth Avenue;536 9th Ave
-782;Trattoria Sambuca;20 West 72nd Street;20 W 72nd St
-783;Tribeca Grill;375 Greenwich Street;375 Greenwich St
-784;Uncle Jack's Steakhouse;440 9th Avenue;440 9th Ave
-785;Uncle Nick's;747 9th Avenue;747 9th Ave
-786;Uncle Nick's West Village;569 Hudson Street;569 Hudson St
-787;Urena;37 East 28th Street;37 E 28th St
-788;Utsav Festive India;1185 Ave. of the Americas / 6th Avenue;1185 6th Ave #6th
-789;Vela;55 West 21st Street;55 W 21st St
-790;Veritas;45 East 20th Street;45 E 20th St
-791;Via Brasil;34 West 46 Street;34 W 46th St
-792;Victor's Cafe;236 West 52nd Street;236 W 52nd St
-793;Vince and Eddie's;212-580-8700 · Expensive;212-580-8700 · Expensive
-794;Vintage Irving;118 East 15th Street;118 E 15th St
-795;Virgil's Real BBQ;152 West 44th Street;152 W 44th St
-796;Viva Pancho;156 West 44th Street;156 W 44th St
-797;Vong;200 East 54th Street;200 E 54th St
-798;Waikiki Wally's;101 East 2nd Street;101 E 2nd St
-799;Wakiya;Two Lexingtron Avenue;569 Lexington Ave
-800;Wave Sushi At Caviar Russe;538 Madison Avenue;538 Madison Ave
-801;Wendy's;85 Nassau Street;85 Nassau St
-802;White Castle;2092-2094 7th Avenue;2092 7th Ave
-803;Windfall Lounge and Grill;23 West 39th Street;23 W 39th St
-804;Windows Over Harlem;163 West 125th Street;Adam Clayton Powell Jr. State Office Building
-805;Wok N' Roll;705 8th Avenue At 44 Street;705 8th Ave
-806;Wu Liang Ye;36 West 48th Street;36 W 48th St
-807;Zarela;953 Second Avenue;953 2nd Ave
-808;Ze Nitln;311 West 48th Street;311 W 48th St
-809;Zen Palate;34 Union Square East;34 Union Square E
-810;Zerza;304 East 6th Street;304 E 6th St
-811;Zocalo at Grand Central;109 East 42nd Street;109 E 42nd St
-812;Zona Rosa;40 West 56th Street;40 W 56th St
-813;Zorzi;One East 35th Street;One East 35th Street
+restaurant;address;addressGoogle
+1 Nocello;257 West 55th Street;257 W 55th St
+10 Downing Food and Wine;10 Downing Street;10 Downing St
+2 West;2 West Street;2 West St
+21 Club;21 West 52nd Street;21 W 52nd St
+212 Restaurant & Bar;133 East 65th Street;133 E 65th St
+3 J's Pizza;1603 2nd Avenue;1603 2nd Ave
+44 Restaurant;44 West 44th Street;44 W 44th St
+5 Brothers Gourmet Market;689 10th Avenue;689 10th Ave
+5 Ninth Restaurant;5 Ninth Avenue;5 9th Ave
+88 Noodle & Oriental House;565 Columbus Avenue;565 Columbus Ave
+A Slice of New York;727 8th Avenue;727 8th Ave
+A Voce;41 Madison Avenue;41 Madison Ave
+A.J Maxwells - Steakhouse;57 West 48 Street;57 W 48th St
+Abboccato Restaurant;136 West 55th Street;136 W 55th St
+Abitino's;947 1st Avenue;947 1st Avenue
+Above;234 West 42nd Street;234 W 42nd St
+Accademia Di Vino;1081 Third Avenue;1081 3rd Ave
+Acqua Pazza;36 West 52nd Street;36 W 52nd St
+Ada;208 East 58th Street;208 E 58th St
+Adour Alain Ducasse;Two East 55th Street;Two E 55th St
+Adrienne's Pizzabar;54 Stone Street;54 Stone St
+Agata & Valentina Ristorante;1513 First Avenue;1513 1st Avenue
+Agave;140 7th Avenue South;140 7th Ave
+Ago Restaurant;377 Greenwich Street;377 Greenwich St
+Agozar;324 Bowery;324 Bowery
+Aix Restaurant;2398 Broadway;2398 Broadway
+Aja;1068 First Avenue;1068 1st Avenue
+Aja Asian Bistro and Lounge;432 6th Avenue;432 6th Ave
+Aki Sushi;1425 York Avenue;1425 York Ave
+Aki Sushi West;128 West 36th Street;128 W 36th St
+Akita Sushi;1771 1st Avenue;1771 1st Avenue
+Al Forno;1484 2nd Avenue;1484 2nd Ave
+Alamo Restaurant;304 East 48th Street;304 E 48th St
+Alcala;342 East 46th Street;342 E 46th St
+Aleo Restaurant;7 West 20th Street;7 W 20th St
+Alfama;551 Hudson Street;551 Hudson St
+Alfredo of Rome;4 West 49th Street;4 W 49th St
+Allegretti;46 West 22nd Street;46 W 22nd St
+Allen and Delancey;115 Allen Street;115 Allen St
+Alloro;307 East 77th Street;307 E 77th St
+Alonso's Steakhouse;265 West 20th Street;265 W 20th St
+Alto Restaurant;520 Madison Avenue;520 Madison Ave
+Ama;48 Macdougal Street;48 MacDougal St
+Amalia;204 West 55th Street;204 W 55th St
+Ambassador Grill;1 United Nations Plaza;1 United Nations Plaza
+Amber;1406 3rd Avenue;1406 3rd Ave
+American (Show All);9 Jones Street;9 Jones St
+American (Show All);Inside Battery Park;Inside Battery Park
+American (Show All);116 East 16th Street;116 E 16th St
+American (Show All);152 West 52nd Street;152 W 52nd St
+American (Show All);885 Second Avenue;885 2nd Ave
+American (Show All);2315 Broadway;2315 Broadway
+American (Show All);45 East 20th Street;45 E 20th St
+American Burger Co.;100 West 32nd Street;100 W 32nd St
+American Gourmet Foods Deli;831 6th Avenue;831 6th Ave
+American Spirits Grill;1744 2nd Avenue;1744 2nd Ave
+Amma;246 East 51st Street;246 E 51st St
+Ammos Estiatorio;52 Vanderbilt Avenue;52 Vanderbilt Ave
+Amor Cubano;2018 Third Avenue;2018 3rd Ave
+Amsterdam Restaurant & Tapas Lounge;1207 Amsterdam Avenue;1207 Amsterdam Ave
+Angelo & Maxie's;233 Park Avenue;233 Park Ave
+Annisa Restaurant;13 Barrow Street;13 Barrow St
+Antonucci's;170 East 81 Street;170 E 81st St
+Any Time Cafe;17 John Street;17 John St
+Aoki;234 West 48th Street;234 W 48th St
+Apiary;60 3rd Avenue;60 3rd Ave
+Apizz;217 Elridge Street;217 Eldridge St
+Aquavit;65 East 55th Street;65 E 55th St
+Arabelle at the Hotel Plaza Athenee;37 East 64th Street;37 E 64th St
+Arby's;100 West 33rd Street;100 W 33rd St
+Archipelago SoHo;333 Hudson Street;333 Hudson St
+Arriba Arriba! - East;1463 Third Avenue;1463 3rd Ave
+Arte Cafe;106 West 73rd Street;106 W 73rd St
+Artisanal;2 Park Avenue;2 Park Ave
+Asia Grill;1239 2nd Avenue;1239 2nd Ave
+Asia de Cuba New York;237 Madison Avenue;237 Madison Ave
+Asiana Restaurant and Bar;120 East 34th Street;120 E 34th St
+Asiate;80 Columbus Cir. at 60th St.;80 Columbus Cir
+Aspen;30 West 22nd Street;30 W 22nd St
+Aspen Social Club;157 West 47th Street;157 W 47th St
+Astor Court;2 East 55th Street;2 E 55th St
+Atomic Wings;528 9th Avenue;528 9th Ave
+Atomic Wings;1644 3rd Avenue;1644 3rd Ave
+Atomic Wings at Down the Hatch;179 West 4th Street;179 West 4th Street
+Auntie Anne's Pretzels;664 8th Avenue;664 8th Ave
+Aureole;34 East 61st Street;34 E 61st St
+Aurora;510 Broome Street;510 Broome St
+Avi and David's;1046 3rd Avenue;1046 3rd Ave
+Avra Estiatorio;141 East 48th Street;141 E 48th St
+Azafran;77 Warren Street;77 Warren St
+Azza;137 E. 55th St. at Lexington;136E E 55th St
+B & T Supreme Pizza;132 East 86th Street;132 East 86th St
+B. Cafe;240 East 75th Street;240 E 75th St
+B. Smith's Restaurant Row;320 West 46th Street;320 W 46th St
+BLT Fish Bistro Laurent Tourondel;21 West 17th Street;21 W 17th St
+BLT Fish Bistro Laurent Tourondel;111 East 22nd Street;111 E 22nd St
+BLT Market;1430 Avenue of the Americas;1430 6th Ave
+BLT Steak, Bistro Laurent Tourondel;106 East 57th Street;106 E 57th St
+Babbo;110 Waverly Place;110 Waverly Pl
+Babouche SoHo;92 Prince Street;92 Prince St
+Bagel & Bean;828 7th Avenue;828 7th Ave
+Bagicha;226 West 79th Street;226 W 79th St
+Baldoria;249 West 49th Street;249 W 49th St
+Baluchi's West 56th Street;240 West 56th Street;240 W 56th St
+Banana Leaf;103 Lexington Avenue;103 Lexington Ave
+Bangkok House;360 West 360 46th Street;360 W 43rd St
+Bann;350 West 50th Street;350 W 50th St
+Bar Americain;152 West 52nd Street;152 W 52nd St
+Bar Blanc;142 West 10th Street;142 W 10th St
+Bar Boulud;1900 Broadway;1900 Broadway
+Bar Q;308-310 Bleecker Street;308 Bleecker St
+Bar Stuzzichini;928 Broadway;928 Broadway
+Baraonda;1439 Second Avenue;1439 2nd Ave
+Barbetta;321 West 46th Street;321 W 46th St
+Barbounia;250 Park Avenue South;250 Park Ave S
+Barbuto Restaurant;775 Washington Avenue;775 Washington St
+Barking Dog;1453 York Avenue;1453 York Ave
+Barna;365 Park Avenue South;365 Park Ave S
+Barocco Kitchen;42 Union Square East;42 Union Square E
+Baton Rouge Restaurant & Lounge;458 West 145th Street;458 W 145th St
+Battery Gardens Restaurant;Inside Battery Park;Inside Battery Park
+Beacon Restaurant;25 West 56th Street;25 W 56th St
+Becco;355 West 46 Street;355 W 46th St
+Beijing Wok Restaurant;1324 2nd Avenue;1324 2nd Ave
+Bella Blu;967 Lexington Avenue;967 Lexington Ave
+Bella Luna;584 Columbus Avenue;584 Columbus Ave
+Bellavitae;24 Minetta Lane;24 Minetta Ln
+Bellini;208 East 52nd Street;208 E 52nd St
+Bello Sguardo;410 Amsterdam Avenue;410 Amsterdam Ave
+Belluno;340 Lexington Avenue;340 Lexington Ave
+Ben & Jerry's;Grand Central Terminal;89 E 42nd St
+Ben & Jerry's;680 8th Avenue;680 8th Ave
+Ben Benson's;123 West 52 Street;123 W 52nd St
+Ben's Kosher Delicatessen;2099 West 38 Street;W 38th St
+Benihana Japanese Steak House;47 West 56th Street;47 W 56th St
+Benjamin Steakhouse;Manhattan · 52 East 41 Street;52 E 41st St
+Bergdorf Goodman;2 West 58th Street;2 W 58th St
+Berger's Delicatessen;44 West 47 Street;44 W 47th St
+Best Pizza;1038 1st Avenue;1038 1st Avenue
+Big Nick;2175 Broadway;2175 Broadway
+Big Nick's Burger Joint and Pizza Joint;2175 Broadway;2175 Broadway
+Bistecca Fiorentina;317 West 46th Street;317 W 46th St
+Bistro Chat Noir;22 East 66th Street;22 E 66th St
+Bistro Desaret;227 East 56th Street;227 E 56th St
+Bistro Les Amis;180 Spring Street;180 Spring St
+Bistro Milano;1350 Avenue of the Americas;1350 6th Ave
+Bivio Restaurant;637 Hudson Street;637 Hudson St
+Blair Perrone Steak House;885 Second Avenue;885 2nd Ave
+Blockhead's Burritos;499 3rd Avenue;499 3rd Ave
+Blue Hill;75 Washington Place;75 Washington Pl
+Blue Smoke;116 East 27th Street;116 E 27th St
+Bobby Van's Steakhouse;25 Broad Street;25 Broad St
+Bobby Van's Steakhouse;131 East 54th Street;131 E 54th St
+Bobby Van's Steakhouse;230 Park Ave. at 46th St.;230 Park Ave
+Bocca Restaurant;39 East 19th Street;39 E 19th St
+Bocca di Bacco;828 Nineth Avenue;828 9th Ave
+Body Restaurant and Lounge Harlem;701 West 135th Street;701 W 135th St
+Bolo Restaurant & Bar;23 East 22nd Street;23 E 22nd St
+Bond Street;6 Bond Street;6 Bond St
+Boom Restaurant;152 Spring Street;152 Spring St
+Borgo Antico;22 East 13th Street;22 E 13th St
+Bottega Del Vino;7 East 59th Street;7 E 59th St
+Bottino Restaurant;246 10th Avenue;246 10th Ave
+Bouley Bakery Restaurant;120 West Broadway;120 W Broadway
+Braai;329 West 51st Street;329 W 51st St
+Braeburn Restaurant;117 Perry Street;117 Perry St
+Brasserie 52;772 9th Avenue;772 9th Ave
+Brasserie Cognac;1740 Broadway;1740 Broadway
+Brasserie Julien;1422 Third Avenue;1422 3rd Ave
+Brasserie Ruhlmann;45 Rockefeller Plaza;45 Rockefeller Plaza
+Brazil Brazil;330 West 46th Street;330 W 46th St
+Brazil Grill;787 8th Avenue;787 8th Ave
+Brian Deli;153 Amsterdam Avenue;153 Amsterdam Ave
+Brick Lane Curry House;306-308 East 6th Street;306 E 6th St #308
+Broadway Joe Steakhouse;315 West 46 Street;315 W 46th St
+Brother Jimmy's;181 Lexington Avenue;181 Lexington Ave
+Brother Jimmy's;1644 3rd Avenue;1644 3rd Ave
+Bryant Park Grill;25 West 40th Street;25 W 40th St
+Bubble Lounge;228 West Broadway;228 W Broadway
+Buddha Bar;25 Little West 12th Street;25 Little W 12th St
+Bull Run;52 William Street;52 William St
+Burger King;130 West 125th Street;130 W 125th St
+Burger King;226 East 86th Street;226 East 86th St
+Burger King;485 5th Avenue;485 5th Ave
+Burger King;129 East 47th Street;129 E 47th St
+Burger King;182 Broadway;182 Broadway
+Burger King;146 Delancey Street;146 Delancey St
+Burritoville;1487 2nd Avenue;1487 2nd Ave
+Butai;115 East 18th Street;115 E 18th St
+Butter;415 Lafayette Street;415 Lafayette St
+Buzina Pop;1022A Lexington Avenue;1022A Lexington Ave
+Cabana Carioca;123 West 45th Street;123 W 45th St
+Cafe 82;2282 Broadway;2282 Broadway
+Cafe Cluny;284 West 12th Street;284 W 12th St
+Cafe D' Alsace;1695 2nd Avenue;1695 2nd Ave
+Cafe Du Soleil;2723 Broadway Avenue;2723 Broadway
+Cafe Espanol;172 Bleecker Street;172 Bleecker St
+Cafe Frida;368 Columbus Avenue;368 Columbus Ave
+Cafe Gray;10 Columbus Circle;10 Columbus Cir
+Cafe Lalo;201 West 83 Street;201 W 83rd St
+Cafe Luxembourg;200 West 70th;200 W 70th St
+Cafe On Broadway;2350 Broadway;2350 Broadway
+Cafe Pierre;5th Avenue at 61 Street;5th Ave & E 61st St
+Cafe Socialista;505 West Street;505 W 37th St
+Cafe St. Bart's;109 East 50th Street;109 E 50th St
+Cafetasia;38 East 8th Street;38 E 8th St
+Caffe Grazie;26 East 84th Street;26 E 84th St
+Caffe Palermo;148 Mulberry Street;148 Mulberry St
+Calico Jack's Cantina;800 Second Avenue;800 2nd Ave
+Calle Ocho;446 Columbus Avenue;446 Columbus Ave
+Candela;116 East 16th Street;116 E 16th St
+Candle 79;154 East 79th Street;154 E 79th St
+Cannonau;205 East 4th Street;205 E 4th St
+Canyon Road;1470 1st Avenue;1470 1st Avenue
+Capital Grille New York City;155 East 42nd Street;155 E 42nd St
+Cara Mia;654 9th Avenue;654 9th Ave
+Carmine's;2450 Broadway;2450 Broadway
+Carne Vale;46 Avenue B;46 Avenue B
+Caroline's Comedy Nation Restaurant;1626 Broadway;1626 Broadway
+Carve Unique Sandwiches;760 8th Avenue;760 8th Ave
+Casa Brasil;316 East 53 Street;316 E 53rd St
+Casaville;633 Second Avenue;633 2nd Ave
+Cascina Ristorante;647 Ninth Avenue;647 9th Ave
+Caviar & Banana Brasserio;12 East 22nd Street;12 E 22nd St
+Center Cut;44 West 63rd Street;44 W 63rd St.
+Centovini;25 West Houston Street;25 W Houston St
+Central Park BoatHouse;E. 72nd St. and Park Dr. N.;Park Ave & E 72nd St
+Centrico;211 West Broadway;211 W Broadway
+Centro Vinoteca;74 Seventh Avenue;74 7th Ave
+Cesca Restaurant;164 West 75th Street;164 W 75th St
+Chanterelle;2 Harrison Street;2 Harrison St
+Chanto;133 Seventh Avenue South;133 7th Ave S
+Charley's Grilled Subs;100 West 33rd Street;100 W 33rd St
+Charlie Palmer's Metrazur;404 Grand Central Terminal, 42nd St.;89 E 42nd St
+Chef Roland's;1354 Amsterdam Avenue;1354 Amsterdam Ave
+Chez Jacqueline;72 MacDougal Street;72 MacDougal St
+Chin Chin;216 East 49th Street;216 E 49th St
+China 1 Restaurant & Lounge;50 Avenue B;50 Avenue B
+China Evian;144 West 46 Street;144 W 46th St
+China Grill New York;60 West 53rd Street;60 W 53rd St
+China Moon;7 East 47 Street;7 E 47th St
+China Place;3141 Broadway At W. 123rd St.;3141 Broadway At W. 123rd St.
+China Regency;850 Seventh Avenue;850 7th Ave
+Chinatown Brasserie;380 Lafayette Street;380 Lafayette St
+Chinese Mirch;120 Lexington Avenue;120 Lexington Ave
+Chipotle Mexican Grill;55 East 8th Street;55 E 8th St
+Chipotle Mexican Grill;129 West 48th Street;129 W 48th St
+Chop Suey;714 Seventh Avenue;714 7th Ave
+Chubo Restaurant;6 Clinton Street;6 Clinton St
+Chumley's;86 Bedford Street;86 Bedford St
+Churrascaria Plataforma;316 West 49 Street;316 W 49th St
+Ciaobella Ristorante Lounge;1640 2nd Avenue;1640 2nd Ave
+Cibo;767 Second Avenue;767 2nd Ave
+Cinco De Mayo;1711 2nd Avenue;1711 2nd Ave
+Cinnabon;901 Avenue Of The Americas;901 6th Ave
+Ciro Trattoria;813 8th Avenue;813 8th Ave
+Cite;120 West 51st Street;120 W 51st St
+Citrus Bar & Grill;320 Amsterdam Avenue;320 Amsterdam Ave
+City Crab & Seafood Company;235 Park Avenue South;235 Park Ave S
+City Hall;131 Duane Street;131 Duane St
+City Lobster & Crab Company;121 West 49th Street;121 W 49th St
+City Winery;155 Varick Street;155 Varick St
+Claudio Pizzeria;598 10th Avenue;598 10th Ave
+Coffee & Desserts (Show All);195 Grand Street;195 Grand St
+Cold Stone Creamery;1651 Second Avenue;1651 2nd Ave
+Colors;417 Lafayette Street;417 Lafayette St
+Columbus Bakery;474 Columbus Avenue;474 Columbus Ave
+Columbus Cafe;556 Columbus Avenue;556 Columbus Ave
+Compass Restaurant New York;208 West 70th Street;208 W 70th St
+Concord Garden Chinese & Thai Cuisine;990 Amsterdam Avenue;990 Amsterdam Ave
+Conservatory;15 Central Park West;15 Central Park West
+Cookshop;156 10th Avenue;156 10th Ave
+Cooper's Tavern;481 Eighth Avenue;481 8th Ave
+Core One Nine One;191 Orchard Street;191 Orchard St
+Cornelia Street Cafe;29 Cornelia Street;29 Cornelia St
+Cosi;54 Pine Street;54 Pine St
+Cosi;2160 Broadway;2160 Broadway
+Cosi;61 West 48th Street;61 W 48th St
+Cosi;700 6th Avenue;700 6th Ave
+Cosi;257 Park Avenue;257 Park Ave
+Counter;105 First Avenue;105 1st Avenue
+Country;90 Madison Avenue;90 Madison Ave
+Craft Restaurant;43 East 19th Street;43 E 19th St
+Craftbar;900 Broadway;900 Broadway
+Craftsteak;85 Tenth Avenue;85 10th Ave
+Crema Restaurante;111 West 17th Street;111 W 17th St
+Crispo;240 West 14th Street;240 W 14th St
+Croton Reservoir Tavern;108 West 40th Street;108 W 40th St
+Cru Restaurant;24 5th Avenue;24 5th Ave
+Cub Room;131 Sullivan Street;131 Sullivan St
+Cuba;222 Thompson Street;222 Thompson St
+Cuba Cafe;200 8th Avenue;200 8th Ave
+D and S Pizza;691 10th Avenue;691 10th Ave
+DB Bistro Moderne;55 West 44th Street;55 W 44th St
+Da Marino;220 West 49th Street;220 W 49th St
+Da Nico Ristorante;164 Mulberry Street;164 Mulberry St
+Dalga Seafood Grill;401 East 62nd Street;401 E 62nd St
+Daniel;60 East 65th Street;60 E 65th St
+Danny's Grand Sea Palace;346 West 46th Street;346 W 46th St
+Danube;30 Hudson Street;30 Hudson St
+Davidburke & Donatella;133 East 61st Street;133 E 61st St
+Decade;1117 1st Avenue;1117 1st Avenue
+Del Frisco's of New York;1221 Avenue of the Americas;1221 Avenue of the Americas
+Del Posto Ristorante;85 10th Avenue;85 10th Ave
+Delicatessen;54 Prince Street;54 Prince St
+Delmonico's;56 Beaver Street;56 Beaver St
+Destino;891 1st Avenue;891 1st Avenue
+Dinosaur Bar B Que;646 West 131st Street;646 W 131st St
+Dip Cafe;416 Third Avenue;416 3rd Ave
+Dirt Candy;430 East 9th Street;430 E 9th St
+District;130 West 46th Street;130 W 46th St
+Divalicious Chocolate! Cafe;365 Broome Street;365 Broome St
+Divertimento Bistro;432 East 13th Street;432 E 13th St
+Domenico's;120 East 40th Street;120 E 40th St
+Domino's Pizza;943 1st Avenue;943 1st Avenue
+Domino's Pizza;799 East 13th Street;799 E 13th St
+Donguri;309 East 83rd Street;309 E 83rd St
+Dovetail;103 West 77th Street;103 W 77th St
+Duke's;560 Third Avenue;560 3rd Ave
+Dunkin Doughnuts;132 Nassau Street;132 Nassau St
+Dunkin' Donuts;105 West 125th Street;105 W 125th St
+Dunkin' Donuts;1391 Madison Avenue;1391 Madison Ave
+Dunkin' Donuts;1630 Madison Avenue;1630 Madison Ave
+Dunkin' Donuts;15 Penn Plaza;15 Pennsylvania Plaza
+Dunkin' Donuts;1024 1st Avenue;1024 1st Avenue
+Dylan Prime;62 Laight Street;62 Laight St
+EN Japanese Brasserie;435 Hudson Street;435 Hudson St
+Earl's Restaurant Bar;560 3rd Avenue;560 3rd Ave
+Earth;116A 10th Avenue;116A 10th Ave
+East Bay;491 1st Avenue;491 1st Avenue
+East River Cafe;1111 First Avenue;1111 1st Avenue
+Eighty One;45 West 81st Street;45 W 81st St
+El Azteca;783 Ninth Avenue;783 9th Ave
+El Parador;325 East 34th Street;325 E 34th St
+El Puerto Seafood & Fish Market;511 West 125th Street;511 W 125th St
+El Rio Grande;160 East 38th Street;160 E 38th St
+El Tina #2;511 West 125th Street;511 W 125th St
+Emack & Bolio's;81st Street and First Avenue;1st Avenue & E 81st St
+Emperor Japanese Tapas Shabu;96 Bowery;96 Bowery
+English Is Italian;622 3rd Avenue;622 3rd Ave
+Epoque;401 West 50th Street;401 W 50th St
+Erminia Ristorante;250 East 83rd Street;250 E 83rd St
+Esca;402 West 43 Street;402 W 43rd St
+Estiatorio Milos Restaurant;125 West 55th Street;125 W 55th St
+Etats-Unis;242 East 81st Street;242 E 81st St
+Etrusca Restaurant;125 West 53rd Street;125 W 53rd St
+Euro Diner;738 8th Avenue;738 8th Ave
+Euzkadi Restaurant;108 East Fourth Street;108 E 4th St
+Expensive;1633 2nd Avenue;1633 2nd Ave
+Expensive;1600 Broadway;1600 Broadway
+Extra Virgin;259 West 4th Street;259 West 4th Street
+Famiglia;686 8th Avenue;686 8th Ave
+Fantino;112 Central Park South;112 Central Park S
+Fast Food & Chains (Show All);221 7th Avenue;221 7th Ave
+Fatty Crab;Manhattan · 643 Hudson Street;643 Hudson St
+Felidia;243 East 58th Street;243 E 58th St
+Ferrara's Cafe Italiano;195 Grand Street;195 Grand St
+Film Center Cafe;635 Ninth Avenue;635 9th Ave
+Financier Patisserie;35 Cedar Street;35 Cedar St
+Fiorini;209 East 56th Street;209 E 56th St
+Firebird Russian Restaurant;365 West 46th Street;365 W 46th St
+Firenze Restaurant;1594 2nd Avenue;1594 2nd Ave
+Five Napkin Burger;630 9th Avenue;630 9th Ave
+Fives;700 Fifth Avenue;700 5th Ave
+Fleur de Sel;5 East 20th Street;5 E 20th St
+Flor de Sol Restaurant;361 Greenwich Street;361 Greenwich St
+Floridita Restaurant;3219 Broadway;3219 Broadway
+Foley's Fish House;714 Seventh Avenue;714 7th Ave
+Frank's;410 West 12th Street;410 W 12th St
+Frankie & Johnnie's Steakhouse;32 West 37th Street;32 W 37th St
+Frederick's Madison;768 Madison Avenue;768 Madison Ave
+Frere Jacques;13 East 37th Street;13 E 37th St
+Fresco by Scotto;34 East 52nd Street;34 E 52nd St
+Fresh Restaurant;105 Reade Street;105 Reade St
+Fresh Tortillas;1739 2nd Avenue;1739 2nd Ave
+Fulton;205 East 75th Street;205 E 75th St
+Funky Nassau;127 East 7th Street;127 E 7th St
+Gabriela's;688 Columbus Avenue;688 Columbus Ave
+Gaby Restaurant;44 West 45th Street;44 W 45th St
+Garage Restaurant and Cafe;99 Seventh Avenue South;99 7th Ave S
+Garden Of Ono;18 Ninth Avenue;18 9th Ave
+Gari;370 Columbus Avenue;370 Columbus Ave
+Geisha Restaurant;33 East 61st Street;33 E 61st St
+Genki Sushi;9 East 46 Street;9 E 46th St
+Gente;153 East 45th Street;153 E 45th St
+Geronimo;1600 3rd Avenue;1600 3rd Ave
+Gizzi's Coffee;16 West 8th Street;16 W 8th St
+Gobo Upper East Side;1426 3rd Avenue;1426 3rd Ave
+Good Friend Restaurant;3210 Broadway;3210 Broadway
+Gordon Ramsay;151 West 54th Street;151 W 54th St
+Gotham Bar and Grill;12 East 12 Street;12 E 12th St
+Gramercy 24;323 3rd Avenue;323 3rd Ave
+Gramercy Tavern;42 East 20th Street;42 E 20th St
+Grand Central Oyster Bar;89 East 42nd Street;89 E 42nd St
+Grand Tier Restaurant;150 West 65th Street;150 W 65th St
+Grays Papaya;539 8th Avenue;539 8th Ave
+Grayz;13-15 West 54th Street;13 W 54th St
+Great China Chinese Restaurant;1461 Amsterdam Avenue;1461 Amsterdam Ave
+Grill 21;346 East 21st Street;346 E 21st St
+Guantanamera;939 Eighth Avenue;939 8th Ave
+Gusto Ristorante e Bar Americano;60 Greenwich Avenue;60 Greenwich Ave
+Gyu-Kaku;34 Cooper Square;34 Cooper Sq
+Gyu-Kaku;805 3rd Avenue;805 3rd Ave
+HQ New York Bistro;90 Thompson Street;90 Thompson St
+Hakata Grill;230 West 48th Street;230 W 48th St
+Hale & Hearty Soups;Grand Central Terminal;89 E 42nd St
+Happy Taco;1167 2nd Avenue;1167 2nd Ave
+Harlem Tea Room;1793A Madison Avenue;1793A Madison Ave
+Havana;27 West 38th Street;27 W 38th St
+Havana Alma de Cuba;94 Christopher Street;94 Christopher St
+Havana Central;151 West 46th Street;151 W 46th St
+Havana Central;22 East 17th Street;22 E 17th St
+Havana Central at The West End;2911 Broadway;2911 Broadway
+Hawaiian Tropic Zone;729 Seventh Avenue;729 7th Ave
+Heartland Brewery and Chophouse;127 W. 43rd St. at Times Square;127 W 43rd St
+Hell's Kitchen;691 10th Avenue;691 10th Ave
+Hill Country;30 West 26th Street;30 W 26th St
+Houlihan's;2 Penn Plaza;2 Pennsylvania Plaza
+Hudson River Cafe;697 West 133rd Street;697 W 133rd St
+Hurapan Kitchen;29 7th Avenue South;29 7th Ave S
+Hurley's;232 West 48th Street;232 W 48th St
+Hurricane Island;1303 Third Avenue;1303 3rd Ave
+I Trulli;122 East 27th Street;122 E 27th St
+II Mulino;86 West 3 Street;86 W 3rd St
+Ida Mae Kitchen -n- Lounge;111 West 38th Street;111 W 38th St
+Iguana;240 West 54th Street;240 W 54th St
+Il Bastardo;191 7th Avenue;191 7th Ave
+Il Buco Restaurant;47 Bond Street;47 Bond St
+Il Campanello Ristorante;136 West 31 Street;136 W 31st St
+Il Cantinori;32 East 10th Street;32 E 10th St
+Il Melograno;501 West 51st Street;501 W 51st St
+Il Valentino;330 East 56th Street;330 E 56th St
+Imperial Dragon;45 West 55th Street;45 W 55th St
+In Vino Wine Bar and Restaurant;215 East Fourth Street;215 E 4th St
+Inagiku;111 East 49 Street;111 E 49th St
+Incredi Fusion;363 Third Avenue;363 3rd Ave
+Indian Taj;181 Bleecker Street;181 Bleecker St
+Indochine;430 Lafayette Street;430 Lafayette St
+Inexpensive;3 East 37th Street;3 E 37th St
+Inexpensive;738 8th Avenue;738 8th Ave
+Insomnia Cookies;148 West 4th Street;148 West 4th Street
+International (Show All);45 Tudor City Place;45 Tudor City Pl
+International (Show All);537 9th Avenue;537 9th Ave
+International (Show All);19 West 44th Street;19 W 44th St
+International (Show All);2315 Broadway;2315 Broadway
+International (Show All);45 East 20th Street;45 E 20th St
+International (Show All);105 Hudson Street;105 Hudson St
+International (Show All);430 Lafayette Street;430 Lafayette St
+International (Show All);768 Madison Avenue;768 Madison Ave
+Italian (Show All);191 7th Avenue;191 7th Ave
+Italian (Show All);355 West 46 Street;355 W 46th St
+Italian (Show All);85 10th Avenue;US-NYC-8510
+Italian (Show All);45 Tudor City Place;45 Tudor City Pl
+Italian (Show All);135 East 62nd Street;135 E 62nd St
+Italian (Show All);501 West 51st Street;501 W 51st St
+Italian (Show All);2315 Broadway;2315 Broadway
+Jack's Luxury Oyster Bar;101 Second Avenue;101 2nd Ave
+Jamba Juice;1026 Third Avenue;1026 3rd Ave
+Jamba Juice;2341 Broadway;2341 Broadway
+Jean Georges;1 Central Park West;1 Central Park West
+Jewel Bako;239 East 5th Street;239 E 5th St
+Jewel of India;15 West 44th Street;15 W 44th St
+Jimmy Sung's;219 East 44th Street;219 E 44th St
+JoJo;160 East 64th Street;160 E 64th St
+Joe The Art of Coffee;141 Waverly Place;141 Waverly Pl
+John's Pizzeria;260 West 44th Street;260 W 44th St
+Jojo;160 East 64th Street;160 E 64th St
+Josie's Restaurant;565 3rd Avenue;565 3rd Ave
+Josie's West;300 Amsterdam Avenue;300 Amsterdam Ave
+Jovia;135 East 62nd Street;135 E 62nd St
+KFC;301 West 125th Street;301 W 125th St
+KFC;One Penn Plaza;1 Pennsylvania Plaza
+KFC;1402 Second Avenue;1402 2nd Ave
+Kai;22 Madison Avenue;22 Madison Ave
+Keens Steakhouse;72 West 36th Street;72 W 36th St
+Kellari Taverna;19 West 44th Street;19 W 44th St
+Kion;509 East 6th Street;509 E 6th St
+Kobe Club;68 West 58th Street;68 W 58th St
+Koi;40 West 40th Street;40 W 40th St
+Kouzan;685 Amsterdam Avenue;685 Amsterdam Ave
+Krispy Kreme;141 West 72nd Street;141 W 72nd St
+Kurve;87 2nd Avenue;87 2nd Ave
+L'Impero Restaurant;45 Tudor City Place;45 Tudor City Pl
+La Belle Vie;184 8th Avenue;184 8th Ave
+La Carne Grill;340 Lexington Avenue;340 Lexington Ave
+La Giara;501 3rd Avenue;501 3rd Ave
+La Goulue Restaurant;746 Madison Avenue;746 Madison Ave
+La Grenouille;3 East 52 Street;3 E 52nd St
+La Grolla Ristorante;413 Amsterdam Avenue;413 Amsterdam Ave
+La Mediterranee;947 Second Avenue;947 2nd Ave
+La Rivista;313 West 46th Street;313 W 46th St
+La Rosita;2809 Broadway;2809 Broadway
+La Zarza;166 First Avenue;166 1st Avenue
+Lasaro's;29 East 30th Street;29 E 30th St
+Latin, Cuban, Spanish (Show All);1022A Lexington Avenue;1022A Lexington Ave
+Latin, Cuban, Spanish (Show All);324 Bowery;324 Bowery
+Le Bernardin;155 West 51st Street;155 W 51st St
+Le Cirque;151 East 58th Street;151 E 58th St
+Le Figaro Cafe;184 Bleecker Street;184 Bleecker St
+Le Perigord;405 East 52nd Street;405 E 52nd St
+Le Rivage;340 West 46th Street;340 W 46th St
+Le Souk;47 Avenue B;47 Avenue B
+Lenny's Sub Shop;60 West 48th Street;60 W 48th St
+Lenox Room;1278 3rd Avenue;1278 3rd Ave
+Little Saigon;374 West 46 Street;374 W 46th St
+Lobby Lounge;80 Columbus Circle;80 Columbus Cir
+Lomito;300 Spring Street;300 Spring St
+Los Dados;73 Gansevoort Street;73 Gansevoort St
+Lotus;409 West 14th Street;409 W 14th St
+Lou's Cafe;1301 Sixth Avenue;1301 6th Ave
+Lucky Cheng's;24 First Avenue;24 1st Avenue
+Lucy Latin Kitchen;35 East 18th Street;35 E 18th St
+Lunetta;920 Broadway;920 Broadway
+Lupa;170 Thompson Street;170 Thompson St
+MR CHOW;324 East 57th Street;324 E 57th St
+Macao Trading Company;311 Church Street;311 Church St
+Maggie Moo's;1437 2nd Avenue;1437 2nd Ave
+Maison;1700 Broadway;1700 Broadway
+Malaga;406 East 73rd Street;406 E 73rd St
+Maloney and Porcelli;37 East 50th Street;37 E 50th St
+Manhattan Sky;Park Avenue at Grand Central;Park Avenue at Grand Central
+Mara's Homemade;342 East 6th Street;342 E 6th St
+Maria Pia Restaurant;319 West 51st Street;319 W 51st St
+Marichu Restaurant & Tapas Bar;342 East 46 Street;342 E 46th St
+Marseille Restaurant;630 Ninth Avenue;630 9th Ave
+Mary Ann's;1503 2nd Avenue;1503 2nd Ave
+Mary's Fish Camp;64 Charles Street;64 Charles St
+Matador;57 Greenwich Avenue;57 Greenwich Ave
+Matsugen;241 Church Street;241 Church St
+Maya New York;1191 First Avenue;1191 1st Avenue
+McCormick & Schmick's;1285 Avenue of the Americas;1285 6th Ave
+McDonald's;Lower Level;New York
+McDonald's;2271 Broadway;2271 Broadway
+McDonald's;39 Union Square West;39 Union Square W
+McDonald's;969 1st Avenue;969 1st Avenue
+McDonald's;215 West 125th Street;215 W 125th St
+McDonald's;136 West 3rd Street;136 W 3rd St
+McDonald's;638 Columbus Avenue;638 Columbus Ave
+McDonald's;354 West 125th Street;354 W 125th St
+McDonald's;444 Lenox Avenue @ 132Nd;444 Malcolm X Blvd #132Nd
+McDonald's;600 West 125th;600 W 125th St
+McDonald's;688 8th Avenue;688 8th Ave
+McDonald's;79 West 125th Street;79 W 125th St
+Mcnulty's Tea & Coffee Company;109 Christopher Street;109 Christopher St
+Megu;845 UN Plaza;845 United Nations Plaza
+Mercer Kitchen;99 Prince Street;99 Prince St
+Merkato 55;55 Gansevoort Street;55 Gansevoort St
+Mesa Grill Restaurant;102 Fifth Avenue;102 5th Ave
+Meson Sevilla Restaurant;344 West 46th Street;344 W 46th St
+Mezzaluna;1295 3rd Avenue;1295 3rd Ave
+Mia Dona;206 East 58th Street;206 E 58th St
+Michael Jordan's The Steakhouse N.Y.C.;23 Vanderbilt Avenue;23 Vanderbilt Ave
+Michael's;24 West 55th Street;24 W 55th St
+Mickey Mantle's Restaurant;42 Central Park South;42 Central Park S
+Mima's CubanFusion;2056 Second Avenue;2056 2nd Ave
+Mindy's Restaurant;212 East 42nd Street;212 E 42nd St
+Molyvos;871 7th Avenue;871 7th Ave
+Mondello;3 East 37th Street;3 E 37th St
+Monica's Gourmet Deli;1603 2nd Avenue;1603 2nd Ave
+Morton's, the Steakhouse;551 5th Avenue;551 5th Ave
+Mr. Broadway Kosher Deli;1372 Broadway;1372 Broadway
+Murals on 54;65 West 54th Street;65 W 54th St
+Mustang Grill;1633 2nd Avenue;1633 2nd Ave
+Nacho Mama's Burritos;2867 Broadway;2867 Broadway
+Nathan's Famous;100 West 33rd Street;100 W 33rd St
+Nathan's Famous;705 8th Avenue;705 8th Ave
+Natsumi Restaurant;226 West 50th Street;226 W 50th St
+Neo Sushi;2298 Broadway;2298 Broadway
+Nespresso Boutique Bar;761 Madison Avenue;761 Madison Ave
+Nicole's Restaurant;10 East 60th Street;10 E 60th St
+Nippon;155 East 52nd Street;155 E 52nd St
+Nirvana;30 Central Park South;30 Central Park S
+Nobu;105 Hudson Street;105 Hudson St
+Nolia;158 Avenue C;158 Loisaida Ave
+North West Restaurant;392 Columbus Avenue;392 Columbus Ave
+Novecento;343 West Broadway;343 W Broadway
+ONE c.p.s.;One Central Park South;One Central Park South
+Oceana;55 East 54th Street;55 E 54th St
+Old Homestead Steak House;56 9th Avenue;56 9th Ave
+Ole Restaurant;434 2nd Avenue;434 2nd Ave
+One If by Land Two If by Sea;17 Barrow Street;17 Barrow St
+Osteria Gelsi;507-509 9th Ave. at 38th St.;507 9th Ave
+Ouest;2315 Broadway;2315 Broadway
+Pala;198 Allen Street;198 Allen St
+Pampano Restaurant;209 East 49th Street;209 E 49th St
+Paola's Restaurant;245 East 84th Street;245 E 84th St
+Papa John's;765 8th Avenue;765 8th Ave
+Papillon Bistro and Bar;22 East 54th Street;22 E 54th St
+Paris Match;29 East 65th Street;29 E 65th St
+Park Avenue Cafe;100 East 63rd Street;100 E 63rd St
+Park East Grill;1564 2nd Avenue;1564 2nd Ave
+Payard Patisserie & Bistro;1032 Lexington Avenue;1032 Lexington Ave
+Peacock Alley;301 Park Avenue;301 Park Ave
+Pearl Oyster Bar;18 Cornelia Street;18 Cornelia St
+Per Se;10 Columbus Circle;10 Columbus Cir
+Perilla Restaurant;9 Jones Street;9 Jones St
+Petrossian;182 West 58th Street;182 W 58th St
+Philippe;35 East 60th Street;35 E 60th St
+Picasso;303 East 56th Street;303 E 56th St
+Piccolino;8 East 36 Street;8 E 36th St
+Picholine;35 West 64th Street;35 W 64th St
+Pier 2110;2110 Adam Clayton Powell Jr. Blvd.;2110 Adam Clayton Powell Jr Blvd
+Pipa;38 East 19th Street;38 E 19th St
+Plantain;20 West 38th Street;20 W 38th St
+Pomaire;371 West 46th Street;371 W 46th St
+Pongsri Thai Restaurant;244 West 48 Street;244 W 48th St
+Popeyes Chicken & Biscuits;1558 3rd Avenue;1558 3rd Ave
+Primitivo Osteria;202 West 14th Street;202 W 14th St
+Public House;140 East 41st Street;140 E 41st St
+Pure Food and Wine;54 Irving Place;54 Irving Pl
+R & G Deli;348 West 36th Street;348 W 36th St
+Rain West;100 West 82nd Street;100 W 82nd St
+Rainbow Room Grill;30 Rockefeller Plaza;30 Rockefeller Plaza
+Red Lobster;5 Times Square;Five Times Square
+Regional;2607 Broadway;2607 Broadway
+Rene Pujol Restaurant;321 West 51st Street;321 W 51st St
+Restaurant Carlyle;35 East 76th Street;35 E 76th St
+Restaurant Charlotte;145 West 44th Street;145 W 44th St
+Rock Center Cafe;20 West 50th Street;20 W 50th St
+Rosa Mexicano;1063 1st Avenue;1063 1st Avenue
+Rosa Mexicano Lincoln Center;61 Columbus Avenue;61 Columbus Ave
+Rosanjin;141 Duane Street;141 Duane St
+Rosie O'Grady's;149 West 46th Street;149 W 46th St
+Roth's Westside Steakhouse;680 Columbus Avenue;680 Columbus Ave
+Roy's New York;Manhattan · 130 Washington St.;130 Washington St
+Ruby Foo's;1626 Broadway;1626 Broadway
+Ruth's Chris Steak House;148 West 51st Street;148 W 51st St
+Sable's;1489 2nd Avenue;1489 2nd Ave
+Sabora Mexico;1744 1st Avenue;1744 1st Avenue
+Sakagura Restaurant;211 East 43rd Street;211 E 43rd St
+Salmon River;3 East 40th Street;3 E 40th St
+San Domenico;240 Central Park South;240 Central Park S
+San Luigi's;311 Amsterdam Avenue;311 Amsterdam Ave
+San Martin Restaurant;143 East 49th Street;143 E 49th St
+Sangria 46;338 West 46th Street;338 W 46th St
+Sapa;43 West 24th Street;43 W 24th St
+Sapphire Restaurant;1845 Broadway;1845 Broadway
+Sardi's;234 West 44th Street;234 W 44th St
+Saurin Parke Cafe;301 West 110th Street;301 W 110th St
+Scaletta Restaurant;50 West 77th Street;50 W 77th St
+Sea Grill;19 West 49th Street;19 W 49th St
+Seppi's;123 West 56th Street;123 W 56th St
+Serafina's;210 West 55th Street;210 W 55th St
+Shinbashi;7 East 48th Street;7 E 48th St
+Shrimp Box;62 West 125th Street;62 W 125th St
+Shula's Steak House;270 W. 43rd St. at 8th Ave.;270 W 43rd St
+Shun Lee Cafe;43 West 65th Street;43 W 65th St
+Shun Lee Palace;155 East 55th Street;157 E 55th St
+Shun Lee West;43 West 65th Street;43 W 65th St
+Siam Inn Too;854 Eighth Avenue;854 8th Ave
+Silverleaf Tavern;43 East 38th Street;43 E 38th St
+Smith & Wollensky;797 Third Avenue;797 3rd Ave
+Smoke Jazz Club;2751 Broadway;2751 Broadway
+Solera;216 East 53rd Street;216 E 53rd St
+Solo Restaurant;550 Madison Avenue;550 Madison Ave
+Sombrero;303 West 48th Street;303 W 48th St
+Sombrero Mexican;303 West 48th Street;303 W 48th St
+Son Cubano Restaurant;405 West 14th Street;405 W 14th St
+Sosa Borella;832 8th Avenue;832 8th Ave
+Southern Hospitality BBQ;1460 Second Avenue;1460 2nd Ave
+Spice Market;403 West 13th Street;403 W 13th St
+St. Andrews Restaurant;120 West 44th Street;120 W 44th St
+Stage Delicatessen;834 7th Avenue;834 7th Ave
+Star Diner;839 Seventh Avenue;839 7th Ave
+Starbucks;152-154 Columbus Avenue;152-154 Columbus Ave
+Starbucks;1460 Broadway;1460 Broadway
+Starbucks Coffee;875 Sixth Avenue;875 6th Ave
+Starbucks Coffee;21 East 8th Street;21 E 8th St
+Starbucks Coffee;195 Broadway;195 Broadway
+Starbucks Coffee;1128 Third Avenue;1128 3rd Ave
+Starbucks Coffee;10 Union Square East;10 Union Square E
+Starbucks Coffee;One Penn Plaza;1 Pennsylvania Plaza
+Starbucks Coffee;3 Park Avenue;3 Park Avenue
+Starbucks Coffee;540 Columbus Avenue;540 Columbus Ave
+Starbucks Coffee;455 Main Street;455 Main St
+Starbucks Coffee;233 Broadway;233 Broadway
+Starbucks Coffee;76 9th Avenue;76 9th Ave
+Starbucks Coffee;750 6th Avenue;750 6th Ave
+Starbucks Coffee;2929 Broadway;2929 Broadway
+Starbucks Coffee;79 Washington Square;79 Washington Square E
+Starbucks Coffee;72 Grove Street;72 Grove St
+Starbucks Coffee;2 Broadway;2 Broadway
+Starbucks Coffee;725 5th Avenue;725 5th Ave
+Starbucks Coffee;2252 Broadway;2252 Broadway
+Starbucks Coffee;77-83 West 125th Street;77 W 125th St
+Starbucks Coffee;280 Park Avenue;280 Park Ave
+Starbucks Coffee;230 Park Avenue;The Helmsley Building
+Starbucks Coffee;125 Park Avenue;125 Park Ave
+Starbucks Coffee;30 Rockefeller Plaza;30 Rockefeller Plaza
+Starbucks Coffee;545 Fifth Avenue;545 5th Ave
+Starbucks Coffee;565 Fifth Avenue;565 5th Ave
+Starbucks Coffee;1021 Third Avenue;1021 3rd Ave
+Starbucks Coffee;41 Union Square West;41 Union Square W
+Starbucks Coffee;1378 Madison Avenue;1378 Madison Ave
+Starbucks Coffee;1642 Third Avenue;1642 3rd Ave
+Starbucks Coffee;120 East 87th Street;120 E 87th St
+Starbucks Coffee;1515 York Avenue;1515 York Ave
+Starbucks Coffee;1449 Second Avenue;1449 2nd Ave
+Starbucks Coffee;444 Columbus Avenue;444 Columbus Ave
+Starbucks Coffee;1559 2nd Avenue;1559 2nd Ave
+Starbucks Coffee;684 Eighth Avenue;684 8th Ave
+Starwich;525 West 42nd Street;525 W 42nd St
+Steak & Seafood (Show All);Inside Battery Park;Inside Battery Park
+Steak & Seafood (Show All);885 Second Avenue;885 2nd Ave
+Steak & Seafood (Show All);147 West 43rd Street;147 W 43rd St
+Steak Frites;9 East 16th Street;9 E 16th St
+Steak Frites;225 Varick Street;225 Varick St
+Stone Rose;10 Columbus Circle;10 Columbus Cir
+Stout NYC;133 West 33rd Street;133 W 33rd St
+Strada 57 Ristorante;315 West 57th Street;315 W 57th St
+Strip House - New York;13 East 12th Street;13 E 12th St
+Subway;112 John Street;112 John St
+Subway;475 Columbus Avenue;475 Columbus Ave
+Subway;2458 Broadway;2458 Broadway
+Subway;124 West 72nd Street;124 W 72nd St
+Subway;48 West 125th Street;48 W 125th St
+Subway;578 West 125th Street;578 W 125th St
+Subway;30 Rockefeller Plaza;30 Rockefeller Plaza
+Subway;1585 3rd Avenue;1585 3rd Ave
+Subway;901 Avenue Of The Americas;901 6th Ave
+Subway;8 East 41st Street;8 E 41st St
+Subway;1411 2nd Avenue;1411 2nd Ave
+Subway;237 Park Avenue;237 Park Ave
+Subway;900 Main Street;900 Main St
+Subway;29 East 8th Street;29 E 8th St
+Subway;401 8th Avenue;401 8th Ave
+Subway;221 7th Avenue;221 7th Ave
+Subway;765 8th Avenue;765 8th Ave
+Subway;106 Greenwich Street;106 Greenwich St
+Subway;139 East 47th Street;139 E 47th St
+Subway;89 Worth Street;89 Worth St
+Subway;705 8th Avenue;705 8th Ave
+Subway;165 Church Street;165 Church St
+Subway;561 Tenth Avenue;561 Amsterdam Ave
+Subway;1776 2nd Avenue;1776 2nd Ave
+Subway;1171 2nd Avenue;1171 2nd Ave
+Subway;1613 2nd Avenue;1613 2nd Ave
+Subway;113 Lafayette Street;113 Lafayette St
+Sukhothai West;411 West 42 Street;411 W 42nd St
+Sushi Zen;57 West 46 Street;57 W 46th St
+Sushisamba Park;245 Park Avenue South;245 Park Ave S
+Tagine Dining Gallery;537 9th Avenue;537 9th Ave
+Tal Bagels;977 1st Avenue;977 1st Avenue
+Talay Restaurant;701 West 135th Street;701 W 135th St
+Talia's Steakhouse & Bar;668 Amsterdam Avenue;668 Amsterdam Ave
+Tao;42 East 58th Street;42 E 58th St
+Taqueria California;3151 Broadway;3151 Broadway
+Taste D-lite;146 West 72nd Street;146 W 72nd St
+Tavern on the Green;1 West 67th Street;1 W 67th St
+Terrace 5;11 West 53 Street;11 W 53rd St
+Texas Texas;1600 Broadway;1600 Broadway
+Thalassa;179 Franklin Street;179 Franklin St
+The Cafe Carlyle;35 East 76th Street;35 E 76th St
+The Center Room;W. 64th St. and Columbus Ave.;20 W 64th St
+The Gamut Bistro & Lounge;102 East 25th Street;102 E 25th St
+The Mermaid Inn;96 2nd Avenue;96 2nd Ave
+The Modern;11 West 53 Street;11 W 53rd St
+The Modern Dining Room;9 West 53rd Street;9 W 53rd St
+The Neptune Room;511 Amsterdam Avenue;511 Amsterdam Ave
+The Parlour;250 W. 86th Street;250 W 86th St
+The Post House;28 East 63rd Street;28 E 63rd St
+The Pump Energy Food;113 East 31st Street;113 E 31st St
+The Rainbow Room;30 Rockefeller Plaza;30 Rockefeller Plaza
+The Sea Grill Restaurant;19 West 49th Street;19 W 49th St
+The Stanton Social;99 Stanton Street;99 Stanton St
+The Steakhouse at Monkey Bar;60 East 54th Street;60 E 54th St
+The Sugar Bar;254 West 72nd Street;254 W 72nd St
+The Tasting Room;264 Elizabeth Street;264 Elizabeth St
+The Terrace In The Sky;400 West 119th Street;Butler Hall
+The View Restaurant;1535 Broadway;1535 Broadway
+The Water Club;The E. River at 30th St.;E 30th St
+Think Coffee;248 Mercer Street;248 Mercer St
+Tocqueville;1 East 15th Street;1 E 15th St
+Toloache;251 West 50th Street;251 W 50th St
+Tony's Burger;34 East 32nd Street;34 E 32nd St
+Tony's Di Napoli;1606 2nd Avenue;1606 2nd Ave
+Tony's Di Napoli Midtown;147 West 43rd Street;147 W 43rd St
+Town;15 West 56th Street;15 W 56th St
+Trata Estiatorio;1331 2nd Avenue;1331 2nd Ave
+Trattoria Dopo Teatro;125 West 44th Street;125 W 44th St
+Trattoria Pesce Pasta;536 Ninth Avenue;536 9th Ave
+Trattoria Sambuca;20 West 72nd Street;20 W 72nd St
+Tribeca Grill;375 Greenwich Street;375 Greenwich St
+Uncle Jack's Steakhouse;440 9th Avenue;440 9th Ave
+Uncle Nick's;747 9th Avenue;747 9th Ave
+Uncle Nick's West Village;569 Hudson Street;569 Hudson St
+Urena;37 East 28th Street;37 E 28th St
+Utsav Festive India;1185 Ave. of the Americas / 6th Avenue;1185 6th Ave #6th
+Vela;55 West 21st Street;55 W 21st St
+Veritas;45 East 20th Street;45 E 20th St
+Via Brasil;34 West 46 Street;34 W 46th St
+Victor's Cafe;236 West 52nd Street;236 W 52nd St
+Vince and Eddie's;212-580-8700 · Expensive;212-580-8700 · Expensive
+Vintage Irving;118 East 15th Street;118 E 15th St
+Virgil's Real BBQ;152 West 44th Street;152 W 44th St
+Viva Pancho;156 West 44th Street;156 W 44th St
+Vong;200 East 54th Street;200 E 54th St
+Waikiki Wally's;101 East 2nd Street;101 E 2nd St
+Wakiya;Two Lexingtron Avenue;569 Lexington Ave
+Wave Sushi At Caviar Russe;538 Madison Avenue;538 Madison Ave
+Wendy's;85 Nassau Street;85 Nassau St
+White Castle;2092-2094 7th Avenue;2092 7th Ave
+Windfall Lounge and Grill;23 West 39th Street;23 W 39th St
+Windows Over Harlem;163 West 125th Street;163 W 125th St
+Wok N' Roll;705 8th Avenue At 44 Street;705 8th Ave
+Wu Liang Ye;36 West 48th Street;36 W 48th St
+Zarela;953 Second Avenue;953 2nd Ave
+Ze Nitln;311 West 48th Street;311 W 48th St
+Zen Palate;34 Union Square East;34 Union Square E
+Zerza;304 East 6th Street;304 E 6th St
+Zocalo at Grand Central;109 East 42nd Street;109 E 42nd St
+Zona Rosa;40 West 56th Street;40 W 56th St
+Zorzi;One East 35th Street;One East 35th Street

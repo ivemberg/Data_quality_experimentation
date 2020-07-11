@@ -1,0 +1,1070 @@
+;restaurant;address;country;country_code;neighborhood;type;cost;addressGoogle
+0;'Cesca;164 W 75th St;New York;NY;Upper West Side;Italian;$$$;164 W 75th St
+1;'Ino;21 Bedford St;New York;NY;Greenwich Village;Italian;$;21 Bedford St
+2;'Inoteca;98 Rivington St;New York;NY;Lower East Side;Italian;$$;98 Rivington St
+3;107 West;811 W 187th St;New York;NY;Harlem;Creole-Cajun;$$$;811 W 187th St
+4;15 East;15 E. 15th Street;New York;NY;Union Square;Japanese;$$$$;E 15th St
+5;2 Rivers Bar and ReStaurant;10 Murray St;New York;NY;;American;;10 Murray Street
+6;2 West;2 West St;New York;NY;Financial District;American;$$$;2 West St
+7;21 Club;21 W 52nd St;New York;NY;Midtown West;American;$$$;21 W 52nd St
+8;26 Seats;168 Ave B;New York;NY;East Village;French;$$;168 Avenue B
+9;44;44 W 44th Street;New York;NY;Midtown West;American;$$$;44 W 44th St
+10;44 & X Hell's Kitchen;622 10th Ave;New York;NY;Midtown West;American;$$$;622 10th Ave
+11;5 Napkin Burger;630 Ninth Ave;New York;NY;Hell's Kitchen;American;$$;630 9th Ave
+12;5 Ninth;5 Ninth Ave;New York;NY;Meatpacking District;International;$$$;5 9th Ave
+13;71 Irving Place;71 Irving Pl;New York;NY;Gramercy Park;American;$;71 Irving Pl
+14;77493;1633 Broadway;New York;NY;Midtown West;American;$$;Paramount Plaza
+15;A;947 Columbus Ave;New York;NY;Harlem;Caribbean;$;947 Columbus Ave
+16;A Cafe;973 Columbus Avenue;New York;NY;Upper West Side;French;$$$;973 Columbus Ave
+17;A Voce;41 Madison Ave;New York;NY;Gramercy Park;Italian;$$$$;Jerome Mansion
+18;A.O.C.;314 Bleecker St;New York;NY;West Village;French;$$;314 Bleecker St
+19;A.O.C. Bedford;14 Bedford St;New York;NY;Greenwich Village;French;$$$;14 Bedford St
+20;Abboccato;136 W 55th St;New York;NY;Midtown West;Italian;$$$$;136 W 55th St
+21;Acqua;718 Amsterdam Ave.;New York;NY;;Italian;$$$$;718 Amsterdam Ave
+22;Ada;208 E 58th Street;New York;NY;Midtown East;Indian;$$$;208 E 58th St
+23;Agave;140 7th Ave South;New York;NY;Greenwich Village;Southwestern;$$;140 7th Ave S
+24;Aix Brasserie;2398 Broadway;New York;NY;Upper West Side;French;$$$$;2398 Broadway
+25;Aj Maxwell's - Steakhouse;57 West 48th Street;New York;NY;Midtown West;Steakhouse;$$$$;57 W 48th St
+26;Akdeniz;19 W 46th St;New York;NY;Midtown West;Mediterranean;$;19 W 46th St
+27;Aki;181 W Fourth St;New York;NY;Greenwich Village;Caribbean;$$$;181 West 4th Street
+28;Al Bustan Restaurant;827 Third Ave;New York;NY;Midtown East;Middle Eastern;$$$;827 3rd Ave
+29;Alexandra;455 Hudson St;New York;NY;West Village;American;$$;455 Hudson St
+30;Alfama;551 Hudson St;New York;NY;Greenwich Village;Portuguese;$$;551 Hudson St
+31;Alfredo Of Rome;4 W 49th St;New York;NY;;;;4 W 49th St
+32;Ali Baba;206 E 34th St;New York;NY;Murray Hill;Turkish;$;206 E 34th St
+33;Alias;76 Clinton St;New York;NY;Lower East Side;American;$$$;76 Clinton St
+34;Alice's Tea Cup;102 West. 73 st;New York;NY;Upper West Side;American;$;102 W 73rd St
+35;Allegretti;46 West 22nd St;New York;NY;Flatiron;French;$$$$;46 W 22nd St
+36;Allen & Delancey;115 Allen St;New York;NY;Lower East Side;American;$$$;115 Allen St
+37;Almond;12 E 22nd Street;New York;NY;Flatiron;French;$$$$$;12 E 22nd St
+38;Alonso's Steakhouse;265 West 20th St;New York;NY;Chelsea;Steakhouse;$$$;265 W 20th St
+39;Alouette;2588 Broadway;New York;NY;Upper West Side;French;$$$;2588 Broadway
+40;Alta;64 West 10th Street;New York;NY;Greenwich Village;Mediterranean;$$$;64 W 10th St
+41;Alto;520 Madison Ave;New York;NY;Midtown East;Italian;$$$$$;520 Madison Ave
+42;Amalia;;New York;NY;Midtown West;Mediterranean;$$$$;
+43;Amaranth;21 E. 62nd St.;New York;NY;;Mediterranean;$$$;21 E 62nd St
+44;Amazing 66;66 Mott Street;New York;NY;Chinatown;Chinese;$$;66 Mott St
+45;Ambassador Grill and Lounge;1 United Nations Plaza;New York;NY;Midtown East;International;$$$;1 United Nations Plaza
+46;Amber;1406 Third Ave.;New York;NY;;Pan-Asian;$$;1406 3rd Ave
+47;Amma;246 E 51st St;New York;NY;Midtown East;Indian;$$$$;246 E 51st St
+48;Ammos Estiatorio;52 Vanderbilt Ave;New York;NY;Midtown East;Greek;$$$;52 Vanderbilt Ave
+49;Amy Ruth's;113 W 116th St;New York;NY;Harlem;Southern;$;113 W 116th St
+50;Amy's Bread;75 Ninth Ave;New York;NY;Midtown West;American;$;75 9th Ave
+51;Angelica Kitchen;300 E 12th St;New York;NY;East Village;Vegetarian;$;300 E 12th St
+52;Angelo & Maxies Steakhouse;233 Park Ave South (19th St);New York;NY;Midtown West;Steakhouse;$$$;233 Park Ave S
+53;Angelo's Of Mulberry Street;146 Mulberry St Fl 1;New York;NY;Little Italy;Italian;$$$;146 Mulberry St Fl 1
+54;Angon on The Sixth;320 E Sixth St;New York;NY;East Village;Indian;$;320 E 6th St
+55;Annisa;13 Barrow Street;New York;NY;Greenwich Village;American;$$$$$;13 Barrow St
+56;Anthos;36 W 52nd St;New York;NY;Midtown West;Mediterranean;$$$$;36 W 52nd St
+57;Apiary;60 Third Ave.;New York;NY;East Village;American;$$$$;60 3rd Ave
+58;Apizz;217 Eldridge St;New York;NY;Lower East Side;Italian;$$$;217 Eldridge St
+59;Aq Cafe;58 Park Ave;New York;NY;Murray Hill;Scandinavian;$;58 Park Ave
+60;Aquagrill;210 Spring St;New York;NY;SOHO;Seafood;$$$$;210 Spring St
+61;Aquavit;65 East 55th Street;New York;NY;Midtown West;Scandinavian;$$$$;65 E 55th St
+62;Arezzo;46 W 22nd St;New York;NY;Flatiron;Italian;$$$;46 W 22nd St
+63;Aroma;36 E Fourth St;New York;NY;NoLita;Italian;$$;36 E 4th St
+64;Arqua;281 Church Street;New York;NY;TriBeCa;Italian;$$$;281 Church St
+65;Arriba Arriba!;1463 Third Ave;New York;NY;Upper East Side;American;$;1463 3rd Ave
+66;Arte Cafe;106 W 73rd St;New York;NY;Upper West Side;Italian;$$;106 W 73rd St
+67;Artichoke;328 E 14th St;New York;NY;East Village;Pizza;$$;328 E 14th St
+68;Artie's Deli;2290 Broadway;New York;NY;;;;2290 Broadway
+69;Artisanal;2 Park Avenue;New York;NY;Lower East Side;French;$$$;2 Park Ave
+70;Arturo's Restaurants;106 W Houston St;New York;NY;Greenwich Village;Italian;$;106 W Houston St
+71;Asia De Cuba;237 Madison Ave;New York;NY;Murray Hill;Asian;$$$$;237 Madison Ave
+72;Asiakan;710 Amsterdam Ave.;New York;NY;Upper West Side;Pan-Asian;$;710 Amsterdam Ave
+73;Asiate;80 Columbus Cir at 60th Street;New York;NY;Upper West Side;French;$$$$;80 Columbus Cir
+74;Aspen;30 W 22nd St;New York;NY;;;;30 W 22nd St
+75;Aspen Social Club;157 W 47th St;New York;NY;Midtown West;American;$$$$;157 W 47th St
+76;Atlantic Grill;1341 Third Ave;New York;NY;Upper East Side;Seafood;$$$;1341 3rd Ave
+77;Atnhos;36 W. 52nd Street;New York;NY;;Greek;$$$$;36 W 52nd St
+78;Au Mandarin;200-250 Vesey St;New York;NY;Financial District;Chinese;$$;200 Vesey St
+79;August;359 Bleecker St;New York;NY;West Village;European;$$$;359 Bleecker St
+80;Aureole;34 E 61st St (Between Park and Madison);New York;NY;Midtown East;American;$$$$$;34 E 61st St (Between Park and Madison)
+81;Aurora;51 Broome St.;New York;NY;SOHO;Italian;$$;51 Broome St
+82;Avra Estiatorio;141 E 48th St;New York;NY;Midtown East;Greek;$$$$;141 E 48th St
+83;Awash;947 Amsterdam Ave.;New York;NY;;Ethiopian;;947 Amsterdam Ave
+84;Azafran;77 Warren St;New York;NY;TriBeCa;Spanish;$$$;77 Warren St
+85;Azucar;939 Eighth Avenue;New York;NY;Midtown West;Cuban;$$;939 8th Ave
+86;Azuri Cafe;465 W 51st St;New York;NY;Midtown West;Jewish;$;465 W 51st St
+87;Azza;137 E. 55th Street;New York;NY;Midtown East;Moroccan;$$$$;137 E 55th St
+88;B. Smith's Restaurant Row;320 West 46th St;New York;NY;Midtown West;Southern;$$$;320 W 46th St
+89;BLT Fish;21 W 17th St;New York;NY;Flatiron;Seafood;$$;21 W 17th St
+90;BLT Prime;111 East 22nd Street;New York;NY;Gramercy Park;American;$$$$;111 E 22nd St
+91;BLT Steak;106 E 57th St;New York;NY;Midtown East;Steakhouse;$$$$$;106 E 57th St
+92;Babbo;110 Waverly Pl;New York;NY;Greenwich Village;Italian;$$$$;110 Waverly Pl
+93;Baldoria;249 West 49th Street;New York;NY;Midtown West;Italian;$$$$;249 W 49th St
+94;Bali Nusa Indah Restaurant Inc;651 9th Ave;New York;NY;;Indonesian;;651 9th Ave
+95;Balthazar;80 Spring Street;New York;NY;SOHO;French;$$$;80 Spring St
+96;Banjara;97 First Ave;New York;NY;East Village;Indian;$$;97 1st Avenue
+97;Bann;350 W 50th St;New York;NY;Theater;Korean;$$$;350 W 50th St
+98;Bao 111;111 Ave C;New York;NY;East Village;Asian;$$;111 Loisaida Ave
+99;Bar Americain;152 W 52nd St;New York;NY;Midtown West;American;$$$$;152 W 52nd St
+100;Bar Boa;100 W 82nd Street;New York;NY;Upper West Side;Vietnamese;$$$$;100 W 82nd St
+101;Bar Jamon;52 Irving Pl.;New York;NY;NY;Spanish;$$$;52 Irving Pl
+102;Bar Martignetti;406 Broome St.;New York;NY;;;;406 Broome St
+103;Bar Pitti;268 Sixth Avenue;New York;NY;Greenwich Village;Italian;$$;268 6th Ave
+104;Baraonda;1439 Second Avenue;New York;NY;;;;1439 2nd Ave
+105;Barbetta;321 W 46th Street;New York;NY;Midtown East;Italian;$$$;321 W 46th St
+106;Barbounia;250 Park Ave South;New York;NY;Flatiron;Mediterranean;$$$$;250 Park Ave S
+107;Barmarche;14 Spring St;New York;NY;NoLita;American;$$;14 Spring St
+108;Barney Greengrass;541 Amsterdam Ave;New York;NY;Upper West Side;Deli;$;541 Amsterdam Ave
+109;Barolo;398 West Broadway;New York;NY;SOHO;Italian;$$$;398 W Broadway
+110;Basta Pasta;37 W 17th St;New York;NY;Flatiron;Italian;$$;37 W 17th St
+111;Battery Gardens;Inside Battery Parkacross From 17 State St;New York;NY;Financial District;American;$$$;17 State St
+112;Bay Leaf;49 W 56th Street;New York;NY;Midtown West;Indian;$$;49 W 56th St
+113;Bb Sandwich Bar;120 W Third St;New York;NY;West Village;American;$;120 W 3rd St
+114;Beacon;25 West 56th St (Between 5th & 6th Avenues);New York;NY;Midtown West;American;$$$$;25 W 56th St
+115;Becco;355 W 46th St;New York;NY;Midtown West;Italian;$$$;355 W 46th St
+116;Bellavitae;21 Minetta Ln;New York;NY;Greenwich Village;Italian;$$$;21 Minetta Ln
+117;Bello;863 Ninth Ave;New York;NY;;;;863 9th Ave
+118;Bello Sguardo;410 Amsterdam Ave;New York;NY;Upper West Side;Mediterranean;$$;410 Amsterdam Ave
+119;Ben & Jack's Steak House;219 E 44th St;New York;NY;Midtown East;Steakhouse;$$$$;219 E 44th St
+120;Ben's Kosher Deli;209 West 38th Street;New York;NY;Midtown West;Deli;$;209 W 38th St
+121;Beppe;45 E 22nd St;New York;NY;Flatiron;Italian;$$$;45 E 22nd St
+122;Bette;461 W 23rd St;New York;NY;Chelsea;European;$$$;461 W 23rd St
+123;Bettola;412 Amsterdam Ave;New York;NY;Upper West Side;Italian;$$;412 Amsterdam Ave
+124;Beyoglu;1431 Third Avenue;New York;NY;Upper East Side;Mediterranean;$$;1431 3rd Ave
+125;Bianca;5 Bleecker St;New York;NY;NoLita;Italian;$$;5 Bleecker St
+126;Big Nick's Burger Joint;2175 Broadway;New York;NY;Upper West Side;American;$;2175 Broadway
+127;Big Wong;67 Mott St;New York;NY;;;;67 Mott St
+128;Bistro Cassis;225 Columbus Ave;New York;NY;Upper West Side;French;$$;225 Columbus Ave
+129;Bistro Citron;473 Columbus Ave.;New York;NY;;;;473 Columbus Ave
+130;Bistro Les Amis;180 Spring St/Thompson;New York;NY;SOHO;French;$$;180 Spring St
+131;Bistro Ten 18;1018 Amsterdam Ave;New York;NY;Upper West Side;American;$$;1018 Amsterdam Ave
+132;Black Iron Burger Shop;540 E 5th St;New York;NY;East Village;American;$$$;540 E 5th St
+133;Black Pearl;37 W. 26th Street;New York;NY;Chelsea;Seafood;$$;37 W 26th St
+134;Blaue Gans;139 Duane Street;New York;NY;TriBeCa;German;$$$;139 Duane St
+135;Blockheads Mexican Diner;954 Second Ave;New York;NY;Midtown West;Mexican;$;954 2nd Ave
+136;Bloomingdale Road;2398 Broadway;New York;NY;;American;$$$;2398 Broadway
+137;Blossom;187 Ninth Ave.;New York;NY;;Vegetarian;$$;187 9th Ave
+138;Blue 9 Burger;92 3rd Ave;New York;NY;East Village;American;$;92 3rd Ave
+139;Blue Fin;1567 Broadway at 47th;New York;NY;Midtown West;Seafood;$$$;1567 Broadway
+140;Blue Hill;75 Washington Place;New York;NY;Greenwich Village;American;$$$$;75 Washington Pl
+141;Blue Ribbon;97 Sullivan Street;New York;NY;SOHO;American;$$$;97 Sullivan St
+142;Blue Ribbon Bakery;33 Downing Street;New York;NY;Greenwich Village;American;$$;33 Downing St
+143;Blue Ribbon Sushi;119 Sullivan St;New York;NY;SOHO;Sushi;$$$;119 Sullivan St
+144;Blue Smoke;116 E 27th St;New York;NY;Gramercy Park;Barbecue;$$;116 E 27th St
+145;Blue Water Grill;31 Union Square West;New York;NY;Union Square;Seafood;$$$;31 Union Square W
+146;Bluechili;251 W 51st St;New York;NY;Midtown West;Asian;$$;251 W 51st St
+147;Bobby Van's Grill - 50th Street;135 W 50th St;New York;NY;Midtown West;Italian;$$$;135 W 50th St
+148;Bobby Van's Steakhouse-54th Street;131 E 54th Street;New York;NY;Midtown East;Steakhouse;$$$;131 E 54th St
+149;Bobby Van's Steakhouse-Park Avenue;230 Park Avenue;New York;NY;Midtown East;Steakhouse;$$$;The Helmsley Building
+150;Bobo;181 W. 10th St.;New York;NY;Greenwich Village;European;$$$$;181 W 10th St
+151;Boca Chica;13 First Avenue;New York;NY;East Village;South American;$;13 1st Avenue
+152;Boi;246 East 44th Street;New York;NY;Midtown East;Vietnamese;$$;246 E 44th St
+153;Boi To Go;800 Second Ave;New York;NY;Midtown East;Vietnamese;$$;800 2nd Ave
+154;Bolo;23 E 22nd St;New York;NY;Flatiron;Spanish;$$$$;23 E 22nd St
+155;Bombay Grill;344 Lexington Ave;New York;NY;;Indian;$$;344 Lexington Ave
+156;Bombay Palace;30 W 52nd St;New York;NY;Midtown West;Indian;$$;30 W 52nd St
+157;Bombay Talkie;189 Ninth Ave;New York;NY;Chelsea;Indian;$$;189 9th Ave
+158;Bond 45;154 W 45th St;New York;NY;Midtown West;Italian;$$$;154 W 45th St
+159;Bondi Road;153 Rivington St.;New York;NY;;Australian;$$;153 Rivington St
+160;Bondst;6 Bond Street;New York;NY;TriBeCa;Japanese;$$$$;6 Bond St
+161;Boom;152 Spring Street;New York;NY;SOHO;Italian;$$;152 Spring St
+162;Boqueria;53 W. 19th St.;New York;NY;;Spanish;$$$;53 W 19th St
+163;Borgo Antico;22 E 13th St;New York;NY;East Village;Italian;$$$;22 E 13th St
+164;Bottino;246 10th Ave;New York;NY;Chelsea;Italian;$$$;246 10th Ave
+165;Bouley;120 West Broadway;New York;NY;TriBeCa;French;$$$$$;120 W Broadway
+166;Bourbon Street Bar & Grille;346 W 46th Street;New York;NY;;Creole-Cajun;$$$$;346 W 46th St
+167;Brasserie;100 East 53rd St;New York;NY;Midtown East;French;$$$;100 E 53rd St
+168;Brasserie 8 1/2;9 W 57th St;New York;NY;Midtown West;French;$$$$;East River Realty Company
+169;Brasserie Julien;1422 3rd Ave (Between 80th & 81st Streets);New York;NY;Upper East Side;French;$$;1420-1422 3rd Ave
+170;Bread;20 Spring St;New York;NY;NoLita;American;$$;20 Spring St
+171;Bricco Ristorante;304 W 56th St;New York;NY;;;;304 W 56th St
+172;Brick Lane Curry;342 East 6th St;New York;NY;East Village;Indian;$;342 E 6th St
+173;Bridge Cafe;279 Water St;New York;NY;Financial District;American;$$$;279 Water St
+174;Bright Food Shop;218 Eighth Ave;New York;NY;Chelsea;Asian;$;218 8th Ave
+175;Broadway East;171 East Broadway;New York;NY;Lower East Side;American;$$$;171 E Broadway
+176;Broadway Joe Steakhouse;315 West 46th Street;New York;NY;Theater;Steakhouse;$$$;315 W 46th St
+177;Brother Jimmy's Bbq;1461 1st Ave;New York;NY;Midtown East;Southern;$;1461 1st Avenue
+178;Bubba Gump Shrimp Co.;1501 Broadway;New York;NY;Midtown West;American;$;1501 Broadway
+179;Bubble Loung;228 W Broadway;New York;NY;TriBeCa;Small Plates;$$$;228 W Broadway
+180;Bubby's;120 Hudson St;New York;NY;TriBeCa;American;$;120 Hudson St
+181;Buddakan;75 Ninth Ave;New York;NY;Chelsea;Fusion;$$$$;75 9th Ave
+182;Buddha BBeeQ;1750 Second Ave.;New York;NY;Upper East Side;Korean;$;1750 2nd Ave
+183;Buddha Bar;25 Little West 12th Street;New York;NY;Meatpacking District;Asian;$$$$;25 Little W 12th St
+184;Buenos Aires;513 E Sixth St;New York;NY;East Village;Argentinean;$$;513 E 6th St
+185;Bukhara Grill;217 E 49th St;New York;NY;Midtown East;Indian;$$;217 E 49th St
+186;Bull Run;52 William St;New York;NY;Financial District;American;$$$;52 William St
+187;Burger Joint;190 Bleecker St;New York;NY;Gramercy Park;American;$;190 Bleecker St
+188;Burritoville;352 W 39th St;New York;NY;Midtown West;Southwestern;$;352 W 39th St
+189;Butai;115 E 18th St;New York;NY;Gramercy Park;Japanese;$$$;115 E 18th St
+190;Butter;415 Lafayette St;New York;NY;East Village;American;$$$;415 Lafayette St
+191;Cabana;89 S St Pier 17 Pavilion;New York;NY;Upper East Side;Nuevo Latino;$$;89 South St
+192;Cabrito;50 Carmine St.;New York;NY;;Fusion;;50 Carmine St
+193;Cacio E Pepe;182 Second Ave;New York;NY;East Village;Italian;$$;182 2nd Ave
+194;Cafe Asean;117 West 10th Street;New York;NY;;;;117 W 10th St
+195;Cafe Blossom;466 Columbus Ave;New York;NY;;;;466 Columbus Ave
+196;Cafe Centro;200 Park Ave;New York;NY;Midtown East;Mediterranean;$$$;MetLife Building
+197;Cafe Con Leche;726 Amsterdam Ave;New York;NY;Upper West Side;Cuban;$;726 Amsterdam Ave
+198;Cafe De Bruxelles;118 Greenwich Ave;New York;NY;West Village;Belgian;$$;118 Greenwich Ave
+199;Cafe Des Artistes;1 W 67th Street;New York;NY;Upper West Side;French;$$$;1 W 67th St
+200;Cafe Du Soleil;2723 Broadway;New York;NY;Upper West Side;French;$$$;2723 Broadway
+201;Cafe Espanol;172 Bleecker Street;New York;NY;Greenwich Village;American;$;172 Bleecker St
+202;Cafe Frida;368 Columbus Ave;New York;NY;Upper West Side;Mexican;$$;368 Columbus Ave
+203;Cafe Gitane;242 Mott St;New York;NY;NoLita;French;$;242 Mott St
+204;Cafe Gray;10 Columbus Circle, 3rd Fl;New York;NY;Upper West Side;French;$$$$$;10 Columbus Cir 3rd Fl
+205;Cafe Habana;229 Elizabeth St;New York;NY;NoLita;Cuban;$;229 Elizabeth St
+206;Cafe Joul;1070 First Avenue;New York;NY;Midtown East;French;$$;1070 1st Avenue
+207;Cafe Lalo;201 W 83rd St;New York;NY;Upper West Side;American;$;201 W 83rd St
+208;Cafe Loup;105 W 13th St;New York;NY;Greenwich Village;French;$$$;105 W 13th St
+209;Cafe Mogador;101 St Marks Pl;New York;NY;East Village;Moroccan;$;101 St Marks Pl
+210;Cafe Ronda;249-251 Columbus Ave;New York;NY;Upper West Side;Mediterranean;$$;249 Columbus Ave
+211;Cafe Rustico East;230 East 29th St.;New York;NY;Midtown East;Italian;$$$;230 E 29th St
+212;Cafe Select;212 Lafayette Street;New York;NY;;International;$$$;212 Lafayette St
+213;Cafe Spice;72 University Pl;New York;NY;;;;72 University Pl
+214;Cafe St. Barts;Park Avenue @ 50th St.;New York;NY;Upper East Side;American;$$$;Park Ave & E 50th St
+215;Cafe Un Deux Trois;123 W 44th St;New York;NY;Midtown West;French;$$$;123 W 44th St
+216;Cafeteria;119 Seventh Avenue;New York;NY;Chelsea;American;$;119 7th Ave
+217;Caffe Falai;68 Clinton St.;New York;NY;SOHO;Italian;$$;68 Clinton St
+218;Café Boulud;20 East 76th St;New York;NY;Upper East Side;French;$$$$;20 E 76th St
+219;Café Sabarsky;1048 Fifth Ave;New York;NY;Upper East Side;Austrian;$$;1048 5th Ave
+220;Calle Ocho;446 Columbus Avenue;New York;NY;Upper West Side;Cuban;$$;446 Columbus Ave
+221;Camaje;85 Macdougal St;New York;NY;Greenwich Village;American;$$;85 MacDougal St
+222;Camino Sur;336 W 37th St;New York;NY;Midtown West;South American;$$$;336 W 37th St
+223;Campagnola;1382 First Ave;New York;NY;Upper East Side;Italian;$$$$;1382 1st Avenue
+224;Candela;Candela, 92 Second Avenue;New York;NY;East Village;Cuban;$$;92 2nd Ave
+225;Candle 79;154 E 79 St;New York;NY;Upper East Side;Vegetarian;$$;154 E 79th St
+226;Candle Cafe;1307 Third Avenue;New York;NY;Upper East Side;Vegetarian;$;1307 3rd Ave
+227;Canyon Road;1470 First Avenue;New York;NY;Upper East Side;Southwestern;$$;1470 1st Avenue
+228;Capital Grille;155 E 42nd St;New York;NY;Midtown East;Steakhouse;$$$$;155 E 42nd St
+229;Caracas Arepa Bar;91 East 7th St;New York;NY;East Village;South American;$;1/2
+230;Carmine's;2450 Broadway;New York;NY;Midtown West;Italian;$$;2450 Broadway
+231;Carnegie Deli;854 7th Ave;New York;NY;Midtown West;Deli;$;854 7th Ave
+232;Casa;72 Bedford St;New York;NY;West Village;South American;$$;72 Bedford St
+233;Casa La Femme North;1076 First Ave;New York;NY;Midtown East;African;$$$;1076 1st Avenue
+234;Casa Mono;125 East 17th;New York;NY;Gramercy Park;Spanish;$$$;125 E 17th St
+235;Casimir;103-105 Ave B;New York;NY;East Village;French;$$;103 Avenue B
+236;Caterina's;316 East 53rd Street;New York;NY;Midtown East;Hungarian;$$$;316 E 53rd St
+237;Celeste;502 Amsterdam Ave;New York;NY;Upper West Side;Italian;$$;502 Amsterdam Ave
+238;Cellini Restaurant;65 E 54th St;New York;NY;Midtown East;Italian;$$$;65 E 54th St
+239;Cendrillon;45 Mercer St;New York;NY;SOHO;Southeast Asian;$$;45 Mercer St
+240;Central Park Boathouse;Enter on E 72nd St;New York;NY;;;;Enter on E 72nd St
+241;Cercle Rouge;241 W Broadway;New York;NY;TriBeCa;American;$$$;241 W Broadway
+242;Chanterelle;2 Harrison St;New York;NY;TriBeCa;French;$$$$$;2 Harrison St
+243;Charlie Palmer's Metrazur;East Balcony #4, 404 Grand Central Terminal, 42nd Street;New York;NY;Midtown East;American;$$$;89 E 42nd St
+244;Chat 'N Chew;10 E 16th St;New York;NY;Union Square;American;$;10 E 16th St
+245;Chemist Club Grill;Dylan Hotel;New York;NY;Midtown East;American;$$$;52 E 41st St
+246;Chennai Garden;129 E 27 St;New York;NY;Gramercy Park;Indian;$;129 E 27th St
+247;Chez Jacqueline;72 Macdougal St;New York;NY;Greenwich Village;French;$$$;72 MacDougal St
+248;Chikalicious Dessert Bar;203 E 10th St;New York;NY;East Village;American;$;203 E 10th St
+249;Chimichurri Grill;606 9th Avenue;New York;NY;Midtown West;South American;$$$;606 9th Ave
+250;Chin Chin;216 E 49th St;New York;NY;Midtown East;Chinese;$$$;216 E 49th St
+251;China Fun;246 Columbus Ave;New York;NY;Upper West Side;Chinese;$;246 Columbus Ave
+252;China Grill;60 W 53rd St;New York;NY;Midtown West;Asian;$$$$;60 W 53rd St
+253;China de Puebla;3143 Broadway;New York;NY;Harlem;Asian;;3143 Broadway
+254;Chinatown Brasserie;380 Lafayette St;New York;NY;NoLita;Chinese;$$$;380 Lafayette St
+255;Chino's;173 Third Ave;New York;NY;Gramercy Park;Asian;$;173 3rd Ave
+256;Chipotle;100 Maiden Ln.;New York;NY;Financial District;Mexican;$;100 Maiden Ln
+257;Chiyono;328 E. Sixth St.;New York;NY;;Japanese;$$;328 E 6th St
+258;Cho Dang Gol;55 W 35th St;New York;NY;Midtown West;Korean;$;55 W 35th St
+259;Chocolate Bar;48 8th Ave;New York;NY;Greenwich Village;Dessert;$$$;48 8th Ave
+260;Chola;232 E 58th St;New York;NY;Midtown East;Indian;$$;232 E 58th St
+261;Choshi Restaurant;77 Irving Pl;New York;NY;Greenwich Village;Japanese;$$;77 Irving Pl
+262;Chow Bar;230 W Fourth St;New York;NY;West Village;Asian;$$;230 West 4th Street
+263;Churrascaria Plataforma Ny;316 W 49th Street;New York;NY;Midtown West;South American;$$$;316 W 49th St
+264;Cibo;767 Second Avenue;New York;NY;Midtown East;American;$$$;767 2nd Ave
+265;Cilantro;1712 2nd Ave;New York;NY;Upper East Side;Southwestern;$;1712 2nd Ave
+266;Cinema Cafe On 34th;505 3rd Ave;New York;NY;;;;505 3rd Ave
+267;Circus;132 E 61st St;New York;NY;Upper East Side;South American;$$$;132 E 61st St
+268;Citrus Bar & Grill;320 Amsterdam Ave;New York;NY;Upper West Side;Asian;$$;320 Amsterdam Ave
+269;City Bakery;3 W 18th St;New York;NY;Flatiron;American;$;3 W 18th St
+270;City Burger;1410 Broadway;New York;NY;Midtown West;American;$$;1410 Broadway
+271;City Crab & Seafood;235 Park Ave S;New York;NY;Lower East Side;Seafood;$$$;235 Park Ave S
+272;City Hall;131 Duane St;New York;NY;TriBeCa;Seafood;$$$;131 Duane St
+273;Coffee Shop;29 Union Square West;New York;NY;Union Square;American;$;29 Union Square W
+274;Colors;417 Lafayette St;New York;NY;East Village;International;$$$;417 Lafayette St
+275;Columbus Bakery;474 Columbus Ave;New York;NY;;;;474 Columbus Ave
+276;Comfort Diner;25 W 23rd St;New York;NY;Midtown East;American;$;25 W 23rd St
+277;Compass;208 W 70th Street;New York;NY;Upper West Side;American;$$$;208 W 70th St
+278;Convivio;45 Tudor City Pl;New York;NY;Midtown East;Italian;$$$$$;45 Tudor City Pl
+279;Cookshop;156 10th Ave;New York;NY;Chelsea;American;$$$$;156 10th Ave
+280;Coppola's Pizzeria Restaurant;206 W 79th St;New York;NY;Upper West Side;Italian;$$;206 W 79th St
+281;Cornelia Street Cafe;29 Cornelia Street;New York;NY;Greenwich Village;American;$$$;29 Cornelia St
+282;Corner Bistro;331 W 4th St;New York;NY;West Village;American;$;331 West 4th Street
+283;Cosette;163 E 33rd St;New York;NY;Murray Hill;French;$$;163 E 33rd St
+284;Cosi;53 E. Eighth St.;New York;NY;Greenwich Village;American;$;53 E 8th St
+285;Counter;105 First Ave;New York;NY;East Village;Vegetarian;$$;105 1st Avenue
+286;Country;90 Madison Ave, 2nd Fl;New York;NY;Gramercy Park;American;$$$$;90 Madison Ave 2nd Fl
+287;Cowgirl;519 Hudson Street;New York;NY;West Village;Southwestern;$;519 Hudson St
+288;Craft;43 E 19th St;New York;NY;Union Square;American;$$$$$;43 E 19th St
+289;Craftbar;900 Broadway;New York;NY;Flatiron;American;$$$;900 Broadway
+290;Craftsteak;85 10th Ave;New York;NY;Chelsea;Steakhouse;$$$$$;US-NYC-8510
+291;Crema Restaurante;111 West 17th Street;New York;NY;Chelsea;Mexican;$$$;111 W 17th St
+292;Creole;2167 Third Ave;New York;NY;Harlem;Creole-Cajun;$$;2167 3rd Ave
+293;Crisp;684 3rd Ave;New York;NY;Midtown East;Middle Eastern;$$;684 3rd Ave
+294;Crispo;240 W 14th St;New York;NY;West Village;Italian;$$$;240 W 14th St
+295;Crooked Knife;29 E. 30th Street;New York;NY;Murray Hill;British;$$;29 E 30th St
+296;Cru;24 Fifth Ave;New York;NY;Greenwich Village;Mediterranean;$$$$;24 5th Ave
+297;Crumbs Bake Shop;1371 3rd Ave;New York;NY;;;;1371 3rd Ave
+298;Cuba;222 Thompson Street;New York;NY;Greenwich Village;Cuban;$$;222 Thompson St
+299;Cuba Cafe;200 Eighth Ave;New York;NY;Chelsea;Cuban;$;200 8th Ave
+300;Cubana Cafe;110 Thompson St;New York;NY;Greenwich Village;Cuban;$;110 Thompson St
+301;Cube 63;63 Clinton St;New York;NY;Lower East Side;Japanese;$$;63 Clinton St
+302;Cucina Di Pesce;87 E 4th St;New York;NY;East Village;Italian;$;87 E 4th St
+303;Da Andrea;557 Hudson St;New York;NY;West Village;Italian;$$;557 Hudson St
+304;Da Antonio;157 E 55th St;New York;NY;Midtown East;Italian;$$$$;157 E 55th St
+305;Da Ciro;229 Lexington Ave;New York;NY;Murray Hill;Italian;$$;229 Lexington Ave
+306;Da Nico;164 Mulberry St.;New York;NY;;Italian;$$;164 Mulberry St
+307;Da Silvano;260 6th Avenue;New York;NY;Greenwich Village;Italian;$$$;260 6th Ave
+308;Da Umberto;107 West 17th Street;New York;NY;;Italian;$$$;107 W 17th St
+309;Dallas Bbq;27 W 72nd St;New York;NY;Upper West Side;American;$;27 W 72nd St
+310;Danal;90 E 10th St;New York;NY;East Village;French;$$;90 E 10th St
+311;Daniel;60 E 65th St;New York;NY;Upper East Side;French;$$$$$;60 E 65th St
+312;Danube;30 Hudson St;New York;NY;TriBeCa;Austrian;$$$$$;30 Hudson St
+313;David Burke at Bloomingdales;1000 Third Avenue;New York;NY;;American;$$$;1000 3rd Ave
+314;Davidburke & Donatella;133 E 61st St;New York;NY;Upper East Side;American;$$$$;133 E 61st St
+315;Dawat;210 E 58th St;New York;NY;Midtown East;Indian;$$$;210 E 58th St
+316;DeGrezia;231 E 50th St;New York;NY;Midtown East;Italian;$$$;231 E 50th St
+317;Degustation;239 E Fifth St;New York;NY;East Village;Spanish;$$$;239 E 5th St
+318;Del Frisco's;1221 Sixth Ave;New York;NY;Midtown West;Steakhouse;$$$$;1221 6th Ave
+319;Del Posto;85 10th Ave;New York;NY;Chelsea;Italian;$$$$$;US-NYC-8510
+320;Delmonico's;56 Beaver Street;New York;NY;Financial District;American;$$$$$;56 Beaver St
+321;Delta Grill;700 Ninth Ave;New York;NY;Midtown West;Creole-Cajun;$$;700 9th Ave
+322;Demarchelier;50 E. 86th St.;New York;NY;;;;50 East 86th St
+323;Dervish Turkish;146 West 47th Street;New York;NY;Midtown West;Middle Eastern;$$;146 W 47th St
+324;Desnuda;122 E 7th St;New York;NY;East Village;Seafood;$$$;122 E 7th St
+325;Devi;8 E 18th St;New York;NY;Flatiron;Indian;$$$$;8 E 18th St
+326;Dim Sum Go Go;5 E Broadway;New York;NY;Chinatown;Chinese;$;5 E Broadway
+327;Dinosaur Bar-B-Que;646 W 131st St;New York;NY;Harlem;American;$;646 W 131st St
+328;Ditch Plains;29 Bedford St.;New York;NY;;;;29 Bedford St
+329;Diva;341 W Broadway;New York;NY;SOHO;Italian;$$$;341 W Broadway
+330;Django;480 Lexington Avenue;New York;NY;Midtown East;French;$$$;480 Lexington Ave
+331;Do Hwa;55 Carmine St;New York;NY;Greenwich Village;Korean;$$;55 Carmine St
+332;Dok Suni;119 First Ave;New York;NY;East Village;Korean;$$;119 1st Avenue
+333;Dolce Vita;181 Grand Street;New York;NY;;;;181 Grand St
+334;Don Giovanni Ristorante;214 Tenth Avenue;New York;NY;Chelsea;Italian;$;214 Amsterdam Ave
+335;Don Pedro's;1865 Second Ave;New York;NY;Upper East Side;Caribbean;$$;1865 2nd Ave
+336;Donguri;309 E 83rd St;New York;NY;Upper East Side;Japanese;$$$;309 E 83rd St
+337;Dos Caminos;825 Third Ave.;New York;NY;;Mexican;$$$;825 3rd Ave
+338;Dos Caminos Park;373 Park Ave South;New York;NY;Gramercy Park;Mexican;$$;373 Park Ave S
+339;Dos Caminos Soho;475 West Broadway;New York;NY;SOHO;Mexican;$$$;475 W Broadway
+340;Doyers Vietnamese;11-13 Doyers St;New York;NY;Chinatown;Asian;$;11 Doyers St #13
+341;Duane Park Cafe;157 Duane St;New York;NY;TriBeCa;American;$$$;157 Duane St
+342;Duke's;99 E. 19th St.;New York;NY;;Barbecue;$$$;99 E 19th St
+343;Dylan Prime;62 Laight St;New York;NY;TriBeCa;Steakhouse;$$$$$;62 Laight St
+344;E.A.T.;1064 Madison Avenue;New York;NY;Upper East Side;American;$$;1064 Madison Ave
+345;East Of Eighth;254 West 23rd St;New York;NY;;;;254 W 23rd St
+346;Eatery;798 9th Ave;New York;NY;Midtown West;American;$;798 9th Ave
+347;Eight Mile Creek;240 Mulberry St;New York;NY;Little Italy;Australian;$$;240 Mulberry St
+348;El Charro Espanol;4 Charles St;New York;NY;Greenwich Village;Spanish;$$$;4 Charles St
+349;El Faro;823 Greenwich St;New York;NY;West Village;Spanish;$$;823 Greenwich St
+350;El Malecon;4141 Broadway;New York;NY;Harlem;Caribbean;$;4141 Broadway
+351;El Parador Cafe;325 E 34th St;New York;NY;Murray Hill;Mexican;$$;325 E 34th St
+352;El Pote;718 2nd Ave;New York;NY;Murray Hill;Spanish;$$;718 2nd Ave
+353;El Quijote;226 W 23rd St;New York;NY;Chelsea;Spanish;$$;226 W 23rd St
+354;El Rio Grande;160 East 38th Street;New York;NY;Midtown East;Southwestern;$$$;160 E 38th St
+355;Elaine's Restaurant;1703 Second Ave;New York;NY;Upper East Side;American;$$$;1703 2nd Ave
+356;Elephant;The, 58 E First St;New York;NY;East Village;French;$$;58 E 1st St
+357;Eleven Madison Park;11 Madison Ave;New York;NY;Gramercy Park;American;$$$$$;11 Madison Ave
+358;Elmo;156 Seventh Ave;New York;NY;Chelsea;American;$$;156 7th Ave
+359;Emack & Bolio's;389 Amsterdam Ave;New York;NY;Upper West Side;American;$;389 Amsterdam Ave
+360;Employees Only;510 Hudson St;New York;NY;West Village;European;$$$;510 Hudson St
+361;En Japanese Brasserie;435 Hudson St;New York;NY;West Village;Japanese;$$$;435 Hudson St
+362;Epicerie;170 Orchard St;New York;NY;East Village;French;$$;170 Orchard St
+363;Epices Inc;103 W 70th St;New York;NY;Upper West Side;Mediterranean;$$;103 W 70th St
+364;Erminia;250 E 83rd St;New York;NY;Upper East Side;Italian;$$$;250 E 83rd St
+365;Esca;402 W 43rd St;New York;NY;Midtown West;Italian;$$$$;402 W 43rd St
+366;Esperanto;145 Ave C;New York;NY;East Village;Nuevo Latino;$$;145 Loisaida Ave
+367;Espn Zone;1472 Broadway;New York;NY;Midtown West;American;$;1472 Broadway
+368;Essex;120 Essex St;New York;NY;Lower East Side;American;$;120 Essex St
+369;Estancia 460;460 Greenwich St;New York;NY;Midtown West;Argentinean;$$;460 Greenwich St
+370;Estiatorio Milos;125 West 55th Street;New York;NY;Midtown West;Greek;$$$$;125 W 55th St
+371;Etats-Unis;242 E 81st St;New York;NY;Upper East Side;American;$$$;242 E 81st St
+372;Etcetera Etcetera;352 W 44th St;New York;NY;Theater;Italian;$;352 W 44th St
+373;Ethiopian Restaurant;The, 1582 York Ave;New York;NY;Upper East Side;African;$;1582 York Ave
+374;Eva's Health Food;11 W. 8th Street;New York;NY;;;;11 W 8th St
+375;Extra Virgin;259 W 4th St;New York;NY;West Village;Mediterranean;$$;259 West 4th Street
+376;F.illi Ponte;39 Desbrosses St.;New York;NY;;Italian;$$$$;39 Desbrosses St
+377;FR.OG;71 Spring Street;New York;NY;SOHO;French;$$$;71 Spring St
+378;Falai;68 Clinton St;New York;NY;Lower East Side;Italian;$$$;68 Clinton St
+379;Fat Hippo;71 Clinto St.;New York;NY;;;;71 Clinton St
+380;Fatty Crab;643 Hudson Street;New York;NY;Meatpacking District;Indonesian;$$;643 Hudson St
+381;Felidia;243 East 58th Street;New York;NY;Midtown East;Italian;$$$$;243 E 58th St
+382;Felix;340 W Broadway;New York;NY;SOHO;French;$$;340 W Broadway
+383;Fiamma Osteria;206 Spring Street;New York;NY;SOHO;Italian;$$$;206 Spring St
+384;Fig & Olive Kitchen & Tasting Bar;808 Lexington Ave;New York;NY;Upper East Side;Mediterranean;$$;808 Lexington Ave
+385;Fig and Olive Downton;420 W. 13th Street;New York;NY;Meatpacking District;Mediterranean;$$$;420 W 13th St
+386;Film Center Cafe;635 9th Avenue;New York;NY;Midtown West;American;$$;635 9th Ave
+387;Fish;280 Bleecker St;New York;NY;Greenwich Village;Seafood;$$;280 Bleecker St
+388;Five Points;31 Great Jones Street;New York;NY;NoLita;American;$$$;31 Great Jones St
+389;Flea Market Cafe;131 Ave A;New York;NY;East Village;French;$;131 Avenue A
+390;Fleur De Sel;5 E 20th St;New York;NY;Flatiron;French;$$$$$;5 E 20th St
+391;Flor De Mayo;484 Amsterdam Ave;New York;NY;Upper West Side;Chinese;$;484 Amsterdam Ave
+392;Florent;69 Gansevoort St;New York;NY;Meatpacking District;American;$;69 Gansevoort St
+393;Forge;134 Reade St;New York;NY;TriBeCa;American;$$$$;134 Reade St
+394;Franchia Teahouse & Restaurant;12 Park Ave;New York;NY;Murray Hill;Korean;$$;12 Park Ave
+395;Francisco's Centro Vasco;159 W 23rd St;New York;NY;;;;159 W 23rd St
+396;Frank Restaurant;88 Second Ave;New York;NY;East Village;Italian;$;88 2nd Ave
+397;Frank's;410 W 16th St;New York;NY;Chelsea;Italian;$$$;410 W 16th St
+398;Frankie & Johnnie's Steakhouse;32 W 37th St;New York;NY;Midtown West;Steakhouse;$$$;32 W 37th St
+399;Frankie & Johnnie's Steakhouse;269 West 45th Street;New York;NY;Midtown West;Steakhouse;$$$;269 W 45th St
+400;Fred's Restaurant;476 Amsterdam Ave;New York;NY;;;;476 Amsterdam Ave
+401;Frederick's;8 West 58th Street;New York;NY;Midtown West;Asian;$$$;8 W 58th St
+402;Frederick's Madison;768 Madison Ave;New York;NY;Upper East Side;Mediterranean;$$$$;768 Madison Ave
+403;Freeman;Freeman Alley;New York;NY;Lower East Side;American;$$;Freeman Alley
+404;French Roast;2340 Broadway;New York;NY;Upper West Side;Breakfast;$;2340 Broadway
+405;Fresco by Scotto;34 E 52nd St;New York;NY;Midtown East;Italian;$$$;34 E 52nd St
+406;Fresh;105 Reade St;New York;NY;TriBeCa;Seafood;$$$;105 Reade St
+407;Friend Of a Farmer;77 Irving Pl;New York;NY;Gramercy Park;American;$;77 Irving Pl
+408;Funky Diner;466 Columbus Ave.;New York;NY;Upper West Side;American;$;466 Columbus Ave
+409;Gabriel's Bar & Restaurant;11 W 60th St;New York;NY;Upper West Side;Italian;$$$;11 W 60th St
+410;Gabriela's;688 Columbus Avenue;New York;NY;Upper West Side;Mexican;$$;688 Columbus Ave
+411;Gallaghers;228 W 52nd St;New York;NY;Midtown West;Steakhouse;$$$$;228 W 52nd St
+412;Gammeeok Restaurant;43 W 32nd St;New York;NY;Midtown West;Korean;$;43 W 32nd St
+413;Garage Restaurant and Cafe;99 7th Avenue;New York;NY;Chelsea;American;$$$;99 7th Ave
+414;Gari;370 Columbus Ave;New York;NY;Upper West Side;Sushi;$$$$$;370 Columbus Ave
+415;Gascogne;158 8th Avenue;New York;NY;Chelsea;French;$$$;158 8th Ave
+416;Gaucho Steak Co.;752 10th Ave.;New York;NY;;Argentinean;$$;752 10th Ave
+417;Gavroche;212 W 14th St;New York;NY;West Village;French;$$$;212 W 14th St
+418;Geisha;33 E 61st St;New York;NY;Upper East Side;Japanese;$$$$;33 E 61st St
+419;Gennaro;665 Amsterdam Ave;New York;NY;Upper West Side;Italian;$$;665 Amsterdam Ave
+420;Ghenet Restaurant;284 Mulberry St;New York;NY;NoLita;African;$;284 Mulberry St
+421;Ginger;1400 Fifth Ave;New York;NY;Upper East Side;Chinese;$;1400 5th Ave
+422;Giorgione 508;508 Greenwich St;New York;NY;SOHO;Continental;$$$;508 Greenwich St
+423;Gobo;1426 Third Ave.;New York;NY;;Vegetarian;$$;1426 3rd Ave
+424;Golden Unicorn;18 E Broadway;New York;NY;;;;18 E Broadway
+425;Gonzalez Y Gonzalez;625 Broadway;New York;NY;SOHO;Mexican;$$$;625 Broadway
+426;Good;89 Greenwich St;New York;NY;West Village;American;$$;89 Greenwich St
+427;Good Enough To Eat;483 West Amsterdam Avenue;New York;NY;Upper West Side;American;$;483 Amsterdam Ave
+428;Goodies;1 E Broadway;New York;NY;Chinatown;Chinese;$;1 E Broadway
+429;Gordon Ramsay;The London NYC;New York;NY;Midtown West;French;$$$$$;151 W 54th St
+430;Gotham Bar & Grill;12 E 12th St;New York;NY;Greenwich Village;American;$$$$;12 E 12th St
+431;Grace's Trattoria Cafe & Grill;201 E 71st St;New York;NY;Upper East Side;Italian;$$$;201 E 71st St
+432;Gramercy Tavern;42 E 20th St;New York;NY;Union Square;American;$$$$;42 E 20th St
+433;Grand Central Oyster Bar/Saloon;89 E 42nd Street, Grand Central Terminal (Lower L;New York;NY;Midtown West;Seafood;$$;89 E 42nd St
+434;Gray's Papaya;539 8th Avenue;New York;NY;Hell's Kitchen;Fast Food;$;539 8th Ave
+435;Gray's Papaya;2090 Broadway;New York;NY;Upper West Side;American;$;2090 Broadway
+436;Great Jones Cafe;54 Great Jones St;New York;NY;NoLita;Southern;$;54 Great Jones St
+437;Great N.Y. Noodle Town;28 Bowery;New York;NY;Chinatown;Chinese;$;28 Bowery
+438;Greenwich Grill;428 Greenwich St;New York;NY;TriBeCa;Californian;$$$;428 Greenwich St
+439;Grey Dog's Coffee Ltd;33 Carmine St;New York;NY;Greenwich Village;American;$;33 Carmine St
+440;Grifone Restaurant;244 E 46th St;New York;NY;Midtown East;Italian;$$$;244 E 46th St
+441;Grotto Azzurra;177 Mulberry St;New York;NY;Little Italy;Italian;$$$;177 Mulberry St
+442;Gus's Place;192 Bleecker Street;New York;NY;Greenwich Village;Greek;$;192 Bleecker St
+443;Gyu-Kaku;805 3rd Ave;New York;NY;Midtown East;Japanese;$$;805 3rd Ave
+444;Gyu-Kaku Japanese;34 Cooper Square;New York;NY;East Village;Japanese;$$;34 Cooper Sq
+445;HQ;90 Thompson St;New York;NY;;;;90 Thompson St
+446;Hallo Berlin;626 10th Ave.;New York;NY;;German;$;626 10th Ave
+447;Hangawi;12 E 32nd Street;New York;NY;Murray Hill;Korean;$$$;12 E 32nd St
+448;Haru;433 Amsterdam Ave;New York;NY;Upper West Side;Japanese;$$;433 Amsterdam Ave
+449;Haru Japanese;205 West 43rd St;New York;NY;Midtown West;Japanese;$$;205 W 43rd St
+450;Haru-Park Ave.;280 Park Ave;New York;NY;Flatiron;Sushi;$$;280 Park Ave
+451;Hasaki;210 E Ninth St;New York;NY;East Village;Sushi;$$;210 E 9th St
+452;Hatsuhana;237 Park Ave;New York;NY;Midtown East;Sushi;$$$$;237 Park Ave
+453;Havana Alma De Cuba;94 Christopher St;New York;NY;West Village;Cuban;$$;94 Christopher St
+454;Havana Central;151 W 46th Street;New York;NY;Midtown West;Cuban;$$;151 W 46th St
+455;Havana Central - Union Square;22 E 17th St;New York;NY;Union Square;Cuban;$$;22 E 17th St
+456;Haveli;100 Second Ave;New York;NY;East Village;Indian;$$;100 2nd Ave
+457;Hea;145 E. 13th St.;New York;NY;East Village;Pan-Asian;$$$;145 E 13th St
+458;Hearth;403 E 12th St;New York;NY;East Village;American;$$$$;403 E 12th St
+459;Heartland Brewery;1285 Sixth Ave;New York;NY;Midtown West;American;$$;1285 6th Ave
+460;Hedeh;57 Great Jones St;New York;NY;NoLita;Sushi;$$$;57 Great Jones St
+461;Heidelberg;1648 2nd Ave;New York;NY;Upper East Side;German;$$;1648 2nd Ave
+462;Hell's Kitchen;679 Ninth Ave;New York;NY;Midtown West;Mexican;$$$;679 9th Ave
+463;Highline;835 Washington St;New York;NY;Meatpacking District;Asian;$$;835 Washington St
+464;Hill Country;30 W. 26th St.;New York;NY;Chelsea;Barbecue;$$;30 W 26th St
+465;Hispaniola;839 W 181st St;New York;NY;Harlem;Asian;$$;839 W 181st St
+466;Holy Basil;149 Second Ave;New York;NY;East Village;Asian;$;149 2nd Ave
+467;Home;20 Cornelia St;New York;NY;Greenwich Village;American;$$;20 Cornelia St
+468;Houston's;378 Park Ave. S.;New York;NY;;American;$$;378 Park Ave S
+469;Houston's Restaurant;153 E 53rd St;New York;NY;Midtown East;American;$$;153 E 53rd St
+470;Hsf;46 Bowery;New York;NY;Chinatown;Chinese;$;46 Bowery
+471;Hudson Cafeteria;356 West 58th Street;New York;NY;Midtown West;American;$$$;356 W 58th St
+472;Hudson River Café;697 West 133rd ST.;New York;NY;Harlem;American;$$;697 W 133rd St
+473;Hummus Place;109 St. Marks Pl.;New York;NY;;;;109 St Marks Pl
+474;Hunan Park Restaurant;235 Columbus Ave;New York;NY;;;;235 Columbus Ave
+475;I Coppi;432 E Ninth St;New York;NY;East Village;Italian;$$$;432 E 9th St
+476;I Sodi;105 Christopher St;New York;NY;Greenwich Village;Italian;$$$;105 Christopher St
+477;I Tre Merli;463 W Broadway;New York;NY;SOHO;Italian;$$$;463 W Broadway
+478;I Trulli;122 E 27th St;New York;NY;Gramercy Park;Italian;$$$;122 E 27th St
+479;Icon;130 E 39th Street;New York;NY;Midtown East;American;$$$;130 E 39th St
+480;Ideya;349 W Broadway;New York;NY;SOHO;Caribbean;$$;349 W Broadway
+481;Iguana;240 W 54th St;New York;NY;;;;240 W 54th St
+482;Il Bagatto;192 E Second St;New York;NY;East Village;Italian;$$;192 E 2nd St
+483;Il Bastardo;191 Seventh Ave;New York;NY;Chelsea;Steakhouse;$$$;191 7th Ave
+484;Il Brigante;214 Front St.;New York;NY;Financial District;Italian;$$;214 Front St
+485;Il Buco;47 Bond St;New York;NY;NoLita;Italian;$$$;47 Bond St
+486;Il Cantinori;32 East 10th St;New York;NY;Greenwich Village;Italian;$$$$;32 E 10th St
+487;Il Cortile;125 Mulberry St;New York;NY;Little Italy;Italian;$$$;125 Mulberry St
+488;Il Gattopardo;33 W 54th St;New York;NY;Midtown West;Italian;$$$;33 W 54th St
+489;Il Giglio;81 Warren St;New York;NY;TriBeCa;Italian;$$$$;81 Warren St
+490;Il Mulino;86 W 3rd St;New York;NY;Greenwich Village;Italian;$$$$;86 W 3rd St
+491;Il Valentino;330 East 56th Street;New York;NY;Midtown East;Italian;$$$;330 E 56th St
+492;Inagiku;111 East 49th Street;New York;NY;Midtown East;Sushi;$$$$;111 E 49th St
+493;Indochine;430 Lafayette St;New York;NY;East Village;French;$$$;430 Lafayette St
+494;Indus Valley;2636 Broadway;New York;NY;Upper West Side;Indian;$$;2636 Broadway
+495;Industria Argentina;329 Greenwich St.;New York;NY;;Argentinean;$$$;329 Greenwich St
+496;Inn LW12;7 Ninth Avenue;New York;NY;Meatpacking District;British;$$$;7 9th Ave
+497;Insieme;777 Seventh Avenue;New York;NY;Midtown West;Italian;$$$$;777 7th Ave
+498;Ippudo;65 4th Ave;New York;NY;East Village;Japanese;$$$;65 4th Ave
+499;Isabella's;359 Columbus Ave;New York;NY;Upper West Side;American;$$;359 Columbus Ave
+500;Island Burgers & Shakes;766 9th Ave;New York;NY;Midtown West;American;$;766 9th Ave
+501;It's A Dominican Thing;144 W 19th St;New York;NY;Chelsea;Caribbean;$;144 W 19th St
+502;Ithaka;308 E 86th St;New York;NY;Upper East Side;Greek;$$$;308 East 86th St
+503;Ivo & Lulu;558 Broome St;New York;NY;SOHO;Caribbean;$;558 Broome St
+504;Jack's Luxury Oyster Bar;246 E Fifth St;New York;NY;East Village;Continental;$$$$;246 E 5th St
+505;Jacks Bar and Restaurant;147West 40th Street;New York;NY;Theater;American;$$$;147 W 40th St
+506;Jackson Hole;232 E 64th St;New York;NY;;;;232 E 64th St
+507;Jacques-Imo's;366 Columbus Ave;New York;NY;Upper West Side;Creole-Cajun;$$;366 Columbus Ave
+508;Jaipur's;1007 2nd Avenue;New York;NY;Midtown East;Indian;$;1007 2nd Ave
+509;Jane;100 W Houston St;New York;NY;Greenwich Village;American;$$$;100 W Houston St
+510;Japonica;100 University Pl;New York;NY;Greenwich Village;Sushi;$$$;100 University Pl
+511;Jarnac;328 W 12th St;New York;NY;West Village;French;$$$;328 W 12th St
+512;Jean Georges;1 Central Park W;New York;NY;Upper West Side;French;$$$$$;1 Central Park West
+513;Jekyll & Hyde Club;1409 Ave Of The Americas;New York;NY;Greenwich Village;American;$$;1409 6th Ave
+514;Jerry's;101 Prince St;New York;NY;SOHO;American;$$;101 Prince St
+515;Jewel Of India;15 W 44th St;New York;NY;Midtown West;Indian;$$;15 W 44th St
+516;Jezebel;630 Ninth Ave;New York;NY;Midtown West;Southern;$$$;630 9th Ave
+517;JoJo;160 E 64th St;New York;NY;Upper East Side;French;$$$$;160 E 64th St
+518;Joe's Pizza;7 Carmine St;New York;NY;Greenwich Village;Pizza;$;7 Carmine St
+519;Joe's Shanghai Restaurant;St Pell St Fl 1;New York;NY;Midtown West;Chinese;$;St Pell St Fl 1
+520;John's Of 12th Street;302 E 12th St;New York;NY;East Village;Italian;$$;302 E 12th St
+521;John's Pizzeria;408 E 64th St;New York;NY;Upper East Side;Pizza;$;408 E 64th St
+522;Johnny Utah's;25 W. 51st St.;New York;NY;;;;25 W 51st St
+523;Joseph's Restaurant;St Hanover Sq;New York;NY;Wall Street;Italian;$$$;Hanover Square
+524;Josie's;300 Amsterdam Avenue;New York;NY;Upper West Side;International;$$;300 Amsterdam Ave
+525;Jules;65 St Marks Pl;New York;NY;East Village;French;$$;65 St Marks Pl
+526;Kabab Factory;101 Lexington Avenue;New York;NY;Murray Hill;Indian;$$;101 Lexington Ave
+527;Kai;822 Madison Ave;New York;NY;Upper East Side;Japanese;$$$$;822 Madison Ave
+528;Kaijou;21 South End Street;New York;NY;Financial District;Japanese;$$;21 South End Ave
+529;Kampuchea;78 Rivington St.;New York;NY;;Cambodian;;78 Rivington St
+530;Kang Such Restaurant;1250 Broadway;New York;NY;Midtown West;Korean;$$;1250 Broadway
+531;Kanoyama;175 Second Ave;New York;NY;East Village;Sushi;$$;175 2nd Ave
+532;Katz's Delicatessen;205 East Houston Street;New York;NY;Lower East Side;Deli;$;205 E Houston St
+533;Keens Steakhouse;72 W 36th St;New York;NY;Midtown West;Steakhouse;$$$;72 W 36th St
+534;Kefi;222 W. 79th St.;New York;NY;Upper West Side;Greek;$$$;222 W 79th St
+535;Kellari Taverna;19 W 44th St;New York;NY;Midtown West;Greek;$$;19 W 44th St
+536;Kelley & Ping;127 Greene St;New York;NY;SOHO;Asian;$;127 Greene St
+537;Kin Khao;171 Spring Street;New York;NY;SOHO;Asian;$$;171 Spring St
+538;Kings' Carriage House;251 E 82nd St;New York;NY;Upper East Side;Continental;$$$;251 E 82nd St
+539;Kinoko Japanese Restaurant;165 W 72nd Street;New York;NY;;Japanese;$$;165 W 72nd St
+540;Kittichai;60 Thompson St;New York;NY;SOHO;Thai;$$$$;60 Thompson St
+541;Klee Brasserie;200 9th Avenue;New York;NY;Chelsea;American;$$$;200 9th Ave
+542;Klong;7 St Marks Pl;New York;NY;East Village;Asian;$;7 St Marks Pl
+543;Knickerbocker Bar & Grill;33 University Pl;New York;NY;Greenwich Village;American;$$$;33 University Pl
+544;Koi;40 W 40th St;New York;NY;Midtown West;Asian;$$$$;40 W 40th St
+545;Kori;253 Church St;New York;NY;TriBeCa;Korean;$$;253 Church St
+546;Kum Gang San;49 W 32nd St;New York;NY;Midtown West;Korean;$$;49 W 32nd St
+547;Kuma Inn;113 Ludlow St;New York;NY;Lower East Side;Southeast Asian;$$;113 Ludlow St
+548;Kuruma Zushi;7 E 47th St, 2nd Fl;New York;NY;Midtown East;Sushi;$$$$$;7 E 47th St 2nd Fl
+549;Kwik Meal;Food Cart;New York;NY;Theater;Middle Eastern;$;Food Cart
+550;Kyma;300 W 46th St;New York;NY;Midtown West;Greek;$$$;300 W 46th St
+551;Kyo Ya;94 E 7th St;New York;NY;East Village;Japanese;$$$$;94 E 7th St
+552;L'Allegria;623 9th Ave;New York;NY;Theater;Italian;$$;623 9th Ave
+553;L'Atelier de Joel Robuchon;57 E. 57th Street;New York;NY;Midtown East;French;$$$$$;57 E 57th St
+554;L'Ecole;462 Broadway;New York;NY;SOHO;French;$$$;462 Broadway
+555;L'Entrecote;1057 First Ave.;New York;NY;;;;1057 1st Avenue
+556;L'Impero - CLOSED;45 Tudor City Pl;New York;NY;Midtown East;Italian;$$$$;45 Tudor City Pl
+557;La Belle Vie;184 Eighth Ave;New York;NY;Chelsea;French;$$;184 8th Ave
+558;La Bergamote;169 Ninth Ave;New York;NY;Chelsea;French;$;169 9th Ave
+559;La Boite En Bois;75 W 68th St;New York;NY;Upper West Side;French;$$$;75 W 68th St
+560;La Goulue;746 Madison Ave;New York;NY;Upper East Side;French;$$$;746 Madison Ave
+561;La Grenouille;3 E 52nd St;New York;NY;Midtown East;French;$$$$;3 E 52nd St
+562;La Grolla;413 Amsterdam Ave;New York;NY;;;;413 Amsterdam Ave
+563;La Lunchonette;130 10th Ave;New York;NY;Chelsea;French;$$;130 10th Ave
+564;La Mela Ristorante;167 Mulberry St;New York;NY;Little Italy;Italian;$$;167 Mulberry St
+565;La Paella;214 E Ninth St;New York;NY;East Village;Spanish;$$;214 E 9th St
+566;La Palapa;77 St Marks Pl;New York;NY;Greenwich Village;Mexican;$$;77 St Marks Pl
+567;La Pizza Fresca Ristorante;31 E 20th St;New York;NY;Union Square;Italian;$$;31 E 20th St
+568;La Taza De Oro;96 Eighth Ave;New York;NY;Chelsea;Caribbean;$;96 8th Ave
+569;La Tour;1319 3rd Ave.;New York;NY;;French;$$$$;1319 3rd Ave
+570;La Vela;373 Amsterdam Ave;New York;NY;Upper West Side;Italian;$$;373 Amsterdam Ave
+571;La Vineria;737 9th Ave.;New York;NY;;;;737 9th Ave
+572;Lan;56 Third Ave;New York;NY;East Village;Sushi;$$;56 3rd Ave
+573;Land;450 Amsterdam Ave;New York;NY;;;;450 Amsterdam Ave
+574;Land Thai Kitchen;450 Amsterdam Ave;New York;NY;Upper West Side;Thai;$$;450 Amsterdam Ave
+575;Land Thai Kitchen;1565 Second Avenue;New York;NY;;;;1565 2nd Ave
+576;Landmarc;10 Columbus Circle, 3rd floor;New York;NY;Upper West Side;French;$$$;10 Columbus Cir 3rd floor
+577;Landmarc;179 W Broadway;New York;NY;Gramercy Park;French;$$$;179 W Broadway
+578;Lasagna Ristorante;785 9th ave;New York;NY;Hell's Kitchen;Italian;$$;785 9th Ave
+579;Lavagna;545 E. Fifth St.;New York;NY;;Italian;$$$;545 E 5th St
+580;Le Bernardin;155 W 51st St;New York;NY;Midtown West;Seafood;$$$$$;155 W 51st St
+581;Le Bilboquet;25 E 63rd St;New York;NY;Upper East Side;French;$$$;25 E 63rd St
+582;Le Boeuf a La Mode;539 E 81st St;New York;NY;Upper East Side;French;$$$;539 E 81st St
+583;Le Gamin;522 Hudson St;New York;NY;West Village;French;$;522 Hudson St
+584;Le Gigot;18 Cornelia St;New York;NY;Greenwich Village;French;$$$;18 Cornelia St
+585;Le Jardin Bistro;25 Cleveland Pl;New York;NY;NoLita;French;$$$;25 Cleveland Pl
+586;Le Madeleine;403 W 43rd Street;New York;NY;Midtown West;French;$$$;403 W 43rd St
+587;Le Miu;107 Ave. A;New York;NY;;Sushi;$$$;107 Avenue A
+588;Le Monde;2885 Broadway;New York;NY;Harlem;French;$$;2885 Broadway
+589;Le Pere Pinard;175 Ludlow St;New York;NY;Lower East Side;French;$$;175 Ludlow St
+590;Le Perigord;405 E 52nd St (Between Fdr Dr & 1st Avenue);New York;NY;Midtown East;French;$$$;405 E 52nd St
+591;Le Souk;47 Ave B;New York;NY;Midtown East;African;$$;47 Avenue B
+592;Le Zie 2000;172 Seventh Ave;New York;NY;Chelsea;Italian;$$;172 7th Ave
+593;Leela Lounge;1 W. Third St.;New York;NY;;Indian;$$;1 W 3rd St
+594;Les Enfants Terribles;37 Canal St;New York;NY;Lower East Side;African;$$;37 Canal St
+595;Les Halles;411 Park Ave S;New York;NY;Gramercy Park;French;$$$;411 Park Ave S
+596;Les Halles;15 John St;New York;NY;Financial District;French;$$$;15 John St
+597;Lima's Taste;122 Christopher St;New York;NY;West Village;South American;$;122 Christopher St
+598;Lime Leaf;2799 Broadway;New York;NY;;;;2799 Broadway
+599;Lisca;660 Amsterdam Ave;New York;NY;;;;660 Amsterdam Ave
+600;Little Giant;85 Orchard St;New York;NY;Lower East Side;American;$$$$;85 Orchard St
+601;Little Owl;90 Bedford Street;New York;NY;West Village;American;$$$;Apartment Building from the TV Show Friends
+602;Little Pie Company;Grand Central Station;New York;NY;Midtown East;Bakery;$;89 E 42nd St
+603;Loft;505 Columbus Ave;New York;NY;Upper West Side;Mediterranean;$$;505 Columbus Ave
+604;Lombardi's;32 Spring St;New York;NY;NoLita;Pizza;$;32 Spring St
+605;Lomito;300 Spring St;New York;NY;SOHO;Argentinean;$$$;300 Spring St
+606;Londel's Supper Club;2620 Frederick Douglas Blvd;New York;NY;Harlem;Southern;$$;2620 Frederick Douglass Blvd
+607;London Bar;151 W. 54th Street;New York;NY;Midtown West;French;$$$$;151 W 54th St
+608;Loreley;7 Rivington St.;New York;NY;;German;;7 Rivington St
+609;Los Dos Molinos;119 E 18th St;New York;NY;Gramercy Park;Southwestern;$$;119 E 18th St
+610;Loside;157 E Houston Street;New York;NY;Lower East Side;American;$;157 E Houston St
+611;LuLu;235 Mulberry Street;New York;NY;;;;235 Mulberry St
+612;Lucien;14 1st Ave;New York;NY;East Village;French;$$;14 1st Avenue
+613;Lucy Latin Kitchen;35 E 18th St;New York;NY;Flatiron;Nuevo Latino;$$$;35 E 18th St
+614;Lupa;170 Thompson St;New York;NY;Greenwich Village;Italian;$$$$;170 Thompson St
+615;Lure;142 Mercer St, Downstairs;New York;NY;SOHO;Seafood;$$$$;142 Mercer St
+616;Lusardi's;1494 Second Ave;New York;NY;Upper East Side;Italian;$$$$;1494 2nd Ave
+617;Luzia's;429 Amsterdam Ave.;New York;NY;;;;429 Amsterdam Ave
+618;Macelleria;48 Gansevoort St;New York;NY;Meatpacking District;Italian;$$$;48 Gansevoort St
+619;Madison Bistro;238 Madison Ave;New York;NY;Murray Hill;French;$$$;238 Madison Ave
+620;Mai House;186 Franklin Street;New York;NY;TriBeCa;Vietnamese;$$$;186 Franklin St
+621;Malatesta Trattoria;649 Washington St;New York;NY;West Village;Italian;$$;649 Washington St
+622;Maloney & Porcelli;37 E 50th St;New York;NY;Midtown East;Steakhouse;$$$$;37 E 50th St
+623;Mama Mexico;214 E. 49th St.;New York;NY;;;;214 E 49th St
+624;Mama! Mexico;2672 Broadway;New York;NY;Midtown East;Mexican;$$;2672 Broadway
+625;Mama's Food Shop;200 E Third St;New York;NY;East Village;American;$;200 E 3rd St
+626;Mamlouk;211 East 4th St;New York;NY;East Village;Middle Eastern;$$$;211 E 4th St
+627;Mamoun's Falafel Restaurant;119 MacDougal St.;New York;NY;;;;119 MacDougal St
+628;Mandarin Court;61 Mott St;New York;NY;Chinatown;Chinese;$;61 Mott St
+629;Mandoo Bar;2 W 32nd St;New York;NY;Midtown West;Korean;$;2 W 32nd St
+630;Mangia;50 W 57th St Fl 1;New York;NY;Midtown East;Italian;$;50 W 57th St Fl 1
+631;Mara's Homemade;342 E Sixth St;New York;NY;East Village;Creole-Cajun;$$;342 E 6th St
+632;Mare;198 Eighth Ave;New York;NY;Chelsea;Seafood;$$;198 8th Ave
+633;Maremma;228 W 10th St;New York;NY;West Village;Italian;$$$;228 W 10th St
+634;MarkJoseph Steakhouse;261 Water St;New York;NY;Financial District;Steakhouse;$$$$;261 Water St
+635;Market Table;54 Carmine St;New York;NY;;American;$$$$;54 Carmine St
+636;Markt;676 6th Avenue;New York;NY;Flatiron;Belgian;$$$;676 6th Ave
+637;Maroons;244 W 16th St;New York;NY;Chelsea;Southern;$$;244 W 16th St
+638;Marseille;630 Ninth Ave;New York;NY;Midtown West;French;$$$;630 9th Ave
+639;Mary Anns Mexican Restaurant;1503 2nd Ave;New York;NY;;;;1503 2nd Ave
+640;Mary's Fish Camp;64 Charles St;New York;NY;West Village;Seafood;$$;64 Charles St
+641;Mas (farmhouse);39 Downing St;New York;NY;Greenwich Village;American;$$$$;39 Downing St
+642;Masa;10 Columbus Circle;New York;NY;Upper West Side;Japanese;$$$$$;10 Columbus Cir
+643;Matsuri;369 W 16th St;New York;NY;;;;369 W 16th St
+644;Max;1274 Amsterdam Ave;New York;NY;East Village;Italian;$;1274 Amsterdam Ave
+645;Maya;1191 First Avenue;New York;NY;Midtown East;Mexican;$$$$;1191 1st Avenue
+646;Mccormick & Schmick's;1285 Sixth Ave;New York;NY;Midtown West;Seafood;$$$;1285 6th Ave
+647;Mediterraneo;1260 Second Ave;New York;NY;Upper East Side;Italian;$$;1260 2nd Ave
+648;Megu;62 Thomas St;New York;NY;TriBeCa;Japanese;$$$$$;62 Thomas St
+649;Megu Midtown;845 United Nations Plaza;New York;NY;Midtown East;Japanese;$$$$$;845 United Nations Plaza
+650;Meltemi;905 First Ave;New York;NY;Midtown East;Greek;$$$;905 1st Avenue
+651;Mercadito;179 Ave B;New York;NY;East Village;Mexican;$$;179 Avenue B
+652;Mercadito Grove;100 Seventh Ave S;New York;NY;West Village;Mexican;$$;100 7th Ave S
+653;Mercat;45 Bond Street;New York;NY;SOHO;Spanish;$$$$;45 Bond St
+654;Mercer Kitchen;99 Prince Street;New York;NY;SOHO;American;$$$$;99 Prince St
+655;Mermaid Inn;96 Second Ave;New York;NY;East Village;Seafood;$$$;96 2nd Ave
+656;Mesa Grill;102 5th Ave;New York;NY;Flatiron;Southwestern;$$$$;102 5th Ave
+657;Meskerem;468 W. 47th St.;New York;NY;;Ethiopian;;468 W 47th St
+658;Metisse;239 W 105th St;New York;NY;Upper West Side;French;$$$;239 W 105th St
+659;Metropol;234 W Fourth St;New York;NY;Greenwich Village;French;$$$;234 West 4th Street
+660;Mexican Radio;250 Mulberry St;New York;NY;NoLita;Mexican;$$;250 Mulberry St
+661;Mexicana Mama;525 Hudson St;New York;NY;West Village;Mexican;$$;525 Hudson St
+662;Mezzaluna;1295 3rd Ave;New York;NY;Upper East Side;American;$$;1295 3rd Ave
+663;Mi Cocina;57 Jane St;New York;NY;West Village;Mexican;$$$;57 Jane St
+664;Michael Jordan's The Steakhouse N.Y.C.;23 Vanderbilt Ave - Grand Central Staion;New York;NY;Midtown East;Steakhouse;$$$;89 E 42nd St
+665;Michael's;24 W 55th St;New York;NY;Midtown West;Californian;$$$$;24 W 55th St
+666;Mickey Mantle's;42 Central Park South;New York;NY;Midtown East;American;$$$;42 Central Park S
+667;Midtown;155 E 55th Street;New York;NY;Midtown East;American;$;155 E 55th St
+668;Mill Korean;2895 Broadway;New York;NY;Harlem;Korean;$;2895 Broadway
+669;Minetta Tavern;113 Macdougal Street;New York;NY;Greenwich Village;Italian;$$$;113 MacDougal St
+670;Mingala Burmese;21-23 E Seventh St;New York;NY;East Village;Southeast Asian;$;21 E 7th St #23
+671;Miracle Bar & Grill;415 Bleecker St;New York;NY;West Village;Southwestern;$$;415 Bleecker St
+672;Miss Maude's Spoonbread Too;547 Lenox Ave;New York;NY;Harlem;Southern;$;547 Lenox Ave
+673;Mo Pitkin's;34 Ave A;New York;NY;East Village;Jewish;$$;34 Avenue A
+674;Mobay Uptown Restaurant & Barbecue;17 W 125th St;New York;NY;Harlem;Caribbean;$;17 W 125th St
+675;Mofongo Depot;931 Amsterdam Ave;New York;NY;Upper West Side;Nuevo Latino;$$;931 Amsterdam Ave
+676;Molyvos;871 7th Avenue;New York;NY;Midtown West;Greek;$$$;871 7th Ave
+677;Momofuku Ko;163 First Ave;New York;NY;East Village;Chinese;$$$$;163 1st Avenue
+678;Momofuku Noodle Bar;171 First Ave.;New York;NY;East Village;Chinese;$$$;171 1st Avenue
+679;Momofuku Ssam Bar;207 2nd Ave;New York;NY;East Village;Asian;$$$;207 2nd Ave
+680;Momoya;185 Seventh Ave;New York;NY;;;;185 7th Ave
+681;Mon Petit Cafe;801 Lexington Ave;New York;NY;Upper East Side;French;$$;801 Lexington Ave
+682;Monkey Bar;60 E 54th Street;New York;NY;Midtown East;American;$$$$;60 E 54th St
+683;Monster Sushi;158 West 23rd St;New York;NY;;;;158 W 23rd St
+684;Montebello;120 E 56th St;New York;NY;Midtown East;Italian;$$$;120 E 56th St
+685;Montrachet - CLOSED;239 W Broadway;New York;NY;West Village;French;$$$$;239 W Broadway
+686;Moran's;146 Tenth Ave;New York;NY;Chelsea;Seafood;$$$;146 Amsterdam Ave
+687;Morandi;211 Waverly Place;New York;NY;Greenwich Village;Italian;$$$;211 Waverly Pl
+688;Morimoto;88 10th Ave;New York;NY;Chelsea;Japanese;$$$$;88 10th Ave
+689;Morrell Wine Bar & Cafe;1 Rockefeller Plaza;New York;NY;Midtown West;American;$$$;1 Rockefeller Plaza 48Th and
+690;Morton's;The Steakhouse, 551 Fifth Ave;New York;NY;Midtown East;Seafood;$$$$;The Steakhouse, 551 Fifth Ave
+691;Moustache;90 Bedford Street;New York;NY;West Village;Middle Eastern;$;Apartment Building from the TV Show Friends
+692;Mr. Chow;324 E 57th St;New York;NY;Midtown East;Chinese;$$$$;324 E 57th St
+693;Mr. K's;570 Lexington Ave;New York;NY;Midtown East;Chinese;$$$;General Electric Building
+694;Mrs Lee & Shabu Shabu Wok;121 University Pl;New York;NY;West Village;Asian;$;121 University Pl
+695;Mughlai;320 Columbus Ave;New York;NY;Upper West Side;Indian;$$;320 Columbus Ave
+696;Mustang Sally's;324 Seventh Avenue;New York;NY;Chelsea;American;$$;324 7th Ave
+697;Nebraska Beef;15 Stone St;New York;NY;Wall Street;Steakhouse;$$$$;15 Stone St
+698;Nelson Blue;233 Front Street;New York;NY;Financial District;British;$$;233 Front St
+699;Neo Sushi;2298 Broadway;New York;NY;Upper West Side;Sushi;$$$$;2298 Broadway
+700;Neptune Room;511 Amsterdam Ave;New York;NY;Upper West Side;Seafood;$$$$;511 Amsterdam Ave
+701;Nero;46 Gansevoort St;New York;NY;Meatpacking District;Italian;$$$;46 Gansevoort St
+702;New Bo-Ky;80 Bayard St;New York;NY;Chinatown;Asian;$;80 Bayard St
+703;New York Noodle Town;28 Bowery at Bayard Street;New York;NY;SOHO;Asian;$;28 Bowery
+704;Nha Trang;87 Baxter St;New York;NY;Chinatown;Asian;$;87 Baxter St
+705;Nice;35 E Broadway;New York;NY;Chinatown;Chinese;$;35 E Broadway
+706;Nick's;1814 Second Ave;New York;NY;Upper East Side;Italian;$;1814 2nd Ave
+707;Nicky's Vietnamese Sandwiches;150 E 2nd St;New York;NY;East Village;American;$;150 E 2nd St
+708;Nicole's;10 East 60th Street;New York;NY;Midtown East;British;$$;10 E 60th St
+709;Niko's Mediterranean Grill;2161 Broadway;New York;NY;Upper West Side;Greek;$;2161 Broadway
+710;Nino's Bellissima Pizza;890 Second Ave.;New York;NY;Midtown East;Italian;$$$;890 2nd Ave
+711;Noble Food & Wine;7 Spring Street;New York;NY;NoLita;American;$$$;7 Spring St
+712;Nobu Fifty Seven;40 W 57th St;New York;NY;Midtown West;Japanese;$$$$$;40 W 57th St
+713;Nobu New York;105 Hudson St;New York;NY;TriBeCa;Japanese;$$$$;105 Hudson St
+714;Nobu Next Door;105 Hudson St;New York;NY;TriBeCa;Sushi;$$$$;105 Hudson St
+715;Nocello;257 West 55th St;New York;NY;Midtown West;Italian;$$$;257 W 55th St
+716;Nocello;257 West 55th Street;New York;NY;Theater;Italian;$$$$;257 W 55th St
+717;Nonna;520 Columbus Ave;New York;NY;;;;520 Columbus Ave
+718;Norma's;118 West 57th Street;New York;NY;Midtown West;American;$$;118 W 57th St
+719;North Square Restaurant and Lounge;103 Waverly Place;New York;NY;Greenwich Village;American;$$$$;103 Waverly Pl
+720;Nougatine;1 Central Park West;New York;NY;;American;$$$$;1 Central Park West
+721;Novecento;343 W Broadway;New York;NY;SOHO;South American;$$$;343 W Broadway
+722;Novita;102 E 22nd Street;New York;NY;Gramercy Park;Italian;$$$;102 E 22nd St
+723;Nyonya;194 Grand Street;New York;NY;Little Italy;Malaysian;$;194 Grand St
+724;Ocean Grill;384 Columbus Ave;New York;NY;Upper West Side;Seafood;$$$;384 Columbus Ave
+725;Oceana;55 E 54th St;New York;NY;Midtown East;Seafood;$$$$;55 E 54th St
+726;Odeon;145 W Broadway;New York;NY;TriBeCa;French;$$$;145 W Broadway
+727;Old Devil Moon;511 E 12th St;New York;NY;East Village;Southern;$;511 E 12th St
+728;Old Homestead;56 9th Ave;New York;NY;Meatpacking District;Steakhouse;$$$$;56 9th Ave
+729;Oliva;161 East Houston Street;New York;NY;Lower East Side;American;$$;161 E Houston St
+730;Olives;201 Park Ave S - W Hotel;New York;NY;Union Square;Mediterranean;$$$;201 Park Ave S
+731;Ollie's Restaurant;1991 Broadway;New York;NY;Upper West Side;Chinese;$;1991 Broadway
+732;Omen;113 Thompson Street;New York;NY;SOHO;Japanese;$$$;113 Thompson St
+733;Once Upon a Tart;135 Sullivan Street;New York;NY;SOHO;American;$;135 Sullivan St
+734;One;1 Little West 12th St;New York;NY;Meatpacking District;American;$$$;1 Little W 12th St
+735;One If by Land;Two If by Sea, 17 Barrow St;New York;NY;Greenwich Village;American;$$$$;17 Barrow St
+736;One Little West 12;1 Little West 12th St.;New York;NY;Meatpacking District;American;$$;1 Little W 12th St
+737;Onieal's Grand Street;174 Grand St;New York;NY;SOHO;American;$$$;174 Grand St
+738;Ono;18 Ninth Ave;New York;NY;Meatpacking District;Sushi;$$$$;18 9th Ave
+739;Open the Sesame;198A Orchard St.;New York;NY;Lower East Side;Thai;$;198 Orchard St
+740;Oriental Garden;14 Elizabeth St;New York;NY;Chinatown;Chinese;$;14 Elizabeth St
+741;Osteria Al Doge;142 West 44th St;New York;NY;Midtown West;Italian;$$$;142 W 44th St
+742;Osteria Del Circo;120 W 55th St;New York;NY;Midtown West;Italian;$$$$;120 W 55th St
+743;Osteria Gelsi;507 Ninth Ave;New York;NY;Midtown West;Italian;$$$;507 9th Ave
+744;Ostia Tapeo;113 Seventh Ave. S.;New York;NY;Greenwich Village;Small Plates;$$;113 7th Ave S
+745;Otto;1 Fifth Ave;New York;NY;Greenwich Village;Italian;$$$$;1 5th Ave
+746;Ouest;2315 Broadway;New York;NY;Upper West Side;American;$$$$;2315 Broadway
+747;Outback Steakhouse;60 W 23rd St;New York;NY;Flatiron;Steakhouse;$$;60 W 23rd St
+748;P.J. Clarke's;915 Third Ave;New York;NY;;;;915 3rd Ave
+749;P.J. Clarke's;44 W. 63rd Street;New York;NY;;;;44 W 63rd St.
+750;Paladar;161 Ludlow St;New York;NY;Lower East Side;Nuevo Latino;$$;161 Ludlow St
+751;Pam Real Thai Food;404 W 49th St;New York;NY;Midtown West;Asian;$;404 W 49th St
+752;Pampa;768 Amsterdam Avenue;New York;NY;Upper West Side;South American;$$;768 Amsterdam Ave
+753;Pampano;209 E 49th St;New York;NY;Midtown East;Mexican;$$$;209 E 49th St
+754;Paradou;8 Little W 12th St;New York;NY;Meatpacking District;French;$$;8 Little W 12th St
+755;Paris Commune;99 Bank St;New York;NY;West Village;Continental;$$;99 Bank St
+756;Park;The, 118 10th Ave;New York;NY;Chelsea;Mediterranean;$$$;118 10th Ave
+757;Park Avenue Cafe;100 East 63rd St (@ Park Avenue);New York;NY;Upper East Side;American;$$$$;100 E 63rd St
+758;Park Bistro;414 Park Ave South;New York;NY;SOHO;French;$$$;414 Park Ave S
+759;Park East Grill;1564 2nd Avenue;New York;NY;Upper East Side;Jewish;$;1564 2nd Ave
+760;Parlor Steakhouse;1600 3rd Ave;New York;NY;Upper East Side;Steakhouse;$$$$;1600 3rd Ave
+761;Pasha;70 W 71st St;New York;NY;Upper West Side;Middle Eastern;$$$;70 W 71st St
+762;Pastis;9 Ninth Ave;New York;NY;Meatpacking District;French;$$$;9 9th Ave
+763;Patsy's;236 W 56th St;New York;NY;Midtown West;Italian;$$$;236 W 56th St
+764;Paul's Da Burger Joint;131 2nd avenue;New York;NY;East Village;American;$$;131 2nd Ave
+765;Payard Bistro;1032 Lexington Avenue;New York;NY;Upper East Side;French;$$$;1032 Lexington Ave
+766;Peanut Butter & Co.;240 Sullivan St;New York;NY;;;;D'Agostino Hall
+767;Pearl Oyster Bar;18 Cornelia Street;New York;NY;Greenwich Village;Seafood;$$$;18 Cornelia St
+768;Peasant;194 Elizabeth St;New York;NY;NoLita;Italian;$$$;194 Elizabeth St
+769;Peep;177 Prince St;New York;NY;SOHO;Asian;$$;LOFTS AT PRINCE (WEDDING)
+770;Penelope;159 Lexington Ave;New York;NY;Murray Hill;American;$;159 Lexington Ave
+771;Pepe Giallo;253 10th Ave;New York;NY;;;;253 10th Ave
+772;Pepe Rosso;149 Sullivan St;New York;NY;SOHO;Italian;$;149 Sullivan St
+773;Per Se;10 Columbus Circle, 4th Fl (60th St);New York;NY;Upper West Side;American;$$$$$;10 Columbus Circle, 4th Fl (60th St)
+774;Pera;303 Madison Avenue;New York;NY;Midtown East;Mediterranean;$$$$;303 Madison Ave
+775;Perbacco;234 E Fourth St;New York;NY;East Village;Italian;$$$;234 E 4th St
+776;Peri Ela;1361 Lexington Avenue;New York;NY;Upper East Side;Turkish;$$;1361 Lexington Ave
+777;Perilla;9 Jones Street;New York;NY;Greenwich Village;American;$$$$;9 Jones St
+778;Periyali;35 W 20th St;New York;NY;Flatiron;Greek;$$$$;35 W 20th St
+779;Perry St.;176 Perry St;New York;NY;West Village;French;$$$$;176 Perry St
+780;Persimmon;277 E 10th St;New York;NY;;Korean;$$$$;277 E 10th St
+781;Pescatore;955-957 2nd Ave;New York;NY;Midtown East;Indian;$$$;955 2nd Ave
+782;Petite Abeille;400 West 14th St;New York;NY;Chelsea;Belgian;$;400 W 14th St
+783;Petrossian;182 W 58th St;New York;NY;Midtown West;Continental;$$$$;182 W 58th St
+784;Philip Marie;569 Hudson St;New York;NY;West Village;American;$$$;569 Hudson St
+785;Pho Bang Restaurant Inc;St Pike St;New York;NY;Chinatown;Asian;$;Pike St
+786;Piadina;57 W 10th St;New York;NY;Greenwich Village;Italian;$$;57 W 10th St
+787;Piano Due;151 W 51st St;New York;NY;Midtown West;Italian;$$$$;151 W 51st St
+788;Piccolo Angolo;621 Hudson St;New York;NY;West Village;Italian;$$;621 Hudson St
+789;Piccolo Ristorante;226 Third Ave;New York;NY;Chelsea;Mediterranean;$$;226 3rd Ave
+790;Picholine;35 W 64th St;New York;NY;Upper West Side;Mediterranean;$$$$;35 W 64th St
+791;Pig Heaven;1540 Second Ave;New York;NY;Midtown West;Chinese;$$;1540 2nd Ave
+792;Pinch;416 Park Ave S;New York;NY;Gramercy Park;Pizza;$;416 Park Ave S
+793;Ping's Seafood;22 Mott St;New York;NY;Chinatown;Chinese;$;22 Mott St
+794;Pinkberry Frozen Yogurt;240 E 82nd St;New York;NY;;Dessert;;240 E 82nd St
+795;Pipa;38 E 19th Street;New York;NY;;Flatiron;$$$;38 E 19th St
+796;Pisticci;125 La Salle St;New York;NY;Harlem;Italian;$;125 La Salle St
+797;Pizza 33;171 W 23rd St;New York;NY;Chelsea;Pizza;$;171 W 23rd St
+798;Pizzeria de Santo;173 Ludlow St.;New York;NY;Lower East Side;Pizza;$;173 Ludlow St
+799;Po;31 Cornelia St;New York;NY;Greenwich Village;Italian;$$$;31 Cornelia St
+800;Poke;343 E. 85th St.;New York;NY;;Sushi;$$;343 E 85th St
+801;Pomme Frites;123 2nd Ave;New York;NY;;Belgian;$;123 2nd Ave
+802;Pongal;110 Lexington Ave.;New York;NY;Murray Hill;Indian;$$;110 Lexington Ave
+803;Popover Cafe;551 Amsterdam Ave;New York;NY;Upper West Side;American;$;551 Amsterdam Ave
+804;Porchetta;110 East 7th Street;New York;NY;East Village;Italian;$$$;110 E 7th St
+805;Porters New York;216 Seventh Avenue;New York;NY;Chelsea;American;$$;216 7th Ave
+806;Positano;122 Mulberry St;New York;NY;Little Italy;Italian;$$;122 Mulberry St
+807;Post House;28 E 63rd St (Between Park Ave & Madison Ave);New York;NY;Upper East Side;Steakhouse;$$$$;28 E 63rd St
+808;Prem-On Thai;138 W Houston St;New York;NY;Greenwich Village;Thai;$$;138 W Houston St
+809;Prime Grill;60 E 49th St;New York;NY;Midtown East;Jewish;$$$$;60 E 49th St
+810;Primitivo Osteria;202 West 14th Street;New York;NY;West Village;Italian;$$$;202 W 14th St
+811;Provence;38 Macdougal Street;New York;NY;SOHO;French;$$;38 MacDougal St
+812;Prune;54 E First St;New York;NY;East Village;American;$$$;54 E 1st St
+813;Public;210 Elizabeth St;New York;NY;NoLita;International;$$$;210 Elizabeth St
+814;Pukk;71 First Ave;New York;NY;East Village;Thai;$;71 1st Avenue
+815;Pump Energy Food;40 West 55th Street;New York;NY;Midtown West;International;$;40 W 55th St
+816;Pure Food and Wine;54 Irving Pl;New York;NY;Gramercy Park;Vegetarian;$$$$;54 Irving Pl
+817;Puttanesca;859 9th Avenue;New York;NY;Midtown West;Italian;$$;859 9th Ave
+818;Pylos;128 E Seventh St;New York;NY;East Village;Greek;$$;128 E 7th St
+819;P’ONG;150 W 10th St;New York;NY;;Continental;$$$;150 W 10th St
+820;Quality Meats;57 W 58th St;New York;NY;Midtown West;Steakhouse;$$$$;57 W 58th St
+821;Quartino;21 Peck Slip;New York;NY;;;;21 Peck Slip
+822;Rack and Soul;2818 Broadway;New York;NY;Upper West Side;Barbecue;$$;2818 Broadway
+823;Radio Perfecto;190 Ave B;New York;NY;East Village;American;$$;190 Avenue B
+824;Rain West - CLOSED;100 West 82nd Street;New York;NY;Upper West Side;Asian;$$;100 W 82nd St
+825;Rainbow Room;30 Rockefeller Plaza65th Floor;New York;NY;Midtown West;Italian;$$$$;30 Rockefeller Plaza 65th floor
+826;Rao's;455 East 114th St;New York;NY;Harlem;Italian;$$$$;455 E 114th St
+827;Raoul's;180 Prince St;New York;NY;SOHO;French;$$$;180 Prince St
+828;Red Cat;227 Tenth Avenue;New York;NY;Chelsea;American;$$$;227 Amsterdam Ave
+829;Redeye Grill;890 Seventh Ave;New York;NY;Midtown West;American;$$$;890 7th Ave
+830;Remi;145 W 53rd St;New York;NY;Midtown West;Italian;$$$;145 W 53rd St
+831;Republic;37 Union Square W;New York;NY;Union Square;Asian;$;37 Union Square W
+832;Resto;111 E. 29th Street;New York;NY;Gramercy Park;Belgian;$$;111 E 29th St
+833;Revel;10 Little W. 12th Street;New York;NY;Meatpacking District;International;$$$$;10 Little W 12th St
+834;Revival;2367 Frederick Douglass Blvd;New York;NY;Harlem;Caribbean;$$;2367 Frederick Douglass Blvd
+835;Ribot;780 Third Ave;New York;NY;;;;780 3rd Ave
+836;Rice;277 Mott Street;New York;NY;NoLita;International;$;277 Mott St
+837;Rice 'N' Beans;744 9th Ave;New York;NY;Midtown West;South American;$;744 9th Ave
+838;Riingo;205 E. 45th St;New York;NY;Midtown East;Japanese;$$$$;205 E 45th St
+839;Risotteria;270 Bleecker St;New York;NY;;;;270 Bleecker St
+840;Roberto Passon;741 Ninth Ave;New York;NY;Midtown West;Italian;$$$;741 9th Ave
+841;Rocco Restaurant;181 Thompson St;New York;NY;Greenwich Village;Italian;$$;181 Thompson St
+842;Rock Center Cafe;2 W 50th St;New York;NY;Midtown West;American;$$$;2 W 50th St
+843;Rocking Horse;182 Eighth Ave;New York;NY;Chelsea;Mexican;$$;182 8th Ave
+844;Rolf's;281 Third Ave.;New York;NY;;German;$$;281 3rd Ave
+845;Roppongi Restaurant;200 W 81st St;New York;NY;Upper West Side;Sushi;$$;200 W 81st St
+846;Rosa Mexicano;61 Columbus Avenue;New York;NY;Upper West Side;Mexican;$$$;61 Columbus Ave
+847;Rosa Mexicano;9 E 18th St;New York;NY;Flatiron;Mexican;$$$;9 E 18th St
+848;Rosa Mexicano - First Avenue;1063 First Ave;New York;NY;Midtown East;Mexican;$$$;1063 1st Avenue
+849;Roy's;130 Washington St;New York;NY;TriBeCa;Fusion;$$$;130 Washington St
+850;Rub Bbq;208 W 23rd St;New York;NY;;;;208 W 23rd St
+851;Ruby Foo's Times Square;1626 Broadway;New York;NY;Midtown West;Pan-Asian;$$$;1626 Broadway
+852;Ruby Foo's Uptown;2182 Broadway;New York;NY;Upper West Side;Pan-Asian;$$$;2182 Broadway
+853;Rue 57;60 West 57th Street;New York;NY;;;;60 W 57th St
+854;Russian Samovar;256 W 52nd St;New York;NY;Midtown West;Continental;$$$;256 W 52nd St
+855;Ruth's Chris Steak House;148 West 51st Street;New York;NY;Midtown West;Steakhouse;$$$$;148 W 51st St
+856;S.O.B.'s;200 Varick St;New York;NY;SOHO;Brazilian;$;200 Varick St
+857;Sachiko's On 25 Clinton;25 Clinton St;New York;NY;Lower East Side;Japanese;$$$;25 Clinton St
+858;Sacred Chow;227 Sullivan Street;New York;NY;Greenwich Village;Vegetarian;$;227 Sullivan St
+859;Sal Anthony's S.P.Q.R.;133 Mulberry St;New York;NY;Little Italy;Italian;$$;133 Mulberry St
+860;Sala;344 Bowery;New York;NY;NoLita;Spanish;$$;344 Bowery
+861;Salaam Bombay;319 Greenwich St;New York;NY;TriBeCa;Indian;$$;319 Greenwich St
+862;Salmon River;3 East 40th Street;New York;NY;Murray Hill;Seafood;$$;3 E 40th St
+863;Salt;58 Macdougal St;New York;NY;SOHO;American;$$$;58 MacDougal St
+864;Salt Bar;29 Clinton St;New York;NY;Lower East Side;American;$$$;29 Clinton St
+865;Salud Restaurant and Bar;142 Beekman Street;New York;NY;;;;142 Beekman St
+866;Salute;270 Madison Ave;New York;NY;Murray Hill;Italian;$;270 Madison Ave
+867;Sambuca;20 W 72nd St;New York;NY;Upper West Side;Italian;$$;20 W 72nd St
+868;Sammy's Roumanian;157 Chrystie St;New York;NY;Lower East Side;European;$$$;157 Chrystie St
+869;San Domenico;240 Central Park South;New York;NY;Midtown West;Italian;$$$$;240 Central Park S
+870;Sanctuary T;337 West Broadway;New York;NY;SOHO;Continental;$$$;337 W Broadway
+871;Sant Ambroeus;259 W Fourth St;New York;NY;West Village;Italian;$$$;259 West 4th Street
+872;Santa Fe;73 W 71st St;New York;NY;Upper West Side;Southwestern;$$;73 W 71st St
+873;Sapa;43 West 24th Street;New York;NY;Chelsea;Asian;$$$;43 W 24th St
+874;Sapphire;1845 Broadway;New York;NY;Upper West Side;Indian;$$$;1845 Broadway
+875;Sardi's;234 West 44th Street;New York;NY;Midtown West;Continental;$$$;234 W 44th St
+876;Sarge's Deli;548 Third Avenue;New York;NY;Murray Hill;Deli;$;548 3rd Ave
+877;Saucy;1409 York Avenue;New York;NY;Upper East Side;International;$$;1409 York Ave
+878;Savann;414 Amsterdam Ave;New York;NY;Upper West Side;French;$$;414 Amsterdam Ave
+879;Savoy;70 Prince St;New York;NY;SOHO;American;$$$;70 Prince St
+880;Scaletta;50 W 77th St;New York;NY;Midtown West;Italian;$$$;50 W 77th St
+881;Scalinatella;201 East 61st Street;New York;NY;Upper East Side;Italian;$$$$;201 E 61st St
+882;Scalini Fedeli;165 Duane St;New York;NY;TriBeCa;Italian;$$$$;165 Duane St
+883;Scarlatto;250 W 47th St;New York;NY;Midtown West;Italian;$$;250 W 47th St
+884;Scarpetta;355 W 14th St;New York;NY;Meatpacking District;Italian;$$$$;355 W 14th St
+885;Schiller's Restaurant;131 Rivington St;New York;NY;Lower East Side;International;$$;131 Rivington St
+886;Sea;75 Second Ave;New York;NY;East Village;Asian;$;75 2nd Ave
+887;Sea Grill;19 West 49th Street;New York;NY;Midtown West;Seafood;$$$$;19 W 49th St
+888;Sequoia;Pier 17;New York;NY;Wall Street;Seafood;$$;89 South St
+889;Serendipity 3;225 E 60th St;New York;NY;Upper East Side;American;$;225 E 60th St
+890;Sevilla Restaurant and Bar;62 Charles St& West 4th St;New York;NY;West Village;Spanish;$$;62 Charles St
+891;Sezz Medi';1260 Amsterdam Ave;New York;NY;Harlem;Mediterranean;$$;1260 Amsterdam Ave
+892;Sfoglia;1402 Lexington Avenue;New York;NY;Upper East Side;Italian;$$$$;1402 Lexington Ave
+893;Shaburi;125 E 39th St;New York;NY;Murray Hill;Japanese;$$$;125 E 39th St
+894;Shaffer City Oyster Bar & Grill;5 W 21st St;New York;NY;Flatiron;Seafood;$$$;5 W 21st St
+895;Shake Shack;366 Columbus Ave;New York;NY;Upper West Side;American;$$;366 Columbus Ave
+896;Shake Shack;11 Madison Ave;New York;NY;Flatiron;American;$$;11 Madison Ave
+897;Shula's Steak House;270 W 43rd St;New York;NY;Midtown West;American;$$$$;270 W 43rd St
+898;Shun Lee Cafe;43 W 65th St;New York;NY;;;;43 W 65th St
+899;Shun Lee Palace;155 E 55th Street;New York;NY;Midtown East;Chinese;$$$;155 E 55th St
+900;Shun Lee West;43 W. 65th St.;New York;NY;;Chinese;$$$;43 W 65th St
+901;Sip Sak;928 Second Ave;New York;NY;Midtown East;Middle Eastern;$;928 2nd Ave
+902;Slane;102 MacDougal St;New York;NY;West Village;Irish;$$;102 MacDougal St
+903;Smith & Wollensky;797 Third Ave;New York;NY;Midtown East;Steakhouse;$$$;797 3rd Ave
+904;Smorgas Chef;283 W. 12th St.;New York;NY;;Scandinavian;;283 W 12th St
+905;Snack;105 Thompson St;New York;NY;SOHO;Greek;$;105 Thompson St
+906;Snack Taverna;63 Bedford St;New York;NY;West Village;Greek;$$;63 Bedford St
+907;Soba-Ya;229 E Ninth St;New York;NY;East Village;Asian;$;229 E 9th St
+908;Sofrito;400 E. 57th St.;New York;NY;;Nuevo Latino;$$;400 E 57th St
+909;Sol Y Sombra;462 Amsterdam Ave;New York;NY;Upper West Side;Spanish;$;462 Amsterdam Ave
+910;Solera;216 E 53rd St;New York;NY;Midtown East;Spanish;$$$;216 E 53rd St
+911;Son Cubano;361 Greenwich St;New York;NY;Meatpacking District;Cuban;$$$;361 Greenwich St
+912;Soto;357 Sixth;New York;NY;Greenwich Village;Sushi;$$$;357 6th Ave
+913;Soto;357 Sixth Avenue;New York;NY;Greenwich Village;Sushi;$$$$;357 6th Ave
+914;Southside Cafe;252 W 47th Street;New York;NY;Theater;Italian;$$;252 W 47th St
+915;Sparks Steak House;210 E 46th Street;New York;NY;Midtown East;Steakhouse;$$$;210 E 46th St
+916;Spice;1411 Second Ave;New York;NY;Upper East Side;Asian;$;1411 2nd Ave
+917;Spice;104 Second Ave.;New York;NY;East Village;Thai;$$;104 2nd Ave
+918;Spice Market;403 W 13th St;New York;NY;Meatpacking District;Malaysian;$$$;403 W 13th St
+919;Spigolo;1561 Second Ave;New York;NY;Upper East Side;Italian;$$$;1561 2nd Ave
+920;Spotlight Live;1604 Broadway;New York;NY;Theater;American;$$$$;1604 Broadway
+921;Spotted Pig;The, 314 W 11th St;New York;NY;West Village;British;$$$;314 W 11th St
+922;Spring St Natural Restaurant;62 Spring St;New York;NY;NoLita;Vegetarian;$;62 Spring St
+923;Stage Deli;834 Seventh Avenue;New York;NY;Midtown West;Deli;$;834 7th Ave
+924;Stand;24 E. 12th Street;New York;NY;Greenwich Village;American;$;24 E 12th St
+925;Stanton Social;99 Stanton St;New York;NY;Lower East Side;International;$$$;99 Stanton St
+926;Stanton Social Club;99 Stanton Street;New York;NY;;Small Plates;$$$;99 Stanton St
+927;Steak Frites;9 East 16th Street;New York;NY;Union Square;French;$$;9 E 16th St
+928;Stella Di Mare;346 Lexington Avenue;New York;NY;Murray Hill;Italian;$$$;346 Lexington Ave
+929;Stella Maris;213 Front St.;New York;NY;Financial District;European;$$;213 Front St
+930;Strip House;13 E 12th St;New York;NY;Greenwich Village;Steakhouse;$$$;13 E 12th St
+931;Suba;109 Ludlow St;New York;NY;Lower East Side;Spanish;$$$;109 Ludlow St
+932;Suenos;311 W 17th St;New York;NY;Chelsea;Mexican;$$$;311 W 17th St
+933;Sugiyama;251 W 55th St;New York;NY;Midtown West;Japanese;$$$$;251 W 55th St
+934;Sui;54 Spring Street;New York;NY;Lower East Side;Japanese;$$$;54 Spring St
+935;Supper;156 E Second St;New York;NY;East Village;Italian;$$;156 E 2nd St
+936;Surya;302 Bleecker St;New York;NY;West Village;Indian;$$;302 Bleecker St
+937;Sushi Of Gari;402 E 78th St;New York;NY;Upper East Side;Sushi;$$$$;402 E 78th St
+938;Sushi Samba;245 Park Ave South;New York;NY;Flatiron;Sushi;$$$;245 Park Ave S
+939;Sushi Seki;1143 1st Ave;New York;NY;Upper East Side;Sushi;$$$;1143 1st Avenue
+940;Sushi Yasuda;204 E 43rd St;New York;NY;Midtown East;Japanese;$$$$$;204 E 43rd St
+941;Sushi Zen;108 W 44th St;New York;NY;Midtown West;Sushi;$$$;108 W 44th St
+942;Sushisamba 7;87 Seventh Ave South;New York;NY;Greenwich Village;Sushi;$$$;87 7th Ave S
+943;Swagat Indian Cuisine;411a Amsterdam Ave;New York;NY;;;;411A Amsterdam Ave
+944;Swing 46;349 W. 46 St;New York;NY;Theater;American;$$$;349 W 46th St
+945;Swizz;310 W 53rd St;New York;NY;Midtown West;Swiss;$$;310 W 53rd St
+946;Tabla;11 Madison Ave;New York;NY;Gramercy Park;Indian;$$$$;11 Madison Ave
+947;Taboon;773 10th Ave;New York;NY;Midtown West;Mediterranean;$$$;773 10th Ave
+948;Tailor;525 Broome St.;New York;NY;;;;525 Broome St
+949;Takahachi Tribeca;145 Duane St;New York;NY;TriBeCa;Japanese;$$;145 Duane St
+950;Talay;701 W 135th St;New York;NY;Harlem;Thai;$$$;701 W 135th St
+951;Tamarind;41-43 E 22nd St;New York;NY;Flatiron;Indian;$$$;41 E 22nd St #43
+952;Tang Pavilion;65 W 55th St;New York;NY;Midtown West;Chinese;$$;65 W 55th St
+953;Tao;42 E 58th Street;New York;NY;Midtown East;Asian;$$$;42 E 58th St
+954;Taormina;147 Mulberry St;New York;NY;Little Italy;Italian;$$;147 Mulberry St
+955;Tartine;253 W 11th St;New York;NY;West Village;French;$;253 W 11th St
+956;Tasting Room;72 E First St;New York;NY;East Village;American;$$$;72 E 1st St
+957;Tavern on the Green;Central Park W.;New York;NY;;;;Central Park West
+958;Tea & Sympathy;108 Greenwich Ave;New York;NY;West Village;British;$;108 Greenwich Ave
+959;Telepan;72 West 69th Street;New York;NY;Midtown West;American;$$$$;72 W 69th St
+960;Tello's;263 W 19th St;New York;NY;Chelsea;Italian;$$;263 W 19th St
+961;Tenzan;285 Columbus Ave;New York;NY;Upper West Side;Japanese;$$;285 Columbus Ave
+962;Tenzan;988 Second Avenue;New York;NY;Midtown East;Sushi;$$$$;988 2nd Ave
+963;Tequila's Chito's Mexican Bar & Grill;358 W 23rd St;New York;NY;Chelsea;Mexican;$$;358 W 23rd St
+964;Teresa's;103 1st Ave;New York;NY;East Village;Polish;$;103 1st Avenue
+965;Terrace In The Sky;400 West 119th Street;New York;NY;Upper West Side;French;$$;Butler Hall
+966;The American;235 Mulberry St.;New York;NY;NoLita;American;$;235 Mulberry St
+967;The Cafe Carlyle;35 E 76 St;New York;NY;;;;35 E 76th St
+968;The Cupping Room Cafe;359 West Broadway;New York;NY;;;;359 W Broadway
+969;The Four Seasons;99 E 52nd St;New York;NY;Midtown East;Continental;$$$$;99 E 52nd St
+970;The Harrison;355 Greenwich St;New York;NY;TriBeCa;American;$$$;355 Greenwich St
+971;The House;121 E. 17th Street;New York;NY;Gramercy Park;Mediterranean;$$$$;121 E 17th St
+972;The Mezzanine Restaurant;235 W 46th Street;New York;NY;Theater;Mediterranean;$$;235 W 46th St
+973;The Modern;9 W 53rd St;New York;NY;Midtown West;American;$$$$;9 W 53rd St
+974;The New French;522 Hudson St;New York;NY;Greenwich Village;French;$$$;522 Hudson St
+975;The Pink Tea Cup;42 Grove St;New York;NY;West Village;Southern;$;42 Grove St
+976;The Place;310 W Fourth St;New York;NY;West Village;American;$$$;310 West 4th Street
+977;The Place on West 10th;142 W 10th St;New York;NY;Greenwich Village;American;$$$;142 W 10th St
+978;The Pump Energy Food;275 Madison Ave.;New York;NY;;;;275 Madison Ave
+979;The Redhead;349 E. 13th Street;New York;NY;East Village;American;$$$;349 E 13th St
+980;The Sunburnt Cow;137 Avenue C;New York;NY;East Village;Australian;$;137 Loisaida Ave
+981;Thor;Hotel on Rivington;New York;NY;Lower East Side;American;$$$$;107 Rivington St
+982;Three Of Cups;83 First Ave;New York;NY;East Village;Italian;$;83 1st Avenue
+983;Tia Pol;205 Tenth Ave;New York;NY;Chelsea;Spanish;$$;205 Amsterdam Ave
+984;Tocqueville;1 E 15th St;New York;NY;Union Square;American;$$$$;1 E 15th St
+985;Tomo;2850 Broadway;New York;NY;Harlem;Sushi;$;2850 Broadway
+986;Tomoe Sushi;172 Thompson St;New York;NY;Greenwich Village;Sushi;$$;172 Thompson St
+987;Tong;39 E. 13th St.;New York;NY;;Thai;$$$;39 E 13th St
+988;Tony's Di Napoli;1606 2nd Avenue;New York;NY;;;;1606 2nd Ave
+989;Town;Chambers Hotel, 15 West 56th St;New York;NY;Midtown West;American;$$$$;15 W 56th St
+990;Trattoria Dell'Arte;900 Seventh Ave;New York;NY;Midtown West;Italian;$$$;900 7th Ave
+991;Tribeca Grill;375 Greenwich St;New York;NY;TriBeCa;American;$$$;375 Greenwich St
+992;Triomphe;49 West 44th Street;New York;NY;Midtown West;French;$$$$;49 W 44th St
+993;Troy Turkish Grill;539 9th Ave;New York;NY;Midtown West;Turkish;$;539 9th Ave
+994;Tsampa;212 E Ninth St;New York;NY;East Village;Southeast Asian;$;212 E 9th St
+995;Tse Yang;34 East 51st Street;New York;NY;Midtown East;Chinese;$$$;34 E 51st St
+996;Turkish Cuisine;631 9th Ave;New York;NY;Midtown West;Middle Eastern;$$;631 9th Ave
+997;Turkish Kitchen;386 Third Ave;New York;NY;Midtown East;Turkish;$$$$;386 3rd Ave
+998;Turkuaz;2637 Broadway;New York;NY;Harlem;Middle Eastern;$$;2637 Broadway
+999;Tuscan Square;16 W 51st St;New York;NY;Midtown West;Italian;$$$;16 W 51st St
+1000;Two Boots Lower East Side;384 Grand Street;New York;NY;Lower East Side;Pizza;$;384 Grand St
+1001;Two Boots Rock Center;30 Rockefeller Plaza;New York;NY;Midtown West;Pizza;$;30 Rockefeller Plaza
+1002;Two Boots To Go;42 Avenue A;New York;NY;East Village;Pizza;$;42 Avenue A
+1003;Two Boots To Go Go;74 Bleecker Street;New York;NY;SOHO;Pizza;$;74 Bleecker St
+1004;Two Boots To Go West;201 West 11th Street;New York;NY;West Village;Pizza;$;201 W 11th St
+1005;Una Pizza Napoletana;349 E 12th St;New York;NY;East Village;Pizza;$;349 E 12th St
+1006;Uncle Jack's Steakhouse-Nyc;440 9th Avenue;New York;NY;Midtown East;Steakhouse;$$$;440 9th Ave
+1007;Uncle Nick's;747 9th Ave;New York;NY;Midtown West;Greek;$$;747 9th Ave
+1008;Union Square Cafe;21 E 16th St;New York;NY;Union Square;American;$$$$;21 E 16th St
+1009;Upstairs;130 W Broadway, 2nd Fl;New York;NY;TriBeCa;International;$$$;130 W Broadway 2nd Fl
+1010;Urena;37 E 28th St;New York;NY;Gramercy Park;Spanish;$$$;37 E 28th St
+1011;Uskudar Turkish Restaurantt;1405 Second Ave;New York;NY;Upper East Side;Middle Eastern;$$;1405 2nd Ave
+1012;Utsav;1185 Sixth Ave, 2nd Fl;New York;NY;Midtown West;Indian;$$$;1185 6th Ave 2nd Fl
+1013;Varietal;138 W. 25th Street;New York;NY;Chelsea;American;$$$$;138 W 25th St
+1014;Vatan;409 Third Ave;New York;NY;Gramercy Park;Indian;$$;409 3rd Ave
+1015;Veniero's;342 E 11th St;New York;NY;East Village;American;$;342 E 11th St
+1016;Vento;675 Hudson St;New York;NY;Meatpacking District;Italian;$$$;675 Hudson St
+1017;Veritas;43 E 20th St;New York;NY;Union Square;American;$$$$;43 E 20th St
+1018;Veselka Restaurant;144 2nd Ave;New York;NY;East Village;American;$;144 2nd Ave
+1019;Vespa Cibobouno;1625 Second Ave;New York;NY;;;;1625 2nd Ave
+1020;Via Brasil;34 W 46 St;New York;NY;Midtown West;South American;$$;34 W 46th St
+1021;Viceversa;325 W 51st St;New York;NY;Midtown West;Italian;$$$$;325 W 51st St
+1022;Vico Ristorante;1302 Madison Ave;New York;NY;Upper East Side;Italian;$$$;1302 Madison Ave
+1023;Victor's Cafe;236 West 52 St;New York;NY;Midtown West;Cuban;$$$;236 W 52nd St
+1024;Villa Mosconi Restaurant;69 Macdougal St;New York;NY;Greenwich Village;Italian;$$$;69 MacDougal St
+1025;Village;62 W Ninth St;New York;NY;Greenwich Village;French;$$$;62 W 9th St
+1026;Vincent's Restaurant;119 Mott St;New York;NY;Little Italy;Italian;$$;119 Mott St
+1027;Vintage Irving;118A E. 15th St.;New York;NY;Union Square;Small Plates;$$$;118A E 15th St
+1028;Vong;200 East 54th St;New York;NY;Midtown East;Thai;$$$$;200 E 54th St
+1029;Waikiki Wally's;101 East 2nd Street;New York;NY;East Village;Hawaiian;$$$;101 E 2nd St
+1030;Walker's;16 N Moore St;New York;NY;TriBeCa;American;$;16 N Moore St
+1031;Wallse;344 W 11th St;New York;NY;West Village;Austrian;$$$$;344 W 11th St
+1032;Wd-50;50 Clinton St;New York;NY;Murray Hill;American;$$$$;50 Clinton St
+1033;Westville;210 W 10th St;New York;NY;West Village;American;$;210 W 10th St
+1034;Westville East;173 Ave. A;New York;NY;East Village;American;$;173 Avenue A
+1035;Whym;889 Ninth Ave.;New York;NY;;;;889 9th Ave
+1036;Wichcraft;397 Greenwich St;New York;NY;TriBeCa;American;$;397 Greenwich St
+1037;Wild Ginger;51 Grove St.;New York;NY;;Thai;$$$;51 Grove St
+1038;Wildwood BBQ;225 Park Avenue South;New York;NY;Gramercy Park;Barbecue;$$$;AMERICAN WOOLEN BUILDING
+1039;Wo Hop Restaurant;17 Mott St;New York;NY;;;;17 Mott St
+1040;Wogies Restaurant;39 Greenwich Ave;New York;NY;West Village;American;$;39 Greenwich Ave
+1041;Wolfgang's Steakhouse;4 Park Avenue;New York;NY;Murray Hill;Steakhouse;$$$$;Park Ave
+1042;Wollensky's Grill;205 East 49th Street;New York;NY;Midtown East;American;$$$;205 E 49th St
+1043;Won Jo;23 W 32nd St;New York;NY;Midtown West;Korean;$$;23 W 32nd St
+1044;Woo Lae Oak;148 Mercer St;New York;NY;SOHO;Korean;$$$;148 Mercer St
+1045;Xing;785 Ninth Ave;New York;NY;Midtown West;Asian;$$$;785 9th Ave
+1046;Xunta;174 First Ave;New York;NY;East Village;Spanish;$;174 1st Avenue
+1047;Yakitori Totto;251 W. 55th St., 2nd fl;New York;NY;Midtown West;Japanese;$$$;251 W 55th St 2nd fl
+1048;Yama;38-40 Carmine St;New York;NY;Midtown East;Sushi;$$;38-40 Carmine St
+1049;Yozakura Kushiyaki Bar;168 Ludlow St;New York;NY;Lower East Side;Japanese;$;168 Ludlow St
+1050;Yuca Bar;111 Ave A;New York;NY;East Village;Nuevo Latino;$;111 Avenue A
+1051;Yuka;1557 2nd Ave;New York;NY;;;;1557 2nd Ave
+1052;Yuki Sushi;656 Amsterdam Ave;New York;NY;Upper West Side;Sushi;$;656 Amsterdam Ave
+1053;Za3calo;174 E 82nd St;New York;NY;Upper East Side;Mexican;$$;174 E 82nd St
+1054;Zabar's Cafe;2245 Broadway;New York;NY;Upper West Side;Deli;$;2245 Broadway
+1055;Zarela's;953 Second Ave;New York;NY;Midtown East;Mexican;$$$;953 2nd Ave
+1056;Zebu Grill;305 E 92nd St;New York;NY;Upper East Side;South American;$$;305 E 92nd St
+1057;Zen Palate;34 East Union Sq;New York;NY;Union Square;Vegetarian;$;34 Union Square E
+1058;Zerza;304 E Sixth St;New York;NY;East Village;Moroccan;$$;304 E 6th St
+1059;Zeytin;519 Columbus Ave;New York;NY;Upper West Side;Turkish;$$;519 Columbus Ave
+1060;Zoe;90 Prince St;New York;NY;SOHO;American;$$$;90 Prince St
+1061;Zoma;2084 Frederick Douglass Blvd.;New York;NY;Harlem;Ethiopian;$$;2084 Frederick Douglass Blvd
+1062;Zona Rosa;40 W 56th St;New York;NY;;;;40 W 56th St
+1063;Zum Schneider;107 Ave C;New York;NY;East Village;German;$;107 Loisaida Ave
+1064;Zuni;598 Ninth Ave;New York;NY;Theater;American;$$;598 9th Ave
+1065;Zutto;77 Hudson Street;New York;NY;TriBeCa;Sushi;$$;77 Hudson St
+1066;db Bistro Moderne;55 W 44th Street;New York;NY;Midtown West;French;$$$$;55 W 44th St
+1067;earth NYC;116a 10th Avenue;New York;NY;Chelsea;Asian;$$;116A 10th Ave
+1068;p*ong;150 W. 10th Street;New York;NY;Greenwich Village;Dessert;$$;150 W 10th St

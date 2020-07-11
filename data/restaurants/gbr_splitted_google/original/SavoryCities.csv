@@ -1,0 +1,1566 @@
+;restaurant;address;neighborhood;addressGoogle
+0;'Cesca;;Upper West Side;
+1;'ino;;Greenwich Village;
+2;'inoteca;;Lower East Side;
+3;'sNice;45 Eighth Ave at W 4th St;Greenwich Village;45 Eighth Ave at W 4th St
+4;'sNice;45 Eighth Ave at W 4th St;Park Slope;45 Eighth Ave at W 4th St
+5;'wichcraft;60 E 8th St at Broadway;Greenwich Village;60-68 E 8th St
+6;'wichcraft;60 E 8th St at Broadway;Midtown West;60-68 E 8th St
+7;'wichcraft;60 E 8th St at Broadway;SoHo;60-68 E 8th St
+8;'wichcraft;60 E 8th St at Broadway;Midtown East;60-68 E 8th St
+9;'wichcraft;60 E 8th St at Broadway;Chelsea;60-68 E 8th St
+10;1 Dominick;1 Dominick St at Sixth Ave;SoHo;1 Dominick St
+11;10 Downing;10 Downing St near Sixth Ave;Greenwich Village;10 Downing St
+12;12th Street Bar and Grill;1123 Eighth Ave at 12th St;Park Slope;1123 Eighth Ave at 12th St
+13;1492 Food;60 Clinton St btwn Rivington and...;Lower East Side;60 Clinton St btwn Rivington and...
+14;202;;Chelsea;
+15;21 Club;21 W 52nd St btwn 5th and 6th Aves;Midtown West;21 W 52nd St
+16;212 Restaurant and Bar;;Upper East Side;
+17;26 Seats;;East Village;
+18;2nd Street Cafe;;Park Slope;
+19;44 and X Hell's Kitchen;622 Tenth Ave at 44th St;Midtown West;622 10th Ave
+20;508;508 Greenwich St at Spring St;SoHo;508 Greenwich St
+21;540 Park;540 Park Ave at 61st St;Upper East Side;540 Park Ave
+22;57;;Midtown East;
+23;99 Miles to Philly;;East Village;
+24;A Casa Fox;173 Orchard St btwn Stanton and Houston...;Lower East Side;173 Orchard St btwn Stanton and Houston...
+25;A Salt and Battery;112 Greenwich Ave btwn 12th and 13th Sts;Greenwich Village;112 Greenwich Ave btwn 12th and 13th Sts
+26;A.O.C.;;Greenwich Village;
+27;AJ Maxwell's Steakhouse;;Midtown West;
+28;AQ Kafe;;Midtown East;
+29;Abboccato;136 W 55th St btwn 6th and 7th Aves;Midtown West;136 W 55th St
+30;Abraco Espresso;86 E 7th St at First Ave;East Village;86 E 7th St
+31;Absinthe;111 1st Ave at 7th St;East Village;111 1st Avenue
+32;Aburiya Kinnosuke;;Midtown East;
+33;Accademia di Vino;1081 Third Ave btwn 63rd and 64th Sts;Upper East Side;200 E 64th St
+34;Acme Bar and Grill;;Greenwich Village;
+35;Acqua;;Upper West Side;
+36;Ada;;Midtown East;
+37;Adour Alain Ducasse;;Midtown East;
+38;Agata and Valentina Ristorante;1513 First Ave at E 79th St;Upper East Side;1513 First Ave at E 79th St
+39;Agave;140 7th Avenue South btwn 10th and W...;Greenwich Village;140 7th Ave S
+40;Agozar;;East Village;
+41;Aja;1068 First Ave at 58th St;Midtown East;1068 First Ave at 58th St
+42;Akdeniz;;Midtown West;
+43;Aki On West 4th;;Greenwich Village;
+44;Al Baraka;1613 Second Ave btwn 83rd and 84th Sts;Upper East Side;1613 Second Ave btwn 83rd and 84th Sts
+45;Al Bustan;;Midtown East;
+46;Al Di La;248 5th Ave at Carroll St;Park Slope;248 5th Ave
+47;Alcala;;Midtown East;
+48;Alchemy;;Park Slope;
+49;Alexandra;;Greenwich Village;
+50;Alfama;;Greenwich Village;
+51;Alfredo's of Rome;;Midtown West;
+52;Ali Baba;212 E 34th St btwn Second and Third Aves;Midtown East;212 E 34th St
+53;Alias;;Lower East Side;
+54;Allen and Delancey;;Lower East Side;
+55;Alloro;;Upper East Side;
+56;Alma Grill;134 E 48th St at Lexington Ave;Midtown East;134 E 48th St at Lexington Ave
+57;Alonso's Steakhouse;;Chelsea;
+58;Alouette;;Upper West Side;
+59;Alta;;Greenwich Village;
+60;Alta Voce;;Park Slope;
+61;Alto;;Midtown East;
+62;Ama;48 MacDougal St btwn Houston and Prince...;SoHo;48 MacDougal St btwn Houston and Prince...
+63;Amalia;204 W 55th St near Broadway;Midtown West;204 W 55th St
+64;Amaranth;21 E 62nd St btwn Fifth and Madison Aves;Upper East Side;21 E 62nd St # 1
+65;Ambassador Grill and Lounge;1 United Nations Plaza;Midtown East;1 United Nations Plaza
+66;Amber;1406 Third Ave at 80th St;Upper East Side;1406 3rd Ave
+67;Amma;;Midtown East;
+68;Ammos;;Midtown East;
+69;Ammos Estiatorio;52 Vanderbilt Ave btwn 44th and 45th Sts;Midtown East;52 Vanderbilt Ave btwn 44th and 45th Sts
+70;Amsterdam Restaurant and Tapas Lounge;;Upper West Side;
+71;Amy's Bread;75 Ninth Ave btwn 15th and 16th Sts;Midtown West;75 Ninth Ave btwn 15th and 16th Sts
+72;Amy's Bread;75 Ninth Ave btwn 15th and 16th Sts;Chelsea;75 Ninth Ave btwn 15th and 16th Sts
+73;Amy's Bread;75 Ninth Ave btwn 15th and 16th Sts;Greenwich Village;75 Ninth Ave btwn 15th and 16th Sts
+74;An Choi;;Lower East Side;
+75;Angelica Kitchen;;East Village;
+76;Angelo's Coal Oven Pizza;117 W 57th St at Sixth Ave;Midtown West;117 W 57th St
+77;Angelo's Coal Oven Pizza;117 W 57th St at Sixth Ave;Midtown East;117 W 57th St
+78;Angelo's Pizzeria;1697 Broadway at 53rd St;Midtown West;Ed Sullivan Theater
+79;Angus McIndoe;;Midtown West;
+80;Annisa;;Greenwich Village;
+81;Anthony's;426A Seventh Ave at 14th St;Park Slope;E 14th St
+82;Anthos;;Midtown East;
+83;Antica Venezia;;Greenwich Village;
+84;Antique Garage;41 Mercer St btwn Broome and Grand Sts;SoHo;41 Mercer St
+85;Antonucci;170 E 81 St btwn Lexington and 3rd Aves;Upper East Side;168 E 81st St
+86;Apiary;;East Village;
+87;Apizz;217 Elridge St btwn Stanton and...;Lower East Side;217 Eldridge St
+88;Applewood;;Park Slope;
+89;Apropos Cafe;186 5th Avenue at Sackett St;Park Slope;186 5th Avenue at Sackett St
+90;Aquagrill;210 Spring St at 6th Ave;SoHo;210 Spring St
+91;Aquavit;65 E 55th St btwn Park and Madison Aves;Midtown East;65 E 55th St
+92;Aquavit Cafe;65 E 55th St btwn Park and Madison Aves;Midtown East;65 E 55th St
+93;Arabelle;37 E. 64th St. at Madison Ave;Upper East Side;37 E 64th St
+94;Archipelago (CLOSED);;SoHo;
+95;Aretsky's Patroon;160 E 46th St btwn Lexington and 3rd...;Midtown East;160 E 46th St
+96;Ariyoshi;806 Broadway btwn 11th and 12th Sts;East Village;806 Broadway btwn 11th and 12th Sts
+97;Armani Ristorante;;Midtown West;
+98;Aroma Kitchen and Winebar;36 E 4th St btwn Lafayette and Bowery;East Village;36 E 4th St btwn Lafayette and Bowery
+99;Arte;21 E 9th St btwn Fifth Ave and...;Greenwich Village;21 E 9th St
+100;Arte Cafe;106 W 73rd St btwn Columbus and...;Upper West Side;106 W 73rd St
+101;Artichoke Basille's Pizza and Brewery;;East Village;
+102;Artichoke Basille’s Pizza and Brewery;328 E 14th St btwn First and Second Aves;East Village;328 E 14th St
+103;Artie's Delicatessen;2290 Broadway at 83rd St;Upper West Side;2290 Broadway
+104;Arturo's Pizzeria;;Greenwich Village;
+105;Asiate;;Midtown West;
+106;Aspen Social Club;157 W 47th St btwn 6th and 7th Aves;Midtown West;157 W 47th St
+107;Astor Court;;Midtown East;
+108;Atlantic Grill;;Upper East Side;
+109;Atlas Cafe;;East Village;
+110;Atria;;Midtown West;
+111;August;359 Bleecker St btwn Charles and W 10th...;Greenwich Village;359 Bleecker St
+112;Aureole;;Upper East Side;
+113;Aurora;510 Broome St btwn Thompson St and West...;SoHo;510 Broome St
+114;Aurora Soho;510 Broome St btwn Thompson St and West...;SoHo;510 Broome St
+115;Avenue A Sushi;103 Ave A btwn 6th and 7th Sts;East Village;New York
+116;Avon Bistro;155 E 52 St btwn Lexington and 3rd Aves;Midtown East;155 East 52nd Street
+117;Avon Bistro (CLOSED);;Midtown East;
+118;Avra Estiatorio;;Midtown East;
+119;Awash;338 E 6th St btwn First and Second Aves;Upper West Side;338 E 6th St btwn First and Second Aves
+120;Awash;338 E 6th St btwn First and Second Aves;East Village;338 E 6th St btwn First and Second Aves
+121;Ayza Cafe and Wine Bar;11 W 31st St btwn Fifth Ave and Broadway;Midtown East;11 W 31st St btwn Fifth Ave and Broadway
+122;Azalea;224 W 51st St btwn Broadway and Eighth...;Midtown West;224 W 51st St
+123;Azucar;939 Eighth Ave btwn 55th and 56th Sts;Midtown West;W 56th St
+124;Azul Bistro;152 Stanton St at Suffolk St;Lower East Side;152 Stanton St
+125;Azza;137 E 55th St btwn Lexington and 3rd...;Midtown East;136E E 55th St
+126;B. Cafe;240 E 75th St btwn 2nd and 3rd Aves;Upper East Side;3rd Ave
+127;B. Smith's;;Midtown West;
+128;BB Sandwich Bar;;Greenwich Village;
+129;BG;;Midtown West;
+130;BLT Burger;;Greenwich Village;
+131;BLT Market;;Midtown West;
+132;BLT Steak;106 E 57th St btwn Park and Lexington...;Midtown East;106 E 57th St
+133;Babbo;110 Waverly Place btwn MacDougal St and...;Greenwich Village;110 Waverly Pl
+134;Babouche;92 Prince St at Mercer St;SoHo;92 Prince St
+135;Babouche Park Slope;163 5th Ave at Lincoln Place;Park Slope;163 5th Ave
+136;Bacaro;;Lower East Side;
+137;Back Forty;;East Village;
+138;Baldoria;;Midtown West;
+139;Bali Nusa Indah;;Midtown West;
+140;Balthazar;;SoHo;
+141;Bamboo 52;;Midtown West;
+142;Banc Cafe;431 Third Ave at 30th St;Midtown East;431 3rd Ave
+143;Bandol Bistro;181 E 78th St btwn Lexington and Third...;Upper East Side;181 E 78th St
+144;Banjara;97 1st Ave at 6th St;East Village;97 1st Avenue
+145;Bann;350 W 50th St at Ninth Ave;Midtown West;350 W 50th St
+146;Bao 111 (CLOSED);111 Ave C btwn 7th and 8th Sts;East Village;111 Ave C btwn 7th and 8th Sts
+147;Bar 6;502 Sixth Ave btwn 12th and 13th Sts;Greenwich Village;502 Sixth Ave btwn 12th and 13th Sts
+148;Bar Americain;152 W 52nd St btwn 6th and 7th Sts;Midtown West;152 W 52nd St btwn 6th and 7th Sts
+149;Bar BQ;;Park Slope;
+150;Bar Bao;;Upper West Side;
+151;Bar Baresco;;Chelsea;
+152;Bar Blanc;142 W 10th St btwn Greenwich Ave and...;Greenwich Village;142 W 10th St
+153;Bar Boulud;1900 Broadway btwn 63rd and 64th Sts;Upper West Side;1900 Broadway btwn 63rd and 64th Sts
+154;Bar Carrera;;East Village;
+155;Bar Masa;;Midtown West;
+156;Bar Pitti;;Greenwich Village;
+157;Bar Q;;Greenwich Village;
+158;Bar Q (CLOSED);;Greenwich Village;
+159;Bar Room at the Modern;9 W 53rd St btwn Fifth and Sixth Aves;Midtown West;9 W 53rd St btwn Fifth and Sixth Aves
+160;Bar Tano;457 Third Ave at 9th St;Park Slope;Third Ave.
+161;Bar Toto;411 11th St at Sixth Ave;Park Slope;411 11th St
+162;Bar Veloce;176 Seventh Ave btwn 20th and 21st Sts;Chelsea;176 Seventh Ave btwn 20th and 21st Sts
+163;Baraonda;1439 Second Ave at 75th St;Upper East Side;1439 2nd Ave
+164;Barbetta;321 W 46th St btwn 8th and 9th Aves;Midtown West;321 W 46th St
+165;Barbuto;775 Washington St btwn Jane and 12th Sts;Greenwich Village;775 Washington St btwn Jane and 12th Sts
+166;Barcibo Enoteca;;Upper West Side;
+167;Barney Greengrass;;Upper West Side;
+168;Barolo;;SoHo;
+169;Barrio;;Park Slope;
+170;Basta Pasta;;Chelsea;
+171;Batch;150B W. 10th Street btwn Greenwich Ave...;Greenwich Village;150B W 10th St
+172;Bay Leaf;;Midtown West;
+173;Beacon;;Midtown West;
+174;Becco;;Midtown West;
+175;Beer Table;;Park Slope;
+176;Beet;;Park Slope;
+177;Belcourt;;East Village;
+178;Bella Blu;;Upper East Side;
+179;Bella Luna;;Upper West Side;
+180;Bellavitae;;Greenwich Village;
+181;Belleville;;Park Slope;
+182;Bello Sguardo;;Upper West Side;
+183;Ben Benson's Steakhouse;;Midtown West;
+184;Ben and Jack's Steakhouse;;Midtown East;
+185;Ben's Kosher Delicatessen;;Midtown West;
+186;Benjamin Steakhouse;;Midtown East;
+187;Benoit;;Midtown West;
+188;Bereket;;Lower East Side;
+189;Better Burger;561 Third Ave at 37th St;Midtown East;561 3rd Ave
+190;Better Burger;561 Third Ave at 37th St;Chelsea;561 3rd Ave
+191;Better Burger (CLOSED);;Upper East Side;
+192;Bettola;412 Amsterdam Ave btwn 79th and 80th Sts;Upper West Side;412 Amsterdam Ave
+193;Beyoglu;1431 Third Ave at 81st St;Upper East Side;1431 Third Ave at 81st St
+194;Bianca;;East Village;
+195;Bice;;Midtown East;
+196;Big John;;Lower East Side;
+197;Bin 71;;Upper West Side;
+198;Birdbath;145 Seventh Ave So at Charles St;Greenwich Village;145 7th Ave S
+199;Birdbath;145 Seventh Ave So at Charles St;East Village;145 7th Ave S
+200;Biricchino;260 W 29th St at Eighth Ave;Chelsea;260 W 29th St
+201;Bistecca Fiorentina;;Midtown West;
+202;Bistro Cassis;;Upper West Side;
+203;Bistro Citron;;Upper West Side;
+204;Bistro Desaret;;Midtown East;
+205;Bistro Le Steak;;Upper East Side;
+206;Bistro Milano;1350 Avenue of the Americas at 55th St;Midtown West;1350 6th Ave
+207;Bistro Ten 18;;Upper West Side;
+208;Bistro du Nord;;Upper East Side;
+209;Bistro les Amis;;SoHo;
+210;Bistrouge;432 E 13th St btwn 1st and 2nd Aves;East Village;2nd Ave
+211;Black Iron Burger Shop;540 E 5th St btwn Avenues A and B;East Village;540 E 5th St btwn Avenues A and B
+212;Black Pearl (CLOSED);883 Union St btwn Seventh and Eighth...;Park Slope;883 Union St btwn Seventh and Eighth...
+213;Bloomingdale Road;2398 Broadway at 88th St;Upper West Side;2398 Broadway
+214;Bloomingdale Road (CLOSED);;Upper West Side;
+215;Blossom Vegetarian Restaurant;187 Ninth Ave btwn 21st and 22nd Sts;Chelsea;187 Ninth Ave btwn 21st and 22nd Sts
+216;Blue Fin;1567 Broadway at 47th St;Midtown West;1567 Broadway
+217;Blue Hill;75 Washington Place btwn 6th Ave and...;Greenwich Village;75 Washington Pl
+218;Blue Point;662 Ninth Ave at 46th St;Midtown West;662 9th Ave
+219;Blue Ribbon Bakery;33 Downing St at Bedford St;Greenwich Village;33 Downing St
+220;Blue Ribbon Bar;;Greenwich Village;
+221;Blue Ribbon Brasserie;97 Sullivan St btwn Prince and Spring...;SoHo;97 Sullivan St
+222;Blue Ribbon Park Slope;280 5th Ave btwn 1st St and Garfield Pl;Park Slope;280 5th Ave btwn 1st St and Garfield Pl
+223;Blue Ribbon Sushi Bar and Grill;;Midtown West;
+224;Blue Ribbon Sushi Manhattan;;SoHo;
+225;Blue Ribbon Sushi Park Slope;;Park Slope;
+226;Blue/Green (CLOSED);248 Mott St btwn Houston and Prince Sts;SoHo;248 Mott St btwn Houston and Prince Sts
+227;Blue/Green (CLOSED);248 Mott St btwn Houston and Prince Sts;Upper East Side;248 Mott St btwn Houston and Prince Sts
+228;Bluechili;251 W 51st St btwn Broadway and Eighth...;Midtown West;251 W 51st St
+229;Bobby Van's Park Avenue;;Midtown East;
+230;Bobby Van's Steakhouse;;Midtown East;
+231;Bobo;181 W 10th St at 7th Ave So;Greenwich Village;181 W 10th St
+232;Boca Chica;;East Village;
+233;Bocca di Bacco;;Midtown West;
+234;Boi;246 E 44th St btwn Second and Third Aves;Midtown East;246 E 44th St
+235;Boka;;East Village;
+236;Bombay Bistro;;Midtown East;
+237;Bombay Frankie;994 Amsterdam Ave btwn 109th and 110th...;Upper West Side;994 Amsterdam Ave btwn 109th and 110th...
+238;Bombay Palace;30 W 52nd St btwn Fifth and Sixth Aves;Midtown West;30 W 52nd St
+239;Bombay Talkie;;Chelsea;
+240;Bond 45;;Midtown West;
+241;Bond St;6 Bond St btwn Broadway and Lafayette St;East Village;6 Bond St
+242;Bondi Road;153 Rivington St btwn Suffolk and...;Lower East Side;153 Rivington St btwn Suffolk and...
+243;Bone Lick Park;75 Greenwich Ave btwn Seventh Ave South...;Greenwich Village;75 Greenwich Ave
+244;Bongo;299 Tenth Ave btwn 27th and 28th Sts;Chelsea;299 Tenth Ave btwn 27th and 28th Sts
+245;Bonnie's Grill;;Park Slope;
+246;Boom;152 Spring St btwn West Broadway and...;SoHo;152 Spring St btwn West Broadway and...
+247;Bottega Del Vino;;Upper East Side;
+248;Bottino;248 10th Ave btwn 24th and 25th Sts;Chelsea;248 10th Ave btwn 24th and 25th Sts
+249;Boucarou;64 E 1st St btwn 1st and 2nd Aves;Lower East Side;49 Bleecker St
+250;Bouchon Bakery;10 Columbus Circle btwn 58th and 60th...;Midtown West;10 Columbus Cir
+251;Boutique Del Vino;;SoHo;
+252;Braai;329 West 51st St btwn 8th and 9th Aves;Midtown West;329 W 51st St
+253;Braeburn;117 Perry St btwn Greenwich and Hudson...;Greenwich Village;117 Perry St
+254;Brasserie;100 E 53rd St btwn Lexington and Park...;Midtown East;100 E 53rd St
+255;Brasserie 360;;Upper East Side;
+256;Brasserie 52;772 Ninth Ave btwn 51st and 52nd Sts;Midtown West;772 Ninth Ave btwn 51st and 52nd Sts
+257;Brasserie 8 1/2;;Midtown West;
+258;Brasserie Athenee;;Midtown West;
+259;Brasserie Cognac;1740 Broadway at 55th St;Midtown West;1740 Broadway
+260;Brasserie Julien;;Upper East Side;
+261;Brasserie Ruhlmann;45 Rockefeller Plaza btwn 5th and 6th...;Midtown West;45 Rockefeller Plaza
+262;Bravo Gianni;230 E 63rd St btwn Second and Third Aves;Upper East Side;230 E 63rd St
+263;Brawta Caribbean Outpost;447 Seventh Ave btwn 15th and 16th Sts;Park Slope;447 Seventh Ave btwn 15th and 16th Sts
+264;Brazil Brazil;330 W 46th St btwn Eighth and Ninth Aves;Midtown West;252 W 46th St
+265;Brazil Grill;787 8th Ave at 48th St;Midtown West;787 8th Ave
+266;Bread and Olive;24 W 45th St btwn Fifth and Sixth Aves;Midtown West;24 W 45th St
+267;Breeze;661 Ninth Ave btwn 45th and 46th Sts;Midtown West;661 Ninth Ave btwn 45th and 46th Sts
+268;Brgr;287 7th Ave btwn 26th and 27th Sts;Chelsea;287 7th Ave btwn 26th and 27th Sts
+269;Bricco;;Midtown West;
+270;Brick Lane Too;;Midtown East;
+271;Bricklane Curry House;;East Village;
+272;Brio;;Upper East Side;
+273;Broadway East;171 East Broadway btwn Jefferson and...;Lower East Side;171 E Broadway
+274;Broadway Joe Steakhouse;;Midtown West;
+275;Brooklyn Diner USA;212 W 57th St btwn Seventh Ave and...;Midtown West;212 W 57th St
+276;Brooklyn Fish Camp;162 Fifth Ave btwn DeGraw and Douglass...;Park Slope;162 5th Ave
+277;Brooklyn Flipster's;444 9th St;Park Slope;444 9th St
+278;Brookvin;;Park Slope;
+279;Brown Cafe;;Lower East Side;
+280;Bruno Jamais Restaurant Club;24 E 81st St at Madison Ave;Upper East Side;24 E 81st St at Madison Ave
+281;Bruno Ristorante;240 E 58th St btwn Second and Third Aves;Midtown East;240 E 58th St
+282;Bryant Park Cafe and Grill;;Midtown West;
+283;Buddakan;75 9th Ave at 16th St;Chelsea;75 9th Ave
+284;Buenos Aires;;East Village;
+285;Bull and Bear;;Midtown East;
+286;Bun;;SoHo;
+287;Burger Heaven;802 Lexington Ave at 62nd St;Upper East Side;802 Lexington Ave
+288;Burger Heaven;802 Lexington Ave at 62nd St;Midtown East;802 Lexington Ave
+289;Burger Joint;;Midtown West;
+290;Burgers and Cupcakes;265 W 23 St btwn Seventh and Eighth Aves;Chelsea;265 W 23 St btwn Seventh and Eighth Aves
+291;Burrito Bar and Kitchen;;Park Slope;
+292;Bussaco;833 Union St btwn 6th and 7th Aves;Park Slope;833 Union St btwn 6th and 7th Aves
+293;Butcher Bay;511 E 5th St btwn Avenues A and B;East Village;511 E 5th St btwn Avenues A and B
+294;Butterfield 8;5 E 38th St btwn Fifth and Madison Aves;Midtown East;5 E 38th St btwn Fifth and Madison Aves
+295;Buzina Pop;;Upper East Side;
+296;Byblos;;Midtown East;
+297;Cabana;1022 Third Ave btwn 60th and 61st Sts;Upper East Side;1022 Third Ave btwn 60th and 61st Sts
+298;Cabrito;;Greenwich Village;
+299;Cacio E Pepe;;East Village;
+300;Cacio e Vino;;East Village;
+301;Cafe Asean;;Greenwich Village;
+302;Cafe Boulud;;Upper East Side;
+303;Cafe Centro;;Midtown East;
+304;Cafe Cluny;;Greenwich Village;
+305;Cafe Condesa;;Greenwich Village;
+306;Cafe Edison;228 W 47th St btwn Broadway and Eighth...;Midtown West;228 W 47th St
+307;Cafe Evergreen;1288 First Ave at 69th St;Upper East Side;1288 First Ave at 69th St
+308;Cafe Fiorello;1900 Broadway btwn 63rd and 64th Sts;Upper West Side;1900 Broadway btwn 63rd and 64th Sts
+309;Cafe Frida;368 Columbus Ave btwn 77th and 78th Sts;Upper West Side;368 Columbus Ave
+310;Cafe Joul;;Upper East Side;
+311;Cafe Katja;;Lower East Side;
+312;Cafe Loup;;Greenwich Village;
+313;Cafe Luxembourg;200 W 70th St Amsterdam Ave;Upper West Side;200 W 70th St
+314;Cafe Mogador;101 St Marks Pl btwn First Ave and Ave A;East Village;101 St Marks Pl btwn First Ave and Ave A
+315;Cafe Pierre;;Midtown East;
+316;Cafe Ronda;249 Columbus Ave btwn 71st and 72nd Sts;Upper West Side;249 Columbus Ave btwn 71st and 72nd Sts
+317;Cafe SFA;;Midtown West;106 W 145th St
+318;Cafe Sabarsky;;Upper East Side;106 W 145th St
+319;Cafe Soleil;1016 Second Ave btwn 53rd and 54th Sts;Midtown East;54th St
+320;Cafe Spice;;Greenwich Village;
+321;Cafe Spice;;Midtown West;
+322;Cafe Steinhof;422 Seventh Ave at 14th St;Park Slope;422 7th Ave
+323;Cafe con Leche;424 Amsterdam Ave btwn 80th and 81st Sts;Upper West Side;E 81st St
+324;Cafe d'Alsace;1695 2nd Ave at 88th St;Upper East Side;1695 2nd Ave
+325;Cafe de Bruxelles;;Greenwich Village;
+326;Cafe des Artistes;1 W 67th St at Central Park West;Upper West Side;1 W 67th St
+327;Cafe@RMA;;Chelsea;
+328;Cafecito;;East Village;
+329;Cafetasia;;Greenwich Village;
+330;Cafeteria;;Chelsea;
+331;Caffe Emilia;;East Village;
+332;Caffe Falai;265 Lafayette St at Prince St;SoHo;265 Lafayette St
+333;Caffe Grazie;26 E. 84th St btwn Madison and 5th Aves;Upper East Side;26 E 84th St
+334;Caffe Linda;;Midtown East;
+335;Calle Ocho;;Upper West Side;
+336;CamaJe Bistro;;Greenwich Village;
+337;Cambodian Cuisine;;Upper East Side;
+338;Campagnola;1382 First Ave btwn 73rd and 74th Sts;Upper East Side;E 74th St
+339;Campo;;Upper West Side;
+340;Canaletto;208 E 60th St btwn 2nd and 3rd Aves;Upper East Side;3rd Ave
+341;Candle 79;;Upper East Side;
+342;Candle Cafe;;Upper East Side;
+343;Cannonau;205 E 4th St btwn Aves A and B;East Village;205 E 4th St btwn Aves A and B
+344;Canyon Road;;Upper East Side;
+345;Caracas Arepa Bar;;East Village;
+346;Caravan of Dreams;;East Village;
+347;Carbone;331 W 38th St btwn Eight and Ninth Aves;Midtown West;331 W 38th St
+348;Carl's Steaks;507 Third Ave btwn 34th and 35th Sts;Midtown East;507 Third Ave btwn 34th and 35th Sts
+349;Carmine's;200 W 44th St btwn Seventh Ave and...;Midtown West;200 W 44th St
+350;Carmine's;200 W 44th St btwn Seventh Ave and...;Upper West Side;200 W 44th St
+351;Carne (CLOSED);2737 Broadway at 105th St;Upper West Side;2737 Broadway
+352;Carne Vale;;East Village;
+353;Carnegie Deli;;Midtown West;
+354;Casa;72 Bedford St at Commerce St;Greenwich Village;72 Bedford St
+355;Casa Adela;;East Village;
+356;Casa La Femme;;Greenwich Village;
+357;Casa la Femme North;;Midtown East;
+358;Casablanca Tea Room;164 Mercer St btwn Houston and Prince...;SoHo;164 Mercer St btwn Houston and Prince...
+359;Casanis;;Lower East Side;
+360;Cascina;647 Ninth Ave btwn 45th and 46th Sts;Midtown West;647 Ninth Ave btwn 45th and 46th Sts
+361;Casellula Cheese and Wine Cafe;401 W 52nd St at Ninth Ave;Midtown West;401 W 52nd St
+362;Casimir;103-105 Ave B btwn 6th and 7th Sts;East Village;103-105 Ave B btwn 6th and 7th Sts
+363;Cavatappo Wine Bar;1728 Second Ave btwn 89th and 90th Sts;Upper East Side;1728 Second Ave btwn 89th and 90th Sts
+364;Caviar Russe - Wave Sushi;;Midtown East;
+365;Celeste;;Upper West Side;
+366;Cellini;;Midtown East;
+367;Cendrillon;;SoHo;
+368;Center Cut;;Upper West Side;
+369;Centolire;1167 Madison Ave btwn 85th and 86th Sts;Upper East Side;1000 5th Ave
+370;Centovini;25 W Houston St at Greene St;SoHo;25 W Houston St
+371;Central Park Boathouse Restaurant;Central Park Lake at 72nd St;Upper East Side;Central Park Lake at 72nd St
+372;Centro Vinoteca;;Greenwich Village;
+373;Chai Home Kitchen;;Midtown West;
+374;Chat Noir;;Upper East Side;
+375;Chez Jacqueline;72 MacDougal St btwn Bleecker and...;Greenwich Village;72 MacDougal St
+376;Chez Josephine;;Midtown West;
+377;Chez Napoleon;;Midtown West;
+378;Chiam;160 E 48th St btwn Lexington and Third...;Midtown East;160 E 48th St btwn Lexington and Third...
+379;Chickie Pig's;121 Ludlow St btwn Delancey and...;Lower East Side;121 Ludlow St
+380;Chickpea;;East Village;
+381;ChikaLicious Puddin';;East Village;
+382;Chikalicious;;East Village;
+383;Chimichurri Grill;606 Ninth Ave btwn 43rd and 44th Sts;Midtown West;606 Ninth Ave btwn 43rd and 44th Sts
+384;Chin Chin;216 E 49th St btwn Second and Third Aves;Midtown East;216 E 49th St
+385;China 1;;East Village;
+386;China Fun;246 Columbus Ave btwn 71st and 72nd Sts;Upper West Side;246 Columbus Ave btwn 71st and 72nd Sts
+387;China Fun;246 Columbus Ave btwn 71st and 72nd Sts;Upper East Side;246 Columbus Ave btwn 71st and 72nd Sts
+388;China Grill;60 W 53rd St btwn 5th and 6th Aves;Midtown West;60 W 53rd St
+389;China de Puebla (CLOSED);3143 Broadway at La Salle St;Upper West Side;3143 Broadway
+390;Chinatown Brasserie;;East Village;
+391;Chip Shop;;Park Slope;
+392;Chiyono;;East Village;
+393;Cho Cho San;;Greenwich Village;
+394;Cho Dang Gol;55 W 35th St btwn 5th and 6th Aves;Midtown West;6th Ave
+395;Choga;;Greenwich Village;
+396;Chola;232 E 58th St btwn Second and Third Aves;Midtown East;232 E 58th St
+397;Chop Suey;;Midtown West;
+398;Chow Bar;230 W 4th St at 10th St;Greenwich Village;230 West 4th Street
+399;Churrascaria Plataforma;316 W 49th St btwn Eighth and Ninth Aves;Midtown West;316 W 49th St
+400;Ciaobella;;Upper East Side;
+401;Cilantro;1712 2nd Ave at 89th St;Upper West Side;1712 2nd Ave
+402;Cilantro;1712 2nd Ave at 89th St;Upper East Side;1712 2nd Ave
+403;Cipolla Rossa;1762 1st Ave btwn 91st and 92nd Sts;Upper East Side;1762 1st Avenue
+404;Cipriani Dolci;;Midtown East;
+405;Circus;;Upper East Side;
+406;Citrus Bar and Grill;;Upper West Side;
+407;City Burger;1410 Broadway at 39th St;Midtown West;1410 Broadway
+408;City Lobster and Crab Company;;Midtown West;
+409;City Winery;;SoHo;
+410;Clo Wine Bar;;Upper West Side;
+411;Clubhouse Cafe;155 West 46th St btwn 6th and 7th Aves;Midtown West;155 West 46th St btwn 6th and 7th Aves
+412;Co.;230 9th Ave btwn 24th and 25th Sts;Chelsea;230 9th Ave btwn 24th and 25th Sts
+413;Coco Roco;392 Fifth Ave btwn 6th and 7th Sts;Park Slope;392 Fifth Ave btwn 6th and 7th Sts
+414;Col Legno;231 E 9th St btwn Second and Third Aves;East Village;231 E 9th St btwn Second and Third Aves
+415;Colors;;East Village;
+416;Commerce;;Greenwich Village;
+417;Compass;208 W 70th St at Amsterdam Ave;Upper West Side;208 W 70th St
+418;Cong Ly;124 Hester St at Chrystie St;Lower East Side;124 Hester St
+419;Congee Bowery;207 Bowery at Rivington St;Lower East Side;207 Bowery
+420;Congee Restaurant;;Lower East Side;
+421;Congee Village;100 Allen St btwn Broome and Delancey...;Lower East Side;100 Allen St
+422;Convivio;;Midtown East;
+423;Convivium Osteria;68 5th Ave btwn Bergen St and St Marks...;Park Slope;68 5th Ave
+424;Cookshop;;Chelsea;
+425;Cooper's Tavern;481 8th Ave at 35th Street;Midtown West;481 8th Ave
+426;Coppola's;;Upper West Side;
+427;Core One Nine One (CLOSED);;Lower East Side;
+428;Cork and Fin;;Upper East Side;
+429;Cornelia Street Cafe;29 Cornelia St btwn Bleecker and W 4th...;Greenwich Village;18-20 Cornelia St
+430;Corner Bistro;;Greenwich Village;
+431;Cosette;163 E 33rd St btwn Lexington and Third...;Midtown East;163 E 33rd St
+432;Counter;105 First Ave btwn 6th and 7th Sts;East Village;105 First Ave btwn 6th and 7th Sts
+433;Country Cafe;69 Thompson St btwn Broome and Spring...;SoHo;69 Thompson St
+434;Cowgirl;519 Hudson St at 10th St;Greenwich Village;519 Hudson St
+435;Craftsteak;85 10th Ave at 15th St;Chelsea;85 10th Ave
+436;Crave Ceviche and Wine Bar (CLOSED);946 Second Ave btwn 50th and 51st Sts;Midtown East;W 51st St
+437;Crave on 42nd Street;650 W 42nd St at 11th Ave;Midtown West;650 W 42nd St
+438;Crema Restaurante;111 W 17th St btwn 6th and 7th Aves;Chelsea;111 W 17th St btwn 6th and 7th Aves
+439;Crif Dogs;113 St Marks Pl btwn First Ave and Ave A;East Village;113 St Marks Pl
+440;Crispo;240 W 14th St btwn 7th and 8th Aves;Greenwich Village;240 W 14th St
+441;Cru;24 5th Ave at 9th St;Greenwich Village;24 5th Ave
+442;Cub Room;131 Sullivan St at Prince St;SoHo;131 Sullivan St
+443;Cub Room Cafe;;SoHo;
+444;Cuba;;Greenwich Village;
+445;Cuba Cafe;200 Eighth Ave btwn 20th and 21st Sts;Chelsea;200 Eighth Ave btwn 20th and 21st Sts
+446;Cubana Cafe;;SoHo;
+447;Cube 63;;Lower East Side;
+448;Cucina di Pesce;87 E 4th St btwn Second and Third Aves;East Village;87 E 4th St btwn Second and Third Aves
+449;Curry-Ya;214 East 10th St btwn 1st and 2nd Aves;East Village;214 East 10th St btwn 1st and 2nd Aves
+450;DB Bistro Moderne;55 W 44th St btwn 5th and 6th Aves;Midtown West;55 W 44th St btwn 5th and 6th Aves
+451;Da Andrea;557 Hudson St btwn Perry and W 11th Sts;Greenwich Village;557 Hudson St
+452;Da Antonio;157 E 55th St btwn Lexington and Third...;Midtown East;157 E 55th St
+453;Da Silvano;;Greenwich Village;
+454;Da Silvano Bistecca;;Greenwich Village;
+455;Da Tommaso;903 Eighth Ave btwn 53rd and 54th Sts;Midtown West;54th St
+456;Da Umberto;;Chelsea;
+457;Daisy May's BBQ USA;623 11th Ave at 46th St;Midtown West;623 11th Ave
+458;Dakshin Indian Bistro;;Upper East Side;
+459;Danal;;East Village;
+460;Daniel;;Upper East Side;
+461;Dardanel;1071 1st Ave btwn 58th and 59th Sts;Midtown East;1071 1st Ave btwn 58th and 59th Sts
+462;David Burke Townhouse;;Upper East Side;
+463;Dawat;210 E 58th St btwn 2nd and 3rd Aves;Midtown East;3rd Ave
+464;De Santos;139 W 10th St btwn 5th and 6th Aves;Greenwich Village;6th Ave
+465;Dean's;215 W 85th St btwn Amsterdam Ave and...;Upper West Side;215 W 85th St
+466;Dean's;215 W 85th St btwn Amsterdam Ave and...;Midtown East;215 W 85th St
+467;Death and Company;;East Village;
+468;Deborah;43 Carmine St btwn Bedford and Bleecker...;Greenwich Village;43 Carmine St
+469;Deborah (CLOSED);;Greenwich Village;
+470;Degustation;239 E 5th St btwn 2nd and 3rd Aves;East Village;239 E 5th St btwn 2nd and 3rd Aves
+471;Del Frisco's Double Eagle Steakhouse;1221 Sixth Ave at 49th St;Midtown West;1221 6th Ave
+472;Del Posto;85 10th Ave btwn 15th and 16th Sts;Chelsea;85 10th Ave btwn 15th and 16th Sts
+473;Delicatessen;54 Prince St at Lafayette St;SoHo;54 Prince St at Lafayette St
+474;Delicia Brazil;;Greenwich Village;
+475;Dell'Anima;38 Eighth Ave btwn Jane and W 12th Sts;Greenwich Village;38 Eighth Ave btwn Jane and W 12th Sts
+476;Delta Grill;700 Ninth Ave at 48th St;Midtown West;700 9th Ave
+477;Demarchelier;50 E 86th St btwn Madison and Park Aves;Upper East Side;49 East 86th St
+478;Desnuda;;East Village;
+479;Diablo Royale;189 W 10th Street btwn W 4th and...;Greenwich Village;189 W 10th St
+480;Dirt Candy;430 E 9th St btwn 1st Ave and Ave A;East Village;430 E 9th St btwn 1st Ave and Ave A
+481;Dirty Bird to Go;204 W 14th St btwn Seventh and Eighth...;Chelsea;204 W 14th St
+482;District;130 W 46th St btwn Sixth and Seventh...;Midtown West;130 W 46th St
+483;Ditch Plains;29 Bedford St at Downing St;Greenwich Village;29 Bedford St
+484;Diwan Restaurant;;Midtown East;
+485;Django (CLOSED);;Midtown East;
+486;Do Hwa;55 Carmine St at Bedford St;Greenwich Village;55 Carmine St
+487;DoSirak;30 E 13th St btwn Fifth Ave and...;Greenwich Village;30 E 13th St
+488;Docks Oyster Bar and Seafood Grill;2427 Broadway btwn 89th and 90th Sts;Midtown East;2441 Broadway
+489;Docks Oyster Bar and Seafood Grill;2427 Broadway btwn 89th and 90th Sts;Upper West Side;2441 Broadway
+490;Docks Oyster Bar and Seafood Grill (CLOSED);;Upper West Side;
+491;Dolce Vita;181 Grand St btwn Baxter and Mulberry...;SoHo;181 Grand St
+492;Domenico;120 E. 40th St btwn Lexington and Park...;Midtown East;120 E 40th St
+493;Don's Bogam BBQ and Wine Bar;;Midtown West;
+494;Donguri;;Upper East Side;
+495;Dos Caminos Soho;475 West Broadway at Houston St;SoHo;475 W Broadway
+496;Double Crown;;East Village;
+497;Dovetail;;Upper West Side;
+498;Downtown Cipriani;376 West Broadway btwn Broome and...;SoHo;376 W Broadway
+499;Druids;;Midtown West;
+500;Ducale;392 Columbus Ave at 79th St;Upper West Side;392 Columbus Ave
+501;Due;;Upper East Side;
+502;Dumpling House;;Lower East Side;
+503;Dumpling Man;;East Village;
+504;EJ's Luncheonette;;Upper East Side;
+505;EJ's Luncheonette;;Upper West Side;
+506;EJ's Luncheonette (CLOSED);;Greenwich Village;
+507;EN Japanese Brasserie;435 Hudson St at Leroy St;Greenwich Village;435 Hudson St
+508;Earth NYC;116A 10th Avenue btwn 17th and 18th Sts;Chelsea;116A 10th Avenue btwn 17th and 18th Sts
+509;Earthen Oven;;Upper West Side;
+510;East Village Yacht Club (CLOSED);42 E 1st St btwn First and Second Aves;East Village;42 E 1st St btwn First and Second Aves
+511;East of Eighth;;Chelsea;
+512;Eatery;;Midtown West;
+513;Ed's Lobster Bar;;SoHo;
+514;Eighty One;45 W 81st St btwn Columbus Ave and...;Upper West Side;45 W 81st St
+515;El Centro;824 Ninth Ave at 54th St;Midtown West;824 9th Ave
+516;El Cid (CLOSED);322 W 15th St btwn Eighth and Ninth Aves;Chelsea;10W W 15th St
+517;El Cocotero;228 W 18th St btwn Seventh and Eighth...;Chelsea;228 W 18th St
+518;El Maguey y La Tuna;321 E Houston St btwn Attorney and...;Lower East Side;321 E Houston St
+519;El Parador Cafe;;Midtown East;
+520;El Paso;134 W Houston St btwn MacDougal and...;Greenwich Village;134 W Houston St
+521;El Paso Taqueria;1642 Lexington Ave btwn 103rd and 104th...;Upper East Side;W 104th St
+522;El Quijote;226 W 23rd St btwn Seventh and Eighth...;Chelsea;204 W 23rd St
+523;El Quinto Pino;;Chelsea;
+524;El Rey del Sol;232 W 14th St btwn Seventh and Eighth...;Greenwich Village;232 W 14th St
+525;Elaine's;;Upper East Side;
+526;Elementi;;Park Slope;
+527;Elephant and Castle;68 Greenwich Ave btwn Sixth Ave and...;Greenwich Village;68 Greenwich Ave
+528;Elettaria;33 W 8th St at MacDougal St;Greenwich Village;33 W 8th St
+529;Elio's;;Upper East Side;
+530;Ellis Bar;627 5th Ave btwn 17th and 18th Sts;Park Slope;627 5th Ave btwn 17th and 18th Sts
+531;Elmo;;Chelsea;
+532;Elyssa Dido;85 Orchard St at Broome St;Lower East Side;85 Orchard St
+533;Employees Only;510 Hudson St btwn Christopher and West...;Greenwich Village;510 Hudson St
+534;Ennio and Michael;539 La Guardia Pl btwn Bleecker and W...;Greenwich Village;539 LaGuardia Pl
+535;Epices du Traiteur;103 W 70th St btwn Columbus Ave and...;Upper West Side;103 W 70th St
+536;Erminia;;Upper East Side;
+537;Esashi;;East Village;
+538;Esca;;Midtown West;
+539;Esperanto;145 Ave C at 9th St;East Village;145 Loisaida Ave
+540;Essex;;Lower East Side;
+541;Estiatorio Milos;125 W 55th St btwn 6th and 7th Aves;Midtown West;125 W 55th St
+542;Etats-Unis;242 E 81st St btwn 2nd and 3rd Aves;Upper East Side;3rd Ave
+543;Etcetera Etcetera;352 W 44th St btwn Eighth and Ninth Aves;Midtown West;352 W 44th St
+544;Ethos;495 Third Ave btwn 33rd and 34th Sts;Midtown East;W 34th St
+545;Etrusca;125 W 53rd St btwn Sixth and Seventh...;Midtown West;125 W 53rd St
+546;Euzkadi;;East Village;
+547;Evergreen Shanghai;10 E 38th St btwn Fifth and Madison Aves;Midtown East;10 E 38th St
+548;Extra Virgin;;Greenwich Village;
+549;Fabio Piccolo Fiore;230 E 44th St at Second Ave;Midtown East;230 E 44th St # 1
+550;Fairway Cafe and Steakhouse;2127 Broadway btwn 74th and 75th Sts;Upper West Side;2127 Broadway btwn 74th and 75th Sts
+551;Falai;68 Clinton St btwn Stanton and...;Lower East Side;68 Clinton St btwn Stanton and...
+552;Falai Panetteria;79 Clinton St at Rivington St;Lower East Side;79 Clinton St
+553;Fanelli's Cafe;;SoHo;
+554;Fat Hippo;;Lower East Side;
+555;Fatty Crab UWS;;Upper West Side;
+556;Favela Cubana;;Greenwich Village;
+557;Felice Wine Bar;1166 First Ave at First Ave;Upper East Side;1166 1st Avenue
+558;Felidia;243 E 58th St btwn 2nd and 3rd Aves;Midtown East;3rd Ave
+559;Felix;;SoHo;
+560;Fiamma (CLOSED);;SoHo;
+561;Fig and Olive;;Upper East Side;
+562;Fig and Olive Midtown;10 E 52nd St btwn Fifth and Madison...;Midtown East;10 E 52nd St
+563;Film Center Cafe;;Midtown West;
+564;Firebird Russian Restaurant;365 W 46th St btwn 8th and 9th Aves;Midtown West;365 W 46th St btwn 8th and 9th Aves
+565;Fireside;;Midtown East;
+566;First Hungarian Literary Society;;Upper East Side;
+567;Fish;;Greenwich Village;
+568;Fishtail by David Burke;135 E 62nd St btwn Park and Lexington...;Upper East Side;135 E 62nd St
+569;Five Guys Famous Burgers and Fries;296 Bleecker St at Seventh Ave So;Greenwich Village;296 Bleecker St
+570;Five Napkin Burger;;Midtown West;
+571;Fives;700 Fifth Ave at 55th St;Midtown West;700 5th Ave
+572;Flea Market Cafe;;East Village;
+573;Flex Mussels;174 E 82nd St btwn Lexington and Third...;Upper East Side;174 E 82nd St
+574;Flip;;Midtown East;
+575;Flor de Mayo;;Upper West Side;
+576;Foley's Fish House;;Midtown West;
+577;Fragolino Trattoria;;Midtown West;
+578;Franchia;;Midtown East;
+579;Francisco's Centro Vasco;;Chelsea;
+580;Frank;88 Second Ave btwn 5th and 6th Sts;East Village;6th Ave
+581;Frankie and Johnnie's Steakhouse;;Midtown West;
+582;Frankies 17 Clinton Street Spuntino;;Lower East Side;
+583;Fred's at Barneys;;Upper East Side;
+584;Frederick's Downtown;;Greenwich Village;
+585;Frederick's Madison;;Upper East Side;
+586;Freemans;191 Chrystie St btwn Stanton and...;Lower East Side;191 Chrystie St
+587;French Roast;2340 Broadway at 85th St;Upper West Side;2340 Broadway
+588;French Roast;2340 Broadway at 85th St;Greenwich Village;2340 Broadway
+589;Fresco by Scotto;34 E 52nd St btwn Madison and Park Aves;Midtown East;34 E 52nd St
+590;Fresco on the Go;40 E 52nd St btwn Madison and Park Aves;Midtown East;40 E 52nd St
+591;Friedman's Lunch;;Chelsea;
+592;Friend House;99 Third Ave btwn 12th and 13th Sts;East Village;99 Third Ave btwn 12th and 13th Sts
+593;Friend House 2;;East Village;
+594;Fulton;205 E 75th St btwn 2nd and 3rd Aves;Upper East Side;3rd Ave
+595;Funayama;24 Greenwich Ave btwn Charles and W...;Greenwich Village;24 Greenwich Ave btwn Charles and W...
+596;Funky Diner;466 Columbus Ave btwn 82nd and 83rd Sts;Upper West Side;466 Columbus Ave btwn 82nd and 83rd Sts
+597;Gabriel's Bar and Restaurant;;Upper West Side;
+598;Gabriela's;688 Columbus Ave btwn 93rd and 94th Sts;Upper West Side;688 Columbus Ave btwn 93rd and 94th Sts
+599;Gaby Restaurant;44 West 45th St btwn Fifth and Sixth...;Midtown West;44 W 45th St
+600;Galanga;;Greenwich Village;
+601;Gallagher's Steakhouse;228 W 52nd St btwn Broadway and Eighth...;Midtown West;228 W 52nd St
+602;Gallo Nero;402 W 44th St at Ninth Ave;Midtown West;402 W 44th St
+603;Garden Court Cafe;725 Park Ave at 70th St;Upper East Side;725 Park Ave
+604;Gari;370 Columbus Ave btwn 77th and 78th Sts;Upper West Side;370 Columbus Ave btwn 77th and 78th Sts
+605;Gascogne;158 Eighth Ave btwn 17th and 18th Sts;Chelsea;158 Eighth Ave btwn 17th and 18th Sts
+606;Gavroche;;Greenwich Village;
+607;Gazala Place;709 Ninth Ave at 49th St;Midtown West;709 9th Ave
+608;Geisha;33 E 61st St btwn Park and Madison Aves;Upper East Side;33 E 61st St
+609;Gemma;355 Bowery btwn 2nd and 3rd Sts;East Village;355 Bowery btwn 2nd and 3rd Sts
+610;Gene's;;Greenwich Village;
+611;Gennaro;665 Amsterdam Ave btwn 92nd and 93rd Sts;Upper West Side;E 93rd St
+612;Georgia's Eastside BBQ;92 Orchard St btwn Stanton and Houston...;Lower East Side;163 Orchard St
+613;Giambelli 50th;46 E 50th St btwn Madison and Park Aves;Midtown East;46 E 50th St btwn Madison and Park Aves
+614;Giano;126 E 7th St btwn 1st Ave and Ave A;East Village;126 E 7th St
+615;Gilt;455 Madison Ave btwn 50th and 51st Sts;Midtown East;455 Madison Ave
+616;Gino;780 Lexington Ave btwn 60th and 61st Sts;Upper East Side;780 Lexington Ave
+617;Giorgione;307 Spring St at Hudson St;SoHo;307 Spring St
+618;Girasole;151 E 82nd St btwn Lexington and Third...;Upper East Side;151 E 82nd St
+619;Gnocco Cucina and Tradizione;337 E 10th St btwn Aves A and B;East Village;337 E 10th St
+620;Gobo;;Upper East Side;
+621;Gobo;;Greenwich Village;
+622;Gonzo;140 W 13th St btwn Sixth and Seventh...;Greenwich Village;140 W 13th St
+623;Good;89 Greenwich Ave btwn Bank and W 12th...;Greenwich Village;89 Greenwich Ave btwn Bank and W 12th...
+624;Good Enough to Eat;483 Amsterdam Ave btwn 83rd and 84th Sts;Upper West Side;E 84th St
+625;Goodburger;800 Second Ave at 43rd St;Midtown East;800 2nd Ave 7th floor
+626;Gordon Ramsay at The London;151 W 54th St btwn 6th and 7th Aves;Midtown West;151 W 54th St
+627;Gotham Bar and Grill;;Greenwich Village;
+628;Gottino;52 Greenwich Ave btwn Perry and Charles...;Greenwich Village;52 Greenwich Ave btwn Perry and Charles...
+629;Grace's Trattoria;;Upper East Side;106 W 145th St
+630;Gradisca;126 W 13th St btwn Sixth and Seventh...;Greenwich Village;126 W 13th St
+631;Graffiti;224 East 10th St btwn 1st and 2nd Aves;East Village;224 East 10th St btwn 1st and 2nd Aves
+632;Grand Central Oyster Bar;101 E 42nd St btwn Park and Vanderbilt...;Midtown East;101 E 42nd St
+633;Grand Sichuan;;Lower East Side;
+634;Grand Tier Restaurant;;Upper West Side;
+635;Grano Trattoria;21 Greenwich Ave at 10th St;Greenwich Village;21 Greenwich Ave
+636;Grom;;Upper West Side;
+637;Grotto;;Lower East Side;
+638;Guantanamera;;Midtown West;
+639;GustOrganics;;Greenwich Village;
+640;Gusto Ristorante e Bar Americano;;Greenwich Village;
+641;Gyu-Kaku;;East Village;
+642;Gyu-kaku;;Midtown East;
+643;HK;;Midtown West;
+644;Hacienda de Argentina;339 E 75th St btwn First and Second Aves;Upper East Side;339 E 75th St
+645;Hakata Tonton;;Greenwich Village;
+646;Hallo Berlin;;Midtown West;
+647;Hampton Chutney Co.;68 Prince St btwn Crosby and Lafayette...;Upper West Side;68 Prince St
+648;Hampton Chutney Co.;68 Prince St btwn Crosby and Lafayette...;SoHo;68 Prince St
+649;Han Bat;53 W 35th St btwn Fifth and Sixth Aves;Midtown West;53 W 35th St
+650;Hanci Turkish Cuisine;;Midtown West;
+651;Harry Cipriani;;Midtown East;
+652;Haru;;Midtown East;
+653;Haru;;Midtown West;
+654;Haru;;Upper West Side;
+655;Haru;;Upper East Side;
+656;Hasaki;210 E 9th St btwn Second and Third Aves;East Village;60E W 9th St
+657;Hatsuhana;17 E.. 48th St btwn 5th and Madison Aves;Midtown East;17 E 48th St
+658;Hatsuhana Park;237 Park Ave at 46th St;Midtown East;237 Park Ave
+659;Havana Alma de Cuba;94 Christopher St btwn Hudson and...;Greenwich Village;94 Christopher St btwn Hudson and...
+660;Havana Central;151 W 46th St btwn Sixth and Seventh...;Midtown West;151 W 46th St
+661;Havana Chelsea;;Chelsea;
+662;Haveli;;East Village;
+663;Haven;;Midtown East;
+664;Hawaiian Tropic Zone;;Midtown West;
+665;Hea;;East Village;
+666;Heartbeat;;Midtown East;
+667;Hearth;;East Village;
+668;Heidelberg;;Upper East Side;
+669;Hell's Kitchen;679 Ninth Ave btwn 46th and 47th Sts;Midtown West;679 Ninth Ave btwn 46th and 47th Sts
+670;Henry's;2745 Broadway at 105th St;Upper West Side;2745 Broadway
+671;Hip Hop Chow (CLOSED);;East Village;
+672;Hiro;84 E 10th St at Fourth Ave;East Village;84 E 10th St
+673;Holy Basil;149 Second Ave btwn 9th and 10th Sts;East Village;149 Second Ave btwn 9th and 10th Sts
+674;Home;;Greenwich Village;
+675;Hudson Cafeteria;;Midtown West;
+676;Hundred Acres;38 MacDougal St btwn Houston and Prince...;SoHo;38 MacDougal St btwn Houston and Prince...
+677;I Coppi;432 E 9th St btwn First Ave and Ave A;East Village;432 E 9th St btwn First Ave and Ave A
+678;I Sodi;105 Christopher St near Bleecker St;Greenwich Village;105 Christopher St
+679;I Tre Merli;;SoHo;
+680;I Tre Merli Bistro;;Greenwich Village;
+681;Icon;;Midtown East;
+682;Ideya;349 West Broadway btwn Broome and Grand...;SoHo;349 W Broadway
+683;Il Bagatto;;East Village;
+684;Il Bastardo;161 Seventh Ave;Chelsea;161 7th Ave
+685;Il Cantinori;;Greenwich Village;
+686;Il Corso;19 W 55th St btwn Fifth and Sixth Aves;Midtown West;19 W 55th St
+687;Il Gattopardo;33 W 54th St btwn Fifth and Sixth Aves;Midtown West;65 W 54th St
+688;Il Laboratorio del Gelato;95 Orchard St btwn Broome and Delancey...;Lower East Side;95 Orchard St btwn Broome and Delancey...
+689;Il Mulino;;Greenwich Village;
+690;Il Nido;251 E 53rd St btwn Second and Third Aves;Midtown East;251 E 53rd St
+691;Il Postino;337 E 49th St btwn First and Second Aves;Midtown East;337 E 49th St
+692;Il Riccio;152 E 79th St at Lexington Ave;Upper East Side;152 E 79th St at Lexington Ave
+693;Il Vagabondo;351 E 62nd St btwn First and Second Aves;Upper East Side;351 E 62nd St
+694;Il Valentino;;Midtown East;
+695;In Vino;215 E 4th St btwn Aves A and B;East Village;215 E 4th St btwn Aves A and B
+696;Inagiku;111 E 49th St btwn Park and Lexington...;Midtown East;111 E 48th St
+697;Inakaya;;Midtown West;
+698;Indian Bread Co;194 Bleecker St btwn Sixth Ave and...;Greenwich Village;194 Bleecker St
+699;Indigo Indian Bistro;;Midtown East;
+700;Indochine;;Greenwich Village;
+701;Indus Valley;2636 Broadway at 100th St;Upper West Side;2636 Broadway
+702;Inside Park at St. Bart's;;Midtown East;
+703;Inside Park at St. Bart’s;109 E 50th St at Park Ave;Midtown East;109 E 50th St
+704;Insieme;;Midtown West;
+705;Ippudo;65 4th Ave at 10th St;East Village;65 4th Ave
+706;Iron Sushi;355 E 78th St btwn First and Second...;Upper East Side;355 E 78th St
+707;Isabella's;359 Columbus Ave at 77th St;Upper West Side;359 Columbus Ave
+708;Isle of Capri;;Upper East Side;
+709;Islero;247 East 50th St btwn Second and Third...;Midtown East;247 East 50th St btwn Second and Third...
+710;It's a Dominican Thing;144 W 19th St btwn Sixth and Seventh...;Chelsea;144 W 19th St
+711;Ithaka;;Upper East Side;
+712;Itzocan Bistro;1575 Lexington Ave at 101st St;Upper East Side;1575 Lexington Ave
+713;Itzocan Cafe;438 E 9th St btwn First Ave and Ave A;East Village;438 E 9th St btwn First Ave and Ave A
+714;Ivy's Cafe;;Upper West Side;
+715;Izakaya Ten;207 10th Ave at 23rd St;Chelsea;207 10th Ave
+716;JG Melon;;Upper East Side;
+717;Jack's Luxury Oyster Bar;;East Village;
+718;Jack's Restaurant and Bar;;Midtown West;
+719;Jacques Brasserie;;Upper East Side;
+720;Jacques Imo's;366 Columbus Ave at 77th St;Upper West Side;366 Columbus Ave
+721;Jaipur's;1007 Second Ave btwn 53rd and 54th Sts;Midtown East;54th St
+722;Jane;100 W Houston St btwn La Guardia Pl and...;Greenwich Village;100 W Houston St btwn La Guardia Pl and...
+723;Japonica;;Greenwich Village;
+724;Java;;Park Slope;
+725;Je'Bon Noodle House;15 St Marks Pl btwn 2nd and 3rd Aves;East Village;15 St Marks Pl btwn 2nd and 3rd Aves
+726;Jean Claude;137 Sullivan St btwn Houston and Prince...;SoHo;137 Sullivan St btwn Houston and Prince...
+727;Jean Georges;;Upper West Side;
+728;Jeeb;154 Orchard St btwn Stanton and...;Lower East Side;154 Orchard St btwn Stanton and...
+729;Jeollado;116 E 4th St btwn First and Second Aves;East Village;New York
+730;Jewel Bako;239 E 5th St btwn 2nd and 3rd Aves;East Village;239 E 5th St btwn 2nd and 3rd Aves
+731;Jewel of India;15 W 44th St btwn Fifth and Sixth Aves;Midtown West;15 W 44th St
+732;Jimmy's No. 43;43 E 7th St at 2nd Ave;East Village;43 E 7th St
+733;Joe Allen;326 W 46th St btwn Eighth and Ninth Aves;Midtown West;326 W 46th St
+734;Joe's Pizza;;Greenwich Village;
+735;JoeDoe;45 East 1st St btwn 1st and 2nd Aves;East Village;45 East 1st St btwn 1st and 2nd Aves
+736;John's Pizzeria;;Upper East Side;
+737;John's Pizzeria;;Greenwich Village;
+738;John's Pizzeria;;Midtown West;
+739;John's of 12th Street;302 E 12th St btwn First and Second Aves;East Village;302 E 12th St btwn First and Second Aves
+740;Johnny Mack's;1114 Eighth Ave at 12th St;Park Slope;1114 Frederick Douglass Blvd
+741;Johnny Utah's;25 W 51st St btwn Fifth and Sixth Aves;Midtown West;25 W 51st St
+742;Jojo;160 E 64th St btwn Lexington and 3rd...;Upper East Side;160 E 64th St
+743;Josephina;;Upper West Side;
+744;Josie's;;Upper West Side;
+745;Joy Burger Bar;;Upper East Side;
+746;Jubilee;347 E 54th St at First Ave;Midtown East;415 E 54th St
+747;Junior's Restaurant;1515 Broadway btwn 44th and 45th Sts;Midtown West;1515 Broadway btwn 44th and 45th Sts
+748;Kafana;116 Ave C btwn E 7th and 8th Sts;East Village;116 Loisaida Ave
+749;Kai;822 Madison Ave btwn 68th and 69th Sts;Upper East Side;822 Madison Ave btwn 68th and 69th Sts
+750;Kambi Ramen House;;East Village;
+751;Kampuchea;;Lower East Side;
+752;Kanoyama;;East Village;
+753;Kasadela;;East Village;
+754;Kate's Joint;58 Ave B at 4th St;East Village;58 Avenue B
+755;Katsu-Hama;;Midtown East;
+756;Katz's Delicatessen;;Lower East Side;
+757;Keens Steakhouse;72 W 36th St btwn 5th and 6th Aves;Midtown West;6th Ave
+758;Kefi;505 Columbus Ave btwn 84th and 85th Sts;Upper West Side;E 85th St
+759;Kellari Taverna;19 W 44th St btwn 5th and 6th Aves;Midtown West;49 W 44th St
+760;Kelley and Ping;127 Greene St btwn Houston and Prince...;SoHo;127 Greene St btwn Houston and Prince...
+761;Kelley and Ping East Village (CLOSED);325 Bowery at Second St;East Village;325 Bowery
+762;Khyber Pass;;East Village;
+763;Kinara;473 Fifth Ave btwn 10th and 11th Sts;Park Slope;473 5th Ave
+764;Kings' Carriage House;251 E 82nd St btwn Second and Third Aves;Upper East Side;251 E 82nd St
+765;Kingswood;121 W 10th St btwn Greenwich and 6th...;Greenwich Village;121 W 10th St
+766;KitchenBar;687 6th Ave btwn 19th and 20th Sts;Park Slope;687 6th Ave btwn 19th and 20th Sts
+767;Kittichai;60 Thompson St btwn Spring and Broome...;SoHo;60 Thompson St
+768;Klee Brasserie;200 9th Ave btwn 22nd and 23rd Sts;Chelsea;200 9th Ave btwn 22nd and 23rd Sts
+769;Klong;7 St Marks Pl btwn Second and Third...;East Village;7 St Marks Pl
+770;Knife and Fork;;East Village;
+771;Ko Sushi;1329 Second Ave at 70th St;Upper East Side;1329 2nd Ave
+772;Kobe Club;;Midtown West;
+773;Kobma Thai;;Greenwich Village;
+774;Koi;40 W 40th St btwn Fifth and Sixth Aves;Midtown West;W 40th St
+775;Korea Palace;127 E 54th St btwn Park and Lexington...;Midtown East;127 E 54th St
+776;Kouzan;685 Amsterdam Ave btwn 93rd and 94th Sts;Upper West Side;685 Amsterdam Ave btwn 93rd and 94th Sts
+777;Krunch Pizza Bar;980 Second Ave btwn 51st and 52nd Sts;Midtown East;980 Second Ave btwn 51st and 52nd Sts
+778;Kum Gang San;49 W 32nd St at Broadway;Midtown West;49 W 32nd St
+779;Kuma Inn;113 Ludlow St btwn Rivington and...;Lower East Side;113 Ludlow St
+780;Kura Sushi;;East Village;
+781;Kurumazushi;;Midtown East;
+782;Kurve;;East Village;
+783;Kyo Ya;94 E 7th St at First Ave;East Village;94 E 7th St
+784;Kyotofu;;Midtown West;
+785;L'Absinthe Brasserie;227 E 67th St;Upper East Side;227 E 67th St
+786;L'Artusi;;Greenwich Village;
+787;L'Atelier de Joel Robuchon;57 E 57th St btwn Madison and Park Aves;Midtown East;252 E 57th St
+788;L'Ecole;462 Broadway at Grand St;SoHo;462 Broadway at Grand St
+789;L'Orange Bleue;;SoHo;
+790;L.E.S. Sandwicherie;;Lower East Side;
+791;La Barra;;Lower East Side;
+792;La Bonne Soupe;;Midtown West;
+793;La Bottega Caffe;;Chelsea;
+794;La Cantina;;Greenwich Village;
+795;La Carne Grill;340 Lexington Ave btwn 39th and 40th Sts;Midtown East;340 Lexington Ave
+796;La Fonda Boricua;;Upper East Side;
+797;La Fonda Del Sol;;Midtown East;
+798;La Gioconda;;Midtown East;
+799;La Goulue;746 Madison Ave btwn 64th and 65th Sts;Upper East Side;746 Madison Ave btwn 64th and 65th Sts
+800;La Grenouille;3 E 52nd St btwn 5th and Madison Aves;Midtown East;3 E 52nd St
+801;La Lanterna di Vittorio;129 MacDougal St btwn 3rd and 4th Sts;Greenwich Village;129 MacDougal St btwn 3rd and 4th Sts
+802;La Lunchonette;;Chelsea;
+803;La Mangeoire;1008 Second Ave btwn 53rd and 54th Sts;Midtown East;54th St
+804;La Masseria;235 W 48th St btwn Broadway and Eighth...;Midtown West;235 W 48th St
+805;La Mediterranee;947 2nd Ave btwn 50th and 51st Sts;Midtown East;947 2nd Ave btwn 50th and 51st Sts
+806;La Nacional;;Greenwich Village;
+807;La Paella;;East Village;
+808;La Rural;;Upper West Side;
+809;La Sirene;;SoHo;
+810;La Sirène;;SoHo;
+811;La Taqueria;;Park Slope;
+812;La Taza de Oro;;Chelsea;
+813;La Vineria;737 Ninth Ave btwn 49th and 50th Sts;Midtown West;50th Ave
+814;La Zarza;166 First Ave btwn 10th and 11th Sts;East Village;166 First Ave btwn 10th and 11th Sts
+815;Lan;56 Third Ave btwn 10th and 11th Sts;East Village;56 Third Ave btwn 10th and 11th Sts
+816;Land Thai Kitchen;450 Amsterdam Ave at 82nd St;Upper West Side;450 Amsterdam Ave
+817;Landmarc at the Time Warner Center;;Midtown West;
+818;Landmark Tavern;626 Eleventh Ave at 46th St;Midtown West;626 11th Ave
+819;Las Chicas Locas;;Chelsea;
+820;Las Ramblas;170 W 4th St btwn Jones and Cornelia Sts;Greenwich Village;170 W 4th St btwn Jones and Cornelia Sts
+821;Lassi;28 Greenwich Ave at Charles St;Greenwich Village;28 Greenwich Ave
+822;Lavagna;545 E 5th St btwn Aves A and B;East Village;545 E 5th St btwn Aves A and B
+823;Lazzara's Pizza Cafe;221 W 38th St near 7th Ave;Midtown West;221 W 38th St #7th
+824;Le Bateau Ivre;;Midtown East;
+825;Le Bernardin;;Midtown West;
+826;Le Bilboquet;;Upper East Side;
+827;Le Charlot;19 E 69th St btwn Madison and Park Aves;Upper East Side;19 E 69th St btwn Madison and Park Aves
+828;Le Cirque;151 E 58th St btwn Lexington and Third...;Midtown East;151 E 58th St
+829;Le Colonial;149 E 57th St btwn Lexington and 3rd...;Midtown East;149 E 57th St btwn Lexington and 3rd...
+830;Le Gigot;18 Cornelia St btwn Bleecker and W 4th...;Greenwich Village;18-20 Cornelia St
+831;Le Lupanar;103 Essex St at Delancey St;Lower East Side;103 Essex St
+832;Le Marais;150 West 46th St btwn 6th and 7th Aves;Midtown West;150 W 46th St 6th floor
+833;Le Miu;107 Ave A btwn 6th and 7th Sts;East Village;107 Ave A btwn 6th and 7th Sts
+834;Le Miu (CLOSED);;East Village;
+835;Le Monde;2885 Broadway btwn 112th and 113th Sts;Upper West Side;2885 Broadway
+836;Le Pain Quotidien;50 W 72nd St btwn Central Park West and...;Upper West Side;50 W 72nd St btwn Central Park West and...
+837;Le Pain Quotidien;50 W 72nd St btwn Central Park West and...;SoHo;50 W 72nd St btwn Central Park West and...
+838;Le Pain Quotidien;50 W 72nd St btwn Central Park West and...;Upper East Side;50 W 72nd St btwn Central Park West and...
+839;Le Pere Pinard;175 Ludlow St btwn Houston and Stanton...;Lower East Side;175 Ludlow St btwn Houston and Stanton...
+840;Le Perigord;405 E 52d St btwn 1st Ave and Sutton Pl;Midtown East;1st Avenue
+841;Le Refuge;;Upper East Side;
+842;Le Singe Vert;;Chelsea;
+843;Le Souk;;East Village;
+844;Le Tableau (CLOSED);511 E 5th St btwn Aves A and B;East Village;511 E 5th St btwn Aves A and B
+845;Le Veau d'Or;129 E 60th St btwn Park and Lexington...;Upper East Side;129 E 60th St btwn Park and Lexington...
+846;Le Zie 2000;172 Seventh Ave btwn 20th and 21st Sts;Chelsea;172 Seventh Ave btwn 20th and 21st Sts
+847;Leela Lounge;;Greenwich Village;
+848;Les Enfants Terribles;37 Canal St at Ludlow St;Lower East Side;37 Canal St
+849;Levain Bakery;;Upper West Side;
+850;Levana;;Upper West Side;
+851;Lever House;;Midtown East;
+852;Life Cafe;;East Village;
+853;Lil' Frankie's Pizza;;East Village;
+854;Lili's Noodle Shop and Grill;;Midtown West;
+855;Lili's Noodle Shop and Grill;;Upper East Side;
+856;Lima's Taste (CLOSED);;Greenwich Village;
+857;Lime Leaf;;Upper West Side;
+858;Lisca;;Upper West Side;
+859;Little D Eatery;434 7th Ave btwn 14th and 15th Sts;Park Slope;434 7th Ave
+860;Little Giant;85 Orchard St at Broome St;Lower East Side;85 Orchard St
+861;Lola;15 Watts St btwn Thompson St and West...;SoHo;Thompson St
+862;Lollipop;27 E 61st St btwn Madison and Park Aves;Midtown East;27 E 61st St btwn Madison and Park Aves
+863;Lomito (CLOSED);;SoHo;
+864;Long Tan;;Park Slope;
+865;Lookout Hill Smokehouse (CLOSED);;Park Slope;
+866;Loreley;7 Rivington St btwn Bowery and Chrystie...;Lower East Side;7 Rivington St
+867;Los Pollitos II;;Park Slope;
+868;LuLu;235 Mulberry Street at Spring St;SoHo;235 Mulberry St
+869;Lucien;14 First Ave btwn 1st and 2nd Sts;East Village;2nd Ave
+870;Lucky Cheng's;24 First Ave at E 2nd St;East Village;24 1st Avenue
+871;Lucky Strike;;SoHo;
+872;Lucky's Famous;;Midtown West;
+873;Lugo Caffe;;Midtown West;
+874;Luke's Bar and Grill;;Upper East Side;
+875;Lumi;963 Lexington Ave at 70th St;Upper East Side;963 Lexington Ave
+876;Lupa;;Greenwich Village;
+877;Lupe's East L.A. Kitchen;110 Sixth Ave at Watts St;SoHo;110 6th Ave
+878;Lure Fishbar;;SoHo;
+879;Lusardi's;1494 Second Ave at 78th St;Upper East Side;1494 2nd Ave
+880;Luscious Food;59 Fifth Ave btwn Bergen St and St...;Park Slope;59 5th Ave
+881;Lusso;;SoHo;
+882;Luxee;;Lower East Side;
+883;Luzia's;429 Amsterdam Ave btwn 80th and 81st Sts;Upper West Side;412 Amsterdam Ave
+884;Luzzo's;211-213 First Ave at 13th St;East Village;211-213 First Ave at 13th St
+885;Macaron;16 W 36 St btwn Broadway and 7th Aves;Midtown West;16 W 36 St btwn Broadway and 7th Aves
+886;Macondo;157 E Houston St btwn Eldridge and...;Lower East Side;157 E Houston St
+887;Madaleine Mae (CLOSED);461 Columbus Ave at 82nd St;Upper West Side;461 Columbus Ave
+888;Madison and Vine;299 Madison Ave at 41st St;Midtown East;299 Madison Ave
+889;Maia;98 Ave B btwn 6th and 7th Sts;East Village;98 Ave B btwn 6th and 7th Sts
+890;Maison;1700 Broadway btwn 53rd and 54th Sts;Midtown West;1700 Broadway
+891;Malatesta Trattoria;;Greenwich Village;
+892;Maloney and Porcelli;;Midtown East;
+893;Mama Mexico;;Midtown East;
+894;Mama Mexico;;Upper West Side;
+895;Mama's Food Shop;200 E 3rd St btwn Aves A and B;East Village;200 E 3rd St btwn Aves A and B
+896;Mamlouk;;East Village;
+897;Mamoun's Falafel;;Greenwich Village;
+898;Mamoun's Falafel;;East Village;
+899;Mandoo Bar;2 W 32nd St btwn Fifth Ave and Broadway;Midtown West;17 W 32nd St
+900;Mangia e Bevi;800 Ninth Ave at 53rd St;Midtown West;800 9th Ave
+901;Mangiarini;;Upper East Side;
+902;Manhattan Bistro;129 Spring St btwn Greene and Wooster...;SoHo;129 Spring St btwn Greene and Wooster...
+903;Mara's Homemade;342 E 6th St btwn First and Second Aves;East Village;342 E 6th St
+904;Maracas Mexican Bar and Grill;33 Greenwich Ave btwn Sixth and Seventh...;Greenwich Village;33 Greenwich Ave
+905;Mare;;Chelsea;
+906;Marfa;;East Village;
+907;Margon;136 W 46th St btwn Sixth and Seventh...;Midtown West;136 W 46th St
+908;Maria's Mexican Bistro;669 Union St btwn Fourth and Fifth Aves...;Park Slope;5th Ave
+909;Marinella;49 Carmine St at Bedford St;Greenwich Village;Centric
+910;Marion's Continental Restaurant and Lounge (CLOSED);354 Bowery btwn Great Jones and E 4th...;East Village;Great Jones St
+911;Market Cafe;496 Ninth Ave btwn 37th and 38th Sts;Midtown West;496 Ninth Ave btwn 37th and 38th Sts
+912;Market Table;54 Carmine St at Bedford St;Greenwich Village;54 Carmine St
+913;Markt;;Chelsea;
+914;Maroons;244 W 16th St btwn Seventh and Eighth...;Chelsea;244 W 16th St btwn Seventh and Eighth...
+915;Maroons (CLOSED);;Chelsea;
+916;Marseille;;Midtown West;
+917;Maruzzella;;Upper East Side;
+918;Mary's Fish Camp;64 Charles St at 4th St;Greenwich Village;64 Charles St #4th
+919;Mas (Farmhouse);;Greenwich Village;
+920;Masa;10 Columbus Circle at 60th St;Midtown West;10 Columbus Cir
+921;Matador;57 Greenwich Ave btwn Perry and Charles...;Greenwich Village;57 Greenwich Ave btwn Perry and Charles...
+922;Matador (CLOSED);;Greenwich Village;
+923;Match 65;29 E 65th St btwn Madison and Park Aves;Upper East Side;29 E 65th St
+924;Matilda;647 E 11th St btwn Aves B and C;East Village;647 E 11th St
+925;Matsuri;369 W 16th St btwn 8th and 9th Aves;Chelsea;369 W 16th St
+926;Max;;East Village;
+927;Maya;1191 First Ave btwn 64th and 65th Sts;Upper East Side;1191 First Ave btwn 64th and 65th Sts
+928;Maz Mezcal;316 E 86th St btwn First and Second A;Upper East Side;444 East 86th St
+929;Maze;;Midtown West;
+930;McCormick and Schmick's;1285 Sixth Ave at 51st St;Midtown West;1285 6th Ave
+931;Medina;;Chelsea;
+932;Megu Midtown;845 United Nations Plaza at E 47th St;Midtown East;845 United Nations Plaza
+933;Mekong (CLOSED);16 King St at Sixth Ave;SoHo;18 King St
+934;Melt;440 Bergen St btwn Flatbush and Fifth...;Park Slope;440 Bergen St
+935;Men Kui Tei;60 W 56th St btwn 5th and 6th Aves;Midtown East;6th Ave
+936;Men Kui Tei;60 W 56th St btwn 5th and 6th Aves;East Village;6th Ave
+937;Mercadito;;East Village;
+938;Mercadito Cantina;172 Ave B btwn 10th and 11th Sts;East Village;172 Ave B btwn 10th and 11th Sts
+939;Mercadito Grove;100 Seventh Ave So at Grove St;Greenwich Village;100 7th Ave S
+940;Mercat;45 Bond St btwn Lafayette St and Bowery;East Village;45 Bond St btwn Lafayette St and Bowery
+941;Mercer Kitchen;147 Mercer St at Mercer St;SoHo;147 Mercer St
+942;Meskel;199 E 3rd St btwn Aves A and B;East Village;199 E 3rd St
+943;Metisse;239 W 105th St btwn Amsterdam Ave and...;Upper West Side;239 W 105th St
+944;Metrazur;404 Grand Central Terminal at Park Ave;Midtown East;89 E 42nd St
+945;Metro Marche;;Midtown West;
+946;Metsovo (CLOSED);65 W 70th St at Columbus Ave;Upper West Side;65 W 70th St
+947;Mexicana Mama;;Greenwich Village;
+948;Mezzaluna;;Upper East Side;
+949;Mezzogiorno;;SoHo;
+950;Mi Cocina;57 Jane St at Hudson St;Greenwich Village;57 Jane St #5131
+951;Mia Dona;;Midtown East;
+952;Michael Jordan's the Steakhouse N.Y.C.;23 Vanderbilt Ave at 42nd St;Midtown East;23 Vanderbilt Ave
+953;Michael's;24 West 55th St btwn 5th and 6th Aves;Midtown West;6th Ave
+954;Minca;536 E 5th St btwn Aves A and B;East Village;536 E 5th St
+955;Minetta Tavern;;Greenwich Village;
+956;Mingala Burmese;;Upper East Side;
+957;Mint;150 E 50th St btwn Lexington and Third...;Midtown East;150 East 50th Street Between lexington &
+958;Miracle Grill;222 Seventh Ave at 3rd St;Park Slope;222 Seventh Ave at 3rd St
+959;Miracle Grill;222 Seventh Ave at 3rd St;Greenwich Village;222 Seventh Ave at 3rd St
+960;Miriam;79 5th Ave at Prospect Place;Park Slope;Albert and Vera List Academic Center
+961;Mishima;164 Lexington Ave btwn 30th and 31st Sts;Midtown East;164 Lexington Ave btwn 30th and 31st Sts
+962;Miss Mamie's Spoonbread Too;366 W 110th St btwn Manhattan and...;Upper West Side;366 W 110th St
+963;Miss Saigon (CLOSED);1425 Third Ave btwn 80th and 81st Sts;Upper East Side;1425 Third Ave btwn 80th and 81st Sts
+964;Miyagi;220 W 13th St btwn Seventh and...;Greenwich Village;220 W 13th St
+965;Moim;;Park Slope;
+966;Molyvos;;Midtown West;
+967;Momofuku Bakery and Milk Bar;;East Village;
+968;Momofuku Ko;;East Village;
+969;Momofuku Noodle Bar;163 1st Ave btwn 10th and 11th Sts;East Village;163 1st Ave btwn 10th and 11th Sts
+970;Momofuku Ssam Bar;207 2nd Ave at E 13th St.;East Village;207 2nd Ave
+971;Momoya;187 7th Ave at 21st St;Chelsea;187 7th Ave
+972;Monte's Trattoria;97 MacDougal St btwn W 3rd and Bleecker...;Greenwich Village;97 MacDougal St
+973;Montebello;120 E 56th St btwn Park and Lexington...;Midtown East;120 E 56th St Ste #610
+974;Montparnasse;;Midtown East;
+975;Mooncake Foods;28 Watts St btwn Sixth Ave and Thompson...;SoHo;28 Watts St btwn Sixth Ave and Thompson...
+976;Moran's Chelsea;146 Tenth Ave at 19th St;Chelsea;146 Amsterdam Ave
+977;Morandi;;Greenwich Village;
+978;Morimoto;;Chelsea;
+979;Morrell Wine Bar and Cafe;1 Rockefeller Plaza btwn 5th and 6th...;Midtown West;1 Rockefeller Plaza 48Th and
+980;Morton's of Chicago;551 Fifth Ave at 45th St;Midtown West;551 5th Ave
+981;Moustache;265 E 10th St btwn First Ave and Ave A;East Village;265 E 10th St btwn First Ave and Ave A
+982;Moustache;265 E 10th St btwn First Ave and Ave A;Greenwich Village;265 E 10th St btwn First Ave and Ave A
+983;Moutarde;239 Fifth Ave at Carroll St;Park Slope;239 Fifth Ave at Carroll St
+984;Mr Jones;;East Village;
+985;Mr. Chow;;Midtown East;
+986;Mr. Falafel;;Park Slope;
+987;Mr. K's;;Midtown East;
+988;Mr. Skewer and Company;;Greenwich Village;
+989;My Befana (CLOSED);116 West Houston St btwn Sullivan and...;SoHo;116 W Houston St
+990;Naima;;Chelsea;
+991;Naka Naka;;Chelsea;
+992;Nana;;Park Slope;
+993;Naples 45;;Midtown East;
+994;Natsumi;226 W 50th St btwn 8th Ave and Broadway;Midtown West;226 W 50th St
+995;Naya Mezze and Grill;1057 Second Ave btwn 55th and 56th St;Midtown East;1057 Second Ave btwn 55th and 56th St
+996;Negril;362 W 23rd St btwn Eighth and Ninth Aves;Chelsea;362 W 23rd St
+997;Negril Village;70 W 3rd St btwn La Guardia Pl and...;Greenwich Village;Queens
+998;Nello;;Upper East Side;
+999;Neo Sushi;;Upper West Side;
+1000;Nice Matin;;Upper West Side;
+1001;Nick and Stef's Steakhouse;9 Penn Plaza at 33rd St;Midtown West;9 Pennsylvania Plaza
+1002;Nick and Toni's;;Upper West Side;
+1003;Nick's Pizza;1814 Second Ave at 94st St;Upper East Side;1814 2nd Ave
+1004;Nicky's Vietnamese Sandwiches;150 E 2nd St btwn Aves A and B;East Village;150 E 2nd St btwn Aves A and B
+1005;Nino's;1354 First Ave btwn 72nd and 73rd Sts;Upper East Side;1354 First Ave btwn 72nd and 73rd Sts
+1006;Nino's 208;208 E 58th St btwn Second and Third Aves;Midtown East;208 E 58th St btwn Second and Third Aves
+1007;Nino's Bellissima Pizza;;Midtown East;
+1008;Nino's Positano (CLOSED);;Midtown East;
+1009;Nino's Tuscany;;Midtown West;
+1010;Nippon;;Midtown East;
+1011;Nizza;;Midtown West;
+1012;NoNO Kitchen;;Park Slope;
+1013;Noah's Ark;;Lower East Side;
+1014;Nobu 57;;Midtown West;
+1015;Noche Mexicana;852 Amsterdam Ave btwn 101st and 102nd...;Upper West Side;852 Amsterdam Ave
+1016;Nomad;78 Second Ave btwn 4th and 5th Sts;East Village;5th Ave
+1017;Nonna;;Upper West Side;
+1018;Noodle Bar;172 Orchard St at Stanton St;Lower East Side;172 Orchard St
+1019;Noodle Bar;172 Orchard St at Stanton St;Greenwich Village;172 Orchard St
+1020;Nook;;Midtown West;
+1021;Norma's;;Midtown West;
+1022;Notaro;;Midtown East;
+1023;Nougatine;;Midtown West;
+1024;Novecento;343 W Broadway btwn Broome and Grand Sts;SoHo;343 W Broadway btwn Broome and Grand Sts
+1025;Novo (CLOSED);290 Hudson St btwn Dominick and Spring...;SoHo;246 Spring St
+1026;O.G.;;East Village;
+1027;Obika;;Midtown East;
+1028;Ocean Grill;384 Columbus Ave btwn 78th and 79th Sts;Upper West Side;384 Columbus Ave btwn 78th and 79th Sts
+1029;Oceana;;Midtown East;
+1030;Old Devil Moon;511 E 12th St btwn Aves A and B;East Village;511 E 12th St
+1031;Old Devil Moon (CLOSED);;East Village;
+1032;Old San Juan;;Midtown West;
+1033;Oliva;161 E Houston St at Allen St;Lower East Side;161 E Houston St
+1034;Olive Vine Cafe;;Park Slope;
+1035;Omai;;Chelsea;
+1036;Omen;;SoHo;
+1037;Omido;;Midtown West;
+1038;Oms/b;156 E 45th St btwn Lexington and Third...;Midtown East;156 E 45th St
+1039;One If By Land, Two If By Sea;;Greenwich Village;
+1040;Orsay;;Upper East Side;
+1041;Orso;322 W 46th St btwn Eighth and Ninth Aves;Midtown West;322 W 46th St btwn Eighth and Ninth Aves
+1042;Osteria Gelsi;;Midtown West;
+1043;Osteria Laguna;;Midtown East;
+1044;Osteria Serafina;38 E 58th St btwn Park and Madison Aves;Midtown East;38 E 58th St
+1045;Osteria al Doge;;Midtown West;
+1046;Osteria del Circo;;Midtown West;
+1047;Ostia;;Greenwich Village;
+1048;Otafuku;;East Village;
+1049;Otto Enoteca Pizzeria;;Greenwich Village;
+1050;Ouest;;Upper West Side;
+1051;Ozu;566 Amsterdam Ave btwn 87th and 88th Sts;Upper West Side;566 Amsterdam Avenue Ave Bet 87st and
+1052;P*Ong;;Greenwich Village;
+1053;PDT;113 St Marks Pl btwn First Ave and Ave A;East Village;113 St Marks Pl
+1054;PJ Clarke's;;Midtown East;
+1055;PJ Clarkes at Lincoln Square;;Upper West Side;
+1056;Padre Figlio;;Midtown East;
+1057;Paladar;161 Ludlow St btwn Houston and Stanton...;Lower East Side;161 Ludlow St btwn Houston and Stanton...
+1058;Palm Court;1 Central Park South;Midtown East;1 Central Park S
+1059;Palm Court (CLOSED);;Midtown East;
+1060;Palma;;Greenwich Village;
+1061;Palo Santo;;Park Slope;
+1062;Pam Real Thai Food;404 W 49th St btwn Ninth and Tenth Aves;Midtown West;540 W 49th St
+1063;Pampano;;Midtown East;
+1064;Pampano Taqueria;805 Third Ave btwn 49th and 50th Sts;Midtown East;805 Third Ave btwn 49th and 50th Sts
+1065;Panca;;East Village;
+1066;Panificio (CLOSED);175 Ave B at E 11th St;East Village;175 Ave B at E 11th St
+1067;Paola's;245 E 84th St btwn Second and Third Aves;Upper East Side;245 E 84th St
+1068;Papatzul;;SoHo;
+1069;Papillon Bistro;22 E 54th St btwn 5th and Madison Aves;Midtown East;22 E 54th St
+1070;Paradiso;;East Village;
+1071;Paris Commune;99 Bank St at Greenwich St;Greenwich Village;99 Bank St at Greenwich St
+1072;Park Avenue Autumn;100 E 63rd St at Park Ave;Upper East Side;100 E 63rd St
+1073;Park Blue;;Midtown West;
+1074;Parlor Steakhouse;;Upper East Side;
+1075;Parma;;Upper East Side;
+1076;Pasha;70 W 71st St btwn Central Park West and...;Upper West Side;31 W 71st St
+1077;Pasita;;Greenwich Village;
+1078;Pata Negra;345 East 12th St btwn 1st and 2nd Aves;East Village;345 East 12th St btwn 1st and 2nd Aves
+1079;Patisserie des Ambassades;161 W 22nd St btwn Sixth and Seventh...;Chelsea;161 W 22nd St
+1080;Patsy's Italian Restaurant;;Midtown West;
+1081;Patsy's Pizzeria;;Upper East Side;
+1082;Patsy's Pizzeria;;Greenwich Village;
+1083;Patsy's Pizzeria;;Midtown East;
+1084;Patsy's Pizzeria;;Upper West Side;
+1085;Payard Patisserie and Bistro;1032 Lexington Ave btwn 73rd and 74th...;Upper East Side;1032 Lexington Ave
+1086;Peacock Alley;301 Park Ave at 49th St;Midtown East;301 Park Ave
+1087;Peanut Butter and Co.;240 Sullivan St btwn Bleecker and W 3rd...;Greenwich Village;240 Sullivan St
+1088;Pearl Oyster Bar;18 Cornelia St btwn Bleecker and W 4th...;Greenwich Village;18-20 Cornelia St
+1089;Peep;;SoHo;
+1090;Pegu Club;77 W Houston St btwn W Broadway and...;SoHo;77 W Houston St
+1091;Pepe Rosso to Go;;SoHo;
+1092;Peperoncino;72 Fifth Ave at St Marks Pl;Park Slope;72 Fifth Ave at St Marks Pl
+1093;Per Lei;;Upper East Side;
+1094;Pera Mediterranean Brasserie;;Midtown East;
+1095;Perbacco;234 E 4th St btwn Aves A and B;East Village;234 E 4th St btwn Aves A and B
+1096;Perch;;Park Slope;
+1097;Peri Ela;;Upper East Side;
+1098;Perilla;9 Jones St btwn Bleecker and W 4th Sts;Greenwich Village;9 Jones St btwn Bleecker and W 4th Sts
+1099;Perry Street;176 Perry St at West Side Highway;Greenwich Village;176 Perry St
+1100;Persephone;115 E 60th St btwn Park and Lexington...;Upper East Side;115 E 60th St
+1101;Persepolis;1407 Second Ave btwn 73rd and 74th Sts;Upper East Side;1407 Second Ave btwn 73rd and 74th Sts
+1102;Pershing Square;;Midtown East;
+1103;Persimmon;277 E 10th St btwn 1st Ave and Ave A;East Village;277 E 10th St btwn 1st Ave and Ave A
+1104;Pescatore;;Midtown East;
+1105;PetalBelle;158 Sullivan Street corner of Houston St;SoHo;158 Sullivan St
+1106;Petite Abeille;466 Hudson St btwn Barrow and Grove Sts;Greenwich Village;466 Hudson St
+1107;Petite Abeille;466 Hudson St btwn Barrow and Grove Sts;Chelsea;466 Hudson St
+1108;Petrie Court Cafe and Wine Bar;;Upper East Side;
+1109;Petrossian;;Midtown West;
+1110;Philip Marie;569 Hudson St at 11th St;Greenwich Village;569 Hudson St
+1111;Philippe;35 E 60th St at Madison Ave;Upper East Side;35 E 60th St at Madison Ave
+1112;Philly Slim's Cheesesteaks;789 Ninth Ave btwn 52nd and 53rd Sts;Midtown West;789 Ninth Ave btwn 52nd and 53rd Sts
+1113;Phoenix Garden;242 E 40th St btwn Second and Third Aves;Midtown East;242 E 40th St
+1114;Piadina;57 W 10th St btwn Fifth and Sixth Aves;Greenwich Village;57 W 10th St
+1115;Piano Due;;Midtown West;
+1116;PicNic Market and Cafe;2665 Broadway btwn 101st and 102nd Sts;Upper East Side;230 W 101st St
+1117;Picasso;303 E 56th St btwn First and Second Aves;Midtown East;303 E 56th St
+1118;Piccolo Angelo;621 Hudson St btwn Jane and W 12th Sts;Greenwich Village;621 Hudson St btwn Jane and W 12th Sts
+1119;Picholine;;Upper West Side;
+1120;Pietrasanta;683 Ninth Ave at 47th St;Midtown West;683 9th Ave
+1121;Pietro's;242 E 43rd St btwn 2nd and 3rd Aves;Midtown East;225 East 43rd Street Between 2nd Ave &
+1122;Pig Heaven;;Upper East Side;
+1123;Pigalle;790 Eighth Ave at 48th St;Midtown West;790 8th Ave
+1124;Pinch and S'MAC;474 Columbus Ave btwn 82nd and 83rd Sts;Upper West Side;474 Columbus Ave btwn 82nd and 83rd Sts
+1125;Pinche Taqueria;;Greenwich Village;
+1126;Pink Pony;176 Ludlow St btwn Houston and Stanton...;Lower East Side;176 Ludlow St btwn Houston and Stanton...
+1127;Pio Maya (CLOSED);;Greenwich Village;
+1128;Pio Pio;1746 First Ave btwn 90th and 91st Sts;Upper East Side;E 91st St
+1129;Pio Pio Salon;702 Amsterdam at 94th St;Upper West Side;702 Amsterdam Ave
+1130;Piola;48 E 12th St btwn Broadway and...;East Village;48 E 12th St
+1131;Pizza Gruppo;186 Ave B btwn 11th and 12th Sts;East Village;186 Ave B btwn 11th and 12th Sts
+1132;Pizzeria de Santo (CLOSED);173 Ludlow St btwn Houston and Stanton...;Lower East Side;173 Ludlow St btwn Houston and Stanton...
+1133;Planethailand 212;;Chelsea;
+1134;Po;31 Cornelia St btwn Bleecker and W 4th...;Greenwich Village;31 Cornelia St
+1135;Pomaire;371 W 46th St btwn 8th and 9th Aves;Midtown West;371 W 46th St
+1136;Pop Burger;14 E 58th St btwn Madison and 5th Aves;Midtown East;42 E 58th St
+1137;Porchetta;110 E 7th St btwn 1st Ave and Ave A;East Village;110 E 7th St btwn 1st Ave and Ave A
+1138;Porter House New York;10 Columbus Circle at 59th St;Midtown West;10 Columbus Circle at 59th St
+1139;Pre:Post;547 W 27th St btwn 10th and 11th Aves;Chelsea;547 W 27th St #300
+1140;Prem-on Thai;;Greenwich Village;
+1141;Primo Atto;;Park Slope;
+1142;Prune;;East Village;
+1143;Public House;140 E 41st St btwn Lexington and Third...;Midtown East;140 E 41st St
+1144;Pukk;71 First Ave btwn 4th and 5th Sts;East Village;5th Ave
+1145;Purnima;75 Ninth Ave btwn 15th and 16th Sts;Chelsea;75 Ninth Ave btwn 15th and 16th Sts
+1146;Puttanesca;859 Ninth Ave at 56th St;Midtown West;859 9th Ave
+1147;Pylos;128 E 7th St btwn Ave A and 1st Ave;East Village;128 E 7th St
+1148;Pyramida;401 E 78th St at First Ave;Upper East Side;401 E 78th St at First Ave
+1149;Quality Meats;57 W 58th St btwn 5th and 6th Aves;Midtown West;6th Ave
+1150;Quatorze Bis;;Upper East Side;
+1151;Queen of Sheba;;Midtown West;
+1152;Quintessence (CLOSED);;East Village;
+1153;R.U.B.;208 W 23rd St btwn Seventh and Eighth...;Chelsea;208 W 23rd St
+1154;Rack and Soul;2818 Broadway at 109th St;Upper West Side;2818 Broadway
+1155;Radio Perfecto;190 Ave B btwn 11th and 12th Sts;East Village;190 Ave B btwn 11th and 12th Sts
+1156;Rai Rai Ken;214 E 10th St btwn First and Second Aves;East Village;214 E 10th St
+1157;Rainbow Room;;Midtown West;
+1158;Rainbow Room (CLOSED);30 Rockefeller Plaza;Midtown West;30 Rockefeller Plaza
+1159;Rainbow Room Grill;30 Rockefeller Plaza;Midtown West;30 Rockefeller Plaza
+1160;Rainbow Room Grill (CLOSED);;Midtown West;
+1161;Ramen Setagaya;141 First Ave btwn 9th St and St Marks...;East Village;141 First Ave btwn 9th St and St Marks...
+1162;Raoul's;180 Prince St btwn Sullivan and...;SoHo;180 Prince St
+1163;Rare Bar and Grill;;Greenwich Village;
+1164;Ravagh Persian Grill;;Upper East Side;
+1165;Rayuela;;Lower East Side;
+1166;Re Sette;;Midtown West;
+1167;Rectangles;;Upper East Side;
+1168;Red Bamboo;140 W 4th St btwn MacDougal St and...;Greenwich Village;140 West 4th Street
+1169;Redeye Grill;;Midtown West;
+1170;Regional;2607 Broadway btwn 98th and 99th Sts;Upper West Side;2607 Broadway
+1171;Remi;;Midtown West;
+1172;Restaurant Ichimura;1026 Second Ave btwn 54th and 55th Sts;Midtown East;W 55th St
+1173;Restaurant Seo;;Midtown East;
+1174;Resto Leon;351 E 12th St btwn First and Second Aves;East Village;351 E 12th St btwn First and Second Aves
+1175;Retsina;;Midtown East;
+1176;Rhong Tiam;541 LaGuardia Pl btwn W 3rd and...;Greenwich Village;541 LaGuardia Pl btwn W 3rd and...
+1177;Riingo;;Midtown East;
+1178;Risotteria;270 Bleecker St at Morton St;Greenwich Village;270 Bleecker St
+1179;Ritz Asia;;Greenwich Village;
+1180;Robert's Steakhouse;;Midtown West;
+1181;Roberto Passon;741 9th Ave at 50th St;Midtown West;741 9th Ave
+1182;Rocco's;;Greenwich Village;
+1183;Rock Center Cafe;;Midtown West;
+1184;Rocking Horse Cafe;;Chelsea;
+1185;Roots and Vines;;Lower East Side;
+1186;Rosa Mexicano First Avenue;1063 1st Ave at 58h St;Midtown East;1063 1st Avenue
+1187;Rosa Mexicano Lincoln Center;61 Columbus Ave at 62nd St;Upper West Side;61 Columbus Ave
+1188;Rose Club;;Midtown West;
+1189;Rose Water;787 Union St at 6th Ave;Park Slope;787 Union St at 6th Ave
+1190;Rothmann's Steakhouse and Grill;;Midtown East;
+1191;Rouge Tomate;10 E 60th St btwn Madison and 5th Aves;Midtown East;14 E 60th St
+1192;Ruby Foo's;1626 Broadway at 49th St;Midtown West;1626 Broadway
+1193;Ruby Foo's (CLOSED);2182 Broadway at 77th St;Upper West Side;2182 Broadway
+1194;Rue 57;60 W 57th St at Sixth Ave;Midtown West;60 W 57th St
+1195;Russian Samovar;256 W 52nd St btwn Broadway and Eighth...;Midtown West;256 W 52nd St
+1196;Rusty Knot;425 West St at 11th St;Greenwich Village;W 11th St
+1197;S'Mac;345 E 12th St btwn First and Second Aves;East Village;345 E 12th St btwn First and Second Aves
+1198;Sachiko's on Clinton;25 Clinton St btwn Houston and Stanton...;Lower East Side;25 Clinton St btwn Houston and Stanton...
+1199;Sacred Chow;;Greenwich Village;
+1200;Safran;88 Seventh Ave btwn 15th and 16th Sts;Chelsea;88 Seventh Ave btwn 15th and 16th Sts
+1201;Sahara East;184 First Ave btwn 11th and 12th Sts;East Village;184 First Ave btwn 11th and 12th Sts
+1202;Saigon 48;;Midtown West;
+1203;Saigon Grill;620 Amsterdam Ave at 90th St;Upper West Side;620 Amsterdam Ave
+1204;Saigon Grill;620 Amsterdam Ave at 90th St;Greenwich Village;620 Amsterdam Ave
+1205;Saju;120 W 44th St btwn Sixth Ave and...;Midtown West;120 W 44th St
+1206;Sakae Sushi;135 W 3rd St btwn Sixth Ave and...;Greenwich Village;135 W 3rd St btwn Sixth Ave and...
+1207;Sakae Sushi (CLOSED);405 Lexington Ave btwn 42nd and 43rd Sts;Midtown East;405 Lexington Avenue
+1208;Sakagura;211 E 43rd St btwn 2nd and 3rd Aves;Midtown East;3rd Ave
+1209;Sake Hana;466 Amsterdam Ave btwn 82nd and 83rd Sts;Upper West Side;466 Amsterdam Ave btwn 82nd and 83rd Sts
+1210;Sakura Cafe;388 Fifth Ave btwn 6th and 7th Sts;Park Slope;388 Fifth Ave btwn 6th and 7th Sts
+1211;Sala;;East Village;
+1212;Salmon River;3 E 40th St btwn Fifth and Madison Aves;Midtown East;3 E 40th St
+1213;Salsa y Salsa;206 Seventh Ave btwn 21st and 22nd Sts;Chelsea;206 Seventh Ave btwn 21st and 22nd Sts
+1214;Salt;58 MacDougal St btwn Houston and Prince...;SoHo;58 MacDougal St btwn Houston and Prince...
+1215;Salt Bar;29A Clinton St btwn Houston and Stanton...;Lower East Side;29A Clinton St btwn Houston and Stanton...
+1216;Salumeria Rosi;;Upper West Side;
+1217;Sammy's Roumanian Steakhouse;157 Chrystie St;Lower East Side;157 Chrystie St
+1218;San Marzano;;Lower East Side;
+1219;San Pietro;18 E 54th St btwn Fifth and Madison Aves;Midtown East;18 E 54th St
+1220;Sanctuary Tea;;SoHo;
+1221;Sandro's;;Upper East Side;
+1222;Sangria 46;;Midtown West;
+1223;Sant Ambroeus;259 W 4th St at Perry St;Greenwich Village;259 West 4th Street
+1224;Sant Ambroeus;259 W 4th St at Perry St;Upper East Side;259 West 4th Street
+1225;Sapa;;Chelsea;
+1226;Sapa (CLOSED);;Chelsea;
+1227;Sapphire;;Upper West Side;
+1228;Sarabeth's;423 Amsterdam Ave btwn 80th and 81st Sts;Upper West Side;E 81st St
+1229;Sarabeth's;423 Amsterdam Ave btwn 80th and 81st Sts;Upper East Side;E 81st St
+1230;Sarabeth's Central Park South;40 Central Park So btwn Fifth and Sixth...;Midtown West;New York
+1231;Sardi's;;Midtown West;
+1232;Sarge's Deli;;Midtown East;
+1233;Sasabune;;Upper East Side;
+1234;Satsko;;Lower East Side;
+1235;Saucy;1409 York Ave;Upper East Side;1409 York Ave
+1236;Savann;;Upper West Side;
+1237;Savore;;SoHo;
+1238;Savoy;70 Prince St btwn Broadway and Crosby St;SoHo;70 Prince St
+1239;Scalinatella;201 E 61st St btwn Second and Third Aves;Upper East Side;201 E 61st St
+1240;Scarlatto;;Midtown West;
+1241;Schiller's Liquor Bar;131 Rivington St at Norfolk St;Lower East Side;131 Rivington St
+1242;Schnipper's Quality Kitchen;;Midtown West;
+1243;Seasonal;132 W 58th St btwn 6th & 7th Aves;Midtown West;132 W 58th St
+1244;Sel et Poivre;853 Lexington Ave btwn 64th and 65th Sts;Upper East Side;853 Lexington Avenue between 64th and
+1245;Seoul Station;81 St Marks Pl btwn 1st and 2nd Aves;East Village;81 St Marks Pl btwn 1st and 2nd Aves
+1246;Seppi's;;Midtown West;
+1247;Serafina Broadway;;Midtown West;
+1248;Serafina Fabulous Grill;29 E 61st St btwn Park and Madison Aves;Upper East Side;29 E 61st St
+1249;Serafina Fabulous Pizza;1022 Madison Ave at 79th St;Upper East Side;1022 Madison Ave
+1250;Serafina Lafayette;;East Village;
+1251;Serendipity 3;225 E 60th St btwn Second and Third Aves;Upper East Side;225 E 60th St
+1252;Setacci;420 Hudson St at Leroy St;Greenwich Village;420 Hudson St
+1253;Sette Enoteca e Cucina;207 7th Ave at 3rd St;Park Slope;207 7th Ave at 3rd St
+1254;Sette Mezzo;969 Lexington Ave btwn 70th and 71st Sts;Upper East Side;969 Lexington Ave btwn 70th and 71st Sts
+1255;Seven;350 Seventh Ave btwn 29th and 30th Sts;Chelsea;350 Seventh Ave btwn 29th and 30th Sts
+1256;Sevilla;62 Charles St at W 4th St;Greenwich Village;62 Charles St
+1257;Sfoglia;1402 Lexington Ave at 92nd St;Upper East Side;1402 Lexington Ave
+1258;Shabu-Shabu 70;;Upper East Side;
+1259;Shaburi;125 E 39th St btwn Park and Lexington...;Midtown East;125 E 39th St
+1260;Shaffer City Oyster Bar and Grill;5 W 21st St btwn Fifth and Sixth Aves;Chelsea;7 W 21st St
+1261;Shake Shack;;Upper West Side;
+1262;Shalizar;1420 Third Ave btwn 80th and 81st Sts;Upper East Side;E 81st St
+1263;Shang;187 Orchard St btwn Stanton and Houston...;Lower East Side;187 Orchard St
+1264;Shanghai Mong;;Midtown West;
+1265;Shanghai Pavilion;1378 Third Ave btwn 78th and 79th Sts;Upper East Side;1378 Third Ave btwn 78th and 79th Sts
+1266;Sheep Station;149 4th Ave at Douglass St;Park Slope;149 4th Ave
+1267;Shelly's New York;;Midtown West;
+1268;Shimizu;;Midtown West;
+1269;Shopsin's;;Lower East Side;
+1270;Shorty's;576 Ninth Ave at 41st St;Midtown West;576 9th Ave
+1271;Shorty's.32;;SoHo;
+1272;Shula's;;Midtown West;
+1273;Shun Lee Cafe;43 W 65th St btwn Central Park West and...;Upper West Side;43 W 65th St
+1274;Shun Lee Palace;;Midtown East;
+1275;Shun Lee West;43 W 65th St btwn Central Park West and...;Upper West Side;43 W 65th St
+1276;Sidecar;560 Fifth Ave btwn 15th and 16th Sts;Park Slope;560 Fifth Ave btwn 15th and 16th Sts
+1277;Sidecar at P.J. Clarke's;;Midtown East;
+1278;Sigiri;91 First Ave btwn 5th and 6th Sts;East Village;6th Ave
+1279;Silverleaf Tavern;70 Park Ave at 38th St;Midtown East;70 Park Ave
+1280;Simon Sips;;East Village;
+1281;Singas Famous Pizza;;East Village;
+1282;Sip Sak;928 Second Ave btwn 49th and 50th Sts;Midtown East;50th Ave
+1283;Sistina;1555 Second Ave btwn 80th and 81st Sts;Upper East Side;1555 Second Ave btwn 80th and 81st Sts
+1284;Slice;1413 Second Ave btwn 73rd and 74th Sts;Upper East Side;1413 Second Ave btwn 73rd and 74th Sts
+1285;Slurp;84 Stanton St at Orchard St;Lower East Side;84 Stanton St
+1286;Smith and Wollensky;797 Third Ave at 49th St;Midtown East;797 3rd Ave
+1287;Smith's;79 MacDougal St btwn Bleecker and W...;Greenwich Village;79 MacDougal St
+1288;Smokin' Q;;Upper East Side;
+1289;Smokin' Q (CLOSED);;Upper East Side;
+1290;Smorgas Chef;;Midtown East;
+1291;Smorgas Chef;;Greenwich Village;
+1292;Snack;;SoHo;
+1293;Snack Taverna;;Greenwich Village;
+1294;Soba Totto;;Midtown East;
+1295;SobaKoh;;East Village;
+1296;Sobaya;229 E 9th St btwn Second and Third Aves;East Village;60E W 9th St
+1297;Socarrat Paella Bar;259 W 19th St btwn Seventh and Eighth...;Chelsea;259 W 19th St
+1298;Socialista (CLOSED);505 West St at Jane St;Greenwich Village;505 W 19th St
+1299;Sofrito;400 E 57th St btwn First Ave and Sutton...;Midtown East;400 E 57th St
+1300;Solera;;Midtown East;
+1301;Solex;103 First Ave btwn 6th and 7th Sts;East Village;103 First Ave btwn 6th and 7th Sts
+1302;Solo;550 Madison Ave btwn 55th and 56th Sts;Midtown East;550 Madison Ave btwn 55th and 56th Sts
+1303;Song 7.2;;East Village;
+1304;Sonia Rose;;Lower East Side;
+1305;Sookk;;Upper West Side;
+1306;Sorella;;Lower East Side;
+1307;Sosa Borella;;Midtown West;
+1308;Soto;;Greenwich Village;
+1309;Sotto Voce;;Park Slope;
+1310;Souen;28 E 13th St btwn Fifth Ave and...;Greenwich Village;28 E 13th St
+1311;Souen;28 E 13th St btwn Fifth Ave and...;SoHo;28 E 13th St
+1312;Souen Ramen;;East Village;
+1313;Soul Fixins;371 W 34th St btwn Eighth and Ninth Aves;Midtown West;371 W 34th St
+1314;Soup Burg;1095 Lexington Ave at 77th St;Upper East Side;1095 Lexington Ave
+1315;Soup Burg (CLOSED);;Upper East Side;
+1316;South Gate;160 Central Park South btwn 6th and 7th...;Midtown West;160 Central Park S
+1317;Southern Hospitality;;Upper East Side;
+1318;Soy;;Lower East Side;
+1319;Spanky's BBQ;127 W 43rd St btwn Broadway and Sixth...;Midtown West;127 W 43rd St #2
+1320;Spanky's BBQ (CLOSED);;Midtown West;
+1321;Sparks Steak House;210 E 46th St btwn Second and Third Aves;Midtown East;210 E 46th St
+1322;Sparky's American Food;;East Village;
+1323;Spice;;Chelsea;
+1324;Spice;;Upper East Side;
+1325;Spice;;Greenwich Village;
+1326;Spiga;;Upper West Side;
+1327;Spigolo;;Upper East Side;
+1328;Spitzer's Corner;101 Rivington St at Ludlow St;Lower East Side;101 Rivington St
+1329;Spotlight Live;;Midtown West;
+1330;Spotlight Live (CLOSED);;Midtown West;
+1331;Spring Street Natural;62 Spring St at Lafayette St;SoHo;62 Spring St
+1332;Spunto;;Greenwich Village;
+1333;Square Meal;30 E 92nd St btwn 5th Ave and Madison...;Upper East Side;30 E 92nd St btwn 5th Ave and Madison...
+1334;Stage Deli;1481 Second Ave at 77th St;Upper East Side;1481 2nd Ave
+1335;Stage Deli;1481 Second Ave at 77th St;Midtown West;1481 2nd Ave
+1336;Staghorn Steakhouse;;Midtown West;
+1337;Stand;;Greenwich Village;
+1338;Steak Frites;;Greenwich Village;
+1339;Stone Park Cafe;;Park Slope;
+1340;Strip House;;Greenwich Village;
+1341;Suba;;Lower East Side;
+1342;Suba (CLOSED);;Lower East Side;
+1343;Suenos;;Chelsea;
+1344;Sugarcane;;Park Slope;
+1345;Sugiyama;;Midtown West;
+1346;Sumile Sushi;;Greenwich Village;
+1347;Supermac;;Chelsea;
+1348;Supper;156 E 2nd St btwn Aves A and B;East Village;156 E 2nd St
+1349;Surya;302 Bleecker St btwn Seventh Ave South...;Greenwich Village;302 Bleecker St
+1350;Sushi Ann;38 E 51st St btwn Madison and Park Aves;Midtown East;38 E 51st St
+1351;Sushi Hana;;Upper East Side;
+1352;Sushi Jun;;Midtown West;
+1353;Sushi Samba 7;87 Seventh Ave So at Barrow St;Greenwich Village;87 7th Ave S
+1354;Sushi Seki;1143 1st Ave btwn 62nd and 63rd Sts;Upper East Side;1143 1st Avenue
+1355;Sushi Yasuda;204 E 43rd St btwn 2nd and 3rd Aves;Midtown East;204 E 43rd St
+1356;Sushi Zen;;Midtown West;
+1357;Sushi of Gari;;Upper East Side;
+1358;Sushi of Gari 46;;Midtown West;
+1359;Sushiden;19 E 49th St btwn Fifth and Madison Aves;Midtown East;12 E 49th St
+1360;Sushiden;19 E 49th St btwn Fifth and Madison Aves;Midtown West;12 E 49th St
+1361;Sweet Emily's;;Midtown West;
+1362;Sweet and Lowdown;123 Allen St btwn Delancey and...;Lower East Side;123 Allen St
+1363;Sweetiepie;19 Greenwich Ave btwn W 10th and...;Greenwich Village;57 W 10th St
+1364;Swich;104 8th Ave btwn 15th and 16th Sts;Chelsea;104 8th Ave btwn 15th and 16th Sts
+1365;Swifty's;1007 Lexington Ave btwn 72nd and 73rd...;Upper East Side;1007 Lexington Ave btwn 72nd and 73rd...
+1366;Swizz Restaurant and Wine Bar;310 W 53rd St btwn Eighth and Ninth...;Midtown West;310 W 53rd St
+1367;Symposium;544 W 113th St btwn Amsterdam Ave and...;Upper West Side;544 W 113th St
+1368;Szechuan Gourmet;21 West 39th St btwn Fifth and Sixth Ave;Midtown West;21 W 39th St
+1369;T-Bar Steak and Lounge;;Upper East Side;
+1370;Taam Tov;41 W 47th St btwn Fifth and Sixth Aves;Midtown West;41 W 47th St
+1371;Taboon;773 10th Ave btwn 52nd and 53rd Sts;Midtown West;773 10th Ave btwn 52nd and 53rd Sts
+1372;Taco Taco;;Upper East Side;
+1373;Tagine Dining Gallery;537 Ninth Ave btwn 39th and 40th Sts;Midtown West;537 Ninth Ave btwn 39th and 40th Sts
+1374;Tahini;23 Third Ave at St Marks Pl;East Village;23 3rd Ave
+1375;Tailor;525 Broome St btwn Thompson and...;SoHo;525 Broome St
+1376;Taim;222 Waverly Pl btwn Perry and W 11th Sts;Greenwich Village;222 Waverly Pl
+1377;Takahachi;;East Village;
+1378;Taksim;99 Second Ave btwn 5th and 6th Sts;East Village;6th Ave
+1379;Talia's Steakhouse and Bar;;Upper West Side;
+1380;Tang Pavilion;;Midtown West;
+1381;Tanti Baci Caffe;;Greenwich Village;
+1382;Tao;;Midtown East;
+1383;Taralluccci e Vino;163 First Ave Corner of 10th St;East Village;163 First Ave Corner of 10th St
+1384;Taro Sushi;446 Dean St btwn Fifth and Flatbush...;Park Slope;446 Dean St btwn Fifth and Flatbush...
+1385;Tartine;253 W 11th St at 4th St;Greenwich Village;253 W 11th St at 4th St
+1386;Tasca (CLOSED);130 Seventh Avenue So at W 10th St;Greenwich Village;130 7th Ave S
+1387;Taste;;Upper East Side;
+1388;Tavern on Nostrand;813 Nostrand Ave btwn Union and...;Park Slope;813 Nostrand Ave
+1389;Tavern on the Green;Central Park West at 67th St;Upper West Side;Central Park West & W 67th St
+1390;Tea and Sympathy;108 Greenwich Ave near Jane St;Greenwich Village;108 Greenwich Ave
+1391;Teany;90 Rivington St btwn Ludlow and Orchard...;Lower East Side;90 Rivington St
+1392;Tebaya;;Chelsea;
+1393;Ted's Montana Grill;110 W 51st St btwn Sixth and Seventh...;Midtown West;110 W 51st St
+1394;Telepan;;Upper West Side;
+1395;Tello's;;Chelsea;
+1396;Tempo;;Park Slope;
+1397;Teodora;;Midtown East;
+1398;Terroir;413 E 12th St btwn First Ave and Ave A;East Village;413 E 12th St btwn First Ave and Ave A
+1399;Tet;83 Ave A btwn 5th and 6th Sts;East Village;6th Ave
+1400;Thai on Clinton;;Lower East Side;
+1401;Thalia;828 Eighth Ave at 50th St;Midtown West;308 W 50th St
+1402;The Capital Grille;155 E 42nd St btwn Lexington & 3rd Aves;Midtown East;155 E 42nd St
+1403;The Carlyle Restaurant;35 E 76th St at Madison Ave;Upper East Side;35 E 76th St
+1404;The Charles;234 W 4th St btwn W 10th and Charles Sts;Greenwich Village;234 W 4th St btwn W 10th and Charles Sts
+1405;The E.U.;235 E 4th St near Ave B;East Village;235 E 4th St
+1406;The E.U. (CLOSED);;East Village;
+1407;The Elephant;;East Village;
+1408;The Ethiopian Restaurant;;Upper East Side;
+1409;The Four Seasons;99 E 52nd St btwn Park and Lexington...;Midtown East;99 E 52nd St
+1410;The Great Burrito;405 Amsterdam Ave at 79th St;Upper West Side;405 Amsterdam Ave
+1411;The Green Table;75 Ninth Ave at 15th St;Chelsea;75 9th Ave
+1412;The Little Owl;90 Bedford St at Grove St;Greenwich Village;Apartment Building from the TV Show Friends
+1413;The Mercury Dime;246 E 5th St btwn Cooper Square and...;East Village;200 E 5th St
+1414;The Mermaid Inn;568 Amsterdam Ave btwn 87th and 88th Sts;Upper West Side;568 Amsterdam Ave btwn 87th and 88th Sts
+1415;The Mermaid Inn;568 Amsterdam Ave btwn 87th and 88th Sts;East Village;568 Amsterdam Ave btwn 87th and 88th Sts
+1416;The Modern;;Midtown West;
+1417;The Morgan Dining Room;;Midtown East;
+1418;The New French;;Greenwich Village;
+1419;The Noho Star;;East Village;
+1420;The Oak Room;;Midtown West;
+1421;The Orchard;162 Orchard St at Rivington St;Lower East Side;WASSAIL
+1422;The Organic Grill;123 First Ave btwn St Marks Pl and E...;East Village;123 1st Avenue
+1423;The Palm;;Midtown East;
+1424;The Palm Too;;Midtown East;
+1425;The Palm West Side;;Midtown West;
+1426;The Park;118 10th Ave at 18th St;Chelsea;New York
+1427;The Park Room;;Midtown West;
+1428;The Place;310 W 4th St btwn Bank and W 12th Sts;Greenwich Village;310 West 4th Street
+1429;The Pod Cafe;230 E 51st St btwn 2nd and 3rd Aves;Midtown East;3rd Ave
+1430;The Post House;28 E 63rd St btwn Madison and Park Aves;Upper East Side;28 E 63rd St
+1431;The Prime Grill;60 E 49th St btwn Madison and Park Aves;Midtown East;12 E 49th St
+1432;The Red Cat;227 10th Ave btwn 23rd and 24th Sts;Chelsea;227 10th Ave btwn 23rd and 24th Sts
+1433;The Redhead;349 E 13th St at First Ave;East Village;349 E 13th St
+1434;The Restaurant at The Jumeirah Essex House;160 Central Park South btwn 6th and 7th...;Midtown West;160 Central Park S
+1435;The Russian Tea Room;;Midtown West;
+1436;The Sea Grill;;Midtown West;
+1437;The Sheep Meadow Cafe;;Upper West Side;
+1438;The Smith;55 Third Ave btwn 10th and 11th Sts;East Village;55 Third Ave btwn 10th and 11th Sts
+1439;The Spotted Pig;314 W 11th St at Greenwich St;Greenwich Village;314 W 11th St
+1440;The Stanton Social;;Lower East Side;
+1441;The Sunburnt Cow;137 Ave C btwn 8th and 9th Sts;East Village;9th Ave
+1442;The Tasting Room Wine Bar and Cafe;72 East 1st Street Btwn First and...;East Village;72 E 1st St
+1443;The Twisted Burger (CLOSED);430 E 14th St btwn First Ave and Ave A;East Village;430 E 14th St btwn First Ave and Ave A
+1444;The West Branch;;Upper West Side;
+1445;Thor;107 Rivington St at Essex St;Lower East Side;107 Rivington St
+1446;Three of Cups;;East Village;
+1447;Tia Pol;205 10th Ave btwn 22nd and 23rd Sts;Chelsea;205 10th Ave btwn 22nd and 23rd Sts
+1448;Tides;102 Norfolk St at Delancey St;Lower East Side;The Back Room
+1449;Tiengarden;170 Allen St btwn Rivington and Stanton...;Lower East Side;170 Allen St
+1450;Tisserie;870 7th Ave btwn 55th and 56th Sts;Midtown West;870 7th Ave btwn 55th and 56th Sts
+1451;Tokyo Pop;;Upper West Side;
+1452;Tokyo Pop (CLOSED);;Upper West Side;
+1453;Toledo;6 E 36th St btwn Fifth and Madison Aves;Midtown East;6 E 36th St btwn Fifth and Madison Aves
+1454;Toloache;;Midtown West;
+1455;Tomoe Sushi;172 Thompson St btwn Bleecker and...;Greenwich Village;172 Thompson St
+1456;Tong Thai Brasserie;;East Village;
+1457;Tony's Di Napoli;;Midtown West;
+1458;Tony's Di Napoli;;Upper East Side;
+1459;Tori Shin;;Upper East Side;
+1460;Tout Va Bien;;Midtown West;
+1461;Town;15 W 56th St btwn 5th and 6th Aves;Midtown West;15 W 56th St
+1462;Trata Estiatorio;;Upper East Side;
+1463;Trattoria Dopo Teatro;125 W 44th St btwn Broadway and 6th Ave;Midtown West;125 W 44th St
+1464;Trattoria Spaghetto;;Greenwich Village;
+1465;Trattoria dell'Arte;;Midtown West;
+1466;Tre;173 Ludlow St btwn Stanton and Houston...;Lower East Side;173 Ludlow St btwn Stanton and Houston...
+1467;Tre Dici;;Chelsea;
+1468;Tre Dici Steak;128 W 26th St btwn Sixth and Seventh...;Chelsea;128 W 26th St
+1469;Tree;;East Village;
+1470;Trestle on Tenth;;Chelsea;
+1471;Triangolo;;Upper East Side;
+1472;Trio;167 E 33rd St btwn Lexington and Third...;Midtown East;167 E 33rd St
+1473;Triomphe;;Midtown West;
+1474;Tsampa;;East Village;
+1475;Tse Yang;34 E 51st St btwn Madison and Park Aves;Midtown East;34 E 51st St btwn Madison and Park Aves
+1476;Tsushima;141 E 47th St btwn Lexington and Third...;Midtown East;141 E 47th St
+1477;Tuck Shop;68 E 1st St btwn First and Second Aves;East Village;68 E 1st St btwn First and Second Aves
+1478;Turkuaz (CLOSED);2637 Broadway at 100th St;Upper West Side;2637 Broadway
+1479;Turquoise;;Upper East Side;
+1480;Udon West;;Midtown East;
+1481;Una Pizza Napoletana;;East Village;
+1482;Uncle Jack's Steakhouse;;Midtown West;
+1483;Uncle Nick's;;Chelsea;
+1484;Uncle Nick's Ouzaria;;Midtown West;
+1485;Upstairs at '21';;Midtown West;
+1486;Ushiwakamaru;136 W Houston St btwn MacDougal and...;Greenwich Village;136 W Houston St
+1487;Utsav;;Midtown West;
+1488;Uva;1486 Second Ave at 77th St;Upper East Side;1486 2nd Ave
+1489;Vai Restaurant and Wine Bar;225 W 77 St near Broadway;Upper East Side;225 W 77th St
+1490;Valbella;421 W 13th St btwn Ninth Ave and...;Greenwich Village;421 W 13th St
+1491;Valdino West (CLOSED);;Greenwich Village;
+1492;Vero Midtown;;Midtown East;
+1493;Veselka;;East Village;
+1494;Vespa;1625 Second Ave btwn 84th and 85th Sts;Upper East Side;1625 Second Ave btwn 84th and 85th Sts
+1495;Via dei Mille;;SoHo;
+1496;ViceVersa;;Midtown West;
+1497;Vico;;Upper East Side;
+1498;Villa Berulia;;Midtown East;
+1499;Villa Pazzo;;Greenwich Village;
+1500;Village;;Greenwich Village;
+1501;Village Mingala;;East Village;
+1502;Village Natural;;Greenwich Village;
+1503;Village Yokocho;;East Village;
+1504;Vince and Eddie's;;Upper West Side;
+1505;Vino 313;;Midtown East;
+1506;Virgil's Real BBQ;152 W 44th St btwn Broadway and Sixth...;Midtown West;145 W 44th St
+1507;Vong;200 E 54th St at 3rd Ave;Midtown East;200 E 54th St
+1508;Vynl;1491 Second Ave btwn 77th and 78th Sts;Upper East Side;1491 Second Ave btwn 77th and 78th Sts
+1509;Vynl;1491 Second Ave btwn 77th and 78th Sts;Upper West Side;1491 Second Ave btwn 77th and 78th Sts
+1510;Vynl;1491 Second Ave btwn 77th and 78th Sts;Chelsea;1491 Second Ave btwn 77th and 78th Sts
+1511;Vynl;1491 Second Ave btwn 77th and 78th Sts;Midtown West;1491 Second Ave btwn 77th and 78th Sts
+1512;Waldy's Wood Fired Pizza and Penne;80 6th Ave btwn 27th and 28th Sts;Chelsea;80 6th Ave btwn 27th and 28th Sts
+1513;Wallse;344 W 11th St at Washington St;Greenwich Village;344 W 11th St
+1514;Wasabi Lobby;1584 2nd Ave btwn 82nd and 83rd Sts;Upper East Side;1584 2nd Ave btwn 82nd and 83rd Sts
+1515;Waverly Inn;16 Bank St at Waverly Pl;Greenwich Village;16 Bank St
+1516;Wawa Canteen;;Greenwich Village;
+1517;Wd-50;;Lower East Side;
+1518;Wechsler's;;East Village;
+1519;West Bank Cafe;407 W 42nd St at Ninth Ave;Midtown West;407 W 42nd St
+1520;Westville;;Greenwich Village;
+1521;Westville East;173 Ave A at 11th St;East Village;173 Avenue A
+1522;Whym;;Midtown West;
+1523;Wild Ginger;;Greenwich Village;
+1524;Wilfie and Nell;228 W 4th St btwn W 10th and...;Greenwich Village;228 W 4th St btwn W 10th and...
+1525;Wogie's Bar and Grill;39 Greenwich Ave at Charles St;Greenwich Village;39 Greenwich Ave
+1526;Wollensky's Grill;201 E 49th St at Third Ave;Midtown East;201 E 49th St at Third Ave
+1527;Won Jo;;Midtown West;
+1528;Wondee Siam;792 Ninth Ave btwn 52nd and 53rd Sts;Midtown West;792 Ninth Ave btwn 52nd and 53rd Sts
+1529;Wondee Siam II;813 Ninth Ave btwn 53rd and 54th Sts;Midtown West;54th St
+1530;Woo Chon;8-10 W 36th St btwn Fifth and Sixth Aves;Midtown West;8 W 36th St #10
+1531;Woo Lae Oak;148 Mercer St btwn Prince and Houston St;SoHo;148 Mercer St
+1532;Wu Liang Ye;;Midtown West;
+1533;Wu Liang Ye;;Midtown East;
+1534;Wu Liang Ye;;Upper East Side;
+1535;Xunta;;East Village;
+1536;Yaffa Cafe;;East Village;
+1537;Yakitori Taisho;;East Village;
+1538;Yakitori Torys;;Midtown East;
+1539;Yakitori Totto;;Midtown West;
+1540;Yama;92 W Houston St btwn La Guardia Pl and...;Midtown East;Queens
+1541;Yama;92 W Houston St btwn La Guardia Pl and...;Greenwich Village;Queens
+1542;Yamato;;Park Slope;
+1543;Yerba Buena;23 Avenue A at E 2nd St;East Village;23 Avenue A
+1544;York Grill;;Upper East Side;
+1545;Yuca Bar;111 Ave A at 7th St;East Village;111 Avenue A
+1546;Yuva;230 E 58th St btwn Second and Third Aves;Midtown East;230 E 58th St
+1547;Zarela;953 Second Ave btwn 50th and 51st Sts;Midtown East;953 Second Ave btwn 50th and 51st Sts
+1548;Zen Burger (CLOSED);465 Lexington Ave btwn 45th and 46th Sts;Midtown East;465 Lexington Ave btwn 45th and 46th Sts
+1549;Zen Palate;;Midtown West;
+1550;Zerza;;East Village;
+1551;Zeytin;519 Columbus Ave at 85th St;Upper West Side;519 Columbus Ave
+1552;Zip Burger (CLOSED);300 1/2 E 52nd St at 2nd Ave;Midtown East;300 1/2 E 52nd St
+1553;Zipper Tavern;336 W 37th St btwn 8th and 9th St;Midtown West;336 W 37th St
+1554;Zoe;;SoHo;
+1555;Zoe Townhouse (CLOSED);;Upper East Side;
+1556;Zona Rosa;40 W 56th St btwn Fifth and Sixth Aves;Midtown West;40 W 56th St
+1557;Zona Rosa (CLOSED);;Midtown West;
+1558;Zucchero e Pomodori;;Upper East Side;
+1559;Zucco: Le French Diner;;Lower East Side;
+1560;Zuni;;Midtown West;
+1561;al di la vino;;Park Slope;
+1562;b-bap;830 9th Ave btwn 54th and 55th St;Midtown West;55th St
+1563;bar.vetro;222 E 58th St btwn Second and Third Aves;Midtown East;222 E 58th St
+1564;per se;10 Columbus Circle at 60th St;Midtown West;10 Columbus Cir
