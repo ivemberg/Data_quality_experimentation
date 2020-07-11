@@ -218,7 +218,7 @@ def secondDFgenerator():
 
     df.index = new_index
     
-     # df.to_csv("./data/restaurants_integrated/output_recordlinkage/prova_deduplication_2.csv", header=True, sep=";", decimal=',', float_format='%.3f', index=False)
+    df.to_csv("./data/restaurants_integrated/output_recordlinkage/prova_deduplication_2.csv", header=True, sep=";", decimal=',', float_format='%.3f', index=False)
     return df
 
 """
