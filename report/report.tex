@@ -1,5 +1,7 @@
 \documentclass[a4paper,12pt]{article}
 \usepackage[hidelinks]{hyperref}
+\usepackage[backend=bibtex]{biblatex}
+\addbibresource{biblio.bib}
 \usepackage{float}
 \usepackage{graphicx}
 \usepackage{listings}
@@ -12,6 +14,8 @@
 \usepackage{parskip}
 \usepackage{subfigure}
 \usepackage{amsmath}
+\usepackage{blindtext}
+\usepackage{enumitem}
 
 
 \makeatletter
@@ -118,27 +122,35 @@
 
 La consapevolezza del peso che dati di alta qualità hanno nel supportare decisioni informate e, viceversa, delle conseguenze disastrose cui dati inaccurati possono portare, è cresciuta di pari passo con il diffondersi delle fonti informative a disposizione delle organizzazioni, creando sempre più forte l’esigenza di una gestione adeguata della qualità dei dati aziendali. \\
 La ricerca sulla qualità dei dati è iniziata correttamente negli anni '90 e varie definizioni di ciò sono state definite nel corso degli anni. \\
-Un gruppo di ricerca del MIT, guidato da il professor Wang, ha definito la qualità dei dati come condizione per l'uso e ha proposto il suo giudizio dipende dai suoi consumatori. Allo stesso tempo, hanno definito una "dimensione della qualità dei dati" come un insieme di attributi di qualità dei dati che rappresentano un singolo aspetto o costrutto della qualità dei dati. \\
-Sono necessarie tecniche di misurazione completa per consentire alle organizzazioni di valutare lo stato della loro qualità delle informazioni organizzative e monitorarne il miglioramento. \\
+Un gruppo di ricerca del MIT, guidato dal professor Wang, ha definito la qualità dei dati come condizione per il loro utilizzo e ha proposto il loro giudizio dipendentente dai consumatori finali. Allo stesso tempo, hanno definito una "dimensione della qualità dei dati" come un insieme di attributi che rappresentano un singolo aspetto o costrutto della qualità dei dati. \\
+Sono necessarie tecniche di misurazione completa per consentire alle organizzazioni di valutare lo stato della qualità delle informazioni organizzative e monitorarne il miglioramento. \\
 Ma cosa si intende quando si parla di qualità dei dati e come si misura? \\
-Le best practice in questo ambito suggeriscono l’utilizzo di opportune metriche per la definizione e la misurazione della qualità del dato.
+Le best practice in questo ambito suggeriscono l’utilizzo di opportune metriche per la definizione e la misurazione.
 Tra le metriche più comuni troviamo:
 
 \begin{itemize}
-\item \textbf{completezza}, i dati raccolti bastano per rappresentare l'informazione necessaria; 
-\item \textbf{accuratezza}, la precisone dei dati;
-\item \textbf{tempestività}, i tempi di acquisizione dei dati sono utili per il processo;
-\item \textbf{coerenza}, i dati non sono contradditori tra di loro;
-\item \textbf{univocità}, i dati rappresentativi della stessa informazione presenti in diversi componenti del sistema informativo assumono lo stesso valore;
-\item \textbf{integrità}, i dati presenti nel sistema informativo corrispondono a quelli originariamente immessi;
-\item \textbf{conformità formale}, i dati immessi nel sistema informativo rispettano gli standard formali appositamente definiti.
+\item \textbf{completezza}: i dati raccolti bastano per rappresentare l'informazione necessaria; 
+\item \textbf{accuratezza}: la precisone dei dati;
+\item \textbf{tempestività}: i tempi di acquisizione dei dati sono utili per il processo;
+\item \textbf{coerenza}: i dati non sono contradditori tra di loro;
+\item \textbf{univocità}: i dati rappresentativi della stessa informazione presenti in diversi componenti del sistema informativo assumono lo stesso valore;
+\item \textbf{integrità}: i dati presenti nel sistema informativo corrispondono a quelli originariamente immessi;
+\item \textbf{conformità formale}: i dati immessi nel sistema informativo rispettano gli standard formali appositamente definiti.
 \end{itemize} 
 
-In tempi attuali, è emerso un altro tipo problema: i big data. Analisi e ricerca complete di standard di qualità e metodi di valutazione della qualità per questo tipo di informazioni attualmente manca o non è completa.
+Il punto focale rimane sempre il dominio sul quale si vuole effettuare un processo di miglioramento dei dati. In base alla finalità delle informazioni e alle caratteritiche dei loro consumatori l'attenzione si rivolge ad un sottoinsieme di tale metriche.\\
+In tempi attuali, è emerso un altro tipo problema: i big data. Analisi e ricerca complete di standard di qualità e metodi di valutazione della qualità per questo tipo di informazioni attualmente manca o non è completa. Questo topic pone una serie di nuove sfide, dettate dalle caratteristiche intrinseche dei big data, riassumibili in quelle che sono chiamate "le 5 V":
+\begin{itemize}
+	\item \textbf{Volume}: ingente massa di informazioni, in crescita vertiginosa, che non è possibile raccogliere con tecnologie tradizionali;
+	\item \textbf{Velocity}: i dati nascono e vengono acquisiti sempre più rapidamente, con necessità di analisi in tempo reale;
+	\item \textbf{Variety}: differenti tipologie di dati disponibili, provenienti da un numero crescente di fonti eterogenee;
+	\item \textbf{Veracity}: i dati devono essere affidabili, raccontare il vero;
+	\item \textbf{Value}: abilità di trasformare una grande mole di dati in business.
+\end{itemize}
 
-\subsection{Metodoligia Data Quality}
+\subsection{Metodologia Data Quality}
 
-Il professor Batini definisce la metodologia di qualità dei dati come un insieme di linee guida e tecniche che, a partire dalle informazioni di input che descrivono un determinato contesto applicativo, ne deriva un processo razionale per valutare e migliorare la qualità dei dati. Ci sono tre fasi principali per tale attività:
+Il professor Batini definisce la metodologia di qualità dei dati come un insieme di linee guida e tecniche che, a partire dalle informazioni di input che descrivono un determinato contesto applicativo, ne deriva un processo razionale per valutare e migliorare la qualità dei dati \cite{10.1145/1541880.1541883}. Ci sono tre fasi principali per tale attività:
 \begin{itemize}
 \item \textbf{ricostruzione dello stato}, al fine di ottenere due informazioni contestuali, facoltative se sono già disponibili per l'uso;
 \item \textbf{valutazione e misurazione}, misurazione della qualità lungo dimensioni della qualità pertinenti o valutazione, quando tali misurazioni vengono confrontate con i valori di riferimento;
@@ -158,59 +170,42 @@ Questo processo, chiamato anche normalizzazione, sostituisce per esempio una div
 Gli errori tipografici rendono impossibile confrontare esattamente tra di loro le stinghe.  Per poter fare ciò, quindi, serve una funzione che cerca di trovare un punto di accordo tra i dati. Ci sono stati diversi tentativi di fornire questa funzione:
 
 \begin{itemize}
-\item Jaro ha proposto un comparatore di stringhe che tiene conto di inserimenti, eliminazioni e trasposizioni necessarie per abbinare le due stringhe;
-\item Winkler ha proposto una variante della distanza Jaro (Jaro-Winkler);
+\item Jaro \cite{census/jaro76} nel 1976 ha proposto un comparatore di stringhe che tiene conto di inserimenti, eliminazioni e trasposizioni necessarie per abbinare le due stringhe;
+\item Winkler \cite{winkler90} nel 1990 ha proposto una variante della distanza Jaro (Jaro-Winkler);
 \item la distanza q-gram conta il numero di q caratteri consecutivi che concordano tra due corde;
 \item la distanza di edit classica, che conta il numero di operazioni (inserimenti, eliminazioni, modi cazioni) necessarie per abbinare le due stringhe
 \end{itemize}
 
 \subsection{Record Linkage}
 
-Il record linkage (conosciuto anche come data matching) è l'operazione che consiste nel trovare "records", in dataset che si riferiscono alla stessa entità, presi da differenti risorse (come ad esempio file, libri, siti e database).
-Questa operazione diventa necessaria quando vogliamo unire dei dataset differenti basati su dati simili che potrebbero avere o non avere lo stesso identificativo. //
-L'idea moderna di record linkage nasce alla fine degli anni cinquanta e viene formalizzata qualche tempo dopo da Ivan Fellegi e Alan Sunter che, attraverso il loro lavoro, hanno dimostrato che le regole di decisione probabilistiche sono ottimali quando i dati che vengono confrontati sono condizionatamente indipendenti. //
-A partire dalla fine degli anni novanta, differenti tecniche di machine learning sono state sviluppate per poter capire, con condizioni favorevoli, la probabilità condizionata richiesta dalla teoria Fellegi-Sunter. //
+Il record linkage (conosciuto anche come data matching) è l'operazione che consiste nel trovare "records" che si riferiscono alla stessa entità, in dataset presi da differenti risorse (come ad esempio file, libri, siti e database).
+Questa operazione diventa necessaria quando vogliamo unire dei dataset differenti basati su dati simili che potrebbero avere o non avere lo stesso identificativo. \\
+L'idea moderna di record linkage nasce alla fine degli anni cinquanta e viene formalizzata qualche tempo dopo da Ivan Fellegi e Alan Sunter \cite{fellegi69} che, attraverso il loro lavoro, hanno dimostrato che le regole di decisione probabilistiche sono ottimali quando i dati che vengono confrontati sono condizionatamente indipendenti. \\
+A partire dalla fine degli anni novanta, differenti tecniche di machine learning sono state sviluppate per poter capire, con condizioni favorevoli, la probabilità condizionata richiesta dalla teoria Fellegi-Sunter. \\
 Il record linkage può essere interamente eseguito senza l'aiuto di un computer, ma il motivo principale per cui esso viene utilizzato è perchè si vuole ridurre o eliminare le modifiche "fatte a mano" e per rendere più facile l'ottenimento del risultato. 
 L'utilizzo del computer ha anche il vantaggio di utilizzare un processo di supervisione centrale, miglior qualità di controllo, velocità, consistenza e migliore riproducibilità dei risultati. %presa da wiki, un po da edulcorare :)
 
 \subsection{Metodologie di Record Linkage}
 % descrivo le varie metodologie, alla fine dovremmo dire in base alla libreria che utilizziamo noi quale metodo abbiamo usato
 Il record linkage si divide generalmente nei seguenti step:
-\begin{itemize}
+\begin{enumerate}
 \item vengono dati in input dei dataset;
 \item viene definito uno spazio iniziale di ricerca;
-\item nella fase di "blocking" si cerca di ridurre lo spazio di ricerca;
+\item si cerca di ridurre lo spazio di ricerca tramite un processo di "blocking" ;
 \item viene definito lo spazio ridotto di ricerca;
-\item vengono comporati i dati e viene presa una decisione;
-\item viene definito se esiste un matvh, un possibile match o se i dati non sono collegabili
-\end{itemize}
+\item vengono comparati i dati e viene presa una decisione;
+\item vengono definitie le regole di matching, possibile matching o se i dati non sono collegabili;
+\item secondo le regole definite è generato il dataset di output.
+\end{enumerate}
 %si potrebbe mettere l'immagine a pagina 30 del pdf di batini oppure pagina 36
 
-Data preprocessing %sto modificando da browser, andrebbe messo in grassetto
-\\
-Il record linkage è molto sensibile alla qualità dei dati che devono essere collegati, quindi idealmente prima di svolgere questa operazione ogni dataset deve essere controllato affinche la qualità sia delle migliori. Avvengono delle operazioni di standardizzazione, che consistono nel trasformare i dati o procedure più complesse come ad esempio la tokenizzazione.\\
-
-Entity resolution % stesso commento di sopra
-\\
-L'entity resolution è un processo di operazioni intelligenti che permettono alle organizzazioni di connettere i dati più disparati attraverso la possibilità di capire i matches tra le entità e le relazioni non ovvie fra i diversi dati.\\
-Essa analizza tutte le informazioni collegate ad una entità prese da diverse sorgenti e cerca attraverso un calcolo probabilistico di determinare quali entità sono collegate e quali collegamenti (non ovvi) esistono fra loro.\\
-
-Deterministic record linkage % stesso commento di sopra
-\\
-La metodologia più semplice di record linkage è chiamata "deterministica", essa genera collegamenti basati sul numero di singoli identificatori che hanno una corrispondeza fra i dati dei dataset.\\
-Due record si dicono "collegati" con una procedura di record linkage deterministico se se tutti o alcuni degli identificatori sono identici.\\
-Questo metodo è una buona opzione se si stanno utilizzando dei dataset con delle entità che sono identificate da un id comune.\\
-% io non lo metterei, ma vogliamo citare un esempio?? magari quello di batini
-
-Probabilistic record linkage % stesso commento di sopra
-\\
-Il record linkage probabilistico, chiamato anche fuzzy matching, utilizza un approccio differente per poter collegare i dati. Viene tenuto conto di una gamma più ampia di potenziali identificatori, calcolando i pesi per ciascun identificatore in base alla sua capacità stimata di identificare correttamente una corrispondenza o una non corrispondenza e usando questi pesi per calcolare la probabilità che due dati registrati si riferiscano alla stessa entità.\\
-Le coppie di record con probabilità al di sopra di una determinata soglia sono considerate corrispondenze, viceversa le altre sono considerate non corrispondenze. Le coppie che rientrano tra queste due soglie sono considerate "possibili corrispondenze" e possono essere trattate di conseguenza (ad esempio, revisioni umane, collegate o non collegate, a seconda dei requisiti). Mentre il collegamento deterministico dei record richiede una serie di regole potenzialmente complesse da programmare in anticipo, i metodi probabilistici di collegamento dei record possono essere "addestrati" per funzionare bene con un intervento molto meno umano.\\
-
-Machine learning %stesso commento di sopra
-\\
-Negli ultimi anni, sono state utilizzate varie tecniche di apprendimento automatico nel collegamento discografico. È stato riconosciuto che l'algoritmo classico per il collegamento probabilistico dei record sopra descritto è equivalente all'algoritmo Naive Bayes nel campo dell'apprendimento automatico, e utilizza la stessa assunzione dell'indipendenza delle sue caratteristiche (un presupposto che in genere non è vero). \\
-È possibile ottenere una maggiore precisione utilizzando varie altre tecniche di apprendimento automatico, incluso un percettrone a strato singolo. Insieme alle tecnologie distribuite, l'accuratezza e la scala per il collegamento dei record possono essere ulteriormente migliorate.\\
+\begin{description}[align=left]
+	\item[Data preprocessing] Il record linkage è molto sensibile alla qualità dei dati che devono essere collegati, quindi idealmente prima di svolgere questa operazione ogni dataset deve essere controllato affinche la qualità sia delle migliori. Avvengono delle operazioni di standardizzazione, che consistono nel trasformare i dati o procedure più complesse, come ad esempio la tokenizzazione.
+	\item[Entity resolution] L'entity resolution è un processo di operazioni intelligenti che permettono alle organizzazioni di connettere i dati più disparati attraverso la possibilità di capire i matches tra le entità e le relazioni non ovvie fra i diversi dati.\\Essa analizza tutte le informazioni collegate ad una entità prese da diverse sorgenti e cerca, attraverso un calcolo probabilistico, di determinare quali entità sono collegate e quali collegamenti (non ovvi) esistono fra loro.
+	\item[Deterministic record linkage] La metodologia più semplice di record linkage è chiamata "deterministica".\\Essa genera collegamenti basati sul numero di singoli identificatori che hanno una corrispondenza fra i dati dei dataset.\\Due record si dicono \textit{collegati} con una procedura di record linkage deterministico se se tutti o alcuni degli identificatori sono identici.\\Questo metodo è una buona opzione se si stanno utilizzando dei dataset con delle entità che sono identificate da un id comune.
+	\item[Probabilistic record linkage] Il record linkage probabilistico, chiamato anche \textit{fuzzy matching}, utilizza un approccio differente per poter collegare i dati. Viene tenuto conto di una gamma più ampia di potenziali identificatori, calcolando i pesi per ciascun identificatore in base alla sua capacità stimata di identificare correttamente una corrispondenza o una non corrispondenza. Questi pesi sono dunque usati per calcolare la probabilità che due dati registrati si riferiscano alla stessa entità.\\Le coppie di record con probabilità al di sopra di una determinata soglia sono considerate corrispondenze, viceversa le altre sono considerate non corrispondenze. Le coppie che rientrano tra queste due soglie sono considerate "possibili corrispondenze" e possono essere trattate di conseguenza (ad esempio, revisioni umane, collegate o non collegate, a seconda dei requisiti). Mentre il collegamento deterministico dei record richiede una serie di regole potenzialmente complesse da programmare in anticipo, i metodi probabilistici di collegamento dei record possono essere "addestrati" per funzionare bene con un intervento molto meno umano.
+	\item[Machine learning] Negli ultimi anni, sono state utilizzate varie tecniche di apprendimento automatico per collegamento automatico. È stato riconosciuto che l'algoritmo classico per il collegamento probabilistico dei record sopra descritto è equivalente all'algoritmo Naive Bayes nel campo dell'apprendimento automatico, e utilizza la stessa assunzione dell'indipendenza delle sue caratteristiche (un presupposto che in genere non è vero).\\È possibile ottenere una maggiore precisione utilizzando varie altre tecniche di apprendimento automatico, incluso un percettrone a strato singolo. Insieme alle tecnologie distribuite, l'accuratezza e la scala per il collegamento dei record possono essere ulteriormente migliorate.	
+\end{description}
 
 \subsection{Tools usati}
 
@@ -261,7 +256,14 @@ VillageVoice & 2684 \\ \hline
 \label{tab:my-table}
 \end{table}
 \subsection{Data preprocessing}
-Una prima analisi mostra come le modalità di recupero dei dati da parte dell'autore abbiano generato dei dataset differenti per schema e per frammentazione verticale, anche sulle stesse fonti. Dunque, prima di applicare le tecniche di record linkage, i dati sono stati standardizzati, eseguendo operazioni di riallineamento dello schema, rimozione dei duplicati ed infine join dei dataset per fonte.
+Una prima analisi mostra come le modalità di recupero dei dati da parte dell'autore abbiano generato dei dataset differenti per schema e per frammentazione verticale, anche sulle stesse fonti. Dunque, prima di applicare le tecniche di record linkage, i dati sono stati standardizzati, eseguendo operazioni di riallineamento dello schema, rimozione dei duplicati ed infine join dei dataset per fonte.\\
+In dettaglio le fasi del preprocessing sono state:
+\begin{enumerate}
+	\item \textbf{Separazione e ragruppamento dei dati per fonte}.\\Ciò ha mostrato le differenze sullo schema, utilizzate nelle fasi successive per migliorare il raggruppamento dei dati.
+	\item \textbf{Separazione dei dati per fonte e data}.\\Utilizzando regex ad hoc per ogni fonte i dati sono stati separati per fonte e data, con drop dei duplicati, standardizzazione dell'encoding del testo (da \textit{windows-1252} a \textit{UTF-8}) e formato csv.
+	\item \textbf{Merge dei dataset per fonte}.\\I vari dataset risultanti dalla fase 2 sono stati riuniti per fonte con un join applicato su colonne definite a priori.
+	\item \textbf{Pulizia finale}.\\I dataset dunque sono stati ripuliti utilizzando delle funzioni specifiche per ogni fonte, con il compito di riallineare lo schema, rimuovere duplicati e caratteri superflui dai valori (es spazi e tabulazioni in testa e in coda, caratteri speciali ecc.).  
+\end{enumerate}
 \subsubsection{Risultati}
 %info sui dati puliti
 
@@ -269,4 +271,7 @@ Una prima analisi mostra come le modalità di recupero dei dati da parte dell'au
 
 \subsection{Gold Standard}
 %possiamo vedere il gold standard e confrontarlo con i nostri risultati
+\newpage
+\printbibliography[title=Bibliografia]
+
 \end{document}
