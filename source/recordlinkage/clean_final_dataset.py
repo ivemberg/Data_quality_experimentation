@@ -19,7 +19,13 @@ def fClean(row: pd.Series) -> pd.Series:
     # Neighborhood
     if not row['0_neighborhood']:
         row['0_neighborhood'] = row['1_neighborhood']
-
+    strSpl = row['0_neighborhood'].split(' ')
+    if strSpl:
+        strNb = ""
+        for word in strSpl:
+            strNb += word[:1].upper() + word[1:].lower() + ' '
+        row['0_neighborhood'] = strNb
+    
     # Address
     if not row['0_addressGoogle']:
         row['0_address'] = row['0_addressGoogle']
@@ -43,7 +49,7 @@ def final_clean(dfIn: pd.DataFrame) -> pd.DataFrame:
     df = df.drop(['0_addressGoogle', '0_type_r', '1_restaurant', '1_address',
                   '1_addressGoogle', '1_country', '1_neighborhood', '1_type', '1_type_r'], axis=1)
     df = df.apply(lambda x: x.str.strip() if x.dtype == "object" else x)
-    df.drop_duplicates(inplace=True)
+    df.drop_duplicates(inplace=True)  
     df.rename(columns={'0_restaurant': 'Name',
                        '0_neighborhood': 'Neighborhood',
                        '0_address': 'Address',
@@ -52,12 +58,19 @@ def final_clean(dfIn: pd.DataFrame) -> pd.DataFrame:
                        '0_type': 'Type',
                        '0_cost': 'Cost',
                        '1_phone': 'Phone'}, inplace=True)
+    df.sort_values(by=['Name', 'Neighborhood', 'Address'], inplace=True)
+    df.drop_duplicates(subset=['Name', 'Neighborhood'], inplace=True)
+    df.drop_duplicates(subset=['Name', 'Address'], inplace=True)
     return df
 
 def main():
-    dfToClean = pd.read_csv('./data/restaurants_integrated/output_recordlinkage/final_matches_km_addressGoogle.csv', sep=';')
-    dfCleaned = final_clean(dfToClean)
-    dfCleaned.to_csv('./data/restaurants_integrated/output_recordlinkage/final_matches_cleaned.csv', sep=';', index=None)
+    dfToCleanKm = pd.read_csv('./data/restaurants_integrated/output_recordlinkage/final_matches_km_addressGoogle.csv', sep=';')
+    dfCleanedKm = final_clean(dfToCleanKm)
+    dfCleanedKm.to_csv('./data/restaurants_integrated/output_recordlinkage/final_matches_km_cleaned.csv', sep=';', index=None)
+
+    dfToCleanEcm = pd.read_csv('./data/restaurants_integrated/output_recordlinkage/final_matches_ecm_addressGoogle.csv', sep=';')
+    dfCleanedEcm = final_clean(dfToCleanEcm)
+    dfCleanedEcm.to_csv('./data/restaurants_integrated/output_recordlinkage/final_matches_ecm_cleaned.csv', sep=';', index=None)
 
 if __name__ == '__main__':
     main()
