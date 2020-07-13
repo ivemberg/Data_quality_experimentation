@@ -358,8 +358,43 @@ I passi principali seguiti sono i seguenti:
 \subsection{Gold Standard}
 Il gold standard fornito è un elenco di 467 rimossi da alcuni siti web con l'informazione riguardante il suo stato al momento della verifica (Y = aperto, N = chiuso). 
 % lo mettiamo? 
-\newpage
-\printbibliography[title=Bibliografia]
+
+
+
+\subsection{Google Maps}
+Abbiamo anzitutto dovuto creare una API key per poter dialogare con le Api di google
+\href{https://console.cloud.google.com/google/maps-apis/overview?project=feisty-nectar-281812&folder=&organizationId=}{Api di google}
+
+
+Nella documentazione https://developers.google.com/places/web-service/search abbiamo visto che la funzione 
+Text Search è la funzione di interesse. Molto simile alla funzione di autocompletamento presente su google maps.
+
+Pertanto è stato costruito uno script che fa una GET al seguente indirizzo 
+https://maps.googleapis.com/maps/api/place/textsearch/json 
+
+passando come parametro la stringa address del record del csv. L'output che abbiamo voluto ottenere è un json
+
+% la si può prendere direttamente dal sito di google nella funzione textsearch
+% https://console.cloud.google.com/google/maps-apis/overview?project=feisty-nectar-281812&folder=&organizationId=
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\linewidth]{img/img.png}
+	\caption{\textit{Dati dopo il preprocessing di MenuPages}}
+\end{figure}
+
+il campo d'interesse è formatted\_address. Con un indirizzo potevano comparire più risultati e quindi più formatted\_address, questo è capitato se l'indirizzo era scritto male, o con un contenuto informativo ambiguo. Peranto si è deciso che se il numero di risultati ottenuto era maggiore 5 allora non si è applicata tale trasformazione perchè probabilmente non avrebbe portato dei reali benefici. Diversamente se massimo 5 risultati si è preso solo il primo risultato. 
+
+Nello specifico dato il fatto che tutti i ristoranti sono di manatthan (yep si scrive diversamente) allora sapevamo che ovviamente sono tutti di new york, pertanto vista la formattazione dell'indirizzo che ci ritornava
+abbiamo splittato la stringa recuperando solo la prima parte (la stringa fino alla prima virgola)
+
+es preso dall'immagine
+140 george st, the rocks Nsw 200m, australia
+
+noi abbiamo preso solo 140 george st
+
+In questo modo facendo i confronti il contenuto informativo era maggiore e non degradato da New york, NY che erano dati che sarebbero stati comuni a tutti.
+
+L'operazione è stata gratuita perché il servizio google cede un servizio di prova.
 
 
 % DA FARE:
@@ -368,6 +403,9 @@ Il gold standard fornito è un elenco di 467 rimossi da alcuni siti web con l'in
 
 % come facciamo a dire che siamo soddisfatti dell'integrazione dei DB, || PERCHè SI
 % partiamo dal fatto che rappresenta un caso reale, valutazione empirica.
-% Con ECM probabilà 3 livelli di soglie   || NON HO CAPITO by silvia
+% Con ECM probabilà 3 livelli di soglie,  || NON HO CAPITO by silvia || per ora non serve a un cazzo
+
+\newpage
+\printbibliography[title=Bibliografia]
 
 \end{document}
