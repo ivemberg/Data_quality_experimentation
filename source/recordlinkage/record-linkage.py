@@ -16,6 +16,7 @@ def linkDB(df1, df2, type, classifier) :
 
 	if type=="sortedneighbourhood":
 		indexer.sortedneighbourhood(left_on="0_restaurant", right_on="1_restaurant")
+		# indexer.sortedneighbourhood(left_on="0_addressGoogle", right_on="1_addressGoogle")
 	elif type=="full":
 		indexer.full()
 	elif type=="block":
@@ -26,12 +27,14 @@ def linkDB(df1, df2, type, classifier) :
 
 	# 2 - COMPARISON 
 	comp = recordlinkage.Compare()
-	comp.string('0_restaurant', '1_restaurant', threshold=0.85, label='ristorante')
-	comp.string('0_address', '1_address', threshold=0.85, label='indirizzoOriginale')
+	comp.string('0_restaurant', '1_restaurant', threshold = 0.95, method = 'jarowinkler', label='ristorante')
+	# comp.string('0_address', '1_address', threshold=0.85, label='indirizzoOriginale')
 	comp.string('0_neighborhood', '1_neighborhood', threshold=0.85, label='quartiere')
-	comp.exact('0_addressGoogle', '1_addressGoogle', label = 'indirizzoGoogle')
+	comp.string('0_addressGoogle', '1_addressGoogle',threshold=0.95, label = 'indirizzoGoogle') 
+	# comp.exact('0_addressGoogle', '1_addressGoogle', label = 'indirizzoGoogle') 
 	
 	features = comp.compute(candidate_links, df1, df2)
+	print(len(features))
 
 	# 3 - CLASSIFICATION
 	# https://recordlinkage.readthedocs.io/en/latest/ref-classifiers.html#unsupervised
@@ -39,11 +42,11 @@ def linkDB(df1, df2, type, classifier) :
 	matches = []
 	
 	if classifier == "ecm":
-		ecm = recordlinkage.ECMClassifier()
+		ecm = recordlinkage.ECMClassifier(init='jaro', binarize=None, max_iter=100, atol=0.0001, use_col_names=True)
 		ecm.fit_predict(features, match_index=None) # Train the classifier
 		e_matches = ecm.predict(features)
 		# print(e_matches)
-		# prob_matches = ecm.prob(features)
+		# print(ecm.prob(features))
 		for i, j in e_matches:
 			record_1 = df1.loc[i]
 			record_2 = df2.loc[j]
@@ -54,6 +57,7 @@ def linkDB(df1, df2, type, classifier) :
 		kmeans.fit_predict(features)
 		k_matches = kmeans.predict(features)
 		# print(k_matches)
+		# print(kmeans.prob(features))
 		for i, j in k_matches:
 			record_1 = df1.loc[i]
 			record_2 = df2.loc[j]

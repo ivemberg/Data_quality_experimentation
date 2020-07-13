@@ -3,8 +3,8 @@ Name;Neighborhood;Address;Country;Country code;Type;Cost;Phone
 'Ino;Greenwich Village;21 Bedford St;New York;NY;Italian;$;
 'Inoteca;Lower East Side;98 Rivington St;New York;NY;Italian;$$;
 1 Dominick;Soho;;New York;NY;Italian;;(212-647-0202)
-10 Downing Food and Wine;West Village;;New York;NY;American Creative;;(212-255-0300)
 1492 Food;Lower East Side;;New York;NY;Spanish;;(646-654-1114)
+2 Rivers Bar and ReStaurant;;10 Murray St;New York;NY;American;;
 2 West;Financial District;;New York;NY;American \ Steakhouses;$$$;(917-790-2525)
 21 Club;Midtown West;21 W 52nd St;New York;NY;American;$$$;
 212 Restaurant & Bar;Upper East Side;;New York;NY;American Creative;;(212-249-6565)
@@ -18,7 +18,6 @@ Name;Neighborhood;Address;Country;Country code;Type;Cost;Phone
 7A;East Village;;New York;NY;American;;(212-673-6583)
 88 Orchard;Lower East Side;;New York;NY;Cafés;;(212-228-8880)
 99 Miles to Philly;East Village;;New York;NY;American;;(212-253-2700)
-A;Harlem;947 Columbus Ave;New York;NY;Caribbean;$;
 A Cafe And Wine Room;Upper West Side;973 Columbus Avenue;New York;NY;French \ Eclectic;$$$;(212-222-2033)
 A Salt & Battery;West Village;;New York;NY;British & Irish;;(212-691-2713)
 A Voce;Gramercy / Flatiron;;New York;NY;Italian;;(212-545-8555)
@@ -63,7 +62,6 @@ Alto;Midtown East;520 Madison Ave;New York;NY;Italian;$$$$$;(212-308-1099)
 Ama;Soho;;New York;NY;Italian;;(212-358-1707)
 Amaranth;Upper East Side;;New York;NY;Mediterranean;;(212-980-6700)
 Amazing 66;Chinatown;66 Mott Street;New York;NY;Chinese;$$;
-Ambassador Grill and Lounge;Midtown East;1 United Nations Plaza;New York;NY;International;$$$;
 Amber;Upper East Side;1406 Third Ave-at 80th St;New York;NY;Japanese;;(212-249-5020)
 American Grill;East Village;;New York;NY;;;
 Amma;Midtown East;246 E 51st St;New York;NY;Indian;$$$$;(212-644-8330)
@@ -86,13 +84,10 @@ Aquavit;Midtown West;65 East 55th Street;New York;NY;Scandinavian \ Eclectic;$$$
 Arabelle;Upper East Side;;New York;NY;American Creative;;(212-606-4647)
 Arium;Meatpacking District;;New York;NY;Cafés & diners;;(212-463-8630)
 Ariyoshi;East Village;806 Broadway btwn 11th and 12th Sts;New York;NY;Japanese;;(212-388-1884)
-Aroma Kitchen and Winebar;East Village;36 E 4th St btwn Lafayette and Bowery;New York;NY;Italian;;(212-375-0100)
 Arqua;Tribeca;;New York;NY;Italian;;(212-334-1888)
 Arte;Greenwich Village;21 E 9th St btwn Fifth Ave and...;New York;NY;;;
 Arte Café;Upper West Side;106 W 73rd St;New York;NY;Italian;$$;
 Artichoke Basille's Pizza & Brewery;East Village;328 E 14th St;New York;NY;Pizza \ Italian;$$;(212-228-2004)
-Artichoke Basille's Pizza and Brewery;East Village;;New York;NY;Italian;;(212-228-2004)
-Arturo's Restaurants;Greenwich Village;106 W Houston St;New York;NY;Italian;$;
 Asia De Cuba;Murray Hill;237 Madison Ave;New York;NY;Asian;$$$$;
 Asiakan;Upper West Side;710 Amsterdam Ave.;New York;NY;Pan-Asian \ Asian: Pan-Asian;$;(212-280-8878)
 Asiate;Midtown West;;New York;NY;Asian: Pan-Asian;;(212-805-8881)
@@ -106,7 +101,6 @@ August;Greenwich Village;359 Bleecker St btwn Charles and W 10th...;New York;NY;
 August;West Village;359 Bleecker St;New York;NY;European \ Eclectic;$$$;(212-929-4774)
 Aureole;Upper East Side;;New York;NY;American Creative;;(212-319-1660)
 Aurora;Soho;510 Broome St btwn Thompson St and West...;New York;NY;Italian;;(212-334-9020)
-Aurora Soho;Soho;;New York;NY;Italian;;(212-334-9020)
 Avenue A Sushi;East Village;;New York;NY;Japanese;;(212-982-8109)
 Avon Bistro;Midtown East;;New York;NY;Eclectic;;(212-752-9587)
 Avra;Midtown East;;New York;NY;Greek;;(212-759-8550)
@@ -118,7 +112,6 @@ Azalea;Midtown West;;New York;NY;Italian;;(212-262-0105)
 Azucar;Midtown West;939 Eighth Avenue;New York;NY;Cuban \ Caribbean: Cuban;$$;(212-262-5354)
 Azul Argentine Bistro;Lower East Side;152 Stanton St at Suffolk St;New York;NY;Argentine;;(646-602-2004)
 Azul Bistro;Lower East Side;152 Stanton St at Suffolk St;New York;NY;;;
-Azuri Cafe;Midtown West;465 W 51st St;New York;NY;Jewish;$;
 B. Cafe;Upper East Side;;New York;NY;Belgian;;(212-249-3300)
 B. Smith's Restaurant Row;Midtown West;320 West 46th St;New York;NY;Southern;$$$;
 BB Sandwich Bar;Greenwich Village;;New York;NY;American;;(212-473-7500)
@@ -166,7 +159,6 @@ Barbounia;Flatiron;250 Park Ave South;New York;NY;Mediterranean;$$$$;(212-995-02
 Barbounia;Gramercy / Flatiron;;New York;NY;Mediterranean;;(212-995-0242)
 Barbuto;Meatpacking District;;New York;NY;Italian;;(212-924-9700)
 Barcibo Enoteca;Upper West Side;;New York;NY;Italian;;(212-595-2805)
-Barmarche;Nolita;14 Spring St;New York;NY;American;$$;
 Barney Greengrass;Upper West Side;541 Amsterdam Ave;New York;NY;Deli \ American;$;(212-724-4707)
 Barolo;Soho;;New York;NY;Italian;;(212-226-1102)
 Basta Pasta;Chelsea;;New York;NY;Italian;;(212-366-0888)
@@ -233,7 +225,6 @@ Bobo;West Village;;New York;NY;Eclectic;;(212-488-2626)
 Boca Chica;East Village;13 First Avenue;New York;NY;South American \ Latin American;$;(212-473-0108)
 Bocca di Bacco;Midtown West;;New York;NY;Italian;;(212-265-8828)
 Boi;Midtown East;246 East 44th Street;New York;NY;Vietnamese;$$;(212-681-6541)
-Boi To Go;Midtown East;800 Second Ave;New York;NY;Vietnamese;$$;
 Boka;East Village;;New York;NY;Korean;;(212-228-2887)
 Bolo;Flatiron;23 E 22nd St;New York;NY;Spanish;$$$$;
 Bombay Frankie;Upper West Side;994 Amsterdam Ave btwn 109th and 110th...;New York;NY;Indian;;(212-666-1500)
@@ -260,7 +251,6 @@ Brasserie 360;Upper East Side;;New York;NY;French;;(212-688-8688)
 Brasserie 44;Midtown West;;New York;NY;American;;(212-944-8844)
 Brasserie 52;Midtown West;772 Ninth Ave btwn 51st and 52nd Sts;New York;NY;French;;(212-586-5005)
 Brasserie 8 1/2;Midtown West;9 W 57th St;New York;NY;French;$$$$;(212-829-0812)
-Brasserie AthenÃ©e;Midtown West;;New York;NY;French;;(212-399-1100)
 Brasserie Cognac;Midtown West;;New York;NY;French;;(212-757-3600)
 Brasserie Julien;Upper East Side;1422 3rd Ave (Between 80th & 81st Streets);New York;NY;French;$$;(212-744-6327)
 Brasserie Ruhlmann;Midtown West;;New York;NY;French;;(212-974-2020)
@@ -336,7 +326,6 @@ Caffe Emilia;East Village;;New York;NY;Italian;;(212-388-1234)
 Caffe Falai;Soho;265 Lafayette St at Prince St;New York;NY;Cafés & diners;;(917-338-6207)
 Café Boulud;Upper East Side;20 East 76th St;New York;NY;French;$$$$;(212-772-2600)
 Café Condesa;West Village;;New York;NY;American Creative;;(212-352-0050)
-Café Deville;East Village;;New York;NY;French;;(212-477-4500)
 Café Grumpy;Chelsea;;New York;NY;Cafés & diners;;(212-255-5511)
 Café Loup;West Village;;New York;NY;;;
 Café Luxembourg;Upper West Side;;New York;NY;French;;(212-873-7411)
@@ -359,11 +348,9 @@ Canyon Road;Upper East Side;1470 First Avenue;New York;NY;Southwestern \ America
 Capital Grille;Midtown East;155 E 42nd St;New York;NY;Steakhouse \ Steakhouses;$$$$;(212-953-2000)
 Capsouto Frères;Tribeca;;New York;NY;French;;(212-966-4900)
 Caracas Arepa Bar;East Village;91 East 7th St;New York;NY;South American \ Latin American: Venezuelan;$;(212-228-5062)
-Caravan of Dreams;East Village;;New York;NY;Vegetarian & Organic;;(212-254-1613)
 Carbone;Midtown West;331 W 38th St btwn Eight and Ninth Aves;New York;NY;Italian;;(212-290-2625)
 Carne Vale;East Village;;New York;NY;Brazilian;;(212-777-4686)
 Carnegie Deli;Midtown West;854 7th Ave;New York;NY;Deli \ American;$;(212-757-2245)
-Carnegie John's;Midtown West;;New York;NY;Eclectic;;
 Casa;Greenwich Village;72 Bedford St at Commerce St;New York;NY;Brazilian;;(212-366-9410)
 Casa;West Village;72 Bedford St;New York;NY;South American \ Brazilian;$$;(212-366-9410)
 Casa Adela;East Village;;New York;NY;Caribbean: Puerto Rican;;(212-473-1882)
@@ -389,7 +376,6 @@ Chai Home Kitchen;Midtown West;;New York;NY;Asian: Pan-Asian;;(212-707-8778)
 Chanterelle;Tribeca;;New York;NY;French;;(212-966-6960)
 Charles's Southern-Style Kitchen;Harlem;;New York;NY;;;
 Charlie Palmer's Metrazur;Midtown East;East Balcony #4, 404 Grand Central Terminal, 42nd Street;New York;NY;American;$$$;
-Chat 'n Chew;Union Square;10 E 16th St;New York;NY;American;$;
 Chat 'n' Chew;Union Square;10 E 16th St;New York;NY;American;$;
 Chat Noir;Upper East Side;;New York;NY;French;;(212-794-2428)
 Chennai Garden;Gramercy Park;129 E 27 St;New York;NY;Indian;$;(212-689-1999)
@@ -417,7 +403,6 @@ Chow Bar;Greenwich Village;230 W 4th St at 10th St;New York;NY;Asian: Pan-Asian;
 Chow Bar;West Village;230 W Fourth St;New York;NY;Asian \ Asian: Pan-Asian;$$;(212-633-2212)
 Churrascaria Plataforma;Midtown West;;New York;NY;South American \ Brazilian;$$$;(212-245-0505)
 Churrascaria Tribeca;Tribeca;;New York;NY;Brazilian;;(212-925-6969)
-Ciaobella;Upper East Side;;New York;NY;Italian;;(212-794-8560)
 Cibo;Midtown East;767 Second Avenue;New York;NY;American;$$$;
 Cilantro;Upper West Side;1712 2nd Ave;New York;NY;Southwestern \ Mexican;$;(212-712-9090)
 Cinema Cafe On 34th;;505 3rd Ave;New York;NY;;;
@@ -428,7 +413,6 @@ Citrus Bar and Grill;Upper West Side;320 Amsterdam Ave;New York;NY;Asian \ Eclec
 City Bakery;Flatiron;3 W 18th St;New York;NY;American \ Cafés & diners;$;(212-366-1414)
 City Burger;Midtown West;1410 Broadway;New York;NY;American;$$;(212-997-7770)
 City Crab & Seafood Company;Gramercy / Flatiron;;New York;NY;Seafood;;(212-529-3800)
-City Girl Café;Soho;;New York;NY;Cafés & diners;;(212-343-0110)
 City Hall;Tribeca;131 Duane St;New York;NY;Seafood \ American;$$$;(212-227-7777)
 City Lobster and Crab Company;Midtown West;;New York;NY;Seafood;;(212-354-1717)
 Clubhouse Cafe;Midtown West;155 West 46th St btwn 6th and 7th Aves;New York;NY;Kosher;;(212-354-3838)
@@ -454,7 +438,6 @@ Cosette;Midtown East;163 E 33rd St btwn Lexington and Third...;New York;NY;Frenc
 Cosette;Murray Hill;163 E 33rd St;New York;NY;French;$$;(212-889-5489)
 Counter;East Village;105 First Ave;New York;NY;Vegetarian \ Vegetarian & Organic;$$;(212-982-5870)
 Country;Gramercy / Flatiron;;New York;NY;American Creative;;(212-889-7100)
-Country Cafe;Soho;69 Thompson St btwn Broome and Spring...;New York;NY;French;;(212-966-5417)
 Country Café;Soho;;New York;NY;French;;(212-966-5417)
 Cowgirl;Greenwich Village;519 Hudson St at 10th St;New York;NY;American Regional;;(212-633-1133)
 Cowgirl;West Village;519 Hudson Street;New York;NY;Southwestern \ American Regional;$;(212-633-1133)
@@ -515,7 +498,6 @@ Devi;Flatiron;8 E 18th St;New York;NY;Indian;$$$$;
 Diablo Royale;Greenwich Village;189 W 10th Street btwn W 4th and...;New York;NY;Mexican;;(212-620-0223)
 Diablo Royale;West Village;;New York;NY;Mexican;;(212-620-0223)
 Dim Sum Go Go;Chinatown;5 E Broadway;New York;NY;Chinese;$;(212-732-0797)
-Dinosaur Bar-B-Que;Harlem;646 W 131st St;New York;NY;American \ Barbeque;$;(212-694-1777)
 Dirt Candy;East Village;;New York;NY;Vegetarian & Organic;;(212-228-7732)
 Dirty Bird to Go;Chelsea;204 W 14th St btwn Seventh and Eighth...;New York;NY;American Regional;;(212-620-4836)
 District;Midtown West;;New York;NY;American;;(212-485-2999)
@@ -548,7 +530,6 @@ Duane Park Cafe;Tribeca;157 Duane St;New York;NY;American;$$$;
 Ducale;Upper West Side;392 Columbus Ave at 79th St;New York;NY;Italian;;(212-787-7150)
 Dumpling Man;East Village;;New York;NY;Asian: Pan-Asian;;(212-505-2121)
 Dylan Prime;Tribeca;;New York;NY;Steakhouses;;(212-334-4783)
-Dylan's Candy Bar;Upper East Side;;New York;NY;Food or Beverage Shop;;(646-735-0078)
 E.A.T.;Upper East Side;1064 Madison Avenue;New York;NY;American;$$;
 EN Japanese Brasserie;Greenwich Village;435 Hudson St at Leroy St;New York;NY;Japanese;;(212-647-9196)
 EN Japanese Brasserie;West Village;;New York;NY;Japanese;;(212-647-9196)
@@ -564,7 +545,6 @@ El Centro;Midtown West;;New York;NY;Mexican;;(646-763-6585)
 El Charro Espanol;Greenwich Village;4 Charles St;New York;NY;Spanish;$$$;
 El Cocotero;Chelsea;;New York;NY;Latin American: Venezuelan;;(212-206-8930)
 El Faro;West Village;823 Greenwich St;New York;NY;Spanish;$$;(212-929-8210)
-El Maguey y La Tuna;Lower East Side;;New York;NY;Mexican;;(212-473-3744)
 El Parador Cafe;Midtown East;;New York;NY;Mexican;;(212-679-6812)
 El Parador Cafe;Murray Hill;325 E 34th St;New York;NY;Mexican;$$;(212-679-6812)
 El Paso;Greenwich Village;134 W Houston St btwn MacDougal and...;New York;NY;Mexican;;(212-673-0828)
@@ -581,7 +561,6 @@ Elettaria;Greenwich Village;33 W 8th St at MacDougal St;New York;NY;Eclectic;;(2
 Eleven Madison Park;Gramercy / Flatiron;;New York;NY;American Creative;;(212-889-0905)
 Eleven Madison Park;Gramercy Park;11 Madison Ave;New York;NY;American \ American Creative;$$$$$;(212-889-0905)
 Elmo;Chelsea;156 Seventh Ave;New York;NY;American;$$;(212-337-8000)
-Elvie's Turo-Turo;East Village;;New York;NY;Asian: Filipino;;(212-473-7785)
 Elyssa Dido;Lower East Side;85 Orchard St at Broome St;New York;NY;Middle Eastern;;(212-991-9880)
 Empanada Mama;Midtown West;;New York;NY;Latin American;;(212-698-9008)
 Empire Diner;Chelsea;;New York;NY;Cafés & diners;;(212-243-2736)
@@ -626,7 +605,6 @@ First Hungarian Literary Society;Upper East Side;;New York;NY;Eastern European;;
 Fish;Greenwich Village;280 Bleecker St;New York;NY;Seafood;$$;(212-727-2879)
 Fish;West Village;;New York;NY;Seafood;;(212-727-2879)
 Fishtail by David Burke;Upper East Side;;New York;NY;American Creative;;(212-754-1300)
-Fitzer's;Midtown East;;New York;NY;British & Irish;;(212-355-0100)
 Five Points;East Village;;New York;NY;American;;(212-253-5700)
 Five Points;Nolita;31 Great Jones Street;New York;NY;American;$$$;(212-253-5700)
 Fives;Midtown East;;New York;NY;American Creative;;(212-903-3918)
@@ -644,7 +622,6 @@ Francisco's Centro Vasco;Chelsea;;New York;NY;Seafood;;(212-645-6224)
 Frank;East Village;;New York;NY;Italian;;(212-420-0202)
 Frank Restaurant;East Village;88 Second Ave;New York;NY;Italian;$;(212-420-0202)
 Frankie & Johnnie's Steakhouse;Midtown West;32 W 37th St;New York;NY;Steakhouse;$$$;
-Frankie and Johnnie's Steakhouse;Midtown West;;New York;NY;Steakhouses;;(212-997-9494)
 Frankies Spuntino 17 Clinton Street;Lower East Side;;New York;NY;Italian;;(212-253-2303)
 Frederick's Madison;Upper East Side;768 Madison Ave;New York;NY;Mediterranean;$$$$;
 FreeFoods NYC;Midtown West;;New York;NY;Cafés & diners;;(212-249-4529)
@@ -652,14 +629,11 @@ Freemans;Lower East Side;Freeman Alley;New York;NY;American;$$;(212-420-0012)
 French Roast;Greenwich Village;2340 Broadway at 85th St;New York;NY;Cafés;;(212-799-1533)
 French Roast;Upper West Side;2340 Broadway;New York;NY;Breakfast \ Cafés;$;(212-799-1533)
 Fresco by Scotto;Midtown East;34 E 52nd St;New York;NY;Italian;$$$;(212-935-3434)
-Fresco on the Go;Midtown East;;New York;NY;Italian;;(212-754-2700)
 Fresh;Tribeca;105 Reade St;New York;NY;Seafood;$$$;(212-406-1900)
 Friend House 2;East Village;;New York;NY;Thai;;(212-614-8814)
-Friend Of a Farmer;Gramercy Park;77 Irving Pl;New York;NY;American;$;(212-477-2188)
 Fulton;Upper East Side;;New York;NY;Seafood;;(212-288-6600)
 Funayama;West Village;;New York;NY;Japanese;;(212-989-2500)
 Gabriela's;Upper West Side;688 Columbus Avenue;New York;NY;Mexican;$$;
-Gabriela’s Restaurante and Tequila Bar;Upper West Side;;New York;NY;Mexican;;(212-961-9600)
 Gaby;Midtown West;;New York;NY;French;;(212-782-3040)
 Galanga;Greenwich Village;;New York;NY;Thai;;(212-228-4267)
 Gallagher's Steakhouse;Midtown West;228 W 52nd St;New York;NY;Steakhouse \ Steakhouses;$$$$;(212-245-5336)
@@ -672,7 +646,6 @@ Gazala's Place;Midtown West;709 Ninth Ave at 49th St;New York;NY;Middle Eastern;
 Geisha;Upper East Side;33 E 61st St;New York;NY;Japanese \ Asian: Pan-Asian;$$$$;(212-813-1112)
 Gemma;East Village;;New York;NY;Italian;;(212-505-9100)
 Gennaro;Upper West Side;665 Amsterdam Ave;New York;NY;Italian;$$;(212-665-5348)
-George O'Neill's;Midtown East;;New York;NY;Steakhouses;;(212-888-1220)
 Georgia's Eastside BBQ;Lower East Side;;New York;NY;Barbeque;;(212-253-6280)
 Ghenet Restaurant;Nolita;284 Mulberry St;New York;NY;African;$;
 Giano;East Village;;New York;NY;Italian;;(212-673-7200)
@@ -685,7 +658,6 @@ Girasole;Upper East Side;;New York;NY;Italian;;(212-772-6690)
 Gnocco Cucina and Tradizione;East Village;337 E 10th St-between Aves A and B;New York;NY;Italian;;(212-677-1913)
 Gobo;Upper East Side;;New York;NY;Vegetarian & Organic;;(212-288-4686)
 Golden Unicorn;;18 E Broadway;New York;NY;;;
-Gonzalez Y Gonzalez;Soho;625 Broadway;New York;NY;Mexican;$$$;
 Gonzo;West Village;;New York;NY;Italian;;(212-645-4606)
 Good;West Village;89 Greenwich St;New York;NY;American;$$;(212-691-8080)
 Good Enough to Eat;Upper West Side;483 West Amsterdam Avenue;New York;NY;American;$;(212-496-0163)
@@ -703,8 +675,6 @@ Gramercy Tavern;Union Square;42 E 20th St;New York;NY;American \ American Creati
 Grano Trattoria;Greenwich Village;21 Greenwich Ave at 10th St;New York;NY;Italian;;(212-645-2121)
 Grano Trattoria;West Village;;New York;NY;Italian;;(212-645-2121)
 Gray's Papaya;Hell's Kitchen;539 8th Avenue;New York;NY;Fast Food;$;
-Great Jones Cafe;East Village;;New York;NY;American Regional;;(212-674-9304)
-Great Jones Cafe;Nolita;54 Great Jones St;New York;NY;Southern \ American Regional;$;(212-674-9304)
 Great N.Y. Noodle Town;Chinatown;28 Bowery;New York;NY;Chinese;$;
 Greenwich Grill;Tribeca;;New York;NY;Eclectic;;(212-274-0428)
 Grom;Upper West Side;;New York;NY;Italian;;(646-290-7233)
@@ -712,7 +682,6 @@ Grotto;Lower East Side;;New York;NY;Italian;;(212-625-3444)
 Guantanamera;Midtown West;;New York;NY;Latin American;;(212-262-5354)
 Gusto Ristorante e Bar Americano;West Village;;New York;NY;Italian;;(212-924-8000)
 Gyu-Kaku;East Village;;New York;NY;Japanese;;(212-475-2989)
-Gyu-kaku;Midtown East;;New York;NY;Japanese;;(212-702-8816)
 HQ;;90 Thompson St;New York;NY;;;
 Hacienda de Argentina;Upper East Side;;New York;NY;Argentine;;(212-472-5300)
 Hakata Tonton;West Village;;New York;NY;Japanese;;(212-242-3699)
@@ -725,7 +694,6 @@ Haru;Upper East Side;433 Amsterdam Ave;New York;NY;Japanese;$$;(212-452-2230)
 Hasaki;East Village;210 E Ninth St;New York;NY;Sushi \ Japanese;$$;(212-473-3327)
 Hatsuhana;Midtown East;237 Park Ave;New York;NY;Sushi \ Japanese;$$$$;(212-355-3345)
 Hatsuhana Park;Midtown East;237 Park Ave at 46th St;New York;NY;;;
-Havana Alma de Cuba;West Village;94 Christopher St;New York;NY;Cuban;$$;
 Havana Central;Midtown West;151 W 46th Street;New York;NY;Cuban \ Caribbean: Cuban;$$;(212-398-7440)
 Haveli;East Village;100 Second Ave;New York;NY;Indian;$$;(212-982-0533)
 Hawaiian Tropic Zone;Midtown West;;New York;NY;American Creative;;(212-626-7316)
@@ -738,7 +706,6 @@ Hi-Life Restaurant & Lounge;Upper East Side;;New York;NY;American;;(212-628-5433
 Highline;Meatpacking District;835 Washington St;New York;NY;Asian \ Thai;$$;(212-243-3339)
 Hill Country;Chelsea;30 W. 26th St.;New York;NY;Barbecue \ Barbeque;$$;(212-255-4544)
 Hill Country Barbecue;Chelsea;30 W. 26th St.;New York;NY;Barbecue;$$;
-Hiroko's Place;Soho;;New York;NY;;;
 Hispaniola;Harlem;839 W 181st St;New York;NY;Asian \ Caribbean;$$;(212-740-5222)
 Hoi An;Tribeca;;New York;NY;Vietnamese;;(212-233-1339)
 Holy Basil;East Village;;New York;NY;Asian \ Thai;$;(212-460-5557)
@@ -788,7 +755,6 @@ Ippudo NY;East Village;;New York;NY;Japanese;;(212-388-0088)
 Iron Sushi;Upper East Side;355 E 78th St btwn First and Second...;New York;NY;Japanese;;(212-772-7680)
 Isabella's;Upper West Side;359 Columbus Ave;New York;NY;American;$$;
 Island Burger and Shakes;Midtown West;766 9th Ave;New York;NY;American;$;(212-307-7934)
-Island Burgers And Shakes;Midtown West;766 9th Ave;New York;NY;American;$;
 Islero;Midtown East;;New York;NY;Spanish;;(212-752-1414)
 It's a Dominican Thing;Chelsea;144 W 19th St;New York;NY;Caribbean;$;
 Ithaka;Upper East Side;308 E 86th St;New York;NY;Greek;$$$;(212-628-9100)
@@ -816,7 +782,6 @@ Joe's Pizza;Greenwich Village;7 Carmine St;New York;NY;Pizza;$;
 JoeDoe;East Village;45 East 1st St btwn 1st and 2nd Aves;New York;NY;American;;(212-780-0262)
 John's Of 12th Street;East Village;302 E 12th St;New York;NY;Italian;$$;
 Johnny Utah's;;25 W. 51st St.;New York;NY;;;
-Johnny Utah's;Midtown West;;New York;NY;American;;(212-265-8824)
 Jojo;Upper East Side;160 E 64th St btwn Lexington and 3rd...;New York;NY;;;
 Josephina;Upper West Side;;New York;NY;American;;(212-799-1000)
 Josie's;Upper West Side;300 Amsterdam Avenue;New York;NY;International;$$;
@@ -849,7 +814,6 @@ Kión;East Village;;New York;NY;Eclectic;;(212-529-5200)
 Klee Brasserie;Chelsea;200 9th Avenue;New York;NY;American \ Eclectic;$$$;(212-633-8033)
 Klong;East Village;7 St Marks Pl;New York;NY;Asian \ Thai;$;(212-505-9955)
 Knickerbocker Bar & Grill;Greenwich Village;33 University Pl;New York;NY;American;$$$;
-Knife + Fork;East Village;;New York;NY;Eclectic;;(212-228-4885)
 Ko Sushi;Upper East Side;;New York;NY;Japanese;;(212-439-1678)
 Kobe Club;Midtown West;;New York;NY;Steakhouses;;(212-644-5623)
 Kobma Thai;West Village;;New York;NY;Japanese;;(212-645-8622)
@@ -863,7 +827,6 @@ Kuma Inn;Lower East Side;113 Ludlow St;New York;NY;Southeast Asian \ Asian: Pan-
 Kura Sushi;East Village;;New York;NY;Japanese;;(212-979-6646)
 Kuruma Zushi;Midtown East;;New York;NY;Sushi \ Japanese;$$$$$;(212-317-2802)
 Kurve;East Village;;New York;NY;Asian: Pan-Asian;;(212-260-8018)
-Kushi-Q;Midtown East;;New York;NY;Japanese;;(212-682-5814)
 KushiQ;Midtown East;;New York;NY;Japanese;;(212-682-5814)
 Kyma;Midtown West;300 W 46th St;New York;NY;Greek;$$$;
 Kyo Ya;East Village;94 E 7th St;New York;NY;Japanese;$$$$;(212-982-4140)
@@ -882,7 +845,6 @@ La Bottega;Chelsea;;New York;NY;Italian;;(212-243-8400)
 La Carne Grill;Midtown East;;New York;NY;Kosher;;(212-490-7172)
 La Colombe Torrefaction;Tribeca;;New York;NY;Cafés & diners;;(212-343-1515)
 La Fonda Boricua;Upper East Side;;New York;NY;Caribbean: Puerto Rican;;(212-410-7292)
-La Fonda Del Sol;Midtown East;;New York;NY;Spanish;;(212-867-6767)
 La Gioconda;Midtown East;;New York;NY;Italian;;(212-371-3536)
 La Goulue;Upper East Side;746 Madison Ave;New York;NY;French;$$$;(212-988-8169)
 La Grenouille;Midtown East;3 E 52nd St;New York;NY;French;$$$$;(212-752-1495)
@@ -935,7 +897,6 @@ Le Singe Vert;Chelsea;;New York;NY;French;;(212-366-4100)
 Le Souk;East Village;;New York;NY;Moroccan;;(212-777-5454)
 Le Souk;Midtown East;47 Ave B;New York;NY;African \ Moroccan;$$;(212-777-5454)
 Le Tableau (CLOSED);East Village;511 E 5th St btwn Aves A and B;New York;NY;French;;(212-260-1333)
-Le Veau d'Or;Upper East Side;;New York;NY;French;;(212-838-8133)
 Le Zie 2000;Chelsea;172 Seventh Ave;New York;NY;Italian;$$;(212-206-8686)
 Leela Lounge;Greenwich Village;;New York;NY;Indian;;(212-529-2059)
 Les Enfants Terribles;Lower East Side;37 Canal St;New York;NY;African \ African: Pan-African;$$;(212-777-7518)
@@ -951,7 +912,7 @@ Little Giant;Lower East Side;85 Orchard St;New York;NY;American \ Cafés & diner
 Little Owl;West Village;90 Bedford Street;New York;NY;American;$$$;
 Lobster Place;Chelsea;;New York;NY;Seafood;;(212-255-5672)
 Lola;Soho;;New York;NY;French;;(212-675-6700)
-Lombardi's;Nolita;32 Spring St;New York;NY;Pizza \ Italian: Pizza;$;(212-941-7994)
+Lombardi's;Nolita;32 Spring St;New York;NY;Pizza;$;
 Lomito;Soho;300 Spring St;New York;NY;Argentinean;$$$;
 Londel's Supper Club;Harlem;2620 Frederick Douglas Blvd;New York;NY;Southern;$$;
 Loreley;Lower East Side;7 Rivington St btwn Bowery and Chrystie...;New York;NY;German;;(212-253-7077)
@@ -960,11 +921,8 @@ Los Dados;Meatpacking District;;New York;NY;Mexican;;(646-810-7290)
 Los Dos Molinos;Gramercy Park;119 E 18th St;New York;NY;Southwestern \ American Regional;$$;(212-505-1574)
 Loside;Lower East Side;157 E Houston Street;New York;NY;American;$;
 Lucien;East Village;14 1st Ave;New York;NY;French;$$;(212-260-6481)
-Lucky Cheng's;East Village;;New York;NY;Asian: Pan-Asian;;(212-473-0516)
 Lucky Strike;Soho;;New York;NY;French;;(212-941-0772)
 Lucy Latin Kitchen;Flatiron;35 E 18th St;New York;NY;Nuevo Latino;$$$;
-Lugo Caffe;Midtown West;;New York;NY;Italian;;(212-760-2700)
-Lugo Caffé;Midtown West;;New York;NY;Italian;;(212-760-2700)
 Lumi;Upper East Side;;New York;NY;Italian;;(212-570-2335)
 Lunetta;Gramercy / Flatiron;;New York;NY;Italian;;(212-533-3663)
 Lupa;Greenwich Village;170 Thompson St;New York;NY;Italian;$$$$;(212-982-5089)
@@ -973,7 +931,6 @@ Lusardi's;Upper East Side;1494 Second Ave;New York;NY;Italian;$$$$;
 Luxee;Lower East Side;;New York;NY;Japanese;;(212-375-1796)
 Luzia's;;429 Amsterdam Ave.;New York;NY;;;
 L’Artusi;West Village;;New York;NY;Italian;;(212-255-5757)
-M. Rohrs’ House of Fine Teas and Coffees;Upper East Side;;New York;NY;Cafés & diners;;(212-772-2513)
 Macao Trading Co.;Tribeca;;New York;NY;Eclectic;;(212-431-8750)
 Macelleria;Meatpacking District;48 Gansevoort St;New York;NY;Italian;$$$;(212-741-2555)
 Macondo;Lower East Side;157 E Houston St btwn Eldridge and...;New York;NY;Latin American;;(212-473-9900)
@@ -998,7 +955,6 @@ Mangiami;Lower East Side;;New York;NY;Italian;;(212-477-7047)
 Mangiarini;Upper East Side;;New York;NY;Italian;;(212-734-5500)
 Manhattan Bistro;Soho;;New York;NY;French;;(212-966-3459)
 Mara's Homemade;East Village;342 E Sixth St;New York;NY;Creole-Cajun;$$;
-Maracas Mexican Bar and Grill;Greenwich Village;33 Greenwich Ave btwn Sixth and Seventh...;New York;NY;Mexican;;(212-593-6600)
 Mara’s Homemade;East Village;;New York;NY;American Regional;;(212-598-1110)
 Mare;Chelsea;198 Eighth Ave;New York;NY;Seafood;$$;(212-675-7522)
 Maremma;West Village;228 W 10th St;New York;NY;Italian;$$$;
@@ -1015,7 +971,6 @@ Maroons;Chelsea;244 W 16th St;New York;NY;Southern \ Caribbean: Jamaican;$$;(212
 Marseille;Midtown West;630 Ninth Ave;New York;NY;French;$$$;(212-333-3410)
 Maruzzella;Upper East Side;;New York;NY;Italian;;(212-988-8877)
 Mary's Fish Camp;West Village;64 Charles St;New York;NY;Seafood;$$;
-Mas (Farmhouse);Greenwich Village;39 Downing St;New York;NY;American;$$$$;
 Massimo al Ponte Vecchio;Greenwich Village;;New York;NY;Italian;;(212-228-7701)
 Matador;West Village;;New York;NY;Spanish;;(212-691-0057)
 Matilda;East Village;;New York;NY;Eclectic;;(212-777-3355)
@@ -1068,7 +1023,6 @@ Miyagi;West Village;;New York;NY;Japanese;;(212-620-3830)
 Moda;Midtown West;;New York;NY;Italian;;(212-887-9880)
 Mofongo Depot;Upper West Side;931 Amsterdam Ave;New York;NY;Nuevo Latino \ Caribbean;$$;(646-707-3904)
 Molyvos;Midtown West;871 7th Avenue;New York;NY;Greek;$$$;(212-582-7500)
-Momofuku Bakery and Milk Bar;East Village;;New York;NY;Eclectic;;(212-254-3500)
 Momofuku Ko;East Village;163 First Ave;New York;NY;Chinese \ Japanese;$$$$;(no phone)
 Momofuku Noodle Bar;East Village;171 First Ave.;New York;NY;Chinese \ Japanese;$$$;(212-777-7773)
 Momofuku Ssäm Bar;East Village;207 2nd Ave;New York;NY;Asian \ Korean;$$$;(212-254-3500)
@@ -1100,7 +1054,6 @@ Nanoosh Mediterranean Hummus Bar;Upper West Side;;New York;NY;Middle Eastern;;(2
 Native;Harlem;;New York;NY;Caribbean;;(212-665-2525)
 Natori;East Village;;New York;NY;Japanese;;(212-533-7711)
 Natsumi;Midtown West;226 W 50th St btwn 8th Ave and Broadway;New York;NY;;;
-Naya Mezze and Grill;Midtown East;1057 Second Ave-between 55th and 56th Sts;New York;NY;Middle Eastern;;(212-319-7777)
 Negril Village;Greenwich Village;70 W 3rd St btwn La Guardia Pl and...;New York;NY;Caribbean: Jamaican;;(212-477-2804)
 Nello;Upper East Side;;New York;NY;Italian;;(212-980-9099)
 Nelson Blue;Financial District;233 Front Street;New York;NY;British \ Australian & New Zealand;$$;(212-346-9090)
@@ -1109,7 +1062,6 @@ Neptune Room;Upper West Side;511 Amsterdam Ave;New York;NY;Seafood;$$$$;
 Neptune Room Restaurant & Bait Bar (CLOSED);Upper West Side;511 Amsterdam Ave;New York;NY;Seafood;$$$$;(212-496-4100)
 Nero;Meatpacking District;46 Gansevoort St;New York;NY;Italian;$$$;(212-675-5224)
 New Bo-Ky;Chinatown;80 Bayard St;New York;NY;Asian;$;
-New York Kom Tang Kal Bi House;Midtown West;;New York;NY;Korean;;(212-947-8482)
 New York Noodle Town;Soho;28 Bowery at Bayard Street;New York;NY;Asian \ Chinese;$;(212-349-0923)
 Nha Trang;Chinatown;87 Baxter St;New York;NY;Asian \ Vietnamese;$;(212-233-5948)
 Nice;Chinatown;35 E Broadway;New York;NY;Chinese;$;
@@ -1152,7 +1104,6 @@ Olana;Gramercy / Flatiron;;New York;NY;Eclectic;;(212-725-4900)
 Old Devil Moon;East Village;511 E 12th St;New York;NY;Southern;$;
 Old Devil Moon (CLOSED);East Village;;New York;NY;American Regional;;(212-475-4357)
 Old Homestead;Meatpacking District;56 9th Ave;New York;NY;Steakhouse;$$$$;
-Old Homestead Steak House;Chelsea;;New York;NY;Steakhouses;;(212-242-9040)
 Old San Juan;Midtown West;;New York;NY;Caribbean: Puerto Rican;;(212-262-7013)
 Oliva;Lower East Side;161 East Houston Street;New York;NY;American \ Spanish;$$;(212-228-4143)
 Olympic Pita;Midtown West;;New York;NY;Kosher;;(212-869-7482)
@@ -1221,7 +1172,6 @@ Penang;Upper West Side;;New York;NY;Asian: Malaysian;;(212-585-3838)
 Penelope;Murray Hill;159 Lexington Ave;New York;NY;American \ Cafés;$;(212-481-3800)
 Pepe Giallo;Chelsea;;New York;NY;;;
 Pepe Rosso;Soho;149 Sullivan St;New York;NY;Italian;$;
-Pepe Rosso to Go;Soho;;New York;NY;Italian;;(212-677-4555)
 Pepolino;Tribeca;;New York;NY;Italian;;(212-966-9983)
 Per Lei;Upper East Side;;New York;NY;Italian;;(212-439-9200)
 Pera;Midtown East;303 Madison Avenue;New York;NY;Mediterranean;$$$$;
@@ -1264,7 +1214,6 @@ Pio Pio Salon;Upper West Side;702 Amsterdam at 94th St;New York;NY;Peruvian;;(21
 Piola;East Village;48 E 12th St btwn Broadway and...;New York;NY;Italian;;(212-777-7781)
 Pisticci;Harlem;125 La Salle St;New York;NY;Italian;$;(212-932-3500)
 Pizza Gruppo;East Village;186 Ave B btwn 11th and 12th Sts;New York;NY;Italian: Pizza;;(212-995-2100)
-Planet Thailand 212;Chelsea;;New York;NY;Asian: Pan-Asian;;(212-727-7026)
 Po;Greenwich Village;31 Cornelia St;New York;NY;Italian;$$$;
 Podunk;East Village;;New York;NY;Cafés & diners;;(212-677-7722)
 Pomaire;Midtown West;;New York;NY;Latin American: Chilean;;(212-956-3055)
@@ -1283,8 +1232,6 @@ Prune;East Village;54 E First St;New York;NY;American \ American Creative;$$$;(2
 Public;Nolita;210 Elizabeth St;New York;NY;International \ Eclectic;$$$;(212-343-0918)
 Public House;Midtown East;140 E 41st St btwn Lexington and Third...;New York;NY;American;;(212-682-3710)
 Pukk;East Village;71 First Ave;New York;NY;Thai;$;(212-253-2741)
-Pure Food and Wine;Gramercy / Flatiron;;New York;NY;Vegetarian & Organic;;(212-477-1010)
-Pure Food and Wine;Gramercy Park;54 Irving Pl;New York;NY;Vegetarian \ Vegetarian & Organic;$$$$;(212-477-1010)
 Puttanesca;Midtown West;859 9th Avenue;New York;NY;Italian;$$;(212-581-4177)
 Pylos;East Village;128 E Seventh St;New York;NY;Greek;$$;(212-473-0220)
 Pyramida;Upper East Side;;New York;NY;Middle Eastern;;(212-472-5855)
@@ -1321,8 +1268,6 @@ Resto Leon;East Village;;New York;NY;French;;(212-375-8483)
 Retsina;Midtown East;;New York;NY;Greek;;(212-486-8826)
 Revel;Meatpacking District;10 Little W. 12th Street;New York;NY;International;$$$$;
 Revival;Harlem;2367 Frederick Douglass Blvd;New York;NY;Caribbean \ American;$$;(212-222-8338)
-Rheon Café;Soho;;New York;NY;Cafés & diners;;(212-966-7040)
-Rhong Tiam;Greenwich Village;541 La Guardia Pl-between Bleecker and W 3rd Sts;New York;NY;Thai;;(212-477-0600)
 Ribot;;780 Third Ave;New York;NY;;;
 Rice 'N' Beans;Midtown West;744 9th Ave;New York;NY;South American;$;
 Riingo;Midtown East;;New York;NY;Japanese;$$$$;(212-867-4200)
@@ -1331,7 +1276,6 @@ Risotteria;West Village;;New York;NY;Italian;;(212-924-6664)
 Roberto Passon;Midtown West;741 Ninth Ave;New York;NY;Italian;$$$;(212-582-5599)
 Roc;Tribeca;;New York;NY;Italian;;(212-625-3333)
 Rocco Restaurant;Greenwich Village;181 Thompson St;New York;NY;Italian;$$;
-Rock Center Café;Midtown West;2 W 50th St;New York;NY;American;$$$;(212-332-7620)
 Rocking Horse;Chelsea;182 Eighth Ave;New York;NY;Mexican;$$;
 Rocking Horse Cafe;Chelsea;;New York;NY;Mexican;;(212-463-9511)
 Rolf's;;281 Third Ave.;New York;NY;German;$$;
@@ -1369,7 +1313,6 @@ Sala;Nolita;344 Bowery;New York;NY;Spanish;$$;(212-979-6606)
 Salaam Bombay;Tribeca;;New York;NY;Indian;;(212-226-9400)
 Salmon River;Midtown East;;New York;NY;Seafood;;(212-481-7887)
 Salmon River;Murray Hill;3 East 40th Street;New York;NY;Seafood;$$;(212-481-7887)
-Salsa y Salsa;Chelsea;;New York;NY;Mexican;;(212-929-2678)
 Salt;Soho;58 Macdougal St;New York;NY;American;$$$;(212-674-4968)
 Salt Bar;Lower East Side;29 Clinton St;New York;NY;American;$$$;(212-979-8471)
 Salumeria Rosi;Upper West Side;;New York;NY;Italian;;(212-877-4800)
@@ -1404,7 +1347,6 @@ Schnipper's Quality Kitchen;Midtown West;;New York;NY;American;;(212-921-2400)
 Sea;East Village;75 Second Ave;New York;NY;Asian;$;
 Sea Grill;Midtown West;19 West 49th Street;New York;NY;Seafood;$$$$;
 Seasonal;Midtown West;132 W 58th St btwn 6th & 7th Aves;New York;NY;;;
-Sel et Poivre;Upper East Side;853 Lexington Ave btwn 64th and 65th Sts;New York;NY;French;;(212-517-5780)
 Seoul Station;East Village;81 St Marks Pl btwn 1st and 2nd Aves;New York;NY;Korean;;(212-979-9300)
 Sequoia;Wall Street;Pier 17;New York;NY;Seafood;$$;
 Serafina Fabulous Grill;Upper East Side;29 E 61st St btwn Park and Madison Aves;New York;NY;Italian;;(212-702-9898)
@@ -1454,7 +1396,6 @@ Snack;Soho;;New York;NY;Greek;;(212-925-1040)
 Snack Taverna;West Village;63 Bedford St;New York;NY;Greek;$$;(212-929-3499)
 Soba Totto;Midtown East;;New York;NY;Japanese;;(212-557-8200)
 Soba-Ya;East Village;229 E Ninth St;New York;NY;Asian \ Japanese;$;(212-533-6966)
-SobaKoh;East Village;;New York;NY;Japanese;;(212-254-2244)
 Socarrat Paella Bar;Chelsea;;New York;NY;Spanish;;(212-462-1000)
 Sofrito;Midtown East;;New York;NY;Caribbean: Puerto Rican;;(212-754-5999)
 Solera;Midtown East;216 E 53rd St;New York;NY;Spanish;$$$;(212-644-1166)
@@ -1476,7 +1417,7 @@ Southside Cafe;Theater;252 W 47th Street;New York;NY;Italian;$$;
 Soy;Lower East Side;;New York;NY;Japanese;;(212-253-1158)
 Soy Luck Club;West Village;;New York;NY;Vegetarian & Organic;;(212-229-9191)
 Sparks;Midtown East;;New York;NY;Steakhouses;;(212-687-4855)
-Sparks Steak House;Midtown East;210 E 46th Street;New York;NY;Steakhouse;$$$;
+Sparks Steak House;Midtown East;210 E 46th Street;New York;NY;Steakhouse \ Steakhouses;$$$;(212-687-4855)
 Spice;Greenwich Village;;New York;NY;Thai;;(212-982-3758)
 Spice Cove;East Village;;New York;NY;Indian;;(212-674-8884)
 Spice Market;Meatpacking District;403 W 13th St;New York;NY;Malaysian \ Indian;$$$;(212-675-2322)
@@ -1493,7 +1434,6 @@ Stage Deli;Midtown West;834 Seventh Avenue;New York;NY;Deli \ American;$;(212-24
 Staghorn Steakhouse;Midtown West;;New York;NY;Steakhouses;;(212-239-0923)
 Stand;Greenwich Village;24 E. 12th Street;New York;NY;American;$;(212-488-5900)
 Stanton Social;Lower East Side;99 Stanton St;New York;NY;International;$$$;
-Stella Del Mare;Murray Hill;346 Lexington Avenue;New York;NY;Italian;$$$;
 Stella Maris;Financial District;213 Front St.;New York;NY;European \ French;$$;(212-233-2417)
 Strip House;Greenwich Village;13 E 12th St;New York;NY;Steakhouse \ Steakhouses;$$$;(212-328-0000)
 Suba;Lower East Side;109 Ludlow St;New York;NY;Spanish;$$$;(212-982-5714)
@@ -1528,7 +1468,6 @@ Sylvia’s;Harlem;;New York;NY;American Regional;;(212-996-0660)
 Symposium;Upper West Side;544 W 113th St btwn Amsterdam Ave and...;New York;NY;Greek;;(212-865-1011)
 Szechuan Gourmet;Midtown West;;New York;NY;Chinese;;(212-921-0233)
 T Salon;Chelsea;;New York;NY;Cafés & diners;;(212-243-2259)
-T-Bar Steak and Lounge;Upper East Side;;New York;NY;Steakhouses;;(212-772-0404)
 Taam Tov;Midtown West;;New York;NY;Kosher;;(212-768-8001)
 Tabla;Gramercy / Flatiron;;New York;NY;Indian;;(212-889-0667)
 Tabla;Gramercy Park;11 Madison Ave;New York;NY;Indian;$$$$;(212-889-0667)
@@ -1547,7 +1486,6 @@ Tang Pavilion;Midtown West;65 W 55th St;New York;NY;Chinese;$$;(212-956-6888)
 Tanti Baci Caffe;West Village;;New York;NY;Italian;;(212-647-9651)
 Tao;Midtown East;42 E 58th Street;New York;NY;Asian \ Asian: Pan-Asian;$$$;(212-888-2288)
 Taormina;Little Italy;147 Mulberry St;New York;NY;Italian;$$;
-Tarallucci E Vino;Gramercy / Flatiron;;New York;NY;Cafés;;(212-228-5400)
 Tartine;West Village;253 W 11th St;New York;NY;French;$;(212-229-2611)
 Tasca (CLOSED);Greenwich Village;130 Seventh Avenue So at W 10th St;New York;NY;Spanish;;(212-620-6815)
 Taste;Upper East Side;;New York;NY;American;;(212-717-9798)
@@ -1635,7 +1573,6 @@ Tout Va Bien;Midtown West;;New York;NY;French;;(212-265-0190)
 Town;Midtown West;;New York;NY;American \ American Creative;$$$$;(212-582-4445)
 Trattoria Dell'Arte;Midtown West;900 Seventh Ave;New York;NY;Italian;$$$;
 Trattoria Spaghetto;West Village;;New York;NY;Italian;;(212-255-6752)
-Trattoria dell'Arte;Midtown West;;New York;NY;Italian;;(212-245-9800)
 Tre;Lower East Side;;New York;NY;Italian;;(212-353-3353)
 Tre Dici;Chelsea;;New York;NY;Italian;;(212-243-8183)
 Tree;East Village;;New York;NY;French;;(212-358-7171)
@@ -1677,7 +1614,6 @@ Veritas;Union Square;43 E 20th St;New York;NY;American \ American Creative;$$$$;
 Veselka;East Village;;New York;NY;Eastern European;;(212-228-9682)
 Veselka Restaurant;East Village;144 2nd Ave;New York;NY;American;$;
 Vespa;Upper East Side;;New York;NY;Italian;;(212-472-2050)
-Vespa Cibobouno;Upper East Side;1625 Second Ave;New York;NY;Italian;;(212-472-2050)
 Via Brasil;Midtown West;34 W 46 St;New York;NY;South American;$$;
 ViceVersa;Midtown West;;New York;NY;Italian;;(212-399-9265)
 Viceroy;Chelsea;;New York;NY;;;
@@ -1696,7 +1632,6 @@ Vintage Irving;Union Square;118A E. 15th St.;New York;NY;Small Plates \ Mediterr
 Vong;Midtown East;200 East 54th St;New York;NY;Thai;$$$$;(212-486-9592)
 Vynl;Midtown West;1491 Second Ave btwn 77th and 78th Sts;New York;NY;Eclectic;;(212-974-2003)
 Waikiki Wally's;East Village;101 East 2nd Street;New York;NY;Hawaiian;$$$;
-Waldy's Wood Fired Pizza and Penne;Chelsea;800 6th Ave.;New York;NY;;;
 Walker's;Tribeca;16 N Moore St;New York;NY;American;$;
 Wallse;Greenwich Village;344 W 11th St at Washington St;New York;NY;;;
 Wallse;West Village;344 W 11th St;New York;NY;Austrian;$$$$;
@@ -1719,39 +1654,33 @@ Woo Chon;Midtown West;;New York;NY;Korean;;(212-695-0676)
 Woo Lae Oak;Soho;;New York;NY;Korean;;(212-925-8200)
 Wu Liang Ye;Midtown West;;New York;NY;Chinese;;(212-398-2308)
 Xunta;East Village;174 First Ave;New York;NY;Spanish;$;(212-614-0620)
-Yaffa Cafe;East Village;;New York;NY;American;;(212-674-9302)
 Yakitori Taisho;East Village;;New York;NY;Japanese;;(212-228-5086)
 Yakitori Totto;Midtown West;251 W. 55th St., 2nd fl;New York;NY;Japanese;$$$;(212-245-4555)
 Yatagan Kebab House;West Village;;New York;NY;Middle Eastern;;(212-677-0952)
 Yerba Buena;East Village;23 Avenue A at E 2nd St;New York;NY;Latin American;;(212-529-2919)
 York Grill;Upper East Side;;New York;NY;American;;(212-772-0261)
-You-Chun;Midtown West;;New York;NY;Korean;;(212-239-5000)
 Yozakura Kushiyaki Bar;Lower East Side;168 Ludlow St;New York;NY;Japanese;$;(212-260-2066)
 Yuca Bar;East Village;111 Ave A;New York;NY;Nuevo Latino \ Latin American;$;(212-982-9533)
 Yuca Bar & Restaurant;East Village;111 Ave A;New York;NY;Nuevo Latino;$;
 Yuka;;1557 2nd Ave;New York;NY;;;
 Yuki Sushi;Upper West Side;656 Amsterdam Ave;New York;NY;Sushi;$;
 Yuva;Midtown East;;New York;NY;Indian;;(212-339-0090)
-Zabar's Café;Upper West Side;2245 Broadway;New York;NY;Deli;$;
 Zarela;Midtown East;;New York;NY;Mexican;;(212-644-6740)
 Zebú Grill;Upper East Side;305 E 92nd St;New York;NY;South American \ Brazilian;$$;(212-426-7500)
 Zen Burger (CLOSED);Midtown East;465 Lexington Ave btwn 45th and 46th Sts;New York;NY;American;;(212-661-6080)
 Zen Palate;Midtown West;;New York;NY;Vegetarian & Organic;;(212-582-1276)
-Zereouè Restaurant and Bar;Midtown East;;New York;NY;African: West African;;(212-679-9355)
 Zerza;East Village;304 E Sixth St;New York;NY;Moroccan;$$;
 Zeytin;Upper West Side;519 Columbus Ave;New York;NY;Turkish;$$;(212-579-1145)
 Zoe;Soho;90 Prince St;New York;NY;American;$$$;
 Zoma;Harlem;2084 Frederick Douglass Blvd.;New York;NY;Ethiopian \ African: Ethiopian;$$;(212-662-0620)
 Zona Rosa;Midtown West;;New York;NY;Mexican;;(212-247-2800)
 Zoë;Soho;;New York;NY;American Creative;;(212-966-6722)
-Zucchero e Pomodori;Upper East Side;;New York;NY;Italian;;(212-585-2100)
 Zucco: Le French Diner;Lower East Side;;New York;NY;French;;(212-677-5200)
 Zum Schneider;East Village;107 Ave C;New York;NY;German;$;
 Zuni;Midtown West;;New York;NY;American Regional;;(212-765-7626)
 Zuni;Theater;598 Ninth Ave;New York;NY;American \ American Regional;$$;(212-765-7626)
 Zutto;Tribeca;77 Hudson Street;New York;NY;Sushi;$$;
 bar.vetro;Midtown East;222 E 58th St btwn Second and Third Aves;New York;NY;Italian;;(212-308-0112)
-dell'anima;West Village;;New York;NY;Italian;;(212-366-6633)
 p*ong;Greenwich Village;150 W. 10th Street;New York;NY;Dessert;$$;
 wd-50;Lower East Side;;New York;NY;;;
 wd~50;Lower East Side;;New York;NY;American Creative;;(212-477-2900)
