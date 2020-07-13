@@ -278,6 +278,23 @@ In dettaglio le fasi del preprocessing sono state:
 	\item \textbf{Merge dei dataset per fonte}.\\I vari dataset risultanti dalla fase 2 sono stati riuniti per fonte con un join applicato su colonne definite a priori.
 	\item \textbf{Pulizia finale}.\\I dataset dunque sono stati ripuliti utilizzando delle funzioni specifiche per ogni fonte, con il compito di riallineare lo schema, rimuovere duplicati e caratteri superflui dai valori (es spazi e tabulazioni in testa e in coda, caratteri speciali ecc.).  
 \end{enumerate}
+
+Di seguito mostriamo alcuni risultati ottenuti attraverso il lavoro di preprocessing.\\
+Nel caso di MenuPages, per esempio, inizialmente avevamo i dati in questo formato:\\
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.65\linewidth]{img/original.png}
+\caption{\textit{Dati di partenza di MenuPages}}
+\end{figure}
+
+a seguito del preprocessing invece otteniamo informazioni più chiare, unendo l'informazione sull'indirizzo proveniente da Google come segue:\\
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.65\linewidth]{img/new.png}
+\caption{\textit{Dati dopo il preprocessing di MenuPages}}
+\end{figure}
+
 \subsubsection{Risultati}
 %info sui dati puliti
 
@@ -290,7 +307,6 @@ In dettaglio le fasi del preprocessing sono state:
 
 
 % DA FARE:
-% confronto 10 records txt originale con i records finali
 % inserire e commentare immagine di pipeline di lavoro
 % indirizzi google API, esempio di ciò che viene ritornato e di tutta l'informazine cosa abbiamo mantenuto
 
