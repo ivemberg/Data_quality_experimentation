@@ -120,13 +120,25 @@
 
 \subsection{Data Quality}
 
-La consapevolezza del peso che dati di alta qualità hanno nel supportare decisioni informate e, viceversa, delle conseguenze disastrose cui dati inaccurati possono portare, è cresciuta di pari passo con il diffondersi delle fonti informative a disposizione delle organizzazioni, creando sempre più forte l’esigenza di una gestione adeguata della qualità dei dati aziendali. \\
-La ricerca sulla qualità dei dati è iniziata correttamente negli anni '90 e varie definizioni di ciò sono state definite nel corso degli anni. \\
-Un gruppo di ricerca del MIT, guidato dal professor Wang, ha definito la qualità dei dati come condizione per il loro utilizzo e ha proposto il loro giudizio dipendentente dai consumatori finali. Allo stesso tempo, hanno definito una "dimensione della qualità dei dati" come un insieme di attributi che rappresentano un singolo aspetto o costrutto della qualità dei dati. \\
-Sono necessarie tecniche di misurazione completa per consentire alle organizzazioni di valutare lo stato della qualità delle informazioni organizzative e monitorarne il miglioramento. \\
-Ma cosa si intende quando si parla di qualità dei dati e come si misura? \\
-Le best practice in questo ambito suggeriscono l’utilizzo di opportune metriche per la definizione e la misurazione.
-Tra le metriche più comuni troviamo:
+La consapevolezza del peso che dati di alta qualità hanno nel supportare decisioni informate e, viceversa, delle conseguenze disastrose cui dati inaccurati possono portare, è cresciuta di pari passo con il diffondersi delle fonti informative a disposizione delle organizzazioni, creando sempre più forte l’esigenza di una gestione adeguata della qualità dei dati aziendali. La ricerca sulla qualità dei dati è iniziata correttamente negli anni '90 e varie definizioni di ciò sono state definite nel corso degli anni. \\
+
+\noindent Un gruppo di ricerca del MIT, guidato dal professor Wang, ha definito la qualità dei dati come condizione per il loro utilizzo e ha proposto il loro giudizio dipendentente dai consumatori finali. Allo stesso tempo, hanno definito una "dimensione della qualità dei dati" come un insieme di attributi che rappresentano un singolo aspetto o costrutto della qualità dei dati. \\
+
+\noindent Sono necessarie tecniche di misurazione completa per consentire alle organizzazioni di valutare lo stato della qualità delle informazioni organizzative e monitorarne il miglioramento. \\
+
+\noindent Ma cosa si intende quando si parla di qualità dei dati e come si misura? 
+La qualità dei dati è una caratteristica dei dati che ha a che fare con la loro abilità di soddisfare le esigenze e le aspettative implicite o esplicite dell'utente. 
+
+\noindent Per quanto riguarda la definizione di metrica ci riferiamo alle definizioni all'interno dello standard ISO 9126-1 e framework ISM3:
+\begin{itemize}
+	\item una procedura (o metodo) di misurazione, cioè un algoritmo che prende l'elemento per misurare e lo associa a misura (sia esso valore ordinale o intervallo); 
+	\item una corretta unità di misura (o scala), ovvero di dominio di valori restituiti dalla procedura di misurazione. In generale, è possibile associare diverse metriche a ciascuna dimensione di qualità;
+\end{itemize} 
+
+Questa può essere espressa attraverso molteplici dimensioni
+
+
+\noindent Le best practice in questo ambito suggeriscono l’utilizzo di opportune metriche per la definizione e la misurazione. Tra le metriche più comuni troviamo:
 
 \begin{itemize}
 \item \textbf{completezza}: i dati raccolti bastano per rappresentare l'informazione necessaria; 
@@ -138,7 +150,9 @@ Tra le metriche più comuni troviamo:
 \item \textbf{conformità formale}: i dati immessi nel sistema informativo rispettano gli standard formali appositamente definiti.
 \end{itemize} 
 
-Il punto focale rimane sempre il dominio sul quale si vuole effettuare un processo di miglioramento dei dati. In base alla finalità delle informazioni e alle caratteritiche dei loro consumatori l'attenzione si rivolge ad un sottoinsieme di tale metriche.\\
+\bigskip
+
+\noindent Il punto focale rimane sempre il dominio sul quale si vuole effettuare un processo di miglioramento dei dati. In base alla finalità delle informazioni e alle caratteritiche dei loro consumatori l'attenzione si rivolge ad un sottoinsieme di tale metriche.\\
 In tempi attuali, è emerso un altro tipo problema: i big data. Analisi e ricerca complete di standard di qualità e metodi di valutazione della qualità per questo tipo di informazioni attualmente manca o non è completa. Questo topic pone una serie di nuove sfide, dettate dalle caratteristiche intrinseche dei big data, riassumibili in quelle che sono chiamate "le 5 V":
 \begin{itemize}
 	\item \textbf{Volume}: ingente massa di informazioni, in crescita vertiginosa, che non è possibile raccogliere con tecnologie tradizionali;
@@ -215,7 +229,7 @@ Python Record Linkage Toolkit è una libreria che permette di effettuare record 
 
 \section{Esperimenti}
 \subsection{Dataset}
-Il dataset su cui sono stati effettuati gli esperimenti è un elenchi di ristoranti di Manhattan, estratti settimanalmente da Gennaio a Marzo 2009 da 12 siti web. Le informazioni base presenti in ogni dataset comprendono il nome del ristorante, l'indirizzo e la città.
+Il dataset su cui sono stati effettuati gli esperimenti è un elenco di ristoranti di Manhattan, estratti settimanalmente da Gennaio a Marzo 2009 da 12 siti web. Le informazioni base presenti in ogni dataset comprendono il nome del ristorante, l'indirizzo e la città.
 I dati sono messi a disposizione in sette file di testo, uno per ogni settimana considerata, ciascuno contenente dati appartenenti a tutti i siti web. In totale sono presenti 215555 record, suddivisi come illustrato nella tabella:
 \begin{table}[H] \centering
 \begin{tabular}{|l|l|}
@@ -273,5 +287,15 @@ In dettaglio le fasi del preprocessing sono state:
 %possiamo vedere il gold standard e confrontarlo con i nostri risultati
 \newpage
 \printbibliography[title=Bibliografia]
+
+
+% DA FARE:
+% confronto 10 records txt originale con i records finali
+% inserire e commentare immagine di pipeline di lavoro
+% indirizzi google API, esempio di ciò che viene ritornato e di tutta l'informazine cosa abbiamo mantenuto
+
+% come facciamo a dire che siamo soddisfatti dell'integrazione dei DB,
+% partiamo dal fatto che rappresenta un caso reale, valutazione empirica.
+% Con ECM probabilà 3 livelli di soglie  
 
 \end{document}
