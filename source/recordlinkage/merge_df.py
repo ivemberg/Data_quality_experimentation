@@ -39,8 +39,8 @@ def firstDFgenerator():
     candidate_links = indexer.index(df)
 
     compare_cl = recordlinkage.Compare()
-    compare_cl.string('restaurant', 'restaurant', threshold=0.85, label='ristorante')
-    compare_cl.string('neighborhood', 'neighborhood', threshold=0.85, label='quartiere') 
+    compare_cl.string('restaurant', 'restaurant', threshold=0.95, label='ristorante')
+    compare_cl.string('neighborhood', 'neighborhood', threshold=0.95, label='quartiere') 
 
     features = compare_cl.compute(candidate_links, df)
 
@@ -48,10 +48,10 @@ def firstDFgenerator():
     potential_matches['Score'] = potential_matches.loc[:, ['ristorante','quartiere']].sum(axis=1)
 
     # MATCHES 
-    account_merge = potential_matches.merge(df, left_on="level_0", right_index=True) #, how='outer'
+    account_merge = potential_matches.merge(df, left_on="level_0", right_index=True) 
     final_merge = account_merge.merge(df, left_on="level_1", right_index=True)
-    final_merge.dropna(axis='columns', inplace=True, how = 'all') #rimuovo solo colonne tutte NaN
-    final_merge.drop(columns = ['ristorante', 'quartiere', 'Score'], inplace=True) # so che sono 1 1 2
+    final_merge.dropna(axis='columns', inplace=True, how = 'all') # rimuovo solo colonne tutte NaN
+    final_merge.drop(columns = ['ristorante', 'quartiere', 'Score'], inplace=True) 
     
     final_list = []
     all_indexes = []
@@ -132,7 +132,7 @@ def secondDFgenerator():
     
     df.drop_duplicates(subset =["restaurant"], keep = "first", inplace = True) 
 
-    lenght = df.shape[0] #14555, timeout ha 14007 record
+    lenght = df.shape[0] 
     new_index = []
 
     for i in range(lenght):
@@ -147,21 +147,22 @@ def secondDFgenerator():
     candidate_links = indexer.index(df)
     
     compare_cl = recordlinkage.Compare()
-    compare_cl.string('restaurant', 'restaurant', threshold=0.85, label='ristorante')
-    #compare_cl.string('address', 'address', threshold=0.65, label='indirizzo') 
+    compare_cl.string('restaurant', 'restaurant', label='ristorante')
     compare_cl.exact('addressGoogle', 'addressGoogle', label = 'indirizzo')
 
     features = compare_cl.compute(candidate_links, df)
     
-    potential_matches = features[features.sum(axis=1) > 1].reset_index()
+    potential_matches = features[features.sum(axis=1) > 1.50].reset_index()
     potential_matches['Score'] = potential_matches.loc[:, ['ristorante', 'indirizzo']].sum(axis=1)
     
     # MATCHES 
     account_merge = potential_matches.merge(df, left_on="level_0", right_index=True) #, how='outer'
     final_merge = account_merge.merge(df, left_on="level_1", right_index=True)
     final_merge.dropna(axis='columns', inplace=True, how = 'all') #rimuovo solo colonne tutte NaN
+    final_merge.to_csv('./data/restaurants_integrated/output_recordlinkage/final_merge.csv', header=True, sep=";", decimal=',', float_format='%.3f', index=False)
     final_merge.drop(columns = ['ristorante', 'indirizzo','Score'], inplace=True) # so che sono 1 1 2
     
+
     final_list = []
     all_indexes = []
 
@@ -221,7 +222,7 @@ def secondDFgenerator():
     
     return df
 
-"""
+
 def main():
 
     df1 = firstDFgenerator()
@@ -233,4 +234,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-"""
