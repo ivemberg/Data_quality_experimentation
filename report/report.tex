@@ -229,8 +229,10 @@ Python Record Linkage Toolkit è una libreria che permette di effettuare record 
 
 \section{Esperimenti}
 \subsection{Dataset}
-Il dataset su cui sono stati effettuati gli esperimenti è un elenco di ristoranti di Manhattan, estratti settimanalmente da Gennaio a Marzo 2009 da 12 siti web. Le informazioni base presenti in ogni dataset comprendono il nome del ristorante, l'indirizzo e la città.
-I dati sono messi a disposizione in sette file di testo, uno per ogni settimana considerata, ciascuno contenente dati appartenenti a tutti i siti web. In totale sono presenti 215555 record, suddivisi come illustrato nella tabella:
+Il dataset su cui sono stati effettuati gli esperimenti è un elenco di ristoranti di Manhattan, estratti settimanalmente da Gennaio a Marzo 2009 da 12 siti web. L'unico attributo comune in tutti i dataset è il nome del ristorante, informazioni aggiuntive (come l'indirizzo o il quartiere) non sono presenti in modo uniforme.
+
+\subsection{Analisi dei dati}
+I dati sono messi a disposizione in sette file di testo, uno per ogni settimana considerata, ciascuno contenente informazioni appartenenti a tutti i siti web. In totale sono presenti 215555 record, suddivisi come illustrato nella seguente tabella:
 \begin{table}[H] \centering
 \begin{tabular}{|l|l|}
 \hline
@@ -244,7 +246,6 @@ restaurants\_2009\_2\_26.txt & 30898 \\ \hline
 restaurants\_2009\_3\_12.txt & 30937 \\ \hline
 \end{tabular}
 \caption{Record presenti nei file txt forniti}
-\label{tab:Tab}
 \end{table}
 
 In particolare, per ogni ristorante è presente il seguente numero di record:
@@ -267,27 +268,44 @@ TimeOut & 14007 \\ \hline
 VillageVoice & 2684 \\ \hline
 \end{tabular}
 \caption{Record per ristorante}
-\label{tab:my-table}
 \end{table}
-\subsection{Data preprocessing}
+
+E sono presenti le seguenti informaizoni: %da finire
+\begin{itemize}
+\item \textbf{ActiveDiner}: nome ristorante, indirizzo, paese
+\item \textbf{DiningGuide}
+\item \textbf{FoodBuzz}
+\item \textbf{MenuPages}
+\item \textbf{NewYork}
+\item \textbf{NYMag}
+\item \textbf{NYTimes}
+\item \textbf{OpenTable}
+\item \textbf{SavoryCities}
+\item \textbf{TasteSpace}
+\item \textbf{TimeOut}
+\item \textbf{VillageVoice}
+\end{itemize}
+
+\subsection{Data preprocessing} 
 Una prima analisi mostra come le modalità di recupero dei dati da parte dell'autore abbiano generato dei dataset differenti per schema e per frammentazione verticale, anche sulle stesse fonti. Dunque, prima di applicare le tecniche di record linkage, i dati sono stati standardizzati, eseguendo operazioni di riallineamento dello schema, rimozione dei duplicati ed infine join dei dataset per fonte.\\
-In dettaglio le fasi del preprocessing sono state:
+La fase di preprocessing, nella quale sono incluse la pulizia dei dati e la standardizzazione, sono importanti poiché potrebbero aumentare l'accuratezza del record linkage.\\
+In dettaglio le fasi del preprocessing sono state: % mettere esempi più precisi dei problemi trovati
 \begin{enumerate}
 	\item \textbf{Separazione e ragruppamento dei dati per fonte}.\\Ciò ha mostrato le differenze sullo schema, utilizzate nelle fasi successive per migliorare il raggruppamento dei dati.
 	\item \textbf{Separazione dei dati per fonte e data}.\\Utilizzando regex ad hoc per ogni fonte i dati sono stati separati per fonte e data, con drop dei duplicati, standardizzazione dell'encoding del testo (da \textit{windows-1252} a \textit{UTF-8}) e formato csv.
-	\item \textbf{Merge dei dataset per fonte}.\\I vari dataset risultanti dalla fase 2 sono stati riuniti per fonte con un join applicato su colonne definite a priori.
+	\item \textbf{Merge dei dataset per fonte}.\\I vari dataset risultanti dalla fase 2 sono stati riuniti per fonte con un join applicato su colonne definite a priori. 
 	\item \textbf{Pulizia finale}.\\I dataset dunque sono stati ripuliti utilizzando delle funzioni specifiche per ogni fonte, con il compito di riallineare lo schema, rimuovere duplicati e caratteri superflui dai valori (es spazi e tabulazioni in testa e in coda, caratteri speciali ecc.).  
 \end{enumerate}
 
-Di seguito mostriamo alcuni risultati ottenuti attraverso il lavoro di preprocessing.\\
-Nel caso di MenuPages, per esempio, inizialmente avevamo i dati in questo formato:\\
+\subsubsection{Risultati}
+Nel caso di MenuPages, per esempio, inizialmente i dati erano presenti in un txt in questo formato ed erano uniti ai dati di altri siti web:\\
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.65\linewidth]{img/original.png}
 \caption{\textit{Dati di partenza di MenuPages}}
 \end{figure}
 
-a seguito del preprocessing invece otteniamo informazioni più chiare, unendo l'informazione sull'indirizzo proveniente da Google come segue:\\
+a seguito del preprocessing invece otteniamo informazioni più chiare, aggiungendo l'informazione sull'indirizzo proveniente da Google come segue:\\
 
 \begin{figure}[H]
 \centering
@@ -295,13 +313,51 @@ a seguito del preprocessing invece otteniamo informazioni più chiare, unendo l'
 \caption{\textit{Dati dopo il preprocessing di MenuPages}}
 \end{figure}
 
-\subsubsection{Risultati}
-%info sui dati puliti
-
+\newpage
 \subsection{Record Linkage}
+Dalla fase di preprocessing abbiamo ottenuto in output 12 dataset, uno per ogni sito web presente nei file originali. Prima di procedere con l'attività di record linkage abbiamo deciso di introdurre una fase preliminare per costruire due dataset principali da poi linkare.
+
+\subsubsection{Fase preliminare: costruzione dataset}
+Analizzando i dataset ottenuti siamo riusciti ad individuare delle caratteristiche comuni in grado di distinguerli in due macro gruppi:
+Nei dataset \textit{nomi dei dataset presenti in first df generator} %%%%% 
+si hanno esclusivamente il nome del ristorante e il quartiere (solo in \textit{TimeOut} abbiamo in aggiunta l'indirizzo, che ci permetterà il linkage con l'altro dataset), nei dataset \textit{nomi dei dataset presenti in second df generator} %%%%% 
+, invece, abbiamo nome del ristorante e indirizzo in tutti i file.
+
+Per ogni insieme di dataset, dopo aver uniformato i nomi e l'ordine delle colonne presenti, abbiamo eseguito un append di tutti i dataframe generati importando i file csv. 
+Successivamente sono stati rimossi i duplicati presenti basandoci solo sulle colonne comuni per tutti, ossia \textit{restaurant} e \textit{neighbourhood} nel primo caso e \textit{restaurant} nel secondo (non è possibile utilizzare l'indirizzo in quanto non sono sempre scritti esattamente allo stesso modo nonostante rappresentino la stessa realtà) %%controllare
+
+Successivamente viene applicata la \textbf{deduplicazione}, ossia una tecnica usata per eliminare copie duplicate di dati ripetuti. È possibile applicarla attraverso la libreria \textit{Record Linkage Toolkit} in quanto viene vista come un record linkage effettuato tra il database e se stesso. Come tecnica di \textit{indexing} usiamo \textit{sortedneighbourhood} (che illustreremo in dettaglio in seguito) ed effettuiamo la fare di \textit{comparing} sugli attributi comuni nei rispettivi gruppi di dataset.
+
+In questa fase iniziale per classificare i match ci siamo basati esclusivamente sul punteggio di score ottenuto dalla fase di comparing, in modo da poter includere con sicurezza record che differivano solo di poche lettere (ad esempio i ristoranti "Bubba Gump Shrimp Co." e "Bubba Gump Shrimp Company"), scegliendo come valore di soglia dello score %inserire valore.
+
+Una volta individuati i match sono stati unificati i dati in modo da creare un dataframe contenente le informazioni uniche utili per ogni match trovato. Per ottenere il dataset finale dal primo dataframe ottenuto come l'append dei csv importati sono state rimosse tutte le righe delle coppie presenti nei match e sono state aggiunti i record unificati contenenti le informazioni complete.
+
+Da questa fase sono risultati due dataset, rispettivamente di 7524 e di 13379 record, invece dei %inserire somma tutti record 
+record totali derivati dall'unione di tutti i 12 file iniziali.
+
+\subsubsection{Fase principale: record linkage}
+Per la fase di record linkage abbiamo seguito la seguente pipeline: 
+%inserire immagine
+
+I passi principali seguiti sono i seguenti:
+\begin{itemize}
+\item \textbf{Indexing} - permette di creare coppie di record, denominate \textit{candidate links}. Nel nostro algoritmo abbiamo implementato tre tecniche di indexing: \\
+- \textit{full}, che crea le coppie effettuando il prodotto cartesiano dei due dataset, motivo per il quale è molto lungo e sconsigliato. \\
+- \textit{blocking}, che permette di creare le coppie basandosi su una o più variabili uguali. \\
+- \textit{sortedneighbourhood}, da usare nel momento in presenza di dataset con un grande numero di errori di spelling nei valori.
+\item \textbf{Comparing} - viene usato per confrontare le coppie di record create nella fase di indexing, sfruttando diversi metodi di similarità. Nel nostro caso abbiamo effettuato un confronto fra stringhe testando alcuni dei vari metodi disponibili (‘jaro’, ‘jarowinkler’, ‘levenshtein’, ‘lcs’) e impostando un valore di soglia (tutti i confronti approssimativi di stringhe più alti o uguali a questa soglia valgono 1) oppure usato un confronto esatto nel momento in cui trattavamo l'attributo \textit{addressGoogle}, che sappiamo essere uniforme.
+\item \textbf{Classification} - dove le coppie vengono classificate in matches, non-matches e possible matches. In particolare abbiamo deciso di applicare due algoritmi di apprendimento non supervisionato, non essendo in possesso di training data. Gli algoritmi adottati sono: \\
+- \textit{ECM Classifier} o \textit{Expectation/Conditional Maxisation classifier}, un algoritmo probabilistico dove viene trovata iterativamente la massima probabilità (locale) o la massima stima a posteriori (MAP) dei parametri nei modelli statistici. L'iterazione EM si alterna tra l'esecuzione di un passaggio di aspettativa (E), che crea una funzione per l'aspettativa della verosimiglianza, e un passaggio di massimizzazione (M). \\
+- \textit{KMeans Classifier}, algoritmo che suddivide le coppie di record in match e non-match ed ogni vettore di confronto appartiene al cluster con la media più vicina. L'algoritmo è calibrato per due cluster: un cluster di corrispondenza e un cluster di non corrispondenza.
+\item {Evaluation} - permette di verificare la qualità del linkage in termini di accuratezza, recall e F-score. Purtroppo non ci è stato possibile eseguire questa fase in quanto sprovvisti di \textit{veri positivi}.
+\end{itemize}
+
+\textbf{Risultati}: 
+% non saprei che altro scrivere
 
 \subsection{Gold Standard}
-%possiamo vedere il gold standard e confrontarlo con i nostri risultati
+Il gold standard fornito è un elenco di 467 rimossi da alcuni siti web con l'informazione riguardante il suo stato al momento della verifica (Y = aperto, N = chiuso). 
+% lo mettiamo? 
 \newpage
 \printbibliography[title=Bibliografia]
 
@@ -310,8 +366,8 @@ a seguito del preprocessing invece otteniamo informazioni più chiare, unendo l'
 % inserire e commentare immagine di pipeline di lavoro
 % indirizzi google API, esempio di ciò che viene ritornato e di tutta l'informazine cosa abbiamo mantenuto
 
-% come facciamo a dire che siamo soddisfatti dell'integrazione dei DB,
+% come facciamo a dire che siamo soddisfatti dell'integrazione dei DB, || PERCHè SI
 % partiamo dal fatto che rappresenta un caso reale, valutazione empirica.
-% Con ECM probabilà 3 livelli di soglie  
+% Con ECM probabilà 3 livelli di soglie   || NON HO CAPITO by silvia
 
 \end{document}
