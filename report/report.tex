@@ -231,7 +231,7 @@ Il record linkage può essere interamente eseguito senza l'aiuto di un computer,
 \subsection{Tools}
 Di seguito riportiamo i tool e le librerie che abbiamo utilizzato (o tentato di usare) durante il nostro progetto.
 
-\subsubsection{Python Record Linkage Toolkit }
+\subsubsection{Python Record Linkage Toolkit}
 Python Record Linkage Toolkit è una libreria che permette di effettuare record linkage sia in una sola fonte di dati che in multiple.Il toolkit fornisce la maggior parte degli strumenti necessari per il collegamento e la dedpulicaizone dei record.
  Il package contiene metodi di indexing, come blocking e sorted neighbourhood indexing, funzioni per il confronto con diverse misure di similarità possibili e diversi algoritmi di classificazione, sia supervisionati che non. 
 Uno degli obiettivi principale è proprio creare un framework estendibile per il collegamento dei record, per fare questo il tool è in grado di:
@@ -414,6 +414,19 @@ I passi principali seguiti sono i seguenti:
 - \textit{KMeans Classifier}, algoritmo che suddivide le coppie di record in match e non-match ed ogni vettore di confronto appartiene al cluster con la media più vicina. L'algoritmo è calibrato per due cluster: un cluster di corrispondenza e un cluster di non corrispondenza.
 \item {Evaluation} - permette di verificare la qualità del linkage in termini di accuratezza, recall e F-score. Purtroppo non ci è stato possibile eseguire questa fase in quanto sprovvisti di \textit{veri positivi}.
 \end{itemize}
+
+\subsubsection{PIPPO}
+I dati di addestramento non sono generalmente disponibili nelle applicazioni di record linkage perché sono set di dati specifici del campione, infatti nel nostro caso non sono forniti dei true matches. \\
+Python Record Linkage Toolkit fornisce un'interfaccia utente basata su browser per la classificazione manuale delle coppie di record. Nel nostro caso abbiamo confrontato 50 coppie provenienti dai due datafreame creati. \\
+Mostriamo ora l'interfaccia utilizzata per compiere le scelte:
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\linewidth]{img/match.jpeg}
+	\caption{\textit{Interfaccia web per la classificazione manuale}}
+\end{figure}
+
+Nell'esempio che abbiamo appena fatto, possiamo notare come non ci sia nessun tipo di match in quanto nessuna delle informazioni presenti sono similari. 
 
 \textbf{Risultati}: 
 % non saprei che altro scrivere
