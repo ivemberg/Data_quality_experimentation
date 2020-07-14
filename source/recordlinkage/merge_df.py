@@ -39,12 +39,12 @@ def firstDFgenerator():
     candidate_links = indexer.index(df)
 
     compare_cl = recordlinkage.Compare()
-    compare_cl.string('restaurant', 'restaurant', threshold=0.95, label='ristorante')
-    compare_cl.string('neighborhood', 'neighborhood', threshold=0.95, label='quartiere') 
+    compare_cl.string('restaurant', 'restaurant', method='jarowinkler', label='ristorante')
+    compare_cl.string('neighborhood', 'neighborhood', method='jarowinkler', label='quartiere') 
 
     features = compare_cl.compute(candidate_links, df)
 
-    potential_matches = features[features.sum(axis=1) > 1].reset_index()
+    potential_matches = features[features.sum(axis=1) > 1.75].reset_index()
     potential_matches['Score'] = potential_matches.loc[:, ['ristorante','quartiere']].sum(axis=1)
 
     # MATCHES 
@@ -147,12 +147,12 @@ def secondDFgenerator():
     candidate_links = indexer.index(df)
     
     compare_cl = recordlinkage.Compare()
-    compare_cl.string('restaurant', 'restaurant', label='ristorante')
+    compare_cl.string('restaurant', 'restaurant', method='jarowinkler', label='ristorante')
     compare_cl.exact('addressGoogle', 'addressGoogle', label = 'indirizzo')
 
     features = compare_cl.compute(candidate_links, df)
     
-    potential_matches = features[features.sum(axis=1) > 1.50].reset_index()
+    potential_matches = features[features.sum(axis=1) > 1.75].reset_index()
     potential_matches['Score'] = potential_matches.loc[:, ['ristorante', 'indirizzo']].sum(axis=1)
     
     # MATCHES 
@@ -223,14 +223,14 @@ def secondDFgenerator():
     return df
 
 
-def main():
+# def main():
 
-    df1 = firstDFgenerator()
-    df2 = secondDFgenerator()
+#     df1 = firstDFgenerator()
+#     df2 = secondDFgenerator()
     
-    df1.to_csv('./data/restaurants_integrated/output_recordlinkage/df1_ded_address.csv', header=True, sep=";", decimal=',', float_format='%.3f', index=False)
-    df2.to_csv('./data/restaurants_integrated/output_recordlinkage/df2_ded_addressGoogle.csv', header=True, sep=";", decimal=',', float_format='%.3f', index=False)
+#     df1.to_csv('./data/restaurants_integrated/output_recordlinkage/df1_ded_address.csv', header=True, sep=";", decimal=',', float_format='%.3f', index=False)
+#     df2.to_csv('./data/restaurants_integrated/output_recordlinkage/df2_ded_addressGoogle.csv', header=True, sep=";", decimal=',', float_format='%.3f', index=False)
 	
 
-if __name__ == '__main__':
-    main()
+# if __name__ == '__main__':
+#     main()
