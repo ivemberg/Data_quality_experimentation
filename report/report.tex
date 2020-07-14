@@ -244,13 +244,11 @@ Uno degli obiettivi principale è proprio creare un framework estendibile per il
 \item valutare, attraverso strumenti comuni, i collegamenti dei record
 \end{itemize} 
 
-Nel nostro progetto è risultato molto utile perchè %ho aggiunto qualcosa, parlare del nostro caso?
+Per raggiungere l'obiettivo del nostro progetto è stato fondamentale poichè ci permette di svolgere tutte le operazioni del record linkage senza dover ricorrere all'utilizzo di ulteriori tool.
 
 \subsubsection{Pandas}
-Pandas è una libreria software scritta in linguaggio python che permette la manipolazione e l'analisi dei dati. L'obiettivo di questo tool è diventare il blocco di base di alto livello fondamentale per eseguire analisi dei dati reali. Inoltre, ha l'obiettivo più ampio di diventare lo strumento di analisi e manipolazione dei dati opens ource più potente e flessibile disponibile per qualsiasi linguaggio.\\
-Questo tool è in grado di pulire, esplorare e elaborare i dati. In padas una tabella viene chiamata dataframe, ed è proprio grazie a questo tool che siamo riusciti  creare i due dataframe principali che poi utilizziamo nella fase di record linkage. 
-%la documentazione fa poca introduzione su cosa è, può andare?
-%libreria per gestione dataset
+Pandas è una libreria software scritta in linguaggio python che permette la manipolazione e l'analisi dei dati. L'obiettivo di questo tool è diventare il blocco di base di alto livello fondamentale per eseguire analisi dei dati reali. Inoltre, ha l'obiettivo più ampio di diventare lo strumento di analisi e manipolazione dei dati open source più potente e flessibile disponibile per qualsiasi linguaggio.\\
+Questo tool è in grado di pulire, esplorare e elaborare i dati. In Pandas una tabella viene chiamata dataframe, ed è proprio grazie a questo tool che siamo riusciti  creare i due dataframe principali che poi utilizziamo nella fase di record linkage.
 
 \subsubsection{Fuzzy Matcher}
 Fuzzy Matcher è un pacchetto python che permette all'utente di collegare due dataframe pandas basati su uno o più campi in comune. Fuzzymatches usano la ricerca del testo completa sqlite3 per trovare dei match potenziali.
@@ -317,7 +315,7 @@ E sono presenti le seguenti informaizoni:
 \item \textbf{VillageVoice}: nome ristorante, indirizzo, quartiere
 \end{itemize}
 
-%possiamo aggiungere un commento 
+Possiamo notare che non sono presenti tutte le stesse informazioni in tutti i dataset, cosa che ci ha recato non pochi problema durante la fase di linkage. Per questo motivo il dataset "NewYork" non è stato utilizzato poichè non portava informazione utile.
 
 \subsection{Data preprocessing} 
 Una prima analisi mostra come le modalità di recupero dei dati da parte dell'autore abbiano generato dei dataset differenti per schema e per frammentazione verticale, anche sulle stesse fonti. Dunque, prima di applicare le tecniche di record linkage, i dati sono stati standardizzati, eseguendo operazioni di riallineamento dello schema, rimozione dei duplicati ed infine join dei dataset per fonte.\\
@@ -397,7 +395,7 @@ In questa fase iniziale per classificare i match ci siamo basati esclusivamente 
 
 Una volta individuati i match sono stati unificati i dati in modo da creare un dataframe contenente le informazioni uniche utili per ogni match trovato. Per ottenere il dataset finale dal primo dataframe ottenuto come l'append dei csv importati sono state rimosse tutte le righe delle coppie presenti nei match e sono state aggiunti i record unificati contenenti le informazioni complete.
 
-Da questa fase sono risultati due dataset, rispettivamente di 7524 e di 13379 record, invece dei 58614 %contrllare sia giusto by ivo
+Da questa fase sono risultati due dataset, rispettivamente di 7524 e di 13379 record, invece dei 58614 %controllare sia giusto by ivo
 record totali derivati dall'unione di tutti i 12 file iniziali.
 
 \subsubsection{Fase principale: record linkage}
@@ -428,7 +426,7 @@ Il gold standard fornito è un elenco di 467 rimossi da alcuni siti web con l'in
 % DA FARE:
 % inserire e commentare immagine di pipeline di lavoro
 
-% come facciamo a dire che siamo soddisfatti dell'integrazione dei DB, || PERCHè SI || Siamo soddisfatti perchè partendo da 7 file di testo contenenti in alcuni casi informazioni futili o assenti, attraverso la nostra operazione di pulizia dei dati, siamo riusciti a creaere due db che interaggendo tra di loro forniscono delle info più che soddisfacenti. possiamo scrivere una cagata così
+% come facciamo a dire che siamo soddisfatti dell'integrazione dei DB, || PERCHè SI || Siamo soddisfatti perchè partendo da 7 file di testo contenenti in alcuni casi informazioni futili o assenti, attraverso la nostra operazione di pulizia dei dati, siamo riusciti a creaere due db che interagendo tra di loro forniscono delle info più che soddisfacenti. possiamo scrivere una cagata così
 % partiamo dal fatto che rappresenta un caso reale, valutazione empirica.
 % Con ECM probabilà 3 livelli di soglie,  || NON HO CAPITO by silvia || per ora non serve a un cazzo
 
