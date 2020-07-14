@@ -118,27 +118,27 @@
 
 \section{Ricerca preliminare} 
 
+Il progetto che verrà esposto è consultabile alla seguente \href{https://github.com/ivemberg/Data_quality_experimentation}{repository}.
+
 \subsection{Data Quality}
 
 La consapevolezza del peso che dati di alta qualità hanno nel supportare decisioni informate e, viceversa, delle conseguenze disastrose cui dati inaccurati possono portare, è cresciuta di pari passo con il diffondersi delle fonti informative a disposizione delle organizzazioni, creando sempre più forte l’esigenza di una gestione adeguata della qualità dei dati aziendali. La ricerca sulla qualità dei dati è iniziata correttamente negli anni '90 e varie definizioni di ciò sono state date nel corso degli anni. \\
 
-\noindent Un gruppo di ricerca del MIT, guidato dal professor Wang, ha definito la qualità dei dati come condizione per il loro utilizzo e ha proposto il loro giudizio dipendentente dai consumatori finali. Allo stesso tempo, hanno definito una "dimensione della qualità dei dati" come un insieme di attributi che rappresentano un singolo aspetto o costrutto della qualità dei dati. \\
+\noindent Un gruppo di ricerca del MIT, guidato dal professor Wang, ha definito la qualità dei dati come condizione per il loro utilizzo e ha proposto il loro giudizio dipendentemente dai consumatori finali. Allo stesso tempo, hanno definito una "dimensione della qualità dei dati" come un insieme di attributi che rappresentano un singolo aspetto o costrutto della qualità dei dati. \\
 
 \noindent Sono necessarie tecniche di misurazione completa per consentire alle organizzazioni di valutare lo stato della qualità delle informazioni organizzative e monitorarne il miglioramento. \\
 
-\noindent Ma cosa si intende quando si parla di qualità dei dati e come si misura? 
+\noindent Ma cosa si intende quando si parla di qualità dei dati e come si misura? \\
 La qualità dei dati è una caratteristica che ha a che fare con la loro abilità di soddisfare le esigenze e le aspettative implicite o esplicite dell'utente. 
 
-\noindent Le best practice in questo ambito suggeriscono l’utilizzo di opportune metriche per la definizione e la misurazione della qualità dei dati. 
+\noindent Le best practices in questo ambito suggeriscono l’utilizzo di opportune metriche per la definizione e la misurazione della qualità dei dati. 
 
 \noindent Per quanto riguarda la definizione di metrica ci riferiamo alle definizioni all'interno dello standard ISO 9126-1 e framework ISM3:
 \begin{itemize}
 	\item una procedura (o metodo) di misurazione, cioè un algoritmo che prende l'elemento per misurare e lo associa a misura (sia esso valore ordinale o intervallo); 
 	\item una corretta unità di misura (o scala), ovvero di dominio di valori restituiti dalla procedura di misurazione. In generale, è possibile associare diverse metriche a ciascuna dimensione di qualità;
 \end{itemize} 
-Questa può essere espressa attraverso molteplici dimensioni
-
-Tra le metriche più comuni troviamo:
+Questa può essere espressa attraverso molteplici dimensioni. Tra le metriche più comuni troviamo:
 
 \begin{itemize}
 \item \textbf{completezza}: i dati raccolti bastano per rappresentare l'informazione necessaria; 
@@ -223,17 +223,17 @@ Il record linkage può essere interamente eseguito senza l'aiuto di un computer,
 \begin{description}[align=left]
 	\item[Data preprocessing] Il record linkage è molto sensibile alla qualità dei dati che devono essere collegati, quindi idealmente prima di svolgere questa operazione ogni dataset deve essere controllato affinche la qualità sia delle migliori. Avvengono delle operazioni di standardizzazione, che consistono nel trasformare i dati o procedure più complesse, come ad esempio la tokenizzazione.
 	\item[Entity resolution] L'entity resolution è un processo di operazioni intelligenti che permettono alle organizzazioni di connettere i dati più disparati attraverso la possibilità di capire i matches tra le entità e le relazioni non ovvie fra i diversi dati.\\Essa analizza tutte le informazioni collegate ad una entità prese da diverse sorgenti e cerca, attraverso un calcolo probabilistico, di determinare quali entità sono collegate e quali collegamenti (non ovvi) esistono fra loro.
-	\item[Deterministic record linkage] La metodologia più semplice di record linkage è chiamata "deterministica".\\Essa genera collegamenti basati sul numero di singoli identificatori che hanno una corrispondenza fra i dati dei dataset.\\Due record si dicono \textit{collegati} con una procedura di record linkage deterministico se se tutti o alcuni degli identificatori sono identici.\\Questo metodo è una buona opzione se si stanno utilizzando dei dataset con delle entità che sono identificate da un id comune.
+	\item[Deterministic record linkage] La metodologia più semplice di record linkage è chiamata "deterministica".\\Essa genera collegamenti basati sul numero di singoli identificatori che hanno una corrispondenza fra i dati dei dataset.\\Due record si dicono \textit{collegati} con una procedura di record linkage deterministico se tutti o alcuni degli identificatori sono identici.\\Questo metodo è una buona opzione se si stanno utilizzando dei dataset con delle entità che sono identificate da un id comune.
 	\item[Probabilistic record linkage] Il record linkage probabilistico, chiamato anche \textit{fuzzy matching}, utilizza un approccio differente per poter collegare i dati. Viene tenuto conto di una gamma più ampia di potenziali identificatori, calcolando i pesi per ciascun identificatore in base alla sua capacità stimata di identificare correttamente una corrispondenza o una non corrispondenza. Questi pesi sono dunque usati per calcolare la probabilità che due dati registrati si riferiscano alla stessa entità.\\Le coppie di record con probabilità al di sopra di una determinata soglia sono considerate corrispondenze, viceversa le altre sono considerate non corrispondenze. Le coppie che rientrano tra queste due soglie sono considerate "possibili corrispondenze" e possono essere trattate di conseguenza (ad esempio, revisioni umane, collegate o non collegate, a seconda dei requisiti). Mentre il collegamento deterministico dei record richiede una serie di regole potenzialmente complesse da programmare in anticipo, i metodi probabilistici di collegamento dei record possono essere "addestrati" per funzionare bene con un intervento molto meno umano.
 	\item[Machine learning] Negli ultimi anni, sono state utilizzate varie tecniche di apprendimento automatico per collegamento automatico. È stato riconosciuto che l'algoritmo classico per il collegamento probabilistico dei record sopra descritto è equivalente all'algoritmo Naive Bayes nel campo dell'apprendimento automatico, e utilizza la stessa assunzione dell'indipendenza delle sue caratteristiche (un presupposto che in genere non è vero).\\È possibile ottenere una maggiore precisione utilizzando varie altre tecniche di apprendimento automatico, incluso un percettrone a strato singolo. Insieme alle tecnologie distribuite, l'accuratezza e la scala per il collegamento dei record possono essere ulteriormente migliorate.	
 \end{description}
 
 \subsection{Tools}
-Di seguito riportiamo i tool e le librerie che abbiamo utilizzato (o tentato di usare) durante il nostro progetto.
+Di seguito riportiamo i tools e le librerie che abbiamo utilizzato (o tentato di usare) durante il nostro progetto.
 
 \subsubsection{Python Record Linkage Toolkit}
-Python Record Linkage Toolkit è una libreria che permette di effettuare record linkage sia in una sola fonte di dati che in multiple.Il toolkit fornisce la maggior parte degli strumenti necessari per il collegamento e la dedpulicaizone dei record.
- Il package contiene metodi di indexing, come blocking e sorted neighbourhood indexing, funzioni per il confronto con diverse misure di similarità possibili e diversi algoritmi di classificazione, sia supervisionati che non. 
+Python Record Linkage Toolkit è una libreria che permette di effettuare record linkage sia in una sola fonte di dati che in molteplici. Il toolkit fornisce la maggior parte degli strumenti necessari per il collegamento e la deduplicazione dei record.
+ Il package contiene metodi di indexing, come blocking e sorted neighborhood indexing, funzioni per il confronto con diverse misure di similarità possibili e diversi algoritmi di classificazione, sia supervisionati che non. 
 Uno degli obiettivi principale è proprio creare un framework estendibile per il collegamento dei record, per fare questo il tool è in grado di:
 \newpage
 \begin{itemize}
@@ -251,7 +251,7 @@ Pandas è una libreria software scritta in linguaggio python che permette la man
 Questo tool è in grado di pulire, esplorare e elaborare i dati. In Pandas una tabella viene chiamata dataframe, ed è proprio grazie a questo tool che siamo riusciti  creare i due dataframe principali che poi utilizziamo nella fase di record linkage.
 
 \subsubsection{Fuzzy Matcher}
-Fuzzy Matcher è un pacchetto python che permette all'utente di collegare due dataframe pandas basati su uno o più campi in comune. Fuzzymatches usano la ricerca del testo completa sqlite3 per trovare dei match potenziali.
+Fuzzy Matcher è un pacchetto python che permette all'utente di collegare due dataframe pandas basati su uno o più campi in comune. Fuzzymatches usano la ricerca del testo completa sqlite3 per trovare dei match potenziali.è molto limitato.
 % lo  usiamo si o no? se si scrivere perchè, se no scrivere perchè
 
 \newpage
@@ -338,7 +338,7 @@ Come prima cosa abbiammo creato una API key per poter dialogare con le
 Consultando la \href{https://developers.google.com/places/web-service/search}{documentazione} abbiamo individuato la funzione 
 Text Search, la quale è molto simile alla funzione di autocompletamento presente su Google Maps e che quindi ci permette di ricavare indirizzo completi partendo da informazioni parziali.
 
-Pertanto è stato costruito uno script che esegue una GET al seguente \href{https://maps.googleapis.com/maps/api/place/textsearch/json }{indirizzo}, passando come parametro la stringa \textit{address} del record del csv considerato. L'output ottenuto è un json.
+Pertanto è stato costruito uno script che esegue una GET al seguente \href{https://maps.googleapis.com/maps/api/place/textsearch/json }{indirizzo}, passando come parametro la stringa \textit{address} del record del csv considerato. L'output ottenuto è un json. Possiamo consultare l'esempio presente nella documentazione.
 
 % la si può prendere direttamente dal sito di google nella funzione textsearch
 % https://console.cloud.google.com/google/maps-apis/overview?project=feisty-nectar-281812&folder=&organizationId=
@@ -364,7 +364,7 @@ In questo modo facendo i confronti il contenuto informativo era maggiore e non d
 Nel caso di MenuPages, per esempio, inizialmente i dati erano presenti in un txt in questo formato ed erano uniti ai dati di altri siti web:\\
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.65\linewidth]{img/original.png}
+\includegraphics[width=0.9\linewidth]{img/original.png}
 \caption{\textit{Dati di partenza di MenuPages}}
 \end{figure}
 
@@ -372,7 +372,7 @@ a seguito del preprocessing invece otteniamo informazioni più chiare, aggiungen
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.65\linewidth]{img/new.png}
+\includegraphics[width=0.9\linewidth]{img/new.png}
 \caption{\textit{Dati dopo il preprocessing di MenuPages}}
 \end{figure}
 
