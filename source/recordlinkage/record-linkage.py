@@ -121,7 +121,7 @@ def main():
 	df2 = merge_df.secondDFgenerator()
 	df2['country_code'] = 'NY'
 	df2['cost'] = ''
-	df2_cols = ['restaurant', 'neighborhood', 'address', 'addressGoogle', 'country', 'country_code', 'type', 'cost', 'type_r']
+	df2_cols = ['restaurant', 'neighborhood', 'address', 'addressGoogle', 'country', 'country_code', 'type', 'cost', 'type_r', 'phone']
 	df2 = df2[df2_cols]
 	df2 = df2.add_prefix('1_')
 
