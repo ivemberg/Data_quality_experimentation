@@ -64,11 +64,11 @@ def final_clean(dfIn: pd.DataFrame) -> pd.DataFrame:
     return df
 
 def main():
-    dfToCleanKm = pd.read_csv('./data/restaurants_integrated/output_recordlinkage/final_matches_km_addressGoogle.csv', sep=';')
+    dfToCleanKm = pd.read_csv('./data/restaurants_integrated/output_recordlinkage/final_result_km.csv', sep=';')
     dfCleanedKm = final_clean(dfToCleanKm)
     dfCleanedKm.to_csv('./data/restaurants_integrated/output_recordlinkage/final_matches_km_cleaned.csv', sep=';', index=None)
 
-    dfToCleanEcm = pd.read_csv('./data/restaurants_integrated/output_recordlinkage/final_matches_ecm_addressGoogle.csv', sep=';')
+    dfToCleanEcm = pd.read_csv('./data/restaurants_integrated/output_recordlinkage/final_result_ecm.csv', sep=';')
     dfCleanedEcm = final_clean(dfToCleanEcm)
     dfCleanedEcm.to_csv('./data/restaurants_integrated/output_recordlinkage/final_matches_ecm_cleaned.csv', sep=';', index=None)
 

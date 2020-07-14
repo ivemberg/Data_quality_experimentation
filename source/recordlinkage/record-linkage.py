@@ -55,12 +55,18 @@ def linkDB(df1, df2, type, classifier):
 	# https://recordlinkage.readthedocs.io/en/latest/ref-classifiers.html#unsupervised
 
 	matches = []
-	
+	drop1 = []
+	drop2 = []
+
 	if classifier == "ecm":
 		ecm = recordlinkage.ECMClassifier(init='jaro', binarize=None, max_iter=100, atol=0.0001, use_col_names=True)
 		ecm.fit_predict(features, match_index=None)  # Train the classifier
 		e_matches = ecm.predict(features)
 		for i, j in e_matches:
+			if i not in drop1:
+				drop1.append(i)
+			if j not in drop2:
+				drop2.append(j)
 			record_1 = df1.loc[i]
 			record_2 = df2.loc[j]
 			record = tuple(record_1) + tuple(record_2)
@@ -70,14 +76,27 @@ def linkDB(df1, df2, type, classifier):
 		kmeans.fit_predict(features)
 		k_matches = kmeans.predict(features)
 		for i, j in k_matches:
+			if i not in drop1:
+				drop1.append(i)
+			if j not in drop2:
+				drop2.append(j)
 			record_1 = df1.loc[i]
 			record_2 = df2.loc[j]
 			record = tuple(record_1) + tuple(record_2)
 			matches.append(record)
 	
 	head = tuple(df1.head()) + tuple(df2.head())
-	result = pd.DataFrame(matches)
-	result.columns = head
+	matches_result = pd.DataFrame(matches)
+	matches_result.columns = head
+	
+	result = df1.append([df2, matches_result])
+	
+	new_index = []
+
+	for n in range(result.shape[0]):
+		new_index.append(n)
+	
+	result.index = new_index
 	
 	# 4 - EVALUATION
 	
@@ -93,7 +112,6 @@ def linkDB(df1, df2, type, classifier):
 	print(cm, acc)
 
 	return result
-
 
 def main():
 
@@ -111,9 +129,9 @@ def main():
 	km_result = linkDB(df1, df2, type="sortedneighbourhood", classifier="kmeans")
 	
 	
-	ecm_result.to_csv('./data/restaurants_integrated/output_recordlinkage/final_matches_ecm_addressGoogle.csv',
+	ecm_result.to_csv('./data/restaurants_integrated/output_recordlinkage/final_result_ecm.csv',
 	                  header=True, sep=";", decimal=',', float_format='%.3f', index=False)
-	km_result.to_csv('./data/restaurants_integrated/output_recordlinkage/final_matches_km_addressGoogle.csv',
+	km_result.to_csv('./data/restaurants_integrated/output_recordlinkage/final_result_km.csv',
 	                 header=True, sep=";", decimal=',', float_format='%.3f', index=False)
 	
 
