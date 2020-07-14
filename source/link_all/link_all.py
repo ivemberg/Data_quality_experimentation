@@ -191,12 +191,15 @@ def combine(left: pd.Series, right: pd.Series, thFusion: float, th: float) -> bo
         if not left['neighborhood']:
             left['neighborhood'] = right['neighborhood']
 
+    if not right['source'] in left['source']:
+        left['source'] = f"{left['source']}; {right['source']}"
+
     return True
 
 
 def align_schema(dicIn: dict):
     columns = ['restaurant', 'addressGoogle', 'neighborhood',
-               'country', 'country_code', 'type', 'cost', 'phone']
+               'country', 'country_code', 'type', 'cost', 'phone', 'source']
     for rest, df in dicIn.items():
         for column in columns:
             if not column in df.columns:
@@ -204,6 +207,8 @@ def align_schema(dicIn: dict):
                     df[column] = 'New York'
                 elif column == 'country_code':
                     df[column] = 'NY'
+                elif column == 'source':
+                    df[column] = rest
                 else:
                     df[column] = None
         df = df[columns]
@@ -215,8 +220,8 @@ def main():
     # Settings
     dedWindow = 9
     dedTh = 0.9
-    linkStart = 'VillageVoice'
-    linkMl = 'ecm'
+    linkStart = 'OpenTable'
+    linkMl = 'kmeans'
     linkWindow = 9
     linkTh = 0.9
     linkThType = 0.8
