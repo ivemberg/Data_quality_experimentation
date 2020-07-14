@@ -162,7 +162,7 @@ In tempi attuali, è emerso un altro tipo problema: i big data. Analisi e ricerc
 	\item \textbf{Value}: abilità di trasformare una grande mole di dati in business.
 \end{itemize}
 
-\subsection{Metodologia Data Quality}
+\subsubsection{Metodologia Data Quality}
 
 Il professor Batini definisce la metodologia di qualità dei dati come un insieme di linee guida e tecniche che, a partire dalle informazioni di input che descrivono un determinato contesto applicativo, ne deriva un processo razionale per valutare e migliorare la qualità dei dati \cite{10.1145/1541880.1541883}. Ci sono tre fasi principali per tale attività:
 \begin{itemize}
@@ -171,15 +171,15 @@ Il professor Batini definisce la metodologia di qualità dei dati come un insiem
 \item \textbf{miglioramento}, attività che mirano per raggiungere nuovi obiettivi di qualità dei dati.
 \end{itemize}
 
-\subsection{Miglioramento}
+\subsubsection{Miglioramento}
 
 Il miglioramento della qualità dei dati può essere effettuato attraverso strategie basate sui dati o sui processi. Nel primo caso, le tecniche più diffuse sono quella di standardizzazione (o normalizzazione), di record linkage e di integrazione degli schemi e dei dati, mentre nel secondo caso si adotta un processo di ricostruzione. Nel caso del nostro progetto, per poter migliorare la qualità del dato abbiamo deciso di utilizzare la tecnica del record linkage, in quanto ci siamo trovati di fronte ad una grande quantità di dati proveniente da diverse fonti e con informazioni non uniformi fra di esse.
 
-\subsection{Standardizzazione}
+\subsubsection{Standardizzazione}
 
 Questo processo, chiamato anche \textit{normalizzazione}, sostituisce per esempio una diversa ortografia di una parola con una sola ortografia. % e basta?
 
-\subsection{Comparazione stringhe}
+\subsubsection{Comparazione stringhe}
 
 Gli errori tipografici rendono impossibile confrontare esattamente tra di loro le stinghe.  Per poter fare ciò, quindi, serve una funzione che cerca di trovare un punto di accordo tra i dati. Ci sono stati diversi tentativi di fornire questa funzione:
 
@@ -210,9 +210,16 @@ Il record linkage può essere interamente eseguito senza l'aiuto di un computer,
 \item vengono definitie le regole di matching, possibile matching o non-match;
 \item secondo le regole definite viene generato il dataset di output.
 \end{enumerate}
-%si potrebbe mettere l'immagine a pagina 30 del pdf di batini oppure pagina 36 | OK metti schema procedimento record linkage
 
-%titolo di sta parte? metodologie?
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\linewidth]{img/recordlinkage.png}
+	\caption{\textit{Step principali del record linkage}}
+\end{figure}
+
+\newpage
+\subsubsection{Metodologie record linkage}
+
 \begin{description}[align=left]
 	\item[Data preprocessing] Il record linkage è molto sensibile alla qualità dei dati che devono essere collegati, quindi idealmente prima di svolgere questa operazione ogni dataset deve essere controllato affinche la qualità sia delle migliori. Avvengono delle operazioni di standardizzazione, che consistono nel trasformare i dati o procedure più complesse, come ad esempio la tokenizzazione.
 	\item[Entity resolution] L'entity resolution è un processo di operazioni intelligenti che permettono alle organizzazioni di connettere i dati più disparati attraverso la possibilità di capire i matches tra le entità e le relazioni non ovvie fra i diversi dati.\\Essa analizza tutte le informazioni collegate ad una entità prese da diverse sorgenti e cerca, attraverso un calcolo probabilistico, di determinare quali entità sono collegate e quali collegamenti (non ovvi) esistono fra loro.
@@ -222,16 +229,34 @@ Il record linkage può essere interamente eseguito senza l'aiuto di un computer,
 \end{description}
 
 \subsection{Tools}
-Di seguito riportiamo i tool e le librerie che abbiamo utilizzato durante il nostro progetto.
+Di seguito riportiamo i tool e le librerie che abbiamo utilizzato (o tentato di usare) durante il nostro progetto.
 
 \subsubsection{Python Record Linkage Toolkit }
-Python Record Linkage Toolkit è una libreria che permette di effettuare record linkage sia in una sola fonte di dati che in multiple. Il package contiene metodi di indexing, come blocking e sorted neighbourhood indexing, funzioni per il confronto con diverse misure di similarità possibili e diversi algoritmi di classificazione, sia supervisionati che non. 
-%cercare se si può aggiungere qualcosa
+Python Record Linkage Toolkit è una libreria che permette di effettuare record linkage sia in una sola fonte di dati che in multiple.Il toolkit fornisce la maggior parte degli strumenti necessari per il collegamento e la dedpulicaizone dei record.
+ Il package contiene metodi di indexing, come blocking e sorted neighbourhood indexing, funzioni per il confronto con diverse misure di similarità possibili e diversi algoritmi di classificazione, sia supervisionati che non. 
+Uno degli obiettivi principale è proprio creare un framework estendibile per il collegamento dei record, per fare questo il tool è in grado di:
+\newpage
+\begin{itemize}
+\item pulire e standardizzare i dati
+\item creare coppie di record con metodi di indicizzazione intelligente
+\item confrontare i record con un gran numero di misure e di comparazione e somiglianza per diversi tipi di variabili
+\item utilizzare diversi algoritmi di classificazione
+\item valutare, attraverso strumenti comuni, i collegamenti dei record
+\end{itemize} 
+
+Nel nostro progetto è risultato molto utile perchè %ho aggiunto qualcosa, parlare del nostro caso?
 
 \subsubsection{Pandas}
+Pandas è una libreria software scritta in linguaggio python che permette la manipolazione e l'analisi dei dati. L'obiettivo di questo tool è diventare il blocco di base di alto livello fondamentale per eseguire analisi dei dati reali. Inoltre, ha l'obiettivo più ampio di diventare lo strumento di analisi e manipolazione dei dati opens ource più potente e flessibile disponibile per qualsiasi linguaggio.\\
+Questo tool è in grado di pulire, esplorare e elaborare i dati. In padas una tabella viene chiamata dataframe, ed è proprio grazie a questo tool che siamo riusciti  creare i due dataframe principali che poi utilizziamo nella fase di record linkage. 
+%la documentazione fa poca introduzione su cosa è, può andare?
 %libreria per gestione dataset
 
+\subsubsection{Fuzzy Matcher}
+Fuzzy Matcher è un pacchetto python che permette all'utente di collegare due dataframe pandas basati su uno o più campi in comune. Fuzzymatches usano la ricerca del testo completa sqlite3 per trovare dei match potenziali.
+% lo  usiamo si o no? se si scrivere perchè, se no scrivere perchè
 
+\newpage
 \section{Sperimentazione}
 
 \subsection{Dataset}
@@ -276,21 +301,23 @@ VillageVoice & 2684 \\ \hline
 \caption{Record per ristorante}
 \end{table}
 
-E sono presenti le seguenti informaizoni: %da finire
+E sono presenti le seguenti informaizoni: 
 \begin{itemize}
 \item \textbf{ActiveDiner}: nome ristorante, indirizzo, paese
-\item \textbf{DiningGuide}
-\item \textbf{FoodBuzz}
-\item \textbf{MenuPages}
-\item \textbf{NewYork}
-\item \textbf{NYMag}
-\item \textbf{NYTimes}
-\item \textbf{OpenTable}
-\item \textbf{SavoryCities}
-\item \textbf{TasteSpace}
-\item \textbf{TimeOut}
-\item \textbf{VillageVoice}
+\item \textbf{DiningGuide}: nome ristorante, indirizzo
+\item \textbf{FoodBuzz}: nome ristorante, indirizzo, paese, codice paese, quartiere, tipo, costo
+\item \textbf{MenuPages}:nome ristorante, indirizzo1, indirizzo2
+\item \textbf{NewYork}: nome ristrorante
+\item \textbf{NYMag}: nome ristorante, quartiere
+\item \textbf{NYTimes}: nome ristorante, quartiere
+\item \textbf{OpenTable}: nome ristorante, quartiere
+\item \textbf{SavoryCities}: nome ristorante, indirizzo, quartiere
+\item \textbf{TasteSpace}: nome ristorante, indirizzo, paese
+\item \textbf{TimeOut}: nome ristorante, posizione, indirizzo1, indirizzo2, indirizzo3, quartiere, numero di telefono, tipo
+\item \textbf{VillageVoice}: nome ristorante, indirizzo, quartiere
 \end{itemize}
+
+%possiamo aggiungere un commento 
 
 \subsection{Data preprocessing} 
 Una prima analisi mostra come le modalità di recupero dei dati da parte dell'autore abbiano generato dei dataset differenti per schema e per frammentazione verticale, anche sulle stesse fonti. Dunque, prima di applicare le tecniche di record linkage, i dati sono stati standardizzati, eseguendo operazioni di riallineamento dello schema, rimozione dei duplicati ed infine join dei dataset per fonte.\\
@@ -370,7 +397,7 @@ In questa fase iniziale per classificare i match ci siamo basati esclusivamente 
 
 Una volta individuati i match sono stati unificati i dati in modo da creare un dataframe contenente le informazioni uniche utili per ogni match trovato. Per ottenere il dataset finale dal primo dataframe ottenuto come l'append dei csv importati sono state rimosse tutte le righe delle coppie presenti nei match e sono state aggiunti i record unificati contenenti le informazioni complete.
 
-Da questa fase sono risultati due dataset, rispettivamente di 7524 e di 13379 record, invece dei %inserire somma tutti record 
+Da questa fase sono risultati due dataset, rispettivamente di 7524 e di 13379 record, invece dei 58614 %contrllare sia giusto by ivo
 record totali derivati dall'unione di tutti i 12 file iniziali.
 
 \subsubsection{Fase principale: record linkage}
@@ -395,13 +422,13 @@ I passi principali seguiti sono i seguenti:
 
 \subsection{Gold Standard}
 Il gold standard fornito è un elenco di 467 rimossi da alcuni siti web con l'informazione riguardante il suo stato al momento della verifica (Y = aperto, N = chiuso). 
-% lo mettiamo? 
+% lo mettiamo? se lo mettiamo dobbiamo argomentare
 
 
 % DA FARE:
 % inserire e commentare immagine di pipeline di lavoro
 
-% come facciamo a dire che siamo soddisfatti dell'integrazione dei DB, || PERCHè SI
+% come facciamo a dire che siamo soddisfatti dell'integrazione dei DB, || PERCHè SI || Siamo soddisfatti perchè partendo da 7 file di testo contenenti in alcuni casi informazioni futili o assenti, attraverso la nostra operazione di pulizia dei dati, siamo riusciti a creaere due db che interaggendo tra di loro forniscono delle info più che soddisfacenti. possiamo scrivere una cagata così
 % partiamo dal fatto che rappresenta un caso reale, valutazione empirica.
 % Con ECM probabilà 3 livelli di soglie,  || NON HO CAPITO by silvia || per ora non serve a un cazzo
 
