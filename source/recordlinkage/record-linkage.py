@@ -89,6 +89,8 @@ def linkDB(df1, df2, type, classifier):
 	matches_result = pd.DataFrame(matches)
 	matches_result.columns = head
 	
+	df1.drop(drop1, inplace = True, axis = 0)
+	df2.drop(drop2, inplace = True, axis = 0)
 	result = df1.append([df2, matches_result])
 	
 	new_index = []
