@@ -26,6 +26,7 @@ def linkDB(df1, df2, type, classifier):
 	test_pairs = candidate_links[0:50]
 	
 	#https://recordlinkage.readthedocs.io/en/latest/annotation.html
+
 	"""
 	df1.columns = df1.columns.str.replace(r'0_', '')
 	df2.columns = df2.columns.str.replace(r'1_', '')
@@ -48,15 +49,15 @@ def linkDB(df1, df2, type, classifier):
 	comp.exact('0_addressGoogle', '1_addressGoogle', label='indirizzoGoogle')
 
 	features = comp.compute(candidate_links, df1, df2)
-	
+	test_features = comp.compute(test_pairs, df1, df2)
+
 	# 3 - CLASSIFICATION
 	# https://recordlinkage.readthedocs.io/en/latest/ref-classifiers.html#unsupervised
 
 	matches = []
-
+	
 	if classifier == "ecm":
-		ecm = recordlinkage.ECMClassifier(
-			init='jaro', binarize=None, max_iter=100, atol=0.0001, use_col_names=True)
+		ecm = recordlinkage.ECMClassifier(init='jaro', binarize=None, max_iter=100, atol=0.0001, use_col_names=True)
 		ecm.fit_predict(features, match_index=None)  # Train the classifier
 		e_matches = ecm.predict(features)
 		for i, j in e_matches:
@@ -81,17 +82,15 @@ def linkDB(df1, df2, type, classifier):
 	# 4 - EVALUATION
 	
 	if classifier == "ecm":
-		test_matches = ecm.predict(test_pairs)
-		print(test_matches)
-		tp = recordlinkage.true_positives(annotations.links, test_matches)
-		cm = recordlinkage.confusion_matrix(annotations.links, test_matches, total=None)
+		test_matches = ecm.predict(test_features)
+		cm = recordlinkage.confusion_matrix(annotations.links, test_matches, total = 50)
+		acc = recordlinkage.accuracy(annotations.links, test_matches, total = 50)
 	elif classifier == "kmeans":
-		test_matches = kmeans.predict(test_pairs)
-		tp = recordlinkage.true_positives(annotations.links, test_matches)
-		cm = recordlinkage.confusion_matrix(annotations.links, test_matches, total=None)
-
-	print(tp)
-	print(cm)
+		test_matches = kmeans.fit_predict(test_features)
+		cm = recordlinkage.confusion_matrix(annotations.links, test_matches, total = 50)
+		acc = recordlinkage.accuracy(annotations.links, test_matches, total = 50)
+	
+	print(cm, acc)
 
 	return result
 
@@ -116,7 +115,7 @@ def main():
 	                  header=True, sep=";", decimal=',', float_format='%.3f', index=False)
 	km_result.to_csv('./data/restaurants_integrated/output_recordlinkage/final_matches_km_addressGoogle.csv',
 	                 header=True, sep=";", decimal=',', float_format='%.3f', index=False)
-
+	
 
 if __name__ == "__main__":
 	main()
