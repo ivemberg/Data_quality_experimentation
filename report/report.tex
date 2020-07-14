@@ -87,7 +87,7 @@
     {\LARGE{
 	    	\setstretch{2}
             \textbf{
-            	Tecniche di Record Linkage \\ }
+            	Sperimentazione Record Linkage \\ }
     }}        
 \end{center}
 
@@ -116,29 +116,29 @@
 
 \newpage
 
-\section{Ricerca} 
+\section{Ricerca preliminare} 
 
 \subsection{Data Quality}
 
-La consapevolezza del peso che dati di alta qualità hanno nel supportare decisioni informate e, viceversa, delle conseguenze disastrose cui dati inaccurati possono portare, è cresciuta di pari passo con il diffondersi delle fonti informative a disposizione delle organizzazioni, creando sempre più forte l’esigenza di una gestione adeguata della qualità dei dati aziendali. La ricerca sulla qualità dei dati è iniziata correttamente negli anni '90 e varie definizioni di ciò sono state definite nel corso degli anni. \\
+La consapevolezza del peso che dati di alta qualità hanno nel supportare decisioni informate e, viceversa, delle conseguenze disastrose cui dati inaccurati possono portare, è cresciuta di pari passo con il diffondersi delle fonti informative a disposizione delle organizzazioni, creando sempre più forte l’esigenza di una gestione adeguata della qualità dei dati aziendali. La ricerca sulla qualità dei dati è iniziata correttamente negli anni '90 e varie definizioni di ciò sono state date nel corso degli anni. \\
 
 \noindent Un gruppo di ricerca del MIT, guidato dal professor Wang, ha definito la qualità dei dati come condizione per il loro utilizzo e ha proposto il loro giudizio dipendentente dai consumatori finali. Allo stesso tempo, hanno definito una "dimensione della qualità dei dati" come un insieme di attributi che rappresentano un singolo aspetto o costrutto della qualità dei dati. \\
 
 \noindent Sono necessarie tecniche di misurazione completa per consentire alle organizzazioni di valutare lo stato della qualità delle informazioni organizzative e monitorarne il miglioramento. \\
 
 \noindent Ma cosa si intende quando si parla di qualità dei dati e come si misura? 
-La qualità dei dati è una caratteristica dei dati che ha a che fare con la loro abilità di soddisfare le esigenze e le aspettative implicite o esplicite dell'utente. 
+La qualità dei dati è una caratteristica che ha a che fare con la loro abilità di soddisfare le esigenze e le aspettative implicite o esplicite dell'utente. 
+
+\noindent Le best practice in questo ambito suggeriscono l’utilizzo di opportune metriche per la definizione e la misurazione della qualità dei dati. 
 
 \noindent Per quanto riguarda la definizione di metrica ci riferiamo alle definizioni all'interno dello standard ISO 9126-1 e framework ISM3:
 \begin{itemize}
 	\item una procedura (o metodo) di misurazione, cioè un algoritmo che prende l'elemento per misurare e lo associa a misura (sia esso valore ordinale o intervallo); 
 	\item una corretta unità di misura (o scala), ovvero di dominio di valori restituiti dalla procedura di misurazione. In generale, è possibile associare diverse metriche a ciascuna dimensione di qualità;
 \end{itemize} 
-
 Questa può essere espressa attraverso molteplici dimensioni
 
-
-\noindent Le best practice in questo ambito suggeriscono l’utilizzo di opportune metriche per la definizione e la misurazione. Tra le metriche più comuni troviamo:
+Tra le metriche più comuni troviamo:
 
 \begin{itemize}
 \item \textbf{completezza}: i dati raccolti bastano per rappresentare l'informazione necessaria; 
@@ -153,7 +153,7 @@ Questa può essere espressa attraverso molteplici dimensioni
 \bigskip
 
 \noindent Il punto focale rimane sempre il dominio sul quale si vuole effettuare un processo di miglioramento dei dati. In base alla finalità delle informazioni e alle caratteritiche dei loro consumatori l'attenzione si rivolge ad un sottoinsieme di tale metriche.\\
-In tempi attuali, è emerso un altro tipo problema: i big data. Analisi e ricerca complete di standard di qualità e metodi di valutazione della qualità per questo tipo di informazioni attualmente manca o non è completa. Questo topic pone una serie di nuove sfide, dettate dalle caratteristiche intrinseche dei big data, riassumibili in quelle che sono chiamate "le 5 V":
+In tempi attuali, è emerso un altro tipo problema: i big data. Analisi e ricerca complete di standard di qualità e metodi di valutazione della qualità per questo tipo di informazioni attualmente è assente o non completa. Questo topic pone una serie di nuove sfide, dettate dalle caratteristiche intrinseche dei big data, riassumibili in quelle che sono chiamate "le 5 V":
 \begin{itemize}
 	\item \textbf{Volume}: ingente massa di informazioni, in crescita vertiginosa, che non è possibile raccogliere con tecnologie tradizionali;
 	\item \textbf{Velocity}: i dati nascono e vengono acquisiti sempre più rapidamente, con necessità di analisi in tempo reale;
@@ -173,11 +173,11 @@ Il professor Batini definisce la metodologia di qualità dei dati come un insiem
 
 \subsection{Miglioramento}
 
-Il miglioramento della qualità dei dati può essere effettuato attraverso strategie basate sui dati o sui processi. Nel primo caso, le tecniche più diffuse sono quella di standardizzazione (o normalizzazione), il record linkage e l'integrazione degli schemi e dei dati, mentre nel secondo caso si adotta un processo di ricostruzione. Nel caso del nostro progetto, per poter migliorare la qualità del dato abbiamo deciso di utilizzare la tecnica del record linkage. %%bisogna trovare una motivazione per spiegare perchè usiamo il record linkage, un motivo per cui l'abbiamo scelta
+Il miglioramento della qualità dei dati può essere effettuato attraverso strategie basate sui dati o sui processi. Nel primo caso, le tecniche più diffuse sono quella di standardizzazione (o normalizzazione), di record linkage e di integrazione degli schemi e dei dati, mentre nel secondo caso si adotta un processo di ricostruzione. Nel caso del nostro progetto, per poter migliorare la qualità del dato abbiamo deciso di utilizzare la tecnica del record linkage, in quanto ci siamo trovati di fronte ad una grande quantità di dati proveniente da diverse fonti e con informazioni non uniformi fra di esse.
 
 \subsection{Standardizzazione}
 
-Questo processo, chiamato anche normalizzazione, sostituisce per esempio una diversa ortografia di una parola con una sola ortografia.
+Questo processo, chiamato anche \textit{normalizzazione}, sostituisce per esempio una diversa ortografia di una parola con una sola ortografia. % e basta?
 
 \subsection{Comparazione stringhe}
 
@@ -192,27 +192,27 @@ Gli errori tipografici rendono impossibile confrontare esattamente tra di loro l
 
 \subsection{Record Linkage}
 
-Il record linkage (conosciuto anche come data matching) è l'operazione che consiste nel trovare "records" che si riferiscono alla stessa entità, in dataset presi da differenti risorse (come ad esempio file, libri, siti e database).
+Il record linkage (conosciuto anche come data matching) è l'operazione che consiste nel trovare "records" che si riferiscono alla stessa entità, in dataset presi da differenti risorse (come ad esempio file, libri, siti e database). 
 Questa operazione diventa necessaria quando vogliamo unire dei dataset differenti basati su dati simili che potrebbero avere o non avere lo stesso identificativo. \\
 L'idea moderna di record linkage nasce alla fine degli anni cinquanta e viene formalizzata qualche tempo dopo da Ivan Fellegi e Alan Sunter \cite{fellegi69} che, attraverso il loro lavoro, hanno dimostrato che le regole di decisione probabilistiche sono ottimali quando i dati che vengono confrontati sono condizionatamente indipendenti. \\
 A partire dalla fine degli anni novanta, differenti tecniche di machine learning sono state sviluppate per poter capire, con condizioni favorevoli, la probabilità condizionata richiesta dalla teoria Fellegi-Sunter. \\
 Il record linkage può essere interamente eseguito senza l'aiuto di un computer, ma il motivo principale per cui esso viene utilizzato è perchè si vuole ridurre o eliminare le modifiche "fatte a mano" e per rendere più facile l'ottenimento del risultato. 
-L'utilizzo del computer ha anche il vantaggio di utilizzare un processo di supervisione centrale, miglior qualità di controllo, velocità, consistenza e migliore riproducibilità dei risultati. %presa da wiki, un po da edulcorare :)
+%aggiungere qualcosa guardando magari l'articolo di Batini?
+\\
 
-\subsection{Metodologie di Record Linkage}
-% descrivo le varie metodologie, alla fine dovremmo dire in base alla libreria che utilizziamo noi quale metodo abbiamo usato
-Il record linkage si divide generalmente nei seguenti step:
+\noindent Il record linkage si divide generalmente nei seguenti step:
 \begin{enumerate}
 \item vengono dati in input dei dataset;
 \item viene definito uno spazio iniziale di ricerca;
 \item si cerca di ridurre lo spazio di ricerca tramite un processo di "blocking" ;
 \item viene definito lo spazio ridotto di ricerca;
 \item vengono comparati i dati e viene presa una decisione;
-\item vengono definitie le regole di matching, possibile matching o se i dati non sono collegabili;
-\item secondo le regole definite è generato il dataset di output.
+\item vengono definitie le regole di matching, possibile matching o non-match;
+\item secondo le regole definite viene generato il dataset di output.
 \end{enumerate}
-%si potrebbe mettere l'immagine a pagina 30 del pdf di batini oppure pagina 36
+%si potrebbe mettere l'immagine a pagina 30 del pdf di batini oppure pagina 36 | OK metti schema procedimento record linkage
 
+%titolo di sta parte? metodologie?
 \begin{description}[align=left]
 	\item[Data preprocessing] Il record linkage è molto sensibile alla qualità dei dati che devono essere collegati, quindi idealmente prima di svolgere questa operazione ogni dataset deve essere controllato affinche la qualità sia delle migliori. Avvengono delle operazioni di standardizzazione, che consistono nel trasformare i dati o procedure più complesse, come ad esempio la tokenizzazione.
 	\item[Entity resolution] L'entity resolution è un processo di operazioni intelligenti che permettono alle organizzazioni di connettere i dati più disparati attraverso la possibilità di capire i matches tra le entità e le relazioni non ovvie fra i diversi dati.\\Essa analizza tutte le informazioni collegate ad una entità prese da diverse sorgenti e cerca, attraverso un calcolo probabilistico, di determinare quali entità sono collegate e quali collegamenti (non ovvi) esistono fra loro.
@@ -221,13 +221,19 @@ Il record linkage si divide generalmente nei seguenti step:
 	\item[Machine learning] Negli ultimi anni, sono state utilizzate varie tecniche di apprendimento automatico per collegamento automatico. È stato riconosciuto che l'algoritmo classico per il collegamento probabilistico dei record sopra descritto è equivalente all'algoritmo Naive Bayes nel campo dell'apprendimento automatico, e utilizza la stessa assunzione dell'indipendenza delle sue caratteristiche (un presupposto che in genere non è vero).\\È possibile ottenere una maggiore precisione utilizzando varie altre tecniche di apprendimento automatico, incluso un percettrone a strato singolo. Insieme alle tecnologie distribuite, l'accuratezza e la scala per il collegamento dei record possono essere ulteriormente migliorate.	
 \end{description}
 
-\subsection{Tools usati}
+\subsection{Tools}
+Di seguito riportiamo i tool e le librerie che abbiamo utilizzato durante il nostro progetto.
 
 \subsubsection{Python Record Linkage Toolkit }
 Python Record Linkage Toolkit è una libreria che permette di effettuare record linkage sia in una sola fonte di dati che in multiple. Il package contiene metodi di indexing, come blocking e sorted neighbourhood indexing, funzioni per il confronto con diverse misure di similarità possibili e diversi algoritmi di classificazione, sia supervisionati che non. 
+%cercare se si può aggiungere qualcosa
+
+\subsubsection{Pandas}
+%libreria per gestione dataset
 
 
-\section{Esperimenti}
+\section{Sperimentazione}
+
 \subsection{Dataset}
 Il dataset su cui sono stati effettuati gli esperimenti è un elenco di ristoranti di Manhattan, estratti settimanalmente da Gennaio a Marzo 2009 da 12 siti web. L'unico attributo comune in tutti i dataset è il nome del ristorante, informazioni aggiuntive (come l'indirizzo o il quartiere) non sono presenti in modo uniforme.
 
@@ -297,6 +303,38 @@ In dettaglio le fasi del preprocessing sono state: % mettere esempi più precisi
 	\item \textbf{Pulizia finale}.\\I dataset dunque sono stati ripuliti utilizzando delle funzioni specifiche per ogni fonte, con il compito di riallineare lo schema, rimuovere duplicati e caratteri superflui dai valori (es spazi e tabulazioni in testa e in coda, caratteri speciali ecc.).  
 \end{enumerate}
 
+\subsection{Google Maps}
+Nei vari dataset le informazioni riguardanti l'indirizzo non erano riportare in maniera uniforme (es. \textit{Street} in un record e \textit{St.} in un altro), quindi abbiamo deciso di standardizzare questo parametro ricorrendo alle API di Google Maps.
+
+Come prima cosa abbiammo creato una API key per poter dialogare con le 
+\href{https://console.cloud.google.com/google/maps-apis/overview?project=feisty-nectar-281812&folder=&organizationId=}{API di Google} %mettere colore blu
+
+
+Consultando la \href{https://developers.google.com/places/web-service/search}{documentazione} abbiamo individuato la funzione 
+Text Search, la quale è molto simile alla funzione di autocompletamento presente su Google Maps e che quindi ci permette di ricavare indirizzo completi partendo da informazioni parziali.
+
+Pertanto è stato costruito uno script che esegue una GET al seguente \href{https://maps.googleapis.com/maps/api/place/textsearch/json }{indirizzo}, passando come parametro la stringa \textit{address} del record del csv considerato. L'output ottenuto è un json.
+
+% la si può prendere direttamente dal sito di google nella funzione textsearch
+% https://console.cloud.google.com/google/maps-apis/overview?project=feisty-nectar-281812&folder=&organizationId=
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\linewidth]{img/img.png}
+	\caption{\textit{Dati dopo il preprocessing di MenuPages}}
+\end{figure}
+
+\noindent Il campo da noi considerato è formatted\_address. In caso di indirizzo scritto male o con contenuto informativo ambiguo venivano restituiti più formatted\_address, pertanto si è deciso che se il numero di risultati ottenuto era maggiore di 5 allora non si è applicata tale trasformazione, poiché probabilmente non porterebbe reali benefici. Negli altri casi si è preso solo il primo risultato. 
+
+Nello specifico,  dato che tutti i ristoranti sono a New York, abbiamo splittato la stringa recuperando solo la prima parte (fino alla prima virgola), in quanto l'informazione sulla città è superflua. 
+ 
+%CAMBIARE ESEMPIO PERCHè C'è SCRITTO AUSTRALIA MINCHIA
+es preso dall'immagine
+140 george st, the rocks Nsw 200m, australia
+
+noi abbiamo preso solo 140 george st
+
+In questo modo facendo i confronti il contenuto informativo era maggiore e non degradato da New york, NY , dati che sarebbero stati comuni a tutti.
+
 \subsubsection{Risultati}
 Nel caso di MenuPages, per esempio, inizialmente i dati erano presenti in un txt in questo formato ed erano uniti ai dati di altri siti web:\\
 \begin{figure}[H]
@@ -360,46 +398,8 @@ Il gold standard fornito è un elenco di 467 rimossi da alcuni siti web con l'in
 % lo mettiamo? 
 
 
-
-\subsection{Google Maps}
-Abbiamo anzitutto dovuto creare una API key per poter dialogare con le Api di google
-\href{https://console.cloud.google.com/google/maps-apis/overview?project=feisty-nectar-281812&folder=&organizationId=}{Api di google}
-
-
-Nella documentazione https://developers.google.com/places/web-service/search abbiamo visto che la funzione 
-Text Search è la funzione di interesse. Molto simile alla funzione di autocompletamento presente su google maps.
-
-Pertanto è stato costruito uno script che fa una GET al seguente indirizzo 
-https://maps.googleapis.com/maps/api/place/textsearch/json 
-
-passando come parametro la stringa address del record del csv. L'output che abbiamo voluto ottenere è un json
-
-% la si può prendere direttamente dal sito di google nella funzione textsearch
-% https://console.cloud.google.com/google/maps-apis/overview?project=feisty-nectar-281812&folder=&organizationId=
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=0.8\linewidth]{img/img.png}
-	\caption{\textit{Dati dopo il preprocessing di MenuPages}}
-\end{figure}
-
-il campo d'interesse è formatted\_address. Con un indirizzo potevano comparire più risultati e quindi più formatted\_address, questo è capitato se l'indirizzo era scritto male, o con un contenuto informativo ambiguo. Peranto si è deciso che se il numero di risultati ottenuto era maggiore 5 allora non si è applicata tale trasformazione perchè probabilmente non avrebbe portato dei reali benefici. Diversamente se massimo 5 risultati si è preso solo il primo risultato. 
-
-Nello specifico dato il fatto che tutti i ristoranti sono di manatthan (yep si scrive diversamente) allora sapevamo che ovviamente sono tutti di new york, pertanto vista la formattazione dell'indirizzo che ci ritornava
-abbiamo splittato la stringa recuperando solo la prima parte (la stringa fino alla prima virgola)
-
-es preso dall'immagine
-140 george st, the rocks Nsw 200m, australia
-
-noi abbiamo preso solo 140 george st
-
-In questo modo facendo i confronti il contenuto informativo era maggiore e non degradato da New york, NY che erano dati che sarebbero stati comuni a tutti.
-
-L'operazione è stata gratuita perché il servizio google cede un servizio di prova.
-
-
 % DA FARE:
 % inserire e commentare immagine di pipeline di lavoro
-% indirizzi google API, esempio di ciò che viene ritornato e di tutta l'informazine cosa abbiamo mantenuto
 
 % come facciamo a dire che siamo soddisfatti dell'integrazione dei DB, || PERCHè SI
 % partiamo dal fatto che rappresenta un caso reale, valutazione empirica.
