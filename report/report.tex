@@ -441,28 +441,57 @@ I dati di addestramento non sono generalmente disponibili nelle applicazioni di 
 	\caption{\textit{Interfaccia web per la classificazione manuale}}
 \end{figure}
 
-\noindent Nel nostro caso abbiamo confrontato le prime 100 coppie derivate dalla fase di \textit{comparison}, ottenendo X match. Queste informazioni saranno fondamentali per poter valutare l'efficacia degli algoritmi di classificazione usati. 
+\noindent Nel nostro caso abbiamo confrontato le prime 100 coppie derivate dalla fase di \textit{comparison}, ottenendo X match. Queste informazioni saranno fondamentali per poter valutare l'efficacia degli algoritmi di classificazione usati. \\
 
 \noindent \textbf{Risultati}: \\
 \noindent I dataset di partenza rappresentano un caso reale, siamo stati posti di fronte a dati inconsistenti, codificati in modi diversi, con attributi differenti e senza informazioni sui dati "veri" da poter usare come confronto per valutare l'efficacia del codice sviluppato, per questo possiamo analizzare in modo principalmente empirico i risultati ottenuti. \\
 
 \noindent Grazie all'interfaccia fornita dalla libreria \textit{Record Linkage Toolkit} abbiamo generato un insieme di matches verificati manualmente su un insieme di 100 coppie, grazie ai quali possiamo valutare l'efficacia degli algoritmi di classificazione utilizzati su un sottoinsieme di 100 coppie individuate. \\
 
-\noindent L'accuratezza dell'algoritmo ecm è 0.89 mentre di kmeans è 0.83
-Abbiamo generato le seguenti matrici di confusione: \\
-%come le riportiamo? 
+\noindent Con la matrice di confusione vogliamo calcolare l'accuratezza statistica della predizione dei dati che esegue la nostra macchina. Questo calcolo sarà effettuato sui modelli di machine learning che abbiamo scelto. 
+
+\noindent L'algoritmo ECM ha ottenuto dei piccoli punti percentuali maggiori di accuratezza rispetto al KMeans, vediamo di seguito la sua matrice di confusione ottenuta dalla presizione sui dati di test:
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\linewidth]{img/confusion_ecm.png}
+	\caption{\textit{matrice di confusione con ECM}}
+\end{figure}
+
+\noindent L'accuratezza dell'algoritmo ECM è 89\%. Dall'accuratezza sufficientemente alta notiamo che i risultati sono  buoni, infatti si riesce a ottenre 67 veri negativi, classificando solo 1 come falso positivo. D'altra parte i risultati sono meno soddisfacenti se guardiamo le predizioni positive infatti abbiamo 10 falsi positivi e 22 veri positivi, quindi circa un terzo sono stati classificati non correttamente. \\
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=1\linewidth]{img/analysis_ecm.png}
+	\caption{\textit{Misurazioni con ECM}}
+\end{figure}
+
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\linewidth]{img/confusion_kmeans.png}
+	\caption{\textit{matrice di confusione con KMeans}}
+\end{figure}
+
+\noindent In questo caso il livello di accuratezza è inferiore, infatti è del 83\%. Vengono predetti correttamente 15 casi su 32 per le predizioni positive e 68 casi su 68 per le predizioni negative. Seppure il risultato per le predizioni negative è perfetto, il classificatore KMean perde in accurancy rispetto a ECM perché sbaglia a predire i casi positivi. 
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=1\linewidth]{img/analysis_kmeans.png}
+	\caption{\textit{Misurazione con KMeans}}
+\end{figure}
 
 \noindent Dopo aver individuato i match il dataset finale è dato dai record linkati (un record per coppia individuata) e i record per i quali non è stato individuato un match.
 Con il primo metodo abbiamo ottenuto X record per il dataset generato dall'algoritmo ECM e X per il dataset generato dall'algoritmo Kmeans. 
 \newpage
 \subsubsection{Metodo 2: Record linkage multiplo}
-Appurato il funzionamento e l'efficacia degli algoritmi ECM e K-Means è stato studiato un'approccio più dinamico e flessibile, al fine di evitare il processo manuale di categorizzazione della fase 1 e per parametrizzabile, dunque facile da impostare, l'ottimizzazione di ogni comparatore.\\
+Appurato il funzionamento e l'efficacia degli algoritmi ECM e K-Means è stato studiato un'approccio più dinamico e flessibile, al fine di evitare il processo manuale di categorizzazione della fase 1 e per parametrizzare, dunque rendere facile da impostare, l'ottimizzazione di ogni comparatore.\\
 Nella seguente sezione duqnue verrà presentato il funzionamento di tale approccio, correlato di un esempio di applicazione sui dataset analizzati.\\\\
 Supponiamo di voler linkare \textit{N} database, ottenendo come output un singolo dataset contenente quanta più informazione possibile dai database originali.\\
 Il processo di linkage multiplo esegue i seguenti passaggi:
 
 \begin{enumerate}
-	\item Scelta di un dataset \textit{i} tra gli \textit{N} datasets in input, da cui partirà il processo. La scelta può avvenire in modo randomico, oppure scegliendo il dataset che massimizza un determinata misura di qualità dei dati (es. completezza), per ottimizzare le fasi successive del processo.
+	\item Scelta di un dataset \textit{i} tra gli \textit{N} datasets in input, da cui partirà il processo. La scelta può avvenire in modo randomico, oppure scegliendo il dataset che massimizza una determinata misura di qualità dei dati (es. completezza), per ottimizzare le fasi successive del processo.
 	\item Dividire i dataset in due insiemi: \[Analizzati = \emptyset, Da\_analizzare = N\]
 	\item Per ogni dataset \textit{$k \in Da\_analizzare, con$ $k \neq i$}:
 	\begin{enumerate}
@@ -495,7 +524,7 @@ Nella \textit{Fig. 9} si vedono in azione le prime tre iterazioni, partendo dal 
 	\caption{\textit{Prime tre iterazioni del record linkage multiplo sui dataset dei ristoranti. Notare come ad ogni iterazioni il numero di record per dataset si riduce.}}
 \end{figure}
 
-Una volta esauriti i dataset da analizzare questi vengono concatenati per produrre l'output finale, a cui viene ulteriormente controllata la presenza di un indirizzo.
+\noindent Una volta esauriti i dataset da analizzare questi vengono concatenati per produrre l'output finale, a cui viene ulteriormente controllata la presenza di un indirizzo.
 
 \newpage
 \printbibliography[title=Bibliografia]
