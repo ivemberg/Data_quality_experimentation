@@ -118,7 +118,7 @@
 
 \section{Ricerca preliminare} 
 
-Il progetto che verrà esposto è consultabile alla seguente \href{https://github.com/ivemberg/Data_quality_experimentation}{repository}.
+Il progetto che verrà esposto è consultabile alla seguente \href{https://github.com/ivemberg/Data_quality_experimentation}{\textbf{repository}}.
 
 \subsection{Data Quality}
 
@@ -266,7 +266,7 @@ Di seguito riportiamo i tools e le librerie che abbiamo utilizzato (o tentato di
 
 \subsubsection{Python Record Linkage Toolkit}
 Python Record Linkage Toolkit è una libreria che permette di effettuare record linkage sia in una sola fonte di dati che in molteplici. Il toolkit fornisce la maggior parte degli strumenti necessari per il collegamento e la deduplicazione dei record.
- Il package contiene metodi di indexing, come blocking e sorted neighborhood indexing, funzioni per il confronto con diverse misure di similarità possibili e diversi algoritmi di classificazione, sia supervisionati che non. 
+Il package contiene metodi di indexing, come blocking e sorted neighborhood indexing, funzioni per il confronto con diverse misure di similarità possibili e diversi algoritmi di classificazione, sia supervisionati che non. 
 Uno degli obiettivi principale è proprio creare un framework estendibile per il collegamento dei record, per fare questo il tool è in grado di:
 \newpage
 \begin{itemize}
@@ -285,8 +285,7 @@ Pandas è una libreria software scritta in linguaggio python che permette la man
 \noindent Questo tool è in grado di pulire, esplorare e elaborare i dati. In Pandas una tabella viene chiamata dataframe, ed è proprio grazie a questo tool che siamo riusciti  creare i due dataframe principali che poi utilizziamo nella fase di record linkage.
 
 \subsubsection{Fuzzy Matcher}
-Fuzzy Matcher è un pacchetto python che permette all'utente di collegare due dataframe pandas basati su uno o più campi in comune. Fuzzymatches usano la ricerca del testo completa sqlite3 per trovare dei match potenziali. É molto limitato.
-% lo  usiamo si o no? se si scrivere perchè, se no scrivere perchè
+Fuzzy Matcher è un pacchetto python che permette all'utente di collegare due dataframe pandas basati su uno o più campi in comune. Fuzzymatches usano la ricerca del testo completa sqlite3 per trovare dei match potenziali. Nonostante sia stato a fini del progetto, questo tool non viene utilizzato poichè non aggiungeva nessuna informazione al record linkage fatto.
 
 \newpage
 \section{Sperimentazione}
@@ -388,7 +387,6 @@ Text Search, la quale è molto simile alla funzione di autocompletamento present
 
 \noindent Nello specifico,  dato che tutti i ristoranti sono a New York, abbiamo splittato la stringa recuperando solo la prima parte (fino alla prima virgola), in quanto l'informazione sulla città è superflua. 
  
-%CAMBIARE ESEMPIO PERCHè C'è SCRITTO AUSTRALIA MINCHIA
 es preso dall'immagine
 140 george st, the rocks Nsw 200m, australia
 
@@ -427,16 +425,16 @@ Successivamente sono stati rimossi i duplicati presenti basandoci solo sulle col
 
 \noindent Successivamente viene applicata la \textbf{deduplicazione}, ossia una tecnica usata per eliminare copie duplicate di dati ripetuti. È possibile applicarla attraverso la libreria \textit{Record Linkage Toolkit} in quanto viene vista come un record linkage effettuato tra il database e se stesso. Come tecnica di \textit{indexing} usiamo \textit{sortedneighbourhood} (che illustreremo in dettaglio in seguito) ed effettuiamo la fare di \textit{comparing} sugli attributi comuni nei rispettivi gruppi di dataset.
 
-\noindent In questa fase iniziale per classificare i match ci siamo basati esclusivamente sul punteggio di score ottenuto dalla fase di comparing, in modo da poter includere con sicurezza record che differivano solo di poche lettere (ad esempio i ristoranti "Bubba Gump Shrimp Co." e "Bubba Gump Shrimp Company"), scegliendo come valore di soglia dello score %inserire valore.
+\noindent In questa fase iniziale per classificare i match ci siamo basati esclusivamente sul punteggio di score ottenuto dalla fase di comparing, in modo da poter includere con sicurezza record che differivano solo di poche lettere (ad esempio i ristoranti "Bubba Gump Shrimp Co." e "Bubba Gump Shrimp Company"), scegliendo come valore di soglia dello score 1.75.
 
 \noindent Una volta individuati i match sono stati unificati i dati in modo da creare un dataframe contenente le informazioni uniche utili per ogni match trovato. Per ottenere il dataset finale dal primo dataframe ottenuto come l'append dei csv importati sono state rimosse tutte le righe delle coppie presenti nei match e sono state aggiunti i record unificati contenenti le informazioni complete.
 
-\noindent Da questa fase sono risultati due dataset, rispettivamente di 7524 e di 13379 record, invece dei 58614 %controllare sia giusto by ivo
+\noindent Da questa fase sono risultati due dataset, rispettivamente di 7524 e di 13379 record, invece dei 58614 
 record totali derivati dall'unione di tutti i 12 file iniziali.
 
 \subsubsection{Fase principale: record linkage}
 Per la fase di record linkage abbiamo seguito la seguente pipeline: 
-%inserire immagine
+%inserire immagine, farne due
 
 \noindent I passi principali seguiti sono i seguenti:
 \begin{itemize}
@@ -454,14 +452,13 @@ Per la fase di record linkage abbiamo seguito la seguente pipeline:
 \subsubsection{PIPPO}
 I dati di addestramento non sono generalmente disponibili nelle applicazioni di record linkage perché sono set di dati specifici del campione, infatti nel nostro caso non sono forniti dei true matches. \\
 
-\noindent Python Record Linkage Toolkit fornisce un'interfaccia utente basata su browser per la classificazione manuale delle coppie di record. Il software RecordLinkage Annotator utilizza un file di annotazione strutturato, che si può creare attraverso la funzione \href{https://recordlinkage.readthedocs.io/en/latest/annotation.html#recordlinkage.write_annotation_file}%% appena arrivo a casa faccio il collegamento fatto bene
+\noindent Python Record Linkage Toolkit fornisce un'interfaccia utente basata su browser per la classificazione manuale delle coppie di record. Il software RecordLinkage Annotator utilizza un file di annotazione strutturato, che si può creare attraverso la funzione \href{https://recordlinkage.readthedocs.io/en/latest/annotation.html}{recordlinkage.write_annotation_file().} %da errore qui, non capisco
 Questa funzione può essere anche usata sia per il linkaggio che per la deduplicazione.\\
 Nel nostro caso abbiamo confrontato 50 coppie provenienti dai due datafreame creati. \\
 Mostriamo ora l'interfaccia utilizzata per compiere le scelte:
 
 \begin{figure}[H]
 	\centering
-	%\includegraphics[width=0.8\linewidth]{img/match.jpeg}
 	\includegraphics[width=0.8\linewidth]{img/matchCenter.png}
 	\caption{\textit{Interfaccia web per la classificazione manuale}}
 \end{figure}
@@ -471,12 +468,7 @@ Mostriamo ora l'interfaccia utilizzata per compiere le scelte:
 \noindent Quello che otteniamo alla fine sono 18 coppie che presentano match, % da capire se confronto va fatto con sottoinsieme coppie o no
 
 \textbf{Risultati}: 
-% non saprei che altro scrivere
-
-\subsection{Gold Standard}
-Il gold standard fornito è un elenco di 467 rimossi da alcuni siti web con l'informazione riguardante il suo stato al momento della verifica (Y = aperto, N = chiuso). 
-% lo mettiamo? se lo mettiamo dobbiamo argomentare
-
+% scrivere cosa abbiamo ottuneto con i due approcci differenti. possiamo concludere anche parlando di quello scritto sotto? "soddisfazione dell'integrazione dei db"
 
 % DA FARE:
 % inserire e commentare immagine di pipeline di lavoro
