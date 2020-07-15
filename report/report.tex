@@ -16,7 +16,8 @@
 \usepackage{amsmath}
 \usepackage{blindtext}
 \usepackage{enumitem}
-
+\usepackage{booktabs}
+\usepackage[table,xcdraw]{xcolor}
 
 \makeatletter
 \patchcmd\l@section{%
@@ -464,7 +465,48 @@ Abbiamo generato le seguenti matrici di confusione: \\
 
 \noindent Dopo aver individuato i match il dataset finale è dato dai record linkati (un record per coppia individuata) e i record per i quali non è stato individuato un match.
 Con il primo metodo abbiamo ottenuto X record per il dataset generato dall'algoritmo ECM e X per il dataset generato dall'algoritmo Kmeans. 
+\newpage
+\subsubsection{Metodo 2: Record linkage multiplo}
+Appurato il funzionamento e l'efficacia degli algoritmi ECM e K-Means è stato studiato un'approccio più dinamico e flessibile, al fine di evitare il processo manuale di categorizzazione della fase 1 e per parametrizzabile, dunque facile da impostare, l'ottimizzazione di ogni comparatore.\\
+Nella seguente sezione duqnue verrà presentato il funzionamento di tale approccio, correlato di un esempio di applicazione sui dataset analizzati.\\\\
+Supponiamo di voler linkare \textit{N} database, ottenendo come output un singolo dataset contenente quanta più informazione possibile dai database originali.\\
+Il processo di linkage multiplo esegue i seguenti passaggi:
 
+\begin{enumerate}
+	\item Scelta di un dataset \textit{i} tra gli \textit{N} datasets in input, da cui partirà il processo. La scelta può avvenire in modo randomico, oppure scegliendo il dataset che massimizza un determinata misura di qualità dei dati (es. completezza), per ottimizzare le fasi successive del processo.
+	\item Dividire i dataset in due insiemi: \[Analizzati = \emptyset, Da\_analizzare = N\]
+	\item Per ogni dataset \textit{$k \in Da\_analizzare, con$ $k \neq i$}:
+	\begin{enumerate}
+		\item Record linkage del dataset \textit{i} con il dataset \textit{k};
+		\item Per ogni match trovato accorpare (eventuale) informazione aggiuntiva del record $\in$ k al record $\in$ i;
+		\item Eliminare da \textit{k} ogni record di match individuato.
+	\end{enumerate}
+	\item Aggiornamento dei due insiemi: \[Analizzati = Analizzati \cup \{i\}, Da\_analizzare = Da\_analizzare - \{i\}\]
+	\item Se \(Da\_analizzare \neq \emptyset\) scegliere un nuovo dataset \(i \in Da\_analizzare\), secondo criteri descritti nel passo 1, e ripetere passo 3.
+\end{enumerate}
+Alla fine di ogni iterazione nel dataset \textit{i} sono presenti record rappresentati entità univoche oppure record di cui sono state trovate copie in altri dataset, a cui viene aggiunta (eventuale) nuova informazione.\\Una volta processati tutti i datasets non rimane che:
+\begin{enumerate}[resume]
+	\item Concatenare ogni dataset $\in$ \textit{Analizzare},
+\end{enumerate}
+producendo in output il dataset cercato.
+\subsubsection*{Applicazione}
+Per semplificare la gestione del metodo, in particolare la fase di integrazione delle informazioni (3.b), si è scelto di eseguire un'ulteriore fase di preprocessing dei dati. Tale fase prevede:
+\begin{itemize}
+	\item Per ogni dataset contenente informazioni circa indirizzo standardizzato via Google API: rimozione record senza indirizzo e rimozione colonne circa altri indirizzi.
+	\item Deduplication con compare su nome ristorante, quartiere ed indirizzo standardizzato (se presenti).
+	\item Standardizzazione dello schema di ogni dataset. Se una colonna non esiste viene aggiunta con valori vuoti. Ciò consentirà uno scambio di informazioni più rapido e semplice tra datasets.
+\end{itemize}
+Dunque viene eseguita la funzione \textbf{link\_reduce}, che implementa record linkage multiplo. Questa prende in input i datasets, il nome del dataset di partenza ed i parametri utilizzati nelle comparazioni (es. thresholds per valutazione match effettivi, windows, algoritmo ML, ecc.).\\
+Tutti i match trovati tramite l'algoritmo sono stati considerati match possibili: i match reali sono identificati calcolando la distanza Jaro-Winkler tra il valore del nome del ristorante dei match possibili.\\
+Nella \textit{Fig. 9} si vedono in azione le prime tre iterazioni, partendo dal dataset \textit{VillageVoice} con algoritmo ML K-Means. Sono riportati il numero di match reali per ogni coppia di database linkati e l'evoluzione del numero totale di record per dataset.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\linewidth]{img/Method2.png}
+	\caption{\textit{Prime tre iterazioni del record linkage multiplo sui dataset dei ristoranti. Notare come ad ogni iterazioni il numero di record per dataset si riduce.}}
+\end{figure}
+
+Una volta esauriti i dataset da analizzare questi vengono concatenati per produrre l'output finale, a cui viene ulteriormente controllata la presenza di un indirizzo.
 
 \newpage
 \printbibliography[title=Bibliografia]

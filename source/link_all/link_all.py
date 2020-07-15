@@ -120,11 +120,11 @@ def link_reduce(from_rest: str, dfs: dict, window: int, th: float, classifier: s
 
                 # 4 - DROP RIGHT ON MATCHES INDEX
                 index_to_drop = set(matches.get_level_values(1))
-                #print(f"\tddf before drop: {len(ddf.index)}")
+                print(f"\t{rr} before drop: {len(ddf.index)}")
                 ddf.drop(index_to_drop, inplace=True)
                 dfs_copy[rr] = ddf.copy()
                 dfs_reduce[rr] = ddf.copy()
-                #print(f"\tddf after drop: {len(dfs_reduce[rr].index)}\n")
+                print(f"\t{rr} after drop: {len(dfs_reduce[rr].index)}\n")
 
         del dfs_reduce[rest]
 
@@ -220,7 +220,7 @@ def main():
     # Settings
     dedWindow = 9
     dedTh = 0.9
-    linkStart = 'OpenTable'
+    linkStart = 'VillageVoice'
     linkMl = 'kmeans'
     linkWindow = 9
     linkTh = 0.9
