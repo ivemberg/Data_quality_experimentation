@@ -222,15 +222,16 @@ def secondDFgenerator():
     
     return df
 
+"""
+def main():
 
-# def main():
-
-#     df1 = firstDFgenerator()
-#     df2 = secondDFgenerator()
-    
+    df1 = firstDFgenerator()
+    df2 = secondDFgenerator()
+    print(len(df1), len(df2))
 #     df1.to_csv('./data/restaurants_integrated/output_recordlinkage/df1_ded_address.csv', header=True, sep=";", decimal=',', float_format='%.3f', index=False)
 #     df2.to_csv('./data/restaurants_integrated/output_recordlinkage/df2_ded_addressGoogle.csv', header=True, sep=";", decimal=',', float_format='%.3f', index=False)
 	
 
-# if __name__ == '__main__':
-#     main()
+if __name__ == '__main__':
+    main()
+"""

@@ -414,49 +414,48 @@ In entrambi i metodi, però, si seguono i passi principali del record linkage, c
 
 
 \subsubsection{Metodo 1}
-In questo approccio ci si è ricondotti al problema di record linkag
+%immagine
+In questo approccio ci si è ricondotti al problema di record linkage fra due dataset passando dunque dai 12 dataset iniziali a due finali.
+
 Analizzando i dataset ottenuti siamo riusciti ad individuare delle caratteristiche comuni in grado di distinguerli in due macro gruppi:
 Nei dataset \textit{FoodBuzz, NYMag, NYTimes, OpenTable, SavoryCities} si hanno esclusivamente il nome del ristorante e il quartiere (solo in \textit{FoodBuzz} abbiamo in aggiunta l'indirizzo, che ci permetterà il linkage con l'altro dataset), nei dataset \textit{TimeOut, ActiveDiner, DiningGuide, MenuPages, TasteSpace, VillageVoice}, invece, abbiamo nome del ristorante e indirizzo in tutti i file.
 
 \noindent Per ogni insieme di dataset, dopo aver uniformato i nomi e l'ordine delle colonne presenti, abbiamo eseguito un append di tutti i dataframe generati importando i file csv. 
 Successivamente sono stati rimossi i duplicati presenti basandoci solo sulle colonne comuni per tutti, ossia \textit{restaurant} e \textit{neighbourhood} nel primo caso e \textit{restaurant} e \textit{addressGoogle} nel secondo.
 
-\noindent Successivamente viene applicata la \textbf{deduplicazione}, ossia una tecnica usata per eliminare copie duplicate di dati ripetuti. È possibile applicarla attraverso la libreria \textit{Record Linkage Toolkit} in quanto viene vista come un record linkage effettuato tra il database e se stesso. Come tecnica di \textit{indexing} usiamo \textit{sortedneighbourhood} (che illustreremo in dettaglio in seguito) ed effettuiamo la fare di \textit{comparing} sugli attributi comuni nei rispettivi gruppi di dataset.
+\noindent Successivamente viene applicata la \textbf{deduplicazione}, ossia una tecnica usata per eliminare copie duplicate di dati ripetuti. È possibile applicarla sempre attraverso la libreria \textit{Record Linkage Toolkit} in quanto viene vista come un record linkage effettuato tra il database e se stesso. Come tecnica di \textit{indexing} usiamo \textit{sortedneighbourhood} ed effettuiamo la fase di \textit{comparing} sugli attributi comuni nei rispettivi gruppi di dataset.
 
 \noindent In questa fase iniziale per classificare i match ci siamo basati esclusivamente sul punteggio di score ottenuto dalla fase di comparing, in modo da poter includere con sicurezza record che differivano solo di poche lettere (ad esempio i ristoranti "Bubba Gump Shrimp Co." e "Bubba Gump Shrimp Company"), scegliendo come valore di soglia dello score 1.75.
 
 \noindent Una volta individuati i match sono stati unificati i dati in modo da creare un dataframe contenente le informazioni uniche utili per ogni match trovato. Per ottenere il dataset finale dal primo dataframe ottenuto come l'append dei csv importati sono state rimosse tutte le righe delle coppie presenti nei match e sono state aggiunti i record unificati contenenti le informazioni complete.
 
-\noindent Da questa fase sono risultati due dataset, rispettivamente di 7524 e di 13379 record, invece dei 58614 
-record totali derivati dall'unione di tutti i 12 file iniziali.
+\noindent Da questa fase sono risultati due dataset, rispettivamente di 6468 e di 15093 record, invece dei 58614 record totali derivati dall'unione di tutti i 12 file iniziali.
 
-\subsubsection{PIPPO}
+\subsubsection{Metodo 2}
+%CIAO FEDE TUTTO TUO 
+
+\subsubsection{True Matches}
 I dati di addestramento non sono generalmente disponibili nelle applicazioni di record linkage perché sono set di dati specifici del campione, infatti nel nostro caso non sono forniti dei true matches. \\
 
-\noindent Python Record Linkage Toolkit fornisce un'interfaccia utente basata su browser per la classificazione manuale delle coppie di record. Il software RecordLinkage Annotator utilizza un file di annotazione strutturato, che si può creare attraverso la funzione \href{https://recordlinkage.readthedocs.io/en/latest/annotation.html}{recordlinkage.write\_annotation\_file()}
-Questa funzione può essere anche usata sia per il linkaggio che per la deduplicazione.\\
-Nel nostro caso abbiamo confrontato 50 coppie provenienti dai due datafreame creati. \\
-Mostriamo ora l'interfaccia utilizzata per compiere le scelte:
-
+\noindent \textit{Python Record Linkage Toolkit}  fornisce un'interfaccia utente per la classificazione manuale delle coppie di record. Il software RecordLinkage Annotator utilizza un file di annotazione strutturato, che si può creare attraverso la funzione \href{https://recordlinkage.readthedocs.io/en/latest/annotation.html}{recordlinkage.write\_annotation\_file()} sia per il linkaggio che per la deduplicazione.\\
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=0.8\linewidth]{img/matchCenter.png}
 	\caption{\textit{Interfaccia web per la classificazione manuale}}
 \end{figure}
 
-\noindent Nell'esempio che abbiamo appena fatto, possiamo notare come non ci sia nessun tipo di match in quanto nessuna delle informazioni presenti sono similari. \\
-
-\noindent Quello che otteniamo alla fine sono 18 coppie che presentano match, % da capire se confronto va fatto con sottoinsieme coppie o no
+Nel nostro caso abbiamo confrontato le prime 100 coppie derivate dalla fase di \textit{comparison}, ottenendo X match. Queste informazioni saranno fondamentali per poter valutare l'efficacia degli algoritmi di classificazione usati. 
 
 \textbf{Risultati}: 
-% scrivere cosa abbiamo ottuneto con i due approcci differenti. possiamo concludere anche parlando di quello scritto sotto? "soddisfazione dell'integrazione dei db"
+I dataset di partenza rappresentano un caso reale, siamo stati posti di fronte a dati inconsistenti, codificati in modi diversi, con attributi differenti e senza informazioni sui dati "veri" da poter usare come confronto per valutare l'efficacia del codice sviluppato, per questo possiamo analizzare in modo principalmente empirico i risultati ottenuti.
 
-% DA FARE:
-% inserire e commentare immagine di pipeline di lavoro
+Grazie all'interfaccia fornita dalla libreria \textit{Record Linkage Toolkit} abbiamo generato un insieme di matches verificati manualmente su un insieme di 100 coppie, grazie ai quali possiamo valutare l'efficacia degli algoritmi di classificazione utilizzati. 
+L'accuratezza dell'algoritmo ecm è ... mentre di kmean è ...
+Abbiamo generato le seguenti matrici di confusione:
 
-% come facciamo a dire che siamo soddisfatti dell'integrazione dei DB, || PERCHè SI || Siamo soddisfatti perchè partendo da 7 file di testo contenenti in alcuni casi informazioni futili o assenti, attraverso la nostra operazione di pulizia dei dati, siamo riusciti a creaere due db che interagendo tra di loro forniscono delle info più che soddisfacenti. possiamo scrivere una cagata così
-% partiamo dal fatto che rappresenta un caso reale, valutazione empirica.
-% Con ECM probabilà 3 livelli di soglie,  || NON HO CAPITO by silvia || per ora non serve a un cazzo
+Dopo aver individuato i match il dataset finale è dato dai record linkati (un record per coppia individuata) e i record per i quali non è stato individuato un match.
+Con il primo metodo abbiamo ottenuto X record per il dataset generato dall'algoritmo ECM e X per il dataset generato dall'algoritmo Kmeans.
+
 
 \newpage
 \printbibliography[title=Bibliografia]
