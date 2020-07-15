@@ -128,7 +128,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 9861
+          "record": 11488
         }
       },
       "label": 0,
@@ -261,7 +261,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 6538
+          "record": 7335
         }
       },
       "label": 0,
@@ -277,7 +277,7 @@
           },
           "b": {
             "name": "restaurant",
-            "value": "107 West Restaurant",
+            "value": "108 Mini Cafe",
             "type": "String"
           },
           "similarity": null
@@ -303,7 +303,7 @@
           },
           "b": {
             "name": "address",
-            "value": "811 West 187th Street",
+            "value": "196 West 108th Street",
             "type": "String"
           },
           "similarity": null
@@ -316,7 +316,7 @@
           },
           "b": {
             "name": "addressGoogle",
-            "value": "811 W 187th St",
+            "value": "196 W 108th St",
             "type": "String"
           },
           "similarity": null
@@ -394,11 +394,11 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 1921
+          "record": 2039
         }
       },
-      "label": 1,
-      "label_str": "Match"
+      "label": 0,
+      "label_str": "Distinct"
     },
     {
       "fields": [
@@ -410,7 +410,7 @@
           },
           "b": {
             "name": "restaurant",
-            "value": "107 West Restaurant",
+            "value": "108 Mini Cafe",
             "type": "String"
           },
           "similarity": null
@@ -436,7 +436,7 @@
           },
           "b": {
             "name": "address",
-            "value": "811 West 187th Street",
+            "value": "196 West 108th Street",
             "type": "String"
           },
           "similarity": null
@@ -449,7 +449,7 @@
           },
           "b": {
             "name": "addressGoogle",
-            "value": "811 W 187th St",
+            "value": "196 W 108th St",
             "type": "String"
           },
           "similarity": null
@@ -527,7 +527,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 1921
+          "record": 2039
         }
       },
       "label": 0,
@@ -543,7 +543,7 @@
           },
           "b": {
             "name": "restaurant",
-            "value": "107 West Restaurant",
+            "value": "108 Mini Cafe",
             "type": "String"
           },
           "similarity": null
@@ -569,7 +569,7 @@
           },
           "b": {
             "name": "address",
-            "value": "811 West 187th Street",
+            "value": "196 West 108th Street",
             "type": "String"
           },
           "similarity": null
@@ -582,7 +582,7 @@
           },
           "b": {
             "name": "addressGoogle",
-            "value": "811 W 187th St",
+            "value": "196 W 108th St",
             "type": "String"
           },
           "similarity": null
@@ -660,7 +660,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 1921
+          "record": 2039
         }
       },
       "label": 0,
@@ -793,7 +793,140 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 1961
+          "record": 2080
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "2 Rivers Bar and ReStaurant",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "2 Seven 7",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "10 Murray St",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "277 Church St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "10 Murray Street",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "277 Church St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "American",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 3
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 2081
         }
       },
       "label": 0,
@@ -926,7 +1059,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 1962
+          "record": 2082
         }
       },
       "label": 0,
@@ -1059,7 +1192,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 1962
+          "record": 2082
         }
       },
       "label": 0,
@@ -1192,7 +1325,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 1962
+          "record": 2082
         }
       },
       "label": 0,
@@ -1325,7 +1458,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 1968
+          "record": 2088
         }
       },
       "label": 0,
@@ -1458,7 +1591,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 11880
+          "record": 14145
         }
       },
       "label": 0,
@@ -1591,7 +1724,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 12181
+          "record": 14515
         }
       },
       "label": 1,
@@ -1724,11 +1857,11 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 12181
+          "record": 14515
         }
       },
-      "label": 0,
-      "label_str": "Distinct"
+      "label": 1,
+      "label_str": "Match"
     },
     {
       "fields": [
@@ -1857,7 +1990,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 2070
+          "record": 2194
         }
       },
       "label": 0,
@@ -1990,7 +2123,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 2070
+          "record": 2194
         }
       },
       "label": 0,
@@ -2123,7 +2256,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 2098
+          "record": 2223
         }
       },
       "label": 0,
@@ -2256,7 +2389,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 2098
+          "record": 2223
         }
       },
       "label": 0,
@@ -2389,7 +2522,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 2098
+          "record": 2223
         }
       },
       "label": 0,
@@ -2522,140 +2655,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 11064
-        }
-      },
-      "label": 1,
-      "label_str": "Match"
-    },
-    {
-      "fields": [
-        {
-          "a": {
-            "name": "restaurant",
-            "value": "Abboccato",
-            "type": "String"
-          },
-          "b": {
-            "name": "restaurant",
-            "value": "Abboccato Restaurant",
-            "type": "String"
-          },
-          "similarity": null
-        },
-        {
-          "a": {
-            "name": "neighborhood",
-            "value": "Midtown West",
-            "type": "String"
-          },
-          "b": {
-            "name": "neighborhood",
-            "value": null,
-            "type": "String"
-          },
-          "similarity": null
-        },
-        {
-          "a": {
-            "name": "address",
-            "value": "136 W 55th St",
-            "type": "String"
-          },
-          "b": {
-            "name": "address",
-            "value": "136 West 55th Street",
-            "type": "String"
-          },
-          "similarity": null
-        },
-        {
-          "a": {
-            "name": "addressGoogle",
-            "value": "136 W 55th St",
-            "type": "String"
-          },
-          "b": {
-            "name": "addressGoogle",
-            "value": "136 W 55th St",
-            "type": "String"
-          },
-          "similarity": null
-        },
-        {
-          "a": {
-            "name": "country",
-            "value": "New York",
-            "type": "String"
-          },
-          "b": {
-            "name": "country",
-            "value": null,
-            "type": "String"
-          },
-          "similarity": null
-        },
-        {
-          "a": {
-            "name": "country_code",
-            "value": "NY",
-            "type": "String"
-          },
-          "b": {
-            "name": "country_code",
-            "value": "NY",
-            "type": "String"
-          },
-          "similarity": null
-        },
-        {
-          "a": {
-            "name": "type",
-            "value": "Italian",
-            "type": "String"
-          },
-          "b": {
-            "name": "type",
-            "value": null,
-            "type": "String"
-          },
-          "similarity": null
-        },
-        {
-          "a": {
-            "name": "cost",
-            "value": "$$$$",
-            "type": "String"
-          },
-          "b": {
-            "name": "cost",
-            "value": "",
-            "type": "String"
-          },
-          "similarity": null
-        },
-        {
-          "a": {
-            "name": "type_r",
-            "value": null,
-            "type": "String"
-          },
-          "b": {
-            "name": "type_r",
-            "value": null,
-            "type": "String"
-          },
-          "similarity": null
-        }
-      ],
-      "identifiers": {
-        "a": {
-          "dataset": "firstDF",
-          "record": 12
-        },
-        "b": {
-          "dataset": "secondDF",
-          "record": 6312
+          "record": 13231
         }
       },
       "label": 1,
@@ -2788,7 +2788,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 11000
+          "record": 13145
         }
       },
       "label": 0,
@@ -2921,7 +2921,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 11000
+          "record": 13145
         }
       },
       "label": 0,
@@ -3054,7 +3054,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 6580
+          "record": 7399
         }
       },
       "label": 0,
@@ -3187,7 +3187,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 11986
+          "record": 14285
         }
       },
       "label": 1,
@@ -3320,7 +3320,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 11986
+          "record": 14285
         }
       },
       "label": 1,
@@ -3453,7 +3453,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 9889
+          "record": 11516
         }
       },
       "label": 1,
@@ -3586,7 +3586,273 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 43
+          "record": 41
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Aj Maxwell's - Steakhouse",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Aja",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Midtown West",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Greenwich Village",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "57 West 48th Street",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": " 432 Sixth Ave-between 9th and 10th Sts",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "57 W 48th St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "432 6th Ave",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Steakhouse",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": "Asian: Pan-Asian",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 17
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 42
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Aj Maxwell's - Steakhouse",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Aja",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Midtown West",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "57 West 48th Street",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "1068 First Avenue",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "57 W 48th St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "1068 1st Avenue",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Steakhouse",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 17
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 6980
         }
       },
       "label": 0,
@@ -3719,7 +3985,140 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 2221
+          "record": 2357
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Ali Baba",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Ali Baba Restaurant",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Murray Hill",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Midtown East",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "206 E 34th St",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "212 East 34th Street",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "206 E 34th St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "212 E 34th St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Turkish",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": "Turkish",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 20
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 14290
         }
       },
       "label": 0,
@@ -3852,11 +4251,144 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 2221
+          "record": 2357
         }
       },
       "label": 0,
       "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Ali Baba",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Ali Baba Restaurant",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Midtown East",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Midtown East",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "212 E 34th St btwn Second and Third Aves",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "212 East 34th Street",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "212 E 34th St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "212 E 34th St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": "Turkish",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 4194
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 14290
+        }
+      },
+      "label": 1,
+      "label_str": "Match"
     },
     {
       "fields": [
@@ -3985,7 +4517,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 2234
+          "record": 2371
         }
       },
       "label": 0,
@@ -4118,7 +4650,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 2234
+          "record": 2371
         }
       },
       "label": 0,
@@ -4251,7 +4783,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 9896
+          "record": 11530
         }
       },
       "label": 0,
@@ -4384,7 +4916,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 9896
+          "record": 11530
         }
       },
       "label": 0,
@@ -4400,7 +4932,7 @@
           },
           "b": {
             "name": "restaurant",
-            "value": "Alonso’s Steakhouse",
+            "value": "Alonti Cafe",
             "type": "String"
           },
           "similarity": null
@@ -4413,7 +4945,7 @@
           },
           "b": {
             "name": "neighborhood",
-            "value": "Chelsea",
+            "value": null,
             "type": "String"
           },
           "similarity": null
@@ -4426,7 +4958,7 @@
           },
           "b": {
             "name": "address",
-            "value": " 265 W 20th St-between Seventh and Eighth Aves",
+            "value": "450 Lexington Ave",
             "type": "String"
           },
           "similarity": null
@@ -4439,7 +4971,7 @@
           },
           "b": {
             "name": "addressGoogle",
-            "value": "265 W 20th St",
+            "value": "450 Lexington Ave",
             "type": "String"
           },
           "similarity": null
@@ -4478,7 +5010,7 @@
           },
           "b": {
             "name": "type",
-            "value": "Steakhouses",
+            "value": null,
             "type": "String"
           },
           "similarity": null
@@ -4517,11 +5049,144 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 61
+          "record": 2380
         }
       },
-      "label": 1,
-      "label_str": "Match"
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Alonso's Steakhouse",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Alonti Cafe",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Chelsea",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "265 West 20th St",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "639 3rd Avenue",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "265 W 20th St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "639 3rd Ave",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Steakhouse",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 23
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 2381
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
     },
     {
       "fields": [
@@ -4650,7 +5315,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 11992
+          "record": 14292
         }
       },
       "label": 1,
@@ -4783,7 +5448,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 11992
+          "record": 14292
         }
       },
       "label": 0,
@@ -4799,7 +5464,7 @@
           },
           "b": {
             "name": "restaurant",
-            "value": "Alto Restaurant",
+            "value": "Alto11 E",
             "type": "String"
           },
           "similarity": null
@@ -4825,7 +5490,7 @@
           },
           "b": {
             "name": "address",
-            "value": "520 Madison Avenue",
+            "value": "53rd St-",
             "type": "String"
           },
           "similarity": null
@@ -4838,7 +5503,7 @@
           },
           "b": {
             "name": "addressGoogle",
-            "value": "520 Madison Ave",
+            "value": "W 53rd St",
             "type": "String"
           },
           "similarity": null
@@ -4916,11 +5581,11 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 6323
+          "record": 7437
         }
       },
-      "label": 1,
-      "label_str": "Match"
+      "label": 0,
+      "label_str": "Distinct"
     },
     {
       "fields": [
@@ -5049,7 +5714,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 11993
+          "record": 14293
         }
       },
       "label": 1,
@@ -5182,7 +5847,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 11993
+          "record": 14293
         }
       },
       "label": 1,
@@ -5315,7 +5980,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 9900
+          "record": 11534
         }
       },
       "label": 0,
@@ -5448,7 +6113,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 2282
+          "record": 2425
         }
       },
       "label": 1,
@@ -5581,7 +6246,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 2282
+          "record": 2425
         }
       },
       "label": 1,
@@ -5714,7 +6379,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 2282
+          "record": 2425
         }
       },
       "label": 1,
@@ -5730,7 +6395,7 @@
           },
           "b": {
             "name": "restaurant",
-            "value": "Angelo's Pizzeria",
+            "value": "Angelo's Pizza",
             "type": "String"
           },
           "similarity": null
@@ -5756,7 +6421,7 @@
           },
           "b": {
             "name": "address",
-            "value": "1043 2nd Avenue",
+            "value": "117 W 57th St-Btwn 6th & 7th Ave",
             "type": "String"
           },
           "similarity": null
@@ -5769,7 +6434,7 @@
           },
           "b": {
             "name": "addressGoogle",
-            "value": "1043 2nd Ave",
+            "value": "117 W 57th St",
             "type": "String"
           },
           "similarity": null
@@ -5847,7 +6512,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 12467
+          "record": 14581
         }
       },
       "label": 0,
@@ -5980,7 +6645,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 12184
+          "record": 14518
         }
       },
       "label": 1,
@@ -6113,7 +6778,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 12184
+          "record": 14518
         }
       },
       "label": 1,
@@ -6246,7 +6911,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 6647
+          "record": 7477
         }
       },
       "label": 1,
@@ -6379,7 +7044,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 2335
+          "record": 2488
         }
       },
       "label": 0,
@@ -6512,7 +7177,7 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 2336
+          "record": 2489
         }
       },
       "label": 0,
@@ -6645,11 +7310,5996 @@
         },
         "b": {
           "dataset": "secondDF",
-          "record": 2336
+          "record": 2489
         }
       },
       "label": 0,
       "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Aquagrill",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Aquamarina Restaurant",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "SoHo",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "4060 Broadway",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "210 Spring St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "4060 Broadway",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 5227
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 2489
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Arezzo",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Arezzo (CLOSED)",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Flatiron",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Chelsea",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "46 W 22nd St",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": " 46 W 22nd St-between Fifth and Sixth Aves",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "46 W 22nd St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "46 W 22nd St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Italian",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": "Italian",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 36
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 87
+        }
+      },
+      "label": 1,
+      "label_str": "Match"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Arezzo",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Arezzo (CLOSED)",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Chelsea",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Chelsea",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": " 46 W 22nd St-between Fifth and Sixth Aves",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "46 W 22nd St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": "Italian",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 2122
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 87
+        }
+      },
+      "label": 1,
+      "label_str": "Match"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Aroma",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Aroma Chinese Restaurant",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "NoLita",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "36 E Fourth St",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "465 West 125th Street Apt 12",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "36 E 4th St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "465 W 125th St APT 12",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Italian",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 37
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 2520
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Artie's Deli",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Artie's Delicatessen",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "nan",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "2290 Broadway",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "2290 Broadway-At 83rd St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "2290 Broadway",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "2290 Broadway",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": "nan",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 38
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 13265
+        }
+      },
+      "label": 1,
+      "label_str": "Match"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Artisanal",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Artisanal Cheese Center",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Lower East Side",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Midtown West",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "2 Park Avenue",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": " 500 W 37th St-at Tenth Ave",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "2 Park Ave",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "500 W 37th St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "French",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": "French",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 39
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 98
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Artisanal",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Artisanal Cheese Center",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Murray Hill",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Midtown West",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": " 500 W 37th St-at Tenth Ave",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "nan",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "500 W 37th St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": "French",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 5233
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 98
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Asia De Cuba",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Asia Grill",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Murray Hill",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "237 Madison Ave",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "1239 2nd Avenue",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "237 Madison Ave",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "1239 2nd Ave",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Asian",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 40
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 7001
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Asiakan",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Asian Bistro",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Upper West Side",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "710 Amsterdam Ave.",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "70 Seventh Ave -",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "710 Amsterdam Ave",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Pan-Asian",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 41
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 102
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Asiakan",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Asian Bistro",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Upper West Side",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "710 Amsterdam Ave.",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "70 7th Ave-At 14th St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "710 Amsterdam Ave",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "70 7th Ave",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Pan-Asian",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 41
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 7509
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Aspen",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Aspen Social Club",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Midtown West",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "30 W 22nd St",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": " 157 W 47th St-between Sixth and Seventh Aves",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "30 W 22nd St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "157 W 47th St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": "American",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 42
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 105
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Aspen",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Aspen Social Club",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Flatiron",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Midtown West",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": " 157 W 47th St-between Sixth and Seventh Aves",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "157 W 47th St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": "American",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 694
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 105
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Aspen",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Aspen Social Club",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Gramercy / Flatiron",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Midtown West",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": " 157 W 47th St-between Sixth and Seventh Aves",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "157 W 47th St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": "American",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 3871
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 105
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Aspen Social Club",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Aspen30 W",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Midtown West",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "157 W 47th St",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "22nd St-",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "157 W 47th St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "W 22nd St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "American",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 43
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 7513
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Aspen Social Club",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Aspen30 W",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Times Square",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "22nd St-",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "W 22nd St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 3872
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 7513
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Atnhos",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Atomic Wings",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "East Village",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "36 W. 52nd Street",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": " 184 First Ave-between 11th & 12th",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "36 W 52nd St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "184 1st Avenue",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Greek",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": "American",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 44
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 112
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Atnhos",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Atomic Wings",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Midtown West",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "36 W. 52nd Street",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": " 528 Ninth Ave-between 39th and 40th Sts",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "36 W 52nd St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "528 9th Ave",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Greek",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": "American",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 44
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 113
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Atnhos",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Atomic Wings",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "West Village",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "36 W. 52nd Street",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": " 179 W 4th St-between 6th and 7th Sts",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "36 W 52nd St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "179 West 4th Street",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Greek",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": "American",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 44
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 114
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Atnhos",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Atomic Wings",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "36 W. 52nd Street",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "175 West 4th Street",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "36 W 52nd St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "175 West 4th Street",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Greek",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 44
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 2550
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Atnhos",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Atomic Wings",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "36 W. 52nd Street",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "1770 2nd Ave",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "36 W 52nd St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "1770 2nd Ave",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Greek",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 44
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 2551
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Atnhos",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Atomic Wings",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "36 W. 52nd Street",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "528 9th Avenue Apt 4R",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "36 W 52nd St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "528 9th Ave #4R",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Greek",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 44
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 2552
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Atnhos",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Atomic Wings",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "36 W. 52nd Street",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "2180 Broadway",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "36 W 52nd St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "2180 Broadway",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Greek",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 44
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 2553
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Atnhos",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Atomic Wings",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "36 W. 52nd Street",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "1140 2 Av",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "36 W 52nd St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "1140 2 Av",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Greek",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 44
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 2554
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Atnhos",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Atomic Wings",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "36 W. 52nd Street",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "1644 3rd Avenue",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "36 W 52nd St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "1644 3rd Ave",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Greek",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 44
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 7004
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Atnhos",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Atomic Wings",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "36 W. 52nd Street",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "311 Broadway-Btwn Thomas & Duane St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "36 W 52nd St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "311 Broadway",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Greek",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 44
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 7519
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Atnhos",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Atomic Wings",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "36 W. 52nd Street",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "2090 Frederick Douglass Blvd-Btwn 113th & 114th St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "36 W 52nd St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "2090 Frederick Douglass Blvd",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Greek",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 44
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 7520
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Atnhos",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Atomic Wings",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "36 W. 52nd Street",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "1140 2nd Ave-At 60th St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "36 W 52nd St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "1140 2nd Ave",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Greek",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 44
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 7521
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Atnhos",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Atomic Wings",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Upper East Side",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "36 W. 52nd Street",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "1495 1st Avenue",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "36 W 52nd St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "1495 1st Avenue",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Greek",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": "American",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 44
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 12940
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Aureole",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Aureole (CLOSED)",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Midtown East",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Upper East Side",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "34 E 61st St (Between Park and Madison)",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "34 East 61st Street",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "34 E 61st St (Between Park and Madison)",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "34 E 61st St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "American",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": "American Creative",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 45
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 14844
+        }
+      },
+      "label": 1,
+      "label_str": "Match"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Aureole",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Aureole (CLOSED)",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Upper E. Side",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Upper East Side",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "34 East 61st Street",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "nan",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "34 E 61st St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": "American Creative",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 5238
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 14844
+        }
+      },
+      "label": 1,
+      "label_str": "Match"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Awash",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Awash Ethiopian Restaurant",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Upper West Side",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "947 Amsterdam Ave.",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "947 Amsterdam Avenue",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "947 Amsterdam Ave",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "947 Amsterdam Ave",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Ethiopian",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": "African: Ethiopian",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 47
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 14845
+        }
+      },
+      "label": 1,
+      "label_str": "Match"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Awash",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Awash Ethiopian Restaurant",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "East Village",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Upper West Side",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "947 Amsterdam Avenue",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "947 Amsterdam Ave",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": "African: Ethiopian",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 697
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 14845
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Awash",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Awash Ethiopian Restaurant",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Upper W. Side",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Upper West Side",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "947 Amsterdam Avenue",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "nan",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "947 Amsterdam Ave",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": "African: Ethiopian",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 5239
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 14845
+        }
+      },
+      "label": 1,
+      "label_str": "Match"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Azucar",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Azucar (Guantanamera)",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Midtown West",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Midtown West",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "939 Eighth Avenue",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "939 8th Avenue",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "939 8th Ave",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "939 8th Ave",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Cuban",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": "Caribbean: Cuban",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 48
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 14846
+        }
+      },
+      "label": 1,
+      "label_str": "Match"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Azuri Cafe",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Azuri Café",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Midtown West",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "nan",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "465 W 51st St",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "465 West 51st Street",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "465 W 51st St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "465 W 51st St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Jewish",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": "nan",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 49
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 14847
+        }
+      },
+      "label": 1,
+      "label_str": "Match"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Azuri Cafe",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Azuri Café",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Hell's Kitchen",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "nan",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "465 West 51st Street",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "465 W 51st St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": "nan",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 700
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 14847
+        }
+      },
+      "label": 1,
+      "label_str": "Match"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Azza",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Azza137 E",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Midtown East",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "137 E. 55th Street",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "55th St-",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "137 E 55th St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "W 55th St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Moroccan",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 50
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 7540
+        }
+      },
+      "label": 1,
+      "label_str": "Match"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "BLT Fish",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "BLT Fish Bistro Laurent Tourondel",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Flatiron",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "21 W 17th St",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "111 East 22nd Street",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "21 W 17th St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "111 E 22nd St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Seafood",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 51
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 7009
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "BLT Fish",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "BLT Fish Bistro Laurent Tourondel",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Flatiron",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Chelsea",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "21 W 17th St",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "21 West 17th Street",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "21 W 17th St",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "21 W 17th St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Seafood",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": "Seafood",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 51
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 14524
+        }
+      },
+      "label": 1,
+      "label_str": "Match"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "BLT Fish",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "BLT Fish Bistro Laurent Tourondel",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Union Square",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "111 East 22nd Street",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "111 E 22nd St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 706
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 7009
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "BLT Fish",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "BLT Fish Bistro Laurent Tourondel",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Union Square",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Chelsea",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "21 West 17th Street",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "21 W 17th St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": "Seafood",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 706
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 14524
+        }
+      },
+      "label": 1,
+      "label_str": "Match"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "BLT Fish",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "BLT Fish Bistro Laurent Tourondel",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Chelsea",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "111 East 22nd Street",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "111 E 22nd St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 2135
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 7009
+        }
+      },
+      "label": 0,
+      "label_str": "Distinct"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "BLT Fish",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "BLT Fish Bistro Laurent Tourondel",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Chelsea",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Chelsea",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "21 West 17th Street",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "21 W 17th St",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": "Seafood",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 2135
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 14524
+        }
+      },
+      "label": 1,
+      "label_str": "Match"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Babbo",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Babbo Ristorante e Enoteca",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "Greenwich Village",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Greenwich Village",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": "110 Waverly Pl",
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "110 Waverly Pl.",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "110 Waverly Pl",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "110 Waverly Pl",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": "Italian",
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": "$$$$",
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": "Italian",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 52
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 15042
+        }
+      },
+      "label": 1,
+      "label_str": "Match"
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "restaurant",
+            "value": "Babbo",
+            "type": "String"
+          },
+          "b": {
+            "name": "restaurant",
+            "value": "Babbo Ristorante e Enoteca",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "neighborhood",
+            "value": "W. Village",
+            "type": "String"
+          },
+          "b": {
+            "name": "neighborhood",
+            "value": "Greenwich Village",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "address",
+            "value": "110 Waverly Pl.",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "addressGoogle",
+            "value": "nan",
+            "type": "String"
+          },
+          "b": {
+            "name": "addressGoogle",
+            "value": "110 Waverly Pl",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country",
+            "value": "New York",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "country_code",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "country_code",
+            "value": "NY",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type",
+            "value": null,
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "cost",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "cost",
+            "value": "",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "type_r",
+            "value": null,
+            "type": "String"
+          },
+          "b": {
+            "name": "type_r",
+            "value": "Italian",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": "firstDF",
+          "record": 5242
+        },
+        "b": {
+          "dataset": "secondDF",
+          "record": 15042
+        }
+      },
+      "label": 1,
+      "label_str": "Match"
     }
   ]
 }
