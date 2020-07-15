@@ -104,12 +104,12 @@ def linkDB(df1, df2, type, classifier):
 	
 	if classifier == "ecm":
 		test_matches = ecm.predict(test_features)
-		cm = recordlinkage.confusion_matrix(annotations.links, test_matches, total = 50)
-		acc = recordlinkage.accuracy(annotations.links, test_matches, total = 50)
+		cm = recordlinkage.confusion_matrix(annotations.links, test_matches, total = 100)
+		acc = recordlinkage.accuracy(annotations.links, test_matches, total = 100)
 	elif classifier == "kmeans":
 		test_matches = kmeans.fit_predict(test_features)
-		cm = recordlinkage.confusion_matrix(annotations.links, test_matches, total = 50)
-		acc = recordlinkage.accuracy(annotations.links, test_matches, total = 50)
+		cm = recordlinkage.confusion_matrix(annotations.links, test_matches, total = 100)
+		acc = recordlinkage.accuracy(annotations.links, test_matches, total = 100)
 	
 	print(cm, acc)
 	

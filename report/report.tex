@@ -449,9 +449,11 @@ Nel nostro caso abbiamo confrontato le prime 100 coppie derivate dalla fase di \
 \textbf{Risultati}: 
 I dataset di partenza rappresentano un caso reale, siamo stati posti di fronte a dati inconsistenti, codificati in modi diversi, con attributi differenti e senza informazioni sui dati "veri" da poter usare come confronto per valutare l'efficacia del codice sviluppato, per questo possiamo analizzare in modo principalmente empirico i risultati ottenuti.
 
-Grazie all'interfaccia fornita dalla libreria \textit{Record Linkage Toolkit} abbiamo generato un insieme di matches verificati manualmente su un insieme di 100 coppie, grazie ai quali possiamo valutare l'efficacia degli algoritmi di classificazione utilizzati. 
-L'accuratezza dell'algoritmo ecm è ... mentre di kmean è ...
+Grazie all'interfaccia fornita dalla libreria \textit{Record Linkage Toolkit} abbiamo generato un insieme di matches verificati manualmente su un insieme di 100 coppie, grazie ai quali possiamo valutare l'efficacia degli algoritmi di classificazione utilizzati su un sottoinsieme di 100 coppie individuate.
+
+L'accuratezza dell'algoritmo ecm è 0.89 mentre di kmeans è 0.83
 Abbiamo generato le seguenti matrici di confusione:
+%come le riportiamo? 
 
 Dopo aver individuato i match il dataset finale è dato dai record linkati (un record per coppia individuata) e i record per i quali non è stato individuato un match.
 Con il primo metodo abbiamo ottenuto X record per il dataset generato dall'algoritmo ECM e X per il dataset generato dall'algoritmo Kmeans.
