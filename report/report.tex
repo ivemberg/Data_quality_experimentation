@@ -397,15 +397,15 @@ Nel caso di MenuPages, per esempio, inizialmente i dati erano presenti in un txt
 
 \newpage
 \subsection{Record Linkage}
-Dalla fase di preprocessing si ottengono in output 12 dataset, uno per ogni sito web presente nei file originali. Si deve affrontare dunque il problema di record linkage multiplo, che è stato affrontato con due approcci differenti, al fine di cercare di comprendere quale metodo sia migliore in termini di semplicità d'implementazione o di risultati ottenuti. I due approcci differiscono principalmente per la logica iniziale %%% da scrivere meglio non so come metterla giù
+Dalla fase di preprocessing si ottengono in output 12 dataset, uno per ogni sito web presente nei file originali. Si deve affrontare dunque il problema di record linkage multiplo, che è stato affrontato con due approcci differenti, al fine di cercare di comprendere quale metodo sia migliore in termini di semplicità d'implementazione o di risultati ottenuti. I due approcci differiscono principalmente per la logica iniziale. \\ %%% da scrivere meglio non so come metterla giù
 
-In entrambi i metodi, però, si seguono i passi principali del record linkage, che sono i seguenti:
+\noindent In entrambi i metodi, però, si seguono i passi principali definiti nella libreria python utilizzata, che sono i seguenti:
 \begin{itemize}
 \item \textbf{Indexing} - permette di creare coppie di record, denominate \textit{candidate links}. Nel nostro algoritmo abbiamo implementato tre tecniche di indexing: \\
 - \textit{full}, che crea le coppie effettuando il prodotto cartesiano dei due dataset, motivo per il quale è molto lungo e sconsigliato. \\
 - \textit{blocking}, che permette di creare le coppie basandosi su una o più variabili uguali. \\
 - \textit{sortedneighbourhood}, da usare nel momento in presenza di dataset con un grande numero di errori di spelling nei valori.
-\item \textbf{Comparing} - viene usato per confrontare le coppie di record create nella fase di indexing, sfruttando diversi metodi di similarità. Nel nostro caso abbiamo effettuato un confronto fra stringhe testando alcuni dei vari metodi disponibili (‘jaro’, ‘jarowinkler’, ‘levenshtein’, ‘lcs’) e impostando un valore di soglia (tutti i confronti approssimativi di stringhe più alti o uguali a questa soglia valgono 1) oppure usato un confronto esatto nel momento in cui trattavamo l'attributo \textit{addressGoogle}, che sappiamo essere uniforme.
+\item \textbf{Comparing} - viene usato per confrontare le coppie di record create nella fase di indexing, sfruttando diversi metodi di similarità. Nel nostro caso abbiamo effettuato un confronto fra stringhe testando alcuni dei vari metodi disponibili (‘jaro’, ‘jarowinkler’, ‘levenshtein’, ‘lcs’) e impostando un valore di soglia (tutti i confronti approssimativi di stringhe più alti o uguali a questa soglia valgono 1) oppure usato un confronto esatto nel momento in cui trattavamo l'attributo \textit{addressGoogle}, che sappiamo essere consistente.
 \item \textbf{Classification} - dove le coppie vengono classificate in matches, non-matches e possible matches. In particolare abbiamo deciso di applicare due algoritmi di apprendimento non supervisionato, non essendo in possesso di training data. Gli algoritmi adottati sono: \\
 - \textit{ECM Classifier} o \textit{Expectation/Conditional Maxisation classifier}, un algoritmo probabilistico dove viene trovata iterativamente la massima probabilità (locale) o la massima stima a posteriori (MAP) dei parametri nei modelli statistici. L'iterazione EM si alterna tra l'esecuzione di un passaggio di aspettativa (E), che crea una funzione per l'aspettativa della verosimiglianza, e un passaggio di massimizzazione (M). \\
 - \textit{KMeans Classifier}, algoritmo che suddivide le coppie di record in match e non-match ed ogni vettore di confronto appartiene al cluster con la media più vicina. L'algoritmo è calibrato per due cluster: un cluster di corrispondenza e un cluster di non corrispondenza.
@@ -413,25 +413,32 @@ In entrambi i metodi, però, si seguono i passi principali del record linkage, c
 \end{itemize}
 
 
-\subsubsection{Metodo 1}
+\subsubsection{Metodo 1: Raggruppamenti per attributi simili}
 %immagine
-In questo approccio ci si è ricondotti al problema di record linkage fra due dataset passando dunque dai 12 dataset iniziali a due finali.
+In questo approccio ci si è ricondotti al problema di record linkage fra due dataset passando dunque dai 12 dataset iniziali a due finali. \\
 
-Analizzando i dataset ottenuti siamo riusciti ad individuare delle caratteristiche comuni in grado di distinguerli in due macro gruppi:
-Nei dataset \textit{FoodBuzz, NYMag, NYTimes, OpenTable, SavoryCities} si hanno esclusivamente il nome del ristorante e il quartiere (solo in \textit{FoodBuzz} abbiamo in aggiunta l'indirizzo, che ci permetterà il linkage con l'altro dataset), nei dataset \textit{TimeOut, ActiveDiner, DiningGuide, MenuPages, TasteSpace, VillageVoice}, invece, abbiamo nome del ristorante e indirizzo in tutti i file.
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\linewidth]{img/diagramMethod.png}
+	\caption{\textit{schematizzazione dei raggruppamenti}}
+\end{figure}
+
+
+\noindent Analizzando i dataset ottenuti siamo riusciti ad individuare delle caratteristiche comuni in grado di distinguerli in due macro gruppi:
+Nei dataset \textit{FoodBuzz, NYMag, NYTimes, OpenTable, SavoryCities} si hanno esclusivamente il nome del ristorante e il quartiere (solo in \textit{FoodBuzz} abbiamo in aggiunta l'indirizzo, che ci permetterà il linkage con l'altro dataset), nei dataset \textit{TimeOut, ActiveDiner, DiningGuide, MenuPages, TasteSpace, VillageVoice}, invece, abbiamo nome del ristorante e indirizzo in tutti i file. \\
 
 \noindent Per ogni insieme di dataset, dopo aver uniformato i nomi e l'ordine delle colonne presenti, abbiamo eseguito un append di tutti i dataframe generati importando i file csv. 
-Successivamente sono stati rimossi i duplicati presenti basandoci solo sulle colonne comuni per tutti, ossia \textit{restaurant} e \textit{neighbourhood} nel primo caso e \textit{restaurant} e \textit{addressGoogle} nel secondo.
+Successivamente sono stati rimossi i duplicati presenti basandoci solo sulle colonne comuni per tutti, ossia \textit{restaurant} e \textit{neighbourhood} nel primo caso e \textit{restaurant} e \textit{addressGoogle} nel secondo. \\
 
-\noindent Successivamente viene applicata la \textbf{deduplicazione}, ossia una tecnica usata per eliminare copie duplicate di dati ripetuti. È possibile applicarla sempre attraverso la libreria \textit{Record Linkage Toolkit} in quanto viene vista come un record linkage effettuato tra il database e se stesso. Come tecnica di \textit{indexing} usiamo \textit{sortedneighbourhood} ed effettuiamo la fase di \textit{comparing} sugli attributi comuni nei rispettivi gruppi di dataset.
+\noindent Successivamente viene applicata la \textbf{deduplicazione}, ossia una tecnica usata per eliminare copie duplicate di dati ripetuti. È possibile applicarla sempre attraverso la libreria \textit{Record Linkage Toolkit} in quanto viene vista come un record linkage effettuato tra il database e se stesso. Come tecnica di \textit{indexing} usiamo \textit{sortedneighbourhood} ed effettuiamo la fase di \textit{comparing} sugli attributi comuni nei rispettivi gruppi di dataset. \\
 
-\noindent In questa fase iniziale per classificare i match ci siamo basati esclusivamente sul punteggio di score ottenuto dalla fase di comparing, in modo da poter includere con sicurezza record che differivano solo di poche lettere (ad esempio i ristoranti "Bubba Gump Shrimp Co." e "Bubba Gump Shrimp Company"), scegliendo come valore di soglia dello score 1.75.
+\noindent In questa fase iniziale per classificare i match ci siamo basati esclusivamente sul punteggio di score ottenuto dalla fase di comparing, in modo da poter includere con sicurezza record che differivano solo di poche lettere (ad esempio i ristoranti "Bubba Gump Shrimp Co." e "Bubba Gump Shrimp Company"), scegliendo come valore di soglia dello score 1.75. \\
 
-\noindent Una volta individuati i match sono stati unificati i dati in modo da creare un dataframe contenente le informazioni uniche utili per ogni match trovato. Per ottenere il dataset finale dal primo dataframe ottenuto come l'append dei csv importati sono state rimosse tutte le righe delle coppie presenti nei match e sono state aggiunti i record unificati contenenti le informazioni complete.
+\noindent Una volta individuati i match sono stati unificati i dati in modo da creare un dataframe contenente le informazioni uniche utili per ogni match trovato. Per ottenere il dataset finale dal primo dataframe ottenuto come l'append dei csv importati sono state rimosse tutte le righe delle coppie presenti nei match e sono state aggiunti i record unificati contenenti le informazioni complete. \\
 
 \noindent Da questa fase sono risultati due dataset, rispettivamente di 6468 e di 15093 record, invece dei 58614 record totali derivati dall'unione di tutti i 12 file iniziali.
 
-\subsubsection{Metodo 2}
+\subsubsection{Metodo 2: Classificazione manuale delle coppie di tuple}
 %CIAO FEDE TUTTO TUO 
 
 \subsubsection{True Matches}
@@ -444,19 +451,19 @@ I dati di addestramento non sono generalmente disponibili nelle applicazioni di 
 	\caption{\textit{Interfaccia web per la classificazione manuale}}
 \end{figure}
 
-Nel nostro caso abbiamo confrontato le prime 100 coppie derivate dalla fase di \textit{comparison}, ottenendo X match. Queste informazioni saranno fondamentali per poter valutare l'efficacia degli algoritmi di classificazione usati. 
+\noindent Nel nostro caso abbiamo confrontato le prime 100 coppie derivate dalla fase di \textit{comparison}, ottenendo X match. Queste informazioni saranno fondamentali per poter valutare l'efficacia degli algoritmi di classificazione usati. 
 
-\textbf{Risultati}: 
-I dataset di partenza rappresentano un caso reale, siamo stati posti di fronte a dati inconsistenti, codificati in modi diversi, con attributi differenti e senza informazioni sui dati "veri" da poter usare come confronto per valutare l'efficacia del codice sviluppato, per questo possiamo analizzare in modo principalmente empirico i risultati ottenuti.
+\noindent \textbf{Risultati}: \\
+\noindent I dataset di partenza rappresentano un caso reale, siamo stati posti di fronte a dati inconsistenti, codificati in modi diversi, con attributi differenti e senza informazioni sui dati "veri" da poter usare come confronto per valutare l'efficacia del codice sviluppato, per questo possiamo analizzare in modo principalmente empirico i risultati ottenuti. \\
 
-Grazie all'interfaccia fornita dalla libreria \textit{Record Linkage Toolkit} abbiamo generato un insieme di matches verificati manualmente su un insieme di 100 coppie, grazie ai quali possiamo valutare l'efficacia degli algoritmi di classificazione utilizzati su un sottoinsieme di 100 coppie individuate.
+\noindent Grazie all'interfaccia fornita dalla libreria \textit{Record Linkage Toolkit} abbiamo generato un insieme di matches verificati manualmente su un insieme di 100 coppie, grazie ai quali possiamo valutare l'efficacia degli algoritmi di classificazione utilizzati su un sottoinsieme di 100 coppie individuate. \\
 
-L'accuratezza dell'algoritmo ecm è 0.89 mentre di kmeans è 0.83
-Abbiamo generato le seguenti matrici di confusione:
+\noindent L'accuratezza dell'algoritmo ecm è 0.89 mentre di kmeans è 0.83
+Abbiamo generato le seguenti matrici di confusione: \\
 %come le riportiamo? 
 
-Dopo aver individuato i match il dataset finale è dato dai record linkati (un record per coppia individuata) e i record per i quali non è stato individuato un match.
-Con il primo metodo abbiamo ottenuto X record per il dataset generato dall'algoritmo ECM e X per il dataset generato dall'algoritmo Kmeans.
+\noindent Dopo aver individuato i match il dataset finale è dato dai record linkati (un record per coppia individuata) e i record per i quali non è stato individuato un match.
+Con il primo metodo abbiamo ottenuto X record per il dataset generato dall'algoritmo ECM e X per il dataset generato dall'algoritmo Kmeans. 
 
 
 \newpage
