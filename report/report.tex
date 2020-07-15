@@ -33,28 +33,16 @@
 
 \setcounter{secnumdepth}{0}
 
-% un po' di estetica...
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \setlength{\headsep}{0.35in}
 \let\MakeUppercase\relax
 
-% blocchi di codice
-\usepackage{listings}
-\lstset{
-	breaklines=true, 
-	frame=single, 
-	numbers=left,
-	tabsize=2,
-	basicstyle=\scriptsize,
-	showstringspaces=false
-}
-
 \setlength{\parindent}{2em}
 \setlength{\parskip}{0.5em}
 \renewcommand{\baselinestretch}{1.5}
 
-\fancyhf{} % clear all fields
+\fancyhf{} 
 \fancyfoot[C]{\thepage}
 
 \frenchspacing
@@ -140,7 +128,7 @@ La consapevolezza del peso che dati di alta qualità hanno nel supportare decisi
 La data quality può essere espressa attraverso molteplici dimensioni. Le dimensioni dei dati nel modello relazionale sono:
 
 \begin{itemize}
-\item \textbf{Accurancy}: l'accurancy di un valore v è definita come vicinanza tra v e un valore v' considerato come corretta rappresentazione del fenomeno del mondo reale. Come metrica alfanumerici strutturati la metrica per l'accurancy sintattica è quella di adottare una funzione di distanza, per esempio la edit distance non normalizzata UED(v1, v2) che rappresenta il numero di inserimenti, cancellazioni e sostituzioni di simboli alfanumerici necessari per trasformare v1 in v2. Oppure abbiamo la edit distance normalizzata EDnorm(v1, v2) dove v1 e v2 sono valori nel dominio D, in cui il massimo numero di simboli è n:
+\item \textbf{Accuracy}: l'accuracy di un valore v è definita come vicinanza tra v e un valore v' considerato come corretta rappresentazione del fenomeno del mondo reale. Come metrica alfanumerici strutturati la metrica per l'accurancy sintattica è quella di adottare una funzione di distanza, per esempio la edit distance non normalizzata UED(v1, v2) che rappresenta il numero di inserimenti, cancellazioni e sostituzioni di simboli alfanumerici necessari per trasformare v1 in v2. Oppure abbiamo la edit distance normalizzata EDnorm(v1, v2) dove v1 e v2 sono valori nel dominio D, in cui il massimo numero di simboli è n:
 
 \begin{center}
 	\centering{$ EDnorm(v1, v2) = 1-ED(v1,v2)/n $}
@@ -208,7 +196,7 @@ Nel process-driven l'obiettivo è quello di migliorare la qualità ridisegnando 
 
 \subsubsection{Standardizzazione}
 
-Questo processo, chiamato anche \textit{normalizzazione}, sostituisce per esempio una diversa ortografia di una parola con una sola ortografia. % e basta?
+Questo processo, chiamato anche \textit{normalizzazione}, sostituisce o integra i valori dei dati con i valori corrispondenti conformi allo standard (ad esempio le abbreviazioni vengono sostituite con i nomi completi corrispondenti)
 
 \subsubsection{Comparazione stringhe}
 
@@ -285,14 +273,14 @@ Pandas è una libreria software scritta in linguaggio python che permette la man
 \noindent Questo tool è in grado di pulire, esplorare e elaborare i dati. In Pandas una tabella viene chiamata dataframe, ed è proprio grazie a questo tool che siamo riusciti  creare i due dataframe principali che poi utilizziamo nella fase di record linkage.
 
 \subsubsection{Fuzzy Matcher}
-Fuzzy Matcher è un pacchetto python che permette all'utente di collegare due dataframe pandas basati su uno o più campi in comune. Fuzzymatches usano la ricerca del testo completa sqlite3 per trovare dei match potenziali. Nonostante sia stato a fini del progetto, questo tool non viene utilizzato poichè non aggiungeva nessuna informazione al record linkage fatto.
+Fuzzy Matcher è un pacchetto python che permette all'utente di collegare due dataframe pandas basati su uno o più campi in comune. Fuzzymatches usano la ricerca del testo completa sqlite3 per trovare dei match potenziali. Nonostante sia stato provato, non è stato poi incluso nel progetto poiché questa libreria non permette le stesse possibilità di sperimentazioni possibili con Record Linkage Toolkit, in quanto è più limitato.
 
 \newpage
 \section{Sperimentazione}
 
 \subsection{Dataset}
-% PARLARE QUI DEL GOLDEN STANDARD, CHE NON USIAMO
 Il dataset su cui sono stati effettuati gli esperimenti è un elenco di ristoranti di Manhattan, estratti settimanalmente da Gennaio a Marzo 2009 da 12 siti web. L'unico attributo comune in tutti i dataset è il nome del ristorante, informazioni aggiuntive (come l'indirizzo o il quartiere) non sono presenti in modo uniforme.
+Insieme ai dataset era fornito un golden standard, ossia un elenco di 467 ristoranti rimossi da alcuni siti e il loro stato ("Y" = aperto, "N" = chiuso). Nell'ottica del progetto queste informazioni non sono risultate utili e per questo motivo non sono state sfruttate per analisi aggiuntive.
 
 \subsection{Analisi dei dati}
 I dati sono messi a disposizione in sette file di testo, uno per ogni settimana considerata, ciascuno contenente informazioni appartenenti a tutti i siti web. In totale sono presenti 215555 record, suddivisi come illustrato nella seguente tabella:
@@ -355,7 +343,7 @@ VillageVoice & 2684 \\ \hline
 Una prima analisi mostra come le modalità di recupero dei dati da parte dell'autore abbiano generato dei dataset differenti per schema e per frammentazione verticale, anche sulle stesse fonti. Dunque, prima di applicare le tecniche di record linkage, i dati sono stati standardizzati, eseguendo operazioni di riallineamento dello schema, rimozione dei duplicati ed infine join dei dataset per fonte.\\
 
 \noindent La fase di preprocessing, nella quale sono incluse la pulizia dei dati e la standardizzazione, sono importanti poiché potrebbero aumentare l'accuratezza del record linkage.\\
-In dettaglio le fasi del preprocessing sono state: % mettere esempi più precisi dei problemi trovati
+In dettaglio le fasi del preprocessing sono state: % PER FEDE: mettere esempi più precisi dei problemi trovati
 \begin{enumerate}
 	\item \textbf{Separazione e ragruppamento dei dati per fonte}.\\Ciò ha mostrato le differenze sullo schema, utilizzate nelle fasi successive per migliorare il raggruppamento dei dati.
 	\item \textbf{Separazione dei dati per fonte e data}.\\Utilizzando regex ad hoc per ogni fonte i dati sono stati separati per fonte e data, con drop dei duplicati, standardizzazione dell'encoding del testo (da \textit{windows-1252} a \textit{UTF-8}) e formato csv.
@@ -367,15 +355,15 @@ In dettaglio le fasi del preprocessing sono state: % mettere esempi più precisi
 Nei vari dataset le informazioni riguardanti l'indirizzo non erano riportare in maniera uniforme (es. \textit{Street} in un record e \textit{St.} in un altro), quindi abbiamo deciso di standardizzare questo parametro ricorrendo alle API di Google Maps.
 
 \noindent Come prima cosa abbiammo creato una API key per poter dialogare con le 
-\href{https://console.cloud.google.com/google/maps-apis/overview?project=feisty-nectar-281812&folder=&organizationId=}{API di Google} %mettere colore blu
+\textbf{\href{https://console.cloud.google.com/google/maps-apis/overview?project=feisty-nectar-281812&folder=&organizationId=}{API di Google}}
 
 
 \noindent Consultando la \href{https://developers.google.com/places/web-service/search}{documentazione} abbiamo individuato la funzione 
 Text Search, la quale è molto simile alla funzione di autocompletamento presente su Google Maps e che quindi ci permette di ricavare indirizzo completi partendo da informazioni parziali.
 
-\noindent Pertanto è stato costruito uno script che esegue una GET al seguente \href{https://maps.googleapis.com/maps/api/place/textsearch/json }{indirizzo}, passando come parametro la stringa \textit{address} del record del csv considerato. L'output ottenuto è un json. Possiamo consultare l'esempio presente nella documentazione.
+\noindent Pertanto è stato costruito uno script che esegue una GET al seguente \href{https://maps.googleapis.com/maps/api/place/textsearch/json }{indirizzo}, passando come parametro la stringa \textit{address} del record del csv considerato. L'output ottenuto è un json, come si può osservare nel seguente esempio presente nella documentazione ufficiale.
 
-% la si può prendere direttamente dal sito di google nella funzione textsearch
+% la si può prendere direttamente dal sito di google nella funzione textsearch PER UMBE CHE VUOL DIRE??
 % https://console.cloud.google.com/google/maps-apis/overview?project=feisty-nectar-281812&folder=&organizationId=
 \begin{figure}[H]
 	\centering
@@ -387,10 +375,7 @@ Text Search, la quale è molto simile alla funzione di autocompletamento present
 
 \noindent Nello specifico,  dato che tutti i ristoranti sono a New York, abbiamo splittato la stringa recuperando solo la prima parte (fino alla prima virgola), in quanto l'informazione sulla città è superflua. 
  
-es preso dall'immagine
-140 george st, the rocks Nsw 200m, australia
-
-noi abbiamo preso solo 140 george st
+Considerando l'esempio riportato nell'immagine sopra, da un indirizzo del tipo \textit{140 George St, The Rocks NSW 2000, Australia} manteniamo solo la parte \textit{140 George St}
 
 \noindent In questo modo facendo i confronti il contenuto informativo era maggiore e non degradato da New york, NY , dati che sarebbero stati comuni a tutti.
 
@@ -412,31 +397,9 @@ Nel caso di MenuPages, per esempio, inizialmente i dati erano presenti in un txt
 
 \newpage
 \subsection{Record Linkage}
-Dalla fase di preprocessing abbiamo ottenuto in output 12 dataset, uno per ogni sito web presente nei file originali. Prima di procedere con l'attività di record linkage abbiamo deciso di introdurre una fase preliminare per costruire due dataset principali da poi linkare.
+Dalla fase di preprocessing si ottengono in output 12 dataset, uno per ogni sito web presente nei file originali. Si deve affrontare dunque il problema di record linkage multiplo, che è stato affrontato con due approcci differenti, al fine di cercare di comprendere quale metodo sia migliore in termini di semplicità d'implementazione o di risultati ottenuti. I due approcci differiscono principalmente per la logica iniziale %%% da scrivere meglio non so come metterla giù
 
-\subsubsection{Fase preliminare: costruzione dataset}
-Analizzando i dataset ottenuti siamo riusciti ad individuare delle caratteristiche comuni in grado di distinguerli in due macro gruppi:
-Nei dataset \textit{nomi dei dataset presenti in first df generator} %%%%% 
-si hanno esclusivamente il nome del ristorante e il quartiere (solo in \textit{TimeOut} abbiamo in aggiunta l'indirizzo, che ci permetterà il linkage con l'altro dataset), nei dataset \textit{nomi dei dataset presenti in second df generator} %%%%% 
-, invece, abbiamo nome del ristorante e indirizzo in tutti i file.
-
-\noindent Per ogni insieme di dataset, dopo aver uniformato i nomi e l'ordine delle colonne presenti, abbiamo eseguito un append di tutti i dataframe generati importando i file csv. 
-Successivamente sono stati rimossi i duplicati presenti basandoci solo sulle colonne comuni per tutti, ossia \textit{restaurant} e \textit{neighbourhood} nel primo caso e \textit{restaurant} nel secondo (non è possibile utilizzare l'indirizzo in quanto non sono sempre scritti esattamente allo stesso modo nonostante rappresentino la stessa realtà) %%controllare
-
-\noindent Successivamente viene applicata la \textbf{deduplicazione}, ossia una tecnica usata per eliminare copie duplicate di dati ripetuti. È possibile applicarla attraverso la libreria \textit{Record Linkage Toolkit} in quanto viene vista come un record linkage effettuato tra il database e se stesso. Come tecnica di \textit{indexing} usiamo \textit{sortedneighbourhood} (che illustreremo in dettaglio in seguito) ed effettuiamo la fare di \textit{comparing} sugli attributi comuni nei rispettivi gruppi di dataset.
-
-\noindent In questa fase iniziale per classificare i match ci siamo basati esclusivamente sul punteggio di score ottenuto dalla fase di comparing, in modo da poter includere con sicurezza record che differivano solo di poche lettere (ad esempio i ristoranti "Bubba Gump Shrimp Co." e "Bubba Gump Shrimp Company"), scegliendo come valore di soglia dello score 1.75.
-
-\noindent Una volta individuati i match sono stati unificati i dati in modo da creare un dataframe contenente le informazioni uniche utili per ogni match trovato. Per ottenere il dataset finale dal primo dataframe ottenuto come l'append dei csv importati sono state rimosse tutte le righe delle coppie presenti nei match e sono state aggiunti i record unificati contenenti le informazioni complete.
-
-\noindent Da questa fase sono risultati due dataset, rispettivamente di 7524 e di 13379 record, invece dei 58614 
-record totali derivati dall'unione di tutti i 12 file iniziali.
-
-\subsubsection{Fase principale: record linkage}
-Per la fase di record linkage abbiamo seguito la seguente pipeline: 
-%inserire immagine, farne due
-
-\noindent I passi principali seguiti sono i seguenti:
+In entrambi i metodi, però, si seguono i passi principali del record linkage, che sono i seguenti:
 \begin{itemize}
 \item \textbf{Indexing} - permette di creare coppie di record, denominate \textit{candidate links}. Nel nostro algoritmo abbiamo implementato tre tecniche di indexing: \\
 - \textit{full}, che crea le coppie effettuando il prodotto cartesiano dei due dataset, motivo per il quale è molto lungo e sconsigliato. \\
@@ -449,10 +412,28 @@ Per la fase di record linkage abbiamo seguito la seguente pipeline:
 \item {Evaluation} - permette di verificare la qualità del linkage in termini di accuratezza, recall e F-score. Purtroppo non ci è stato possibile eseguire questa fase in quanto sprovvisti di \textit{veri positivi}.
 \end{itemize}
 
+
+\subsubsection{Metodo 1}
+In questo approccio ci si è ricondotti al problema di record linkag
+Analizzando i dataset ottenuti siamo riusciti ad individuare delle caratteristiche comuni in grado di distinguerli in due macro gruppi:
+Nei dataset \textit{FoodBuzz, NYMag, NYTimes, OpenTable, SavoryCities} si hanno esclusivamente il nome del ristorante e il quartiere (solo in \textit{FoodBuzz} abbiamo in aggiunta l'indirizzo, che ci permetterà il linkage con l'altro dataset), nei dataset \textit{TimeOut, ActiveDiner, DiningGuide, MenuPages, TasteSpace, VillageVoice}, invece, abbiamo nome del ristorante e indirizzo in tutti i file.
+
+\noindent Per ogni insieme di dataset, dopo aver uniformato i nomi e l'ordine delle colonne presenti, abbiamo eseguito un append di tutti i dataframe generati importando i file csv. 
+Successivamente sono stati rimossi i duplicati presenti basandoci solo sulle colonne comuni per tutti, ossia \textit{restaurant} e \textit{neighbourhood} nel primo caso e \textit{restaurant} e \textit{addressGoogle} nel secondo.
+
+\noindent Successivamente viene applicata la \textbf{deduplicazione}, ossia una tecnica usata per eliminare copie duplicate di dati ripetuti. È possibile applicarla attraverso la libreria \textit{Record Linkage Toolkit} in quanto viene vista come un record linkage effettuato tra il database e se stesso. Come tecnica di \textit{indexing} usiamo \textit{sortedneighbourhood} (che illustreremo in dettaglio in seguito) ed effettuiamo la fare di \textit{comparing} sugli attributi comuni nei rispettivi gruppi di dataset.
+
+\noindent In questa fase iniziale per classificare i match ci siamo basati esclusivamente sul punteggio di score ottenuto dalla fase di comparing, in modo da poter includere con sicurezza record che differivano solo di poche lettere (ad esempio i ristoranti "Bubba Gump Shrimp Co." e "Bubba Gump Shrimp Company"), scegliendo come valore di soglia dello score 1.75.
+
+\noindent Una volta individuati i match sono stati unificati i dati in modo da creare un dataframe contenente le informazioni uniche utili per ogni match trovato. Per ottenere il dataset finale dal primo dataframe ottenuto come l'append dei csv importati sono state rimosse tutte le righe delle coppie presenti nei match e sono state aggiunti i record unificati contenenti le informazioni complete.
+
+\noindent Da questa fase sono risultati due dataset, rispettivamente di 7524 e di 13379 record, invece dei 58614 
+record totali derivati dall'unione di tutti i 12 file iniziali.
+
 \subsubsection{PIPPO}
 I dati di addestramento non sono generalmente disponibili nelle applicazioni di record linkage perché sono set di dati specifici del campione, infatti nel nostro caso non sono forniti dei true matches. \\
 
-\noindent Python Record Linkage Toolkit fornisce un'interfaccia utente basata su browser per la classificazione manuale delle coppie di record. Il software RecordLinkage Annotator utilizza un file di annotazione strutturato, che si può creare attraverso la funzione \href{https://recordlinkage.readthedocs.io/en/latest/annotation.html}{recordlinkage.write_annotation_file().} %da errore qui, non capisco
+\noindent Python Record Linkage Toolkit fornisce un'interfaccia utente basata su browser per la classificazione manuale delle coppie di record. Il software RecordLinkage Annotator utilizza un file di annotazione strutturato, che si può creare attraverso la funzione \href{https://recordlinkage.readthedocs.io/en/latest/annotation.html}{recordlinkage.write\_annotation\_file()}
 Questa funzione può essere anche usata sia per il linkaggio che per la deduplicazione.\\
 Nel nostro caso abbiamo confrontato 50 coppie provenienti dai due datafreame creati. \\
 Mostriamo ora l'interfaccia utilizzata per compiere le scelte:

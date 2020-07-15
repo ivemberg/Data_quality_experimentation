@@ -130,7 +130,7 @@ def secondDFgenerator():
 
     df = to.append([ad,dg,mp,ts,vv])
     
-    df.drop_duplicates(subset =["restaurant"], keep = "first", inplace = True) 
+    df.drop_duplicates(subset =["restaurant", "addressGoogle"], keep = "first", inplace = True) 
 
     lenght = df.shape[0] 
     new_index = []

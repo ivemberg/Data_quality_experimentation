@@ -23,7 +23,7 @@ def linkDB(df1, df2, type, classifier):
 
 	candidate_links = indexer.index(df1, df2)
 
-	test_pairs = candidate_links[0:50]
+	test_pairs = candidate_links[0:100]
 	
 	#https://recordlinkage.readthedocs.io/en/latest/annotation.html
 
@@ -32,7 +32,7 @@ def linkDB(df1, df2, type, classifier):
 	df2.columns = df2.columns.str.replace(r'1_', '')
 	
 	recordlinkage.write_annotation_file(
-		"PIPPO.json", candidate_links[0:50], df1, df2, dataset_a_name="firstDF", dataset_b_name="secondDF")
+		"check_matches.json", candidate_links[0:100], df1, df2, dataset_a_name="firstDF", dataset_b_name="secondDF")
 	
 	df1 = df1.add_prefix('0_')
 	df2 = df2.add_prefix('1_')
@@ -89,9 +89,9 @@ def linkDB(df1, df2, type, classifier):
 	matches_result = pd.DataFrame(matches)
 	matches_result.columns = head
 	
-	df1.drop(drop1, inplace = True, axis = 0)
-	df2.drop(drop2, inplace = True, axis = 0)
-	result = df1.append([df2, matches_result])
+	df1t = df1.drop(drop1, axis = 0)
+	df2t = df2.drop(drop2, axis = 0)
+	result = df1t.append([df2t, matches_result])
 	
 	new_index = []
 
@@ -112,7 +112,7 @@ def linkDB(df1, df2, type, classifier):
 		acc = recordlinkage.accuracy(annotations.links, test_matches, total = 50)
 	
 	print(cm, acc)
-
+	
 	return result
 
 def main():
