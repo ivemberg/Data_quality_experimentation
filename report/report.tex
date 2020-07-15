@@ -19,6 +19,11 @@
 \usepackage{booktabs}
 \usepackage[table,xcdraw]{xcolor}
 
+\hypersetup{
+    colorlinks,
+    urlcolor=blue
+}
+
 \makeatletter
 \patchcmd\l@section{%
   \nobreak\hfil\nobreak
@@ -206,14 +211,14 @@ Gli errori tipografici rendono impossibile confrontare esattamente tra di loro l
 
 \newpage
 \subsection{Record Linkage}
-Il record linkage (conosciuto anche come data matching) è l'operazione che consiste nel trovare "records" che si riferiscono alla stessa entità, in dataset presi da differenti risorse (come ad esempio file, libri, siti e database). \\
+Il record linkage (conosciuto anche come data matching) è l'operazione che consiste nel trovare "records" che si riferiscono alla stessa entità in dataset presi da differenti risorse (come ad esempio file, libri, siti e database). \\
 \noindent Questa operazione diventa necessaria quando vogliamo unire dei dataset differenti basati su dati simili che potrebbero avere o non avere lo stesso identificativo. \\
 
 \noindent L'idea moderna di record linkage nasce alla fine degli anni cinquanta e viene formalizzata qualche tempo dopo da Ivan Fellegi e Alan Sunter \cite{fellegi69} che, attraverso il loro lavoro, hanno dimostrato che le regole di decisione probabilistiche sono ottimali quando i dati che vengono confrontati sono condizionatamente indipendenti. \\
 \noindent A partire dalla fine degli anni novanta, differenti tecniche di machine learning sono state sviluppate per poter capire, con condizioni favorevoli, la probabilità condizionata richiesta dalla teoria Fellegi-Sunter. \\
 \noindent Il record linkage può essere interamente eseguito senza l'aiuto di un computer, ma il motivo principale per cui esso viene utilizzato è perchè si vuole ridurre o eliminare le modifiche "fatte a mano" e per rendere più facile l'ottenimento del risultato. \\
 \newpage
-\noindent Il record linkage si divide generalmente nei seguenti step:
+\noindent Il processo di record linkage si divide generalmente nei seguenti step:
 \begin{enumerate}
 \item vengono dati in input dei dataset;
 \item viene definito uno spazio iniziale di ricerca;
@@ -247,7 +252,6 @@ Di seguito riportiamo i tools e le principali librerie utilizzate in questa anal
 Python Record Linkage Toolkit è una libreria che permette di effettuare record linkage sia in una sola fonte di dati che in molteplici. Il toolkit fornisce la maggior parte degli strumenti necessari per il collegamento e la deduplicazione dei record.
 Il package contiene metodi di indexing, come blocking e sorted neighborhood indexing, funzioni per il confronto con diverse misure di similarità possibili e diversi algoritmi di classificazione, sia supervisionati che non. 
 Uno degli obiettivi principale è proprio creare un framework estendibile per il collegamento dei record, per fare questo il tool è in grado di:
-\newpage
 \begin{itemize}
 \item pulire e standardizzare i dati
 \item creare coppie di record con metodi di indicizzazione intelligente
@@ -290,7 +294,6 @@ restaurants\_2009\_3\_12.txt & 30937 \\ \hline
 \end{table}
 
 \noindent In particolare, per ogni ristorante è presente il seguente numero di record:
-
 \begin{table}[H]\centering
 \begin{tabular}{|c|c|}
 \hline
@@ -316,7 +319,7 @@ VillageVoice & 2684 \\ \hline
 \item \textbf{ActiveDiner}: nome ristorante, indirizzo, paese
 \item \textbf{DiningGuide}: nome ristorante, indirizzo
 \item \textbf{FoodBuzz}: nome ristorante, indirizzo, paese, codice paese, quartiere, tipo, costo
-\item \textbf{MenuPages}:nome ristorante, indirizzo1, indirizzo2
+\item \textbf{MenuPages}: nome ristorante, indirizzo1, indirizzo2
 \item \textbf{NewYork}: nome ristorante
 \item \textbf{NYMag}: nome ristorante, quartiere
 \item \textbf{NYTimes}: nome ristorante, quartiere
@@ -331,9 +334,8 @@ VillageVoice & 2684 \\ \hline
 
 \subsection{Data preprocessing} 
 Una prima analisi mostra come le modalità di recupero dei dati da parte dell'autore abbiano generato dei dataset differenti per schema e per frammentazione verticale, anche sulle stesse fonti. Dunque, prima di applicare le tecniche di record linkage, i dati sono stati standardizzati, eseguendo operazioni di riallineamento dello schema, rimozione dei duplicati ed infine join dei dataset per fonte.\\
-
 \noindent La fase di preprocessing, nella quale sono incluse la pulizia dei dati e la standardizzazione, sono importanti poiché potrebbero aumentare l'accuratezza del record linkage.\\
-In dettaglio le fasi del preprocessing sono state: % PER FEDE: mettere esempi più precisi dei problemi trovati
+In dettaglio le fasi del preprocessing sono state: 
 \begin{enumerate}
 	\item \textbf{Separazione e raggruppamento dei dati per fonte}.\\Ciò ha mostrato le differenze sullo schema, utilizzate nelle fasi successive per migliorare il raggruppamento dei dati.
 	\item \textbf{Separazione dei dati per fonte e data}.\\Utilizzando regex ad hoc per ogni fonte i dati sono stati separati per fonte e data, con drop dei duplicati, standardizzazione dell'encoding del testo (da \textit{windows-1252} a \textit{UTF-8}) e formato csv.
@@ -345,7 +347,7 @@ In dettaglio le fasi del preprocessing sono state: % PER FEDE: mettere esempi pi
 Nei vari dataset le informazioni riguardanti l'indirizzo non erano riportare in maniera uniforme (es. \textit{Street} in un record e \textit{St.} in un altro), quindi abbiamo deciso di standardizzare questo parametro ricorrendo alle API di Google Maps.
 
 \noindent Come prima cosa abbiamo creato una API key per poter dialogare con le 
-\textbf{\href{https://console.cloud.google.com/google/maps-apis/overview?project=feisty-nectar-281812&folder=&organizationId=}{API di Google}}.
+\href{https://console.cloud.google.com/google/maps-apis/overview?project=feisty-nectar-281812&folder=&organizationId=}{API di Google}.
 
 
 \noindent Dalla \href{https://developers.google.com/places/web-service/search}{documentazione} individuiamo \textit{Text Search}, molto simile alla funzione di autocompletamento presente su Google Maps. Dunque ci permette di ricavare indirizzo completi partendo da informazioni parziali.
@@ -360,7 +362,7 @@ Nei vari dataset le informazioni riguardanti l'indirizzo non erano riportare in 
 	\caption{\textit{Dati dopo il preprocessing di MenuPages}}
 \end{figure}
 
-\noindent Il campo da noi considerato è formatted\_address. In caso di indirizzo scritto male o con contenuto informativo ambiguo venivano restituiti più formatted\_address, pertanto si è deciso che se il numero di risultati ottenuto era maggiore di 5 allora non si è applicata tale trasformazione, poiché probabilmente non porterebbe reali benefici. Negli altri casi si è preso solo il primo risultato. 
+\noindent Il campo da noi considerato è formatted\_address. In caso di indirizzo scritto male o con contenuto informativo ambiguo venivano restituiti più formatted\_address, pertanto si è deciso che se il numero di risultati ottenuto era maggiore di 5 allora non si applicava tale trasformazione, poiché probabilmente non porterebbe reali benefici. Negli altri casi si è preso solo il primo risultato. 
 
 \noindent Nello specifico,  dato che tutti i ristoranti sono a New York, abbiamo splittato la stringa recuperando solo la prima parte (fino alla prima virgola), in quanto l'informazione sulla città è superflua. 
  
@@ -386,7 +388,7 @@ Nel caso di MenuPages, per esempio, inizialmente i dati erano presenti in un txt
 
 \newpage
 \subsection{Flusso di lavoro per l'Object Identification}
-Dalla fase di preprocessing si ottengono in output 12 dataset, uno per ogni sito web presente nei file originali. Si deve affrontare dunque il problema di record linkage multiplo, approcciato in due modi differenti, al fine di cercare di comprendere quale metodo sia migliore in termini di semplicità d'implementazione o di risultati ottenuti. I due approcci differiscono principalmente per come è stato risolto il \textbf{problema della molteplicità del linkaggio}, tema poco trattato in letteratura e che manca di uno stato dell'arte ben definito. \\
+Dalla fase di preprocessing si ottengono in output 12 dataset, uno per ogni sito web presente nei file originali. Si deve affrontare dunque il problema di record linkage multiplo, adottiamo due metodologie differenti al fine di cercare di comprendere quale sia la migliore in termini di semplicità d'implementazione o di risultati ottenuti. I due approcci differiscono principalmente per come è stato risolto il \textbf{problema della molteplicità del linkaggio}, tema poco trattato in letteratura e che manca di uno stato dell'arte ben definito. \\
 
 \noindent In entrambi i metodi, però, si seguono i passi principali definiti nella libreria python utilizzata, che sono i seguenti:
 \begin{itemize}
@@ -397,33 +399,29 @@ Dalla fase di preprocessing si ottengono in output 12 dataset, uno per ogni sito
 	\item[$-$] \textit{sortedneighbourhood}, da usare nel momento in presenza di dataset con un grande numero di errori di spelling nei valori.
 \end{itemize}
 \item \textbf{Comparing} - viene usato per confrontare le coppie di record create nella fase di indexing, sfruttando diversi metodi di similarità. Nel nostro caso abbiamo effettuato un confronto fra stringhe testando alcuni dei vari metodi disponibili (‘jaro’, ‘jarowinkler’, ‘levenshtein’, ‘lcs’) e impostando un valore di soglia (tutti i confronti approssimativi di stringhe più alti o uguali a questa soglia valgono 1) oppure usato un confronto esatto nel momento in cui trattavamo l'attributo \textit{addressGoogle}, che sappiamo essere consistente.
-\item \textbf{Classification} - dove le coppie vengono classificate in matches, non-matches e possible matches. In particolare abbiamo deciso di applicare due algoritmi di apprendimento non supervisionato, non essendo in possesso di training data. Gli algoritmi adottati sono: \\
+\item \textbf{Classification} - dove le coppie vengono classificate in matches, non-matches e possible matches. In particolare abbiamo deciso di applicare due algoritmi di apprendimento non supervisionato, non essendo in possesso di training data. Gli algoritmi adottati sono:
 \begin{itemize}
 	\item[$-$] \textit{ECM Classifier} o \textit{Expectation/Conditional Maxisation classifier}, un algoritmo probabilistico dove viene trovata iterativamente la massima probabilità (locale) o la massima stima a posteriori (MAP) dei parametri nei modelli statistici. L'iterazione EM si alterna tra l'esecuzione di un passaggio di aspettativa (E), che crea una funzione per l'aspettativa della verosimiglianza, e un passaggio di massimizzazione (M).
 	\item[$-$] \textit{KMeans Classifier}, algoritmo che suddivide le coppie di record in match e non-match ed ogni vettore di confronto appartiene al cluster con la media più vicina. L'algoritmo è calibrato per due cluster: un cluster di corrispondenza e un cluster di non corrispondenza.
 \end{itemize}
-\item \textbf{Evaluation} - permette di verificare la qualità del linkage in termini di accuratezza, recall e F-score. Purtroppo non ci è stato possibile eseguire questa fase in quanto sprovvisti di \textit{veri positivi}.
+\item \textbf{Evaluation} - permette di verificare la qualità del linkage in termini di accuratezza, recall e F-score o costruendo la matrice di confusione. Nel nostro progetto è stato possibile eseguire questa fase solo in una delle due metodologie adottate.
 \end{itemize}
 
 
 \subsubsection{Metodo 1: Raggruppamenti per attributi simili}
-%immagine
-In questo approccio ci si è ricondotti al problema di record linkage fra due dataset passando dunque dai 12 dataset iniziali a due finali. \\
+In questo approccio ci si è ricondotti al problema di record linkage fra due dataset passando dunque dai 12 dataset iniziali a due finali.\\
 
+\noindent Analizzando i dataset ottenuti si individuano delle caratteristiche comuni che ne permettono il raggruppamento in due macro gruppi.
+Nei dataset \textit{FoodBuzz, NYMag, NYTimes, OpenTable, SavoryCities} si hanno esclusivamente il nome del ristorante e il quartiere (solo in \textit{FoodBuzz} abbiamo in aggiunta l'indirizzo, che ci permetterà il linkage con l'altro dataset), nei dataset \textit{TimeOut, ActiveDiner, DiningGuide, MenuPages, TasteSpace, VillageVoice}, invece, abbiamo nome del ristorante e indirizzo in tutti i file. \\
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=0.9\linewidth]{img/diagramMethod.png}
 	\caption{\textit{schematizzazione dei raggruppamenti}}
 \end{figure}
-
-
-\noindent Analizzando i dataset ottenuti si individuano delle caratteristiche comuni che ne permettono il raggruppamento in due macro gruppi.
-Nei dataset \textit{FoodBuzz, NYMag, NYTimes, OpenTable, SavoryCities} si hanno esclusivamente il nome del ristorante e il quartiere (solo in \textit{FoodBuzz} abbiamo in aggiunta l'indirizzo, che ci permetterà il linkage con l'altro dataset), nei dataset \textit{TimeOut, ActiveDiner, DiningGuide, MenuPages, TasteSpace, VillageVoice}, invece, abbiamo nome del ristorante e indirizzo in tutti i file. \\
-
 \noindent Per ogni insieme di dataset, dopo aver uniformato i nomi e l'ordine delle colonne presenti, abbiamo eseguito un append di tutti i dataframe generati importando i file csv. 
 Successivamente sono stati rimossi i duplicati presenti basandoci solo sulle colonne comuni per tutti, ossia \textit{restaurant} e \textit{neighbourhood} nel primo caso e \textit{restaurant} e \textit{addressGoogle} nel secondo. \\
 
-\noindent Successivamente viene applicata la \textbf{deduplicazione}, ossia una tecnica usata per eliminare copie duplicate di dati ripetuti. È possibile applicarla sempre attraverso la libreria \textit{Record Linkage Toolkit} in quanto viene vista come un record linkage effettuato tra il database e se stesso. Come tecnica di \textit{indexing} usiamo \textit{sortedneighbourhood} ed effettuiamo la fase di \textit{comparing} sugli attributi comuni nei rispettivi gruppi di dataset. \\
+\noindent Successivamente viene applicata la \textbf{deduplicazione}, ossia una tecnica usata per eliminare copie duplicate di dati. È possibile applicarla sempre attraverso la libreria \textit{Record Linkage Toolkit} in quanto viene vista come un record linkage effettuato tra il database e se stesso. Come tecnica di \textit{indexing} usiamo \textit{sortedneighbourhood} ed effettuiamo la fase di \textit{comparing} sugli attributi comuni nei rispettivi gruppi di dataset. \\
 
 \noindent In questa fase iniziale per classificare i match ci siamo basati esclusivamente sul punteggio di score ottenuto dalla fase di comparing, in modo da poter includere con sicurezza record che differivano solo di poche lettere (ad esempio i ristoranti "Bubba Gump Shrimp Co." e "Bubba Gump Shrimp Company"), scegliendo come valore di soglia dello score 1.75. \\
 
@@ -441,12 +439,13 @@ I dati di addestramento non sono generalmente disponibili nelle applicazioni di 
 	\caption{\textit{Interfaccia web per la classificazione manuale}}
 \end{figure}
 
-\noindent Nel nostro caso abbiamo confrontato le prime 100 coppie derivate dalla fase di \textit{comparison}, ottenendo X match. Queste informazioni saranno fondamentali per poter valutare l'efficacia degli algoritmi di classificazione usati. \\
+\noindent Nel nostro caso abbiamo confrontato le prime 100 coppie derivate dalla fase di \textit{comparison}, ottenendo 32 match. Queste informazioni saranno fondamentali per poter valutare l'efficacia degli algoritmi di classificazione usati. \\
 
-\noindent \textbf{Risultati}: \\
+
+\subsubsection*{Risultati}
 \noindent I dataset di partenza rappresentano un caso reale, siamo stati posti di fronte a dati inconsistenti, codificati in modi diversi, con attributi differenti e senza informazioni sui dati "veri" da poter usare come confronto per valutare l'efficacia del codice sviluppato, per questo possiamo analizzare in modo principalmente empirico i risultati ottenuti. \\
 
-\noindent Grazie all'interfaccia fornita dalla libreria \textit{Record Linkage Toolkit} abbiamo generato un insieme di matches verificati manualmente su un insieme di 100 coppie, grazie ai quali possiamo valutare l'efficacia degli algoritmi di classificazione utilizzati su un sottoinsieme di 100 coppie individuate. \\
+\noindent Grazie all'interfaccia fornita dalla libreria \textit{Record Linkage Toolkit} abbiamo generato un insieme di matches verificati manualmente su un insieme di 100 coppie, grazie ai quali possiamo valutare l'efficacia degli algoritmi di classificazione dopo aver eseguito il training e le predizioni sulle medesime 100 coppie. \\
 
 \noindent Con la matrice di confusione vogliamo calcolare l'accuratezza statistica della predizione dei dati che esegue la nostra macchina. Questo calcolo sarà effettuato sui modelli di machine learning che abbiamo scelto. 
 
@@ -482,11 +481,11 @@ I dati di addestramento non sono generalmente disponibili nelle applicazioni di 
 \end{figure}
 
 \noindent Dopo aver individuato i match il dataset finale è dato dai record linkati (un record per coppia individuata) e i record per i quali non è stato individuato un match.
-Con il primo metodo abbiamo ottenuto X record per il dataset generato dall'algoritmo ECM e X per il dataset generato dall'algoritmo Kmeans. 
+Con il primo metodo abbiamo ottenuto 16708 record per il dataset generato dall'algoritmo ECM e 17073 per il dataset generato dall'algoritmo Kmeans. 
 \newpage
 \subsubsection{Metodo 2: Record linkage multiplo}
 Appurato il funzionamento e l'efficacia degli algoritmi ECM e K-Means è stato studiato un'approccio più dinamico e flessibile, al fine di evitare il processo manuale di categorizzazione della fase 1 e per parametrizzare, dunque rendere facile da impostare, l'ottimizzazione di ogni comparatore.\\
-Nella seguente sezione duqnue verrà presentato il funzionamento di tale approccio, correlato di un esempio di applicazione sui dataset analizzati.\\\\
+Nella seguente sezione dunque verrà presentato il funzionamento di tale approccio, correlato di un esempio di applicazione sui dataset analizzati.\\\\
 Supponiamo di voler linkare \textit{N} database, ottenendo come output un singolo dataset contenente quanta più informazione possibile dai database originali.\\
 Il processo di linkage multiplo esegue i seguenti passaggi:
 
