@@ -19,11 +19,6 @@
 \usepackage{booktabs}
 \usepackage[table,xcdraw]{xcolor}
 
-\hypersetup{
-    colorlinks,
-    urlcolor=blue
-}
-
 \makeatletter
 \patchcmd\l@section{%
   \nobreak\hfil\nobreak
@@ -505,7 +500,13 @@ Alla fine di ogni iterazione nel dataset \textit{i} sono presenti record rappres
 \begin{enumerate}[resume]
 	\item Concatenare ogni dataset $\in$ \textit{Analizzare},
 \end{enumerate}
-producendo in output il dataset cercato.
+producendo in output il dataset cercato.\\
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\linewidth]{img/Method2Flowchart.png}
+	\caption{\textit{Diagramma flowchart del processo di linkage multiplo.}}
+\end{figure}
+\newpage
 \subsubsection*{Applicazione}
 Per semplificare la gestione del metodo, in particolare la fase di integrazione delle informazioni (3.b), si è scelto di eseguire un'ulteriore fase di preprocessing dei dati. Tale fase prevede:
 \begin{itemize}
