@@ -444,7 +444,7 @@ I dati di addestramento non sono generalmente disponibili nelle applicazioni di 
 
 \noindent Con la matrice di confusione vogliamo calcolare l'accuratezza statistica della predizione dei dati che esegue la nostra macchina. Questo calcolo sarà effettuato sui modelli di machine learning che abbiamo scelto. 
 
-\noindent L'algoritmo ECM ha ottenuto dei piccoli punti percentuali maggiori di accuratezza rispetto al KMeans, vediamo di seguito la sua matrice di confusione ottenuta dalla presizione sui dati di test:
+\noindent L'algoritmo ECM ha ottenuto dei piccoli punti percentuali maggiori di accuratezza rispetto al KMeans, vediamo di seguito la sua matrice di confusione ottenuta dalla presidione sui dati di test:
 
 \begin{figure}[H]
 	\centering
@@ -467,7 +467,7 @@ I dati di addestramento non sono generalmente disponibili nelle applicazioni di 
 	\caption{\textit{matrice di confusione con KMeans}}
 \end{figure}
 
-\noindent In questo caso il livello di accuratezza è inferiore, infatti è del 83\%. Vengono predetti correttamente 15 casi su 32 per le predizioni positive e 68 casi su 68 per le predizioni negative. Seppure il risultato per le predizioni negative è perfetto, il classificatore KMean perde in accurancy rispetto a ECM perché sbaglia a predire i casi positivi. 
+\noindent In questo caso il livello di accuratezza è inferiore, infatti è del 83\%. Vengono predetti correttamente 15 casi su 32 per le predizioni positive e 68 casi su 68 per le predizioni negative. Seppure il risultato per le predizioni negative è perfetto, il classificatore KMeans perde in accurancy rispetto a ECM perché sbaglia a predire i casi positivi. 
 
 \begin{figure}[H]
 	\centering
@@ -476,7 +476,7 @@ I dati di addestramento non sono generalmente disponibili nelle applicazioni di 
 \end{figure}
 
 \noindent Dopo aver individuato i match il dataset finale è dato dai record linkati (un record per coppia individuata) e i record per i quali non è stato individuato un match.
-Con il primo metodo abbiamo ottenuto 16708 record per il dataset generato dall'algoritmo ECM e 17073 per il dataset generato dall'algoritmo Kmeans. 
+Con il primo metodo abbiamo ottenuto 16708 record per il dataset generato dall'algoritmo ECM e 17073 per il dataset generato dall'algoritmo KMeans. 
 \newpage
 \subsubsection{Metodo 2: Record linkage multiplo}
 Appurato il funzionamento e l'efficacia degli algoritmi ECM e K-Means è stato studiato un'approccio più dinamico e flessibile, al fine di evitare il processo manuale di categorizzazione della fase 1 e per parametrizzare, dunque rendere facile da impostare, l'ottimizzazione di ogni comparatore.\\
